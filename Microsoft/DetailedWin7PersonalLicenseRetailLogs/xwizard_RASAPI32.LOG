@@ -1,0 +1,2036 @@
+
+[7536] 05-06 01:37:41:166: RasValidateEntryNameW
+[7536] 05-06 01:37:42:243: GetPbkAndEntryName
+[7536] 05-06 01:37:42:245: ReadPhonebookFileEx: called for pbk (null), flags 1160
+[7536] 05-06 01:37:42:423: GetUserPreferences(m=0)
+[7536] 05-06 01:37:43:076: RegOpenKeyEx=2
+[7536] 05-06 01:37:43:076: GetUserPreferences=0
+[7536] 05-06 01:37:43:076: User is an admin or power user. (or no user context yet)
+[7536] 05-06 01:37:43:076: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:076: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:077:  IsVirtualizationNeeded: return value = 1
+
+[7536] 05-06 01:37:43:077: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[7536] 05-06 01:37:43:077: ReadRasFile: ReadEntryList returned 0
+[7536] 05-06 01:37:43:077: SyncMasterPhonebookFile:++
+[7536] 05-06 01:37:43:077: IsPublicPhonebook=1
+[7536] 05-06 01:37:43:077: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:077: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:077: FindFirstFile failed with 0x2
+[7536] 05-06 01:37:43:077: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7536] 05-06 01:37:43:077: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[7536] 05-06 01:37:43:077: WritePhonebookFile
+[7536] 05-06 01:37:43:077: ModifyEntryList: Number of connections written 0
+[7536] 05-06 01:37:43:077: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:37:43:077: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[7536] 05-06 01:37:43:077: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:37:43:077: ReadPhonebookFile returns 0
+[7536] 05-06 01:37:43:078: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1160
+[7536] 05-06 01:37:43:078: IsPublicPhonebook=0
+[7536] 05-06 01:37:43:078: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:078: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:078:  IsVirtualizationNeeded: return value = 0
+
+[7536] 05-06 01:37:43:078: FindFirstFile failed with 0x2
+[7536] 05-06 01:37:43:078: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7536] 05-06 01:37:43:078: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[7536] 05-06 01:37:43:078: ReadPhonebookFile returns 0
+[7536] 05-06 01:37:43:078: DwReadEntryFromSystem for rasphone.pbk failed with 623
+[7536] 05-06 01:37:43:079: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1160
+[7536] 05-06 01:37:43:079: IsPublicPhonebook=1
+[7536] 05-06 01:37:43:079: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:079: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:079:  IsVirtualizationNeeded: return value = 1
+
+[7536] 05-06 01:37:43:079: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[7536] 05-06 01:37:43:079: ReadRasFile: ReadEntryList returned 0
+[7536] 05-06 01:37:43:079: SyncMasterPhonebookFile:++
+[7536] 05-06 01:37:43:079: IsPublicPhonebook=1
+[7536] 05-06 01:37:43:079: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:079: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:37:43:079: FindFirstFile failed with 0x2
+[7536] 05-06 01:37:43:079: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7536] 05-06 01:37:43:079: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[7536] 05-06 01:37:43:079: WritePhonebookFile
+[7536] 05-06 01:37:43:079: ModifyEntryList: Number of connections written 0
+[7536] 05-06 01:37:43:079: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:37:43:079: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[7536] 05-06 01:37:43:079: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:37:43:079: ReadPhonebookFile returns 0
+[7536] 05-06 01:37:43:079: GetPbkAndEntryName. rc=0x26f
+[7536] 05-06 01:40:19:171: RasValidateEntryNameW
+[7536] 05-06 01:40:19:171: GetPbkAndEntryName
+[7536] 05-06 01:40:19:171: ReadPhonebookFileEx: called for pbk (null), flags 1160
+[7536] 05-06 01:40:19:171: GetUserPreferences(m=0)
+[7536] 05-06 01:40:19:171: RegOpenKeyEx=2
+[7536] 05-06 01:40:19:171: GetUserPreferences=0
+[7536] 05-06 01:40:19:171: User is an admin or power user. (or no user context yet)
+[7536] 05-06 01:40:19:181: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181:  IsVirtualizationNeeded: return value = 1
+
+[7536] 05-06 01:40:19:181: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[7536] 05-06 01:40:19:181: ReadRasFile: ReadEntryList returned 0
+[7536] 05-06 01:40:19:181: SyncMasterPhonebookFile:++
+[7536] 05-06 01:40:19:181: IsPublicPhonebook=1
+[7536] 05-06 01:40:19:181: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: FindFirstFile failed with 0x2
+[7536] 05-06 01:40:19:181: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7536] 05-06 01:40:19:181: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[7536] 05-06 01:40:19:181: WritePhonebookFile
+[7536] 05-06 01:40:19:181: ModifyEntryList: Number of connections written 0
+[7536] 05-06 01:40:19:181: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:40:19:181: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[7536] 05-06 01:40:19:181: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:40:19:181: ReadPhonebookFile returns 0
+[7536] 05-06 01:40:19:181: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1160
+[7536] 05-06 01:40:19:181: IsPublicPhonebook=0
+[7536] 05-06 01:40:19:181: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181:  IsVirtualizationNeeded: return value = 0
+
+[7536] 05-06 01:40:19:181: FindFirstFile failed with 0x2
+[7536] 05-06 01:40:19:181: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7536] 05-06 01:40:19:181: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[7536] 05-06 01:40:19:181: ReadPhonebookFile returns 0
+[7536] 05-06 01:40:19:181: DwReadEntryFromSystem for rasphone.pbk failed with 623
+[7536] 05-06 01:40:19:181: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1160
+[7536] 05-06 01:40:19:181: IsPublicPhonebook=1
+[7536] 05-06 01:40:19:181: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181:  IsVirtualizationNeeded: return value = 1
+
+[7536] 05-06 01:40:19:181: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[7536] 05-06 01:40:19:181: ReadRasFile: ReadEntryList returned 0
+[7536] 05-06 01:40:19:181: SyncMasterPhonebookFile:++
+[7536] 05-06 01:40:19:181: IsPublicPhonebook=1
+[7536] 05-06 01:40:19:181: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7536] 05-06 01:40:19:181: FindFirstFile failed with 0x2
+[7536] 05-06 01:40:19:181: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7536] 05-06 01:40:19:181: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[7536] 05-06 01:40:19:181: WritePhonebookFile
+[7536] 05-06 01:40:19:181: ModifyEntryList: Number of connections written 0
+[7536] 05-06 01:40:19:181: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:40:19:181: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[7536] 05-06 01:40:19:181: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[7536] 05-06 01:40:19:181: ReadPhonebookFile returns 0
+[7536] 05-06 01:40:19:181: GetPbkAndEntryName. rc=0x26f
+[5184] 05-06 01:40:44:015: RasValidateEntryNameW
+[5184] 05-06 01:40:44:015: GetPbkAndEntryName
+[5184] 05-06 01:40:44:015: ReadPhonebookFileEx: called for pbk (null), flags 1160
+[5184] 05-06 01:40:44:015: GetUserPreferences(m=0)
+[5184] 05-06 01:40:44:015: RegOpenKeyEx=2
+[5184] 05-06 01:40:44:015: GetUserPreferences=0
+[5184] 05-06 01:40:44:015: User is an admin or power user. (or no user context yet)
+[5184] 05-06 01:40:44:015: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015:  IsVirtualizationNeeded: return value = 1
+
+[5184] 05-06 01:40:44:015: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[5184] 05-06 01:40:44:015: ReadRasFile: ReadEntryList returned 0
+[5184] 05-06 01:40:44:015: SyncMasterPhonebookFile:++
+[5184] 05-06 01:40:44:015: IsPublicPhonebook=1
+[5184] 05-06 01:40:44:015: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: FindFirstFile failed with 0x2
+[5184] 05-06 01:40:44:015: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[5184] 05-06 01:40:44:015: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[5184] 05-06 01:40:44:015: WritePhonebookFile
+[5184] 05-06 01:40:44:015: ModifyEntryList: Number of connections written 0
+[5184] 05-06 01:40:44:015: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[5184] 05-06 01:40:44:015: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[5184] 05-06 01:40:44:015: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[5184] 05-06 01:40:44:015: ReadPhonebookFile returns 0
+[5184] 05-06 01:40:44:015: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1160
+[5184] 05-06 01:40:44:015: IsPublicPhonebook=0
+[5184] 05-06 01:40:44:015: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015:  IsVirtualizationNeeded: return value = 0
+
+[5184] 05-06 01:40:44:015: FindFirstFile failed with 0x2
+[5184] 05-06 01:40:44:015: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[5184] 05-06 01:40:44:015: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[5184] 05-06 01:40:44:015: ReadPhonebookFile returns 0
+[5184] 05-06 01:40:44:015: DwReadEntryFromSystem for rasphone.pbk failed with 623
+[5184] 05-06 01:40:44:015: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1160
+[5184] 05-06 01:40:44:015: IsPublicPhonebook=1
+[5184] 05-06 01:40:44:015: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015:  IsVirtualizationNeeded: return value = 1
+
+[5184] 05-06 01:40:44:015: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[5184] 05-06 01:40:44:015: ReadRasFile: ReadEntryList returned 0
+[5184] 05-06 01:40:44:015: SyncMasterPhonebookFile:++
+[5184] 05-06 01:40:44:015: IsPublicPhonebook=1
+[5184] 05-06 01:40:44:015: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5184] 05-06 01:40:44:015: FindFirstFile failed with 0x2
+[5184] 05-06 01:40:44:015: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[5184] 05-06 01:40:44:015: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[5184] 05-06 01:40:44:015: WritePhonebookFile
+[5184] 05-06 01:40:44:015: ModifyEntryList: Number of connections written 0
+[5184] 05-06 01:40:44:015: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[5184] 05-06 01:40:44:015: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[5184] 05-06 01:40:44:015: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[5184] 05-06 01:40:44:015: ReadPhonebookFile returns 0
+[5184] 05-06 01:40:44:015: GetPbkAndEntryName. rc=0x26f
+[9528] 05-06 01:40:52:047: RasGetEntryHrasconn
+[9528] 05-06 01:40:52:047: IsRasmanServiceRunning=1
+[9528] 05-06 01:40:52:062: LoadRasmanDll
+[9528] 05-06 01:40:52:394: RasDialW
+[9528] 05-06 01:40:52:394: IsRasmanServiceRunning=1
+[9528] 05-06 01:40:52:394: _RasDial(start)
+[9528] 05-06 01:40:52:394: GetPbkAndEntryName
+[9528] 05-06 01:40:52:394: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 8
+[9528] 05-06 01:40:52:394: IsPublicPhonebook=1
+[9528] 05-06 01:40:52:394: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[9528] 05-06 01:40:52:394: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[9528] 05-06 01:40:52:394:  IsVirtualizationNeeded: return value = 1
+
+[9528] 05-06 01:40:52:394: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[9528] 05-06 01:40:52:394: ReadRasFile: ReadEntryList returned 0
+[9528] 05-06 01:40:52:394: SyncMasterPhonebookFile:++
+[9528] 05-06 01:40:52:394: IsPublicPhonebook=1
+[9528] 05-06 01:40:52:394: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[9528] 05-06 01:40:52:394: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[9528] 05-06 01:40:52:394: ENTRY: Reading "Nokia VPN"
+[9528] 05-06 01:40:52:394: 
+Before LoadPortsList2 in ReadEntryList()
+[9528] 05-06 01:40:52:394: LoadPortsList2
+[9528] 05-06 01:40:52:394: GetRasPorts
+[9528] 05-06 01:40:52:394: RasPortEnum...
+[9528] 05-06 01:40:52:394: RasPortEnum=603,c=12
+[9528] 05-06 01:40:52:394: RasPortEnum...
+[9528] 05-06 01:40:52:394: RasPortEnum=0,c=12
+[9528] 05-06 01:40:52:394: RasGetDevConfig
+[9528] 05-06 01:40:52:394: RasGetDevConfig=603
+[9528] 05-06 01:40:52:394: RasGetDevConfig
+[9528] 05-06 01:40:52:394: RasGetDevConfig=0
+[9528] 05-06 01:40:52:394: SanitizeUnimodemBlob: mdm prot=0
+[9528] 05-06 01:40:52:394: Port=COM3,fHw=1,fEc=1,bps=115200,fSp=1,prot=0
+[9528] 05-06 01:40:52:394: StringCchCopy failed due to error 0x8007007a
+[9528] 05-06 01:40:52:394: RasGetDevConfig
+[9528] 05-06 01:40:52:394: RasGetDevConfig=603
+[9528] 05-06 01:40:52:394: RasGetDevConfig
+[9528] 05-06 01:40:52:394: RasGetDevConfig=0
+[9528] 05-06 01:40:52:394: SanitizeUnimodemBlob: mdm prot=0
+[9528] 05-06 01:40:52:394: Port=COM5,fHw=1,fEc=0,bps=460800,fSp=0,prot=0
+[9528] 05-06 01:40:52:394: StringCchCopy failed due to error 0x8007007a
+[9528] 05-06 01:40:52:394: RasGetDevConfig
+[9528] 05-06 01:40:52:394: RasGetDevConfig=603
+[9528] 05-06 01:40:52:394: RasGetDevConfig
+[9528] 05-06 01:40:52:404: RasGetDevConfig=0
+[9528] 05-06 01:40:52:404: SanitizeUnimodemBlob: mdm prot=0
+[9528] 05-06 01:40:52:404: Port=COM6,fHw=0,fEc=0,bps=115200,fSp=0,prot=0
+[9528] 05-06 01:40:52:404: StringCchCopy failed due to error 0x8007007a
+[9528] 05-06 01:40:52:404: LoadPortsList=0
+[9528] 05-06 01:40:52:404: successfully finished LoadPortsList2 in ReadEntryList()
+
+[9528] 05-06 01:40:52:404: Reading media group "rastapi"
+[9528] 05-06 01:40:52:404: New link format
+[9528] 05-06 01:40:52:404: 
+DUPTEST:Port in this media
+[9528] 05-06 01:40:52:404: Port=VPN1-0
+[9528] 05-06 01:40:52:404: 
+Trying to match the phonebook port in the system ports
+[9528] 05-06 01:40:52:404: Port configured
+[9528] 05-06 01:40:52:404: Reading device group "vpn"
+[9528] 05-06 01:40:52:404: Device List after deleting dupe
+[9528] 05-06 01:40:52:404: Device List after deleting dupe
+[9528] 05-06 01:40:52:404: ReadRasFile: ReadEntryList returned 0
+[9528] 05-06 01:40:52:404: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[9528] 05-06 01:40:52:404: WritePhonebookFile
+[9528] 05-06 01:40:52:404: ModifyEntryList: Number of connections written 0
+[9528] 05-06 01:40:52:404: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[9528] 05-06 01:40:52:404: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[9528] 05-06 01:40:52:404: RASSQM: In ReadPhonebookFile Number of alluser profiles set 1
+[9528] 05-06 01:40:52:404: ReadPhonebookFile returns 0
+[9528] 05-06 01:40:52:404: GetPbkAndEntryName. rc=0x0
+[9528] 05-06 01:40:52:404: looking up subentry 1
+[9528] 05-06 01:40:52:454: IsPublicPhonebook=1
+[9528] 05-06 01:40:52:454: RasGetDeviceName(rdt=15)...
+[9528] 05-06 01:40:52:454: RasGetDeviceName. 0x0
+[9528] 05-06 01:40:52:454: RasCreateConnection...
+[9528] 05-06 01:40:52:464: RasCreateConnection(0) hrasconn=65536, ConnectionAlreadyPresent=0
+[9528] 05-06 01:40:52:464: dwIdleDisconnectSeconds=-1
+[9528] 05-06 01:40:52:464: SaveProjectionResults...
+[9528] 05-06 01:40:52:464: SaveProjectionResults: saving results (dwSubEntry=0)
+[9528] 05-06 01:40:52:464: SaveProjectionResults(0)
+[9528] 05-06 01:40:52:494: GetInstalledProtocolsEx=0xc. 
+[9528] 05-06 01:40:52:494: StartAsyncMachine
+[9528] 05-06 01:40:52:494: InsertAsyncWorkItem: Calling RasEventLogInitialize
+[9528] 05-06 01:40:52:584: InitializeContextQueue: Invalid input parameter
+[9528] 05-06 01:40:52:584: starting subentry 1
+[9528] 05-06 01:40:52:584: SignalDone: pOverlapped=0x48b36c
+[9528] 05-06 01:40:52:584: AppendNewContextToQueue:
+[9528] 05-06 01:40:52:584: AppendNewContextToQueue:Set Event:
+[9528] 05-06 01:40:52:584: RasDialW done(0)
+[9916] 05-06 01:40:52:614: WaitForDialMachineEvent
+[9916] 05-06 01:40:52:614: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:52:614: GetOneContextFromQueue
+[9916] 05-06 01:40:52:614: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:52:614: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:52:614: ValidateDmContext:
+[9916] 05-06 01:40:52:614: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:52:614: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:52:614: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:52:614: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[9916] 05-06 01:40:52:624: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:52:624: NetWkstaUserGetInfo
+[9916] 05-06 01:40:52:624: NetWkstaUserGetInfo=0
+[9916] 05-06 01:40:52:624: GetLogonUser=Hoster
+[9916] 05-06 01:40:52:624: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:40:52:704: RASCS_OpenPort
+[9916] 05-06 01:40:52:704: DwOpenPort
+[9916] 05-06 01:40:52:704: RasGetDeviceName(rdt=15)...
+[9916] 05-06 01:40:52:744: RasGetDeviceName. 0x0
+[9916] 05-06 01:40:52:744: DwOpenPort: RasPortOpenEx(WAN Miniport (IKEv2),0)...
+[9916] 05-06 01:40:52:814: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[9916] 05-06 01:40:52:864: DwOpenPort: PortOpened = VPN1-1
+[9916] 05-06 01:40:52:864: DwOpenPort done. 0 (dwSavedError 0)
+[9916] 05-06 01:40:52:864: RasSetPortUserData(dialparamsuid) for 0
+[9916] 05-06 01:40:52:904: RasSetPortUserData returned 0
+[9916] 05-06 01:40:52:904: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x0
+[9916] 05-06 01:40:52:904: EnableAsyncMachine: hport=0, pasyncmachine=0x48b314, OvDrop=0x48b34c, OvStateChange=0x48b36c, OvProtocolEngine=0x48b38c, OvLast=0x48b3ac
+[9916] 05-06 01:40:52:904: EnableAsyncMachine:Set DialEvent to Something 
+
+[9916] 05-06 01:40:52:934: RasSetConnectionParams...
+[9916] 05-06 01:40:52:974: RasSetConnectionParams(0)
+[9916] 05-06 01:40:52:974: RasAddConnectionPort(Nokia VPN,1)...
+[9916] 05-06 01:40:53:014: RasAddConnectionPort(0)
+[9916] 05-06 01:40:53:014: RasDialMachine errors=0,0
+[9916] 05-06 01:40:53:014: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:40:53:014: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:40:53:014: AppendNewContextToQueue:
+[9916] 05-06 01:40:53:014: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:53:014: WaitForDialMachineEvent
+[9916] 05-06 01:40:53:014: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:53:014: GetOneContextFromQueue
+[9916] 05-06 01:40:53:014: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:53:014: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:53:014: ValidateDmContext:
+[9916] 05-06 01:40:53:014: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:53:014: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:53:014: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:53:014: setting rasman state to 1
+[9916] 05-06 01:40:53:054: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:40:53:054: RasGetSubEntryHandleW
+[7536] 05-06 01:40:53:054: IsRasmanServiceRunning=1
+[7536] 05-06 01:40:53:054: IsRasmanServiceRunning=1
+[9916] 05-06 01:40:53:164: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:53:164: RASCS_PortOpened
+[9916] 05-06 01:40:53:164: GetUserPreferences(m=0)
+[9916] 05-06 01:40:53:164: RegOpenKeyEx=2
+[9916] 05-06 01:40:53:164: GetUserPreferences=0
+[9916] 05-06 01:40:53:164: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:40:53:164: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:40:53:884: UpdateTunnelEndPointsInformation: Tunnel is over IPv4
+[9916] 05-06 01:40:54:556: UpdateTunnelEndPointsInformation: Lx: 123.237.140.18, Rx: 192.100.117.5
+[9916] 05-06 01:40:54:603: FindNextDevice: (vpn, WAN Miniport (IKEv2))
+[9916] 05-06 01:40:54:681: RasDialMachine errors=0,0
+[9916] 05-06 01:40:54:681: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:40:54:681: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:40:54:681: AppendNewContextToQueue:
+[9916] 05-06 01:40:54:681: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:54:681: WaitForDialMachineEvent
+[9916] 05-06 01:40:54:681: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:54:681: GetOneContextFromQueue
+[9916] 05-06 01:40:54:681: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:54:681: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:54:681: ValidateDmContext:
+[9916] 05-06 01:40:54:681: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:54:681: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:54:681: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:54:681: setting rasman state to 2
+[9916] 05-06 01:40:54:743: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:40:54:743: RasGetConnectStatusW
+[7536] 05-06 01:40:54:743: IsRasmanServiceRunning=1
+[7536] 05-06 01:40:54:743: IsRasmanServiceRunning=1
+[7536] 05-06 01:40:54:790: SubEntryFromConnection: hrasconn=0x10000, dwSubEntry=1
+[7536] 05-06 01:40:55:071: RasGetConnectStatus: read device (vpn,WAN Miniport (IKEv2)) from port user data
+[7536] 05-06 01:40:55:149: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[9916] 05-06 01:40:55:211: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:55:211: GetLogonUser=Hoster
+[9916] 05-06 01:40:55:211: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:40:55:242: RASCS_ConnectDevice
+[9916] 05-06 01:40:55:320: RasDeviceSetInfo done(0)
+[9916] 05-06 01:40:55:320: SetDeviceParamBinary for RDT_Tunnel_Ikev2
+[9916] 05-06 01:40:55:476: RDT_Tunnel_Ikev2: Setting TunnelID: 0x1, ifIndex=10
+[9916] 05-06 01:40:55:508: RasDeviceSetInfo(Binary) done(0)
+[9916] 05-06 01:40:55:508: SetDeviceParamBinary returned 0
+[9916] 05-06 01:40:55:508: RasDeviceSetInfo(Compartment=1)...
+[9916] 05-06 01:40:55:539: RasDeviceSetInfo done(0)
+[9916] 05-06 01:40:55:539: SetDeviceParams(rastapi, WAN Miniport (IKEv2), 0)
+[9916] 05-06 01:40:55:539: RasDeviceConnect(rastapi,WAN Miniport (IKEv2))...
+[9916] 05-06 01:40:55:617: RasDeviceConnect done(600)
+[9916] 05-06 01:40:55:617: RasDialMachine errors=600,0
+[9916] 05-06 01:40:55:617: WaitForDialMachineEvent
+[9916] 05-06 01:40:56:085: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:40:56:132: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:40:56:132: ValidateDmContext:
+[9916] 05-06 01:40:56:132: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:56:132: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:56:132: AppendNewContextToQueue:
+[9916] 05-06 01:40:56:132: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:56:132: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:56:132: GetOneContextFromQueue
+[9916] 05-06 01:40:56:132: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:56:132: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:56:132: ValidateDmContext:
+[9916] 05-06 01:40:56:132: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:56:132: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:56:132: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:56:132: RasGetInfo...
+[9916] 05-06 01:40:56:178: RasGetInfo done(0)
+[9916] 05-06 01:40:56:178: setting rasman state to 3
+[9916] 05-06 01:40:56:241: NotifyCaller(nt=0x2,su=1,s=3,e=0,xe=0)...
+[9916] 05-06 01:40:56:241: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:56:241: GetLogonUser=Hoster
+[9916] 05-06 01:40:56:241: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:40:56:288: RASCS_DeviceConnected
+[9916] 05-06 01:40:56:288: SaveVpnStrategyInformation...
+[9916] 05-06 01:40:56:288: Saving 8 as the vpn strategy
+[9916] 05-06 01:40:56:288: SaveVpnStrategyInformation done
+[9916] 05-06 01:40:56:288: RasDialMachine errors=0,0
+[9916] 05-06 01:40:56:288: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:40:56:288: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:40:56:288: AppendNewContextToQueue:
+[9916] 05-06 01:40:56:288: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:56:288: WaitForDialMachineEvent
+[9916] 05-06 01:40:56:288: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:56:288: GetOneContextFromQueue
+[9916] 05-06 01:40:56:288: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:56:288: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:56:288: ValidateDmContext:
+[9916] 05-06 01:40:56:288: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:56:288: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:56:288: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:56:288: setting rasman state to 4
+[9916] 05-06 01:40:56:381: NotifyCaller(nt=0x2,su=1,s=4,e=0,xe=0)...
+[9916] 05-06 01:40:56:381: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:56:381: GetLogonUser=Hoster
+[9916] 05-06 01:40:56:381: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:40:56:459: RASCS_AllDevicesConnected
+[9916] 05-06 01:40:56:459: RasPortConnectComplete...
+[9916] 05-06 01:40:56:568: RasPortConnectComplete done(0)
+[9916] 05-06 01:40:56:568: RasDialMachine errors=0,0
+[9916] 05-06 01:40:56:568: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:40:56:568: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:40:56:568: AppendNewContextToQueue:
+[9916] 05-06 01:40:56:568: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:56:568: WaitForDialMachineEvent
+[9916] 05-06 01:40:56:568: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:56:568: GetOneContextFromQueue
+[9916] 05-06 01:40:56:568: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:56:568: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:56:568: ValidateDmContext:
+[9916] 05-06 01:40:56:568: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:56:568: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:56:568: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:56:568: setting rasman state to 5
+[9916] 05-06 01:40:56:646: NotifyCaller(nt=0x2,su=1,s=5,e=0,xe=0)...
+[9916] 05-06 01:40:56:646: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:56:646: RASCS_Authenticate
+[9916] 05-06 01:40:56:646: RasPortSetFramingEx...
+[9916] 05-06 01:40:56:678: RasPortSetFramingEx done(0)
+[9916] 05-06 01:40:56:678: subentry 1 has suspend state 0
+[9916] 05-06 01:40:56:678: subentry 1 suspending all other subentries
+[9916] 05-06 01:40:56:678: UpdateProtocolConfigInfoFromEntry: Auth changed to Default EAP from PAP/CHAP/MSCHAPv2 for IKEv2
+[9916] 05-06 01:40:56:818: eapPropHiddenMethod property is set for the EAP method: "Microsoft: Windows Connect Now EAP Peer". Hence, Not added to the UI.
+[9916] 05-06 01:40:56:818: GetUserPreferences(m=0)
+[9916] 05-06 01:40:56:818: RegOpenKeyEx=2
+[9916] 05-06 01:40:56:818: GetUserPreferences=0
+[9916] 05-06 01:40:56:818: UpdateProtocolConfigInfoFromEntry: Using default eap method EAP-MSCHAPv2
+[9916] 05-06 01:40:56:880: SetEapInfo: Using default eap method EAP-MSCHAPv2
+[9916] 05-06 01:40:56:912: RasSetEapInfo returned = 0, dwConfigDataSize 8
+[9916] 05-06 01:40:56:912: RasProtocolStart(cfg=134255240)...
+[9916] 05-06 01:40:57:083: RasProtocolStart done(0)
+[9916] 05-06 01:40:57:083: RasDialMachine errors=0,0
+[9916] 05-06 01:40:57:083: WaitForDialMachineEvent
+[9916] 05-06 01:40:58:752: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:40:58:752: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:40:58:752: ValidateDmContext:
+[9916] 05-06 01:40:58:752: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:58:752: WaitForDialMachineEvent: pOverlapped=0x48b38c, type=3
+[9916] 05-06 01:40:58:752: AppendNewContextToQueue:
+[9916] 05-06 01:40:58:752: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:58:752: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:58:752: GetOneContextFromQueue
+[9916] 05-06 01:40:58:752: GetOneContextFromQueue: The context is:0x0048B38C,type=3
+[9916] 05-06 01:40:58:752: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:58:752: ValidateDmContext:
+[9916] 05-06 01:40:58:752: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:58:752: WaitForDialMachineEvent: pOverlapped=0x48b38c, type=3
+[9916] 05-06 01:40:58:752: WaitForDialMachineEvent: Unblock i=2, h=0x48b314
+[9916] 05-06 01:40:58:752: setting rasman state to 6
+[9916] 05-06 01:40:58:752: NotifyCaller(nt=0x2,su=1,s=6,e=0,xe=0)...
+[9916] 05-06 01:40:58:752: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:58:752: RASCS_AuthNotify
+[9916] 05-06 01:40:58:752: RasProtocolGetInfo...
+[9916] 05-06 01:40:58:784: RasProtocolGetInfo done(0), msgId=1
+[9916] 05-06 01:40:58:784: RasDialMachine errors=13885,0
+[9916] 05-06 01:40:58:784: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:40:58:784: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:40:58:784: AppendNewContextToQueue:
+[9916] 05-06 01:40:58:784: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:58:784: WaitForDialMachineEvent
+[9916] 05-06 01:40:58:784: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:58:784: GetOneContextFromQueue
+[9916] 05-06 01:40:58:784: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:40:58:784: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:58:784: ValidateDmContext:
+[9916] 05-06 01:40:58:784: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:58:784: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:40:58:784: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:40:58:784: RasDialTryNextVpnDevice...
+[9916] 05-06 01:40:58:784: StartAsyncMachine
+[9916] 05-06 01:40:58:784: RasDialTryNextVpnDevice: Replacing 0x48b308 with 0x4950d0
+[9916] 05-06 01:40:58:784: RasDialTryNextVpnDevice: RasPortDisconnect(0)...
+[9916] 05-06 01:40:58:955: RasDialTryNextVpnDevice: RasPortDisconnect done(0)
+[9916] 05-06 01:40:58:955: RasDialTryNextVpnDevice: RasPortClose(0)...
+[9916] 05-06 01:40:59:018: RasDialTryNextVpnDevice: RasPortClose done(0)
+[9916] 05-06 01:40:59:018: (ER) RasProtocolStop...
+[9916] 05-06 01:40:59:018: (ER) RasProtocolStop done
+[9916] 05-06 01:40:59:018: RasDialTryNextVpnDevice done(0)
+[9916] 05-06 01:40:59:018: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[9916] 05-06 01:40:59:018: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:59:018: GetLogonUser=Hoster
+[9916] 05-06 01:40:59:018: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:40:59:018: Failed to ReportError for event (1): GetLastError(0)
+[9916] 05-06 01:40:59:018: RASCS_OpenPort
+[9916] 05-06 01:40:59:018: DwOpenPort
+[9916] 05-06 01:40:59:018: RasGetDeviceName(rdt=14)...
+[9916] 05-06 01:40:59:064: RasGetDeviceName. 0x0
+[9916] 05-06 01:40:59:064: DwOpenPort: RasPortOpenEx(WAN Miniport (SSTP),0)...
+[9916] 05-06 01:40:59:158: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[9916] 05-06 01:40:59:189: DwOpenPort: PortOpened = VPN0-1
+[9916] 05-06 01:40:59:189: DwOpenPort done. 0 (dwSavedError 13885)
+[9916] 05-06 01:40:59:189: RasSetPortUserData(dialparamsuid) for 7
+[9916] 05-06 01:40:59:220: RasSetPortUserData returned 0
+[9916] 05-06 01:40:59:220: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x7
+[9916] 05-06 01:40:59:220: EnableAsyncMachine: hport=7, pasyncmachine=0x4950dc, OvDrop=0x495114, OvStateChange=0x495134, OvProtocolEngine=0x495154, OvLast=0x495174
+[9916] 05-06 01:40:59:220: EnableAsyncMachine:Set DialEvent to Something 
+
+[9916] 05-06 01:40:59:252: RasSetConnectionParams...
+[9916] 05-06 01:40:59:283: RasSetConnectionParams(0)
+[9916] 05-06 01:40:59:283: RasAddConnectionPort(Nokia VPN,1)...
+[9916] 05-06 01:40:59:314: RasAddConnectionPort(0)
+[9916] 05-06 01:40:59:314: RasDialMachine errors=0,0
+[9916] 05-06 01:40:59:314: RasDialMachine: SignalDone: prasconncb=0x4950d0
+[9916] 05-06 01:40:59:314: SignalDone: pOverlapped=0x495134
+[9916] 05-06 01:40:59:314: AppendNewContextToQueue:
+[9916] 05-06 01:40:59:314: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:59:314: WaitForDialMachineEvent
+[9916] 05-06 01:40:59:314: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:59:314: GetOneContextFromQueue
+[9916] 05-06 01:40:59:314: GetOneContextFromQueue: The context is:0x00495134,type=2
+[9916] 05-06 01:40:59:314: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:59:314: ValidateDmContext:
+[9916] 05-06 01:40:59:314: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:59:314: WaitForDialMachineEvent: pOverlapped=0x495134, type=2
+[9916] 05-06 01:40:59:314: WaitForDialMachineEvent: Unblock i=1, h=0x4950dc
+[9916] 05-06 01:40:59:314: setting rasman state to 1
+[9916] 05-06 01:40:59:392: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:40:59:392: RasGetSubEntryHandleW
+[7536] 05-06 01:40:59:392: IsRasmanServiceRunning=1
+[7536] 05-06 01:40:59:392: IsRasmanServiceRunning=1
+[9916] 05-06 01:40:59:486: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:40:59:486: RASCS_PortOpened
+[9916] 05-06 01:40:59:486: GetUserPreferences(m=0)
+[9916] 05-06 01:40:59:486: RegOpenKeyEx=2
+[9916] 05-06 01:40:59:486: GetUserPreferences=0
+[9916] 05-06 01:40:59:486: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:40:59:486: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:40:59:532: FindNextDevice: (vpn, WAN Miniport (SSTP))
+[9916] 05-06 01:40:59:610: RasDialMachine errors=0,0
+[9916] 05-06 01:40:59:610: RasDialMachine: SignalDone: prasconncb=0x4950d0
+[9916] 05-06 01:40:59:610: SignalDone: pOverlapped=0x495134
+[9916] 05-06 01:40:59:610: AppendNewContextToQueue:
+[9916] 05-06 01:40:59:610: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:40:59:610: WaitForDialMachineEvent
+[9916] 05-06 01:40:59:610: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:40:59:610: GetOneContextFromQueue
+[9916] 05-06 01:40:59:610: GetOneContextFromQueue: The context is:0x00495134,type=2
+[9916] 05-06 01:40:59:610: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:40:59:610: ValidateDmContext:
+[9916] 05-06 01:40:59:610: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:40:59:610: WaitForDialMachineEvent: pOverlapped=0x495134, type=2
+[9916] 05-06 01:40:59:610: WaitForDialMachineEvent: Unblock i=1, h=0x4950dc
+[9916] 05-06 01:40:59:610: setting rasman state to 2
+[9916] 05-06 01:40:59:673: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:40:59:673: RasGetConnectStatusW
+[7536] 05-06 01:40:59:673: IsRasmanServiceRunning=1
+[7536] 05-06 01:40:59:673: IsRasmanServiceRunning=1
+[7536] 05-06 01:40:59:704: SubEntryFromConnection: hrasconn=0x10000, dwSubEntry=1
+[7536] 05-06 01:40:59:970: RasGetConnectStatus: read device (vpn,WAN Miniport (SSTP)) from port user data
+[7536] 05-06 01:41:00:033: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[9916] 05-06 01:41:00:111: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:41:00:111: GetLogonUser=Hoster
+[9916] 05-06 01:41:00:111: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:41:00:142: RASCS_ConnectDevice
+[9916] 05-06 01:41:00:173: RasDeviceSetInfo done(0)
+[9916] 05-06 01:41:00:173: SetDeviceParamBinary for RDT_Tunnel_Sstp
+[9916] 05-06 01:41:00:173: GUID is dfe105df-d063-4695
+[9916] 05-06 01:41:06:819: GetSstpDestinationInfo completes with 0: Proxy Query Status: 12167 DestInfoSize: 104
+[9916] 05-06 01:41:06:819: GetSstpDestinationInfo completes with CorrelationID length 16.GUID is dfe105df-d063-4695
+[9916] 05-06 01:41:06:850: RasDeviceSetInfo(Binary) done(0)
+[9916] 05-06 01:41:06:850: SetDeviceParamBinary returned 0
+[9916] 05-06 01:41:06:850: RasDeviceSetInfo(Compartment=1)...
+[9916] 05-06 01:41:06:881: RasDeviceSetInfo done(0)
+[9916] 05-06 01:41:06:881: SetDeviceParams(rastapi, WAN Miniport (SSTP), 0)
+[9916] 05-06 01:41:06:881: RasDeviceConnect(rastapi,WAN Miniport (SSTP))...
+[9916] 05-06 01:41:07:162: RasDeviceConnect done(600)
+[9916] 05-06 01:41:07:162: RasDialMachine errors=600,0
+[9916] 05-06 01:41:07:162: WaitForDialMachineEvent
+[9916] 05-06 01:41:07:162: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:41:07:209: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:41:07:209: ValidateDmContext:
+[9916] 05-06 01:41:07:209: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:41:07:209: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:41:07:209: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[9916] 05-06 01:41:07:209: AppendNewContextToQueue:
+[9916] 05-06 01:41:07:209: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:41:07:209: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:41:07:209: GetOneContextFromQueue
+[9916] 05-06 01:41:07:209: GetOneContextFromQueue: The context is:0x0048B34C,type=1
+[9916] 05-06 01:41:07:209: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:41:07:209: ValidateDmContext:
+[9916] 05-06 01:41:07:209: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:41:07:209: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:41:07:209: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[9916] 05-06 01:41:07:209: WaitForDialMachineEvent: Unblock i=0, h=0x48b314
+[9916] 05-06 01:41:07:209: Link dropped!
+[9916] 05-06 01:41:07:209: RasGetInfo...
+[9916] 05-06 01:41:07:240: RasGetInfo done(618)
+[9916] 05-06 01:41:07:240: Port was close because of 13885
+[9916] 05-06 01:41:07:240: setting rasman state to 8193
+[9916] 05-06 01:41:07:365: Quitting s=8193,e=13885
+[9916] 05-06 01:41:07:365: Asyncmachine: Cleaning up
+[9916] 05-06 01:41:07:365: RasDialCleanup...
+[9916] 05-06 01:41:07:365: CleanUpRasconncbNode
+[9916] 05-06 01:41:07:365: StopAsyncMachine
+[9916] 05-06 01:41:07:365: EnableAsyncMachine:Clear DialEvent for port:0 to NULL
+[9916] 05-06 01:41:07:396: (CU) RasProtocolStop...
+[9916] 05-06 01:41:07:443: (CU) RasProtocolStop done
+[9916] 05-06 01:41:07:443: DeleteRasconncbNodeCommon: prasconncb=0x48b308
+[9916] 05-06 01:41:07:443: CloseAsyncMachine
+[9916] 05-06 01:41:07:443: CleanUpRasconncbNode done
+[9916] 05-06 01:41:07:443: RasDialCleanUp done.
+[9916] 05-06 01:41:07:443: WaitForDialMachineEvent
+[9916] 05-06 01:41:07:443: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:41:07:474: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:41:07:474: ValidateDmContext:
+[9916] 05-06 01:41:07:474: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:41:07:474: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:41:07:474: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[9916] 05-06 01:41:07:474: WaitForDialMachineEvent:last message from Rasman
+[9916] 05-06 01:41:07:474: AppendNewContextToQueue:
+[9916] 05-06 01:41:07:474: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:41:07:474: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:41:07:474: GetOneContextFromQueue
+[9916] 05-06 01:41:07:474: GetOneContextFromQueue: The context is:0x0048B3AC,type=4
+[9916] 05-06 01:41:07:474: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:41:07:474: ValidateDmContext:
+[9916] 05-06 01:41:07:474: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:41:07:474: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:41:07:474: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[9916] 05-06 01:41:07:474: WaitForEvent:Received OVEVT_DIAL_LAST
+[9916] 05-06 01:41:07:474: asyncmachine=0x48b314: last event for hport=0, freefunc()
+[9916] 05-06 01:41:07:474: RasDialFinalCleanup: deallocating prasconncb=0x48b308
+[9916] 05-06 01:41:07:474: FinalCleanUpRasconncbNode: deallocating prasconncb=0x48b308
+[9916] 05-06 01:41:07:474: FinalCleanUpRasconncbNode: 1 nodes remaining
+[9916] 05-06 01:41:07:474: FinalCleanUpRasconncbNode: Rasconnb blocks is not empty cannot call ShutdownAsyncMachine() to shut down dial machine
+[9916] 05-06 01:42:00:410: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:00:450: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:00:450: ValidateDmContext:
+[9916] 05-06 01:42:00:450: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:00:450: WaitForDialMachineEvent: pOverlapped=0x495134, type=2
+[9916] 05-06 01:42:00:450: AppendNewContextToQueue:
+[9916] 05-06 01:42:00:450: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:00:450: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:00:450: GetOneContextFromQueue
+[9916] 05-06 01:42:00:450: GetOneContextFromQueue: The context is:0x00495134,type=2
+[9916] 05-06 01:42:00:450: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:00:450: ValidateDmContext:
+[9916] 05-06 01:42:00:450: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:00:450: WaitForDialMachineEvent: pOverlapped=0x495134, type=2
+[9916] 05-06 01:42:00:450: WaitForDialMachineEvent: Unblock i=1, h=0x4950dc
+[9916] 05-06 01:42:00:450: RasGetInfo...
+[9916] 05-06 01:42:00:480: RasGetInfo done(0)
+[9916] 05-06 01:42:00:480: Async failure=-2147023660
+[9916] 05-06 01:42:00:480: RDM: Marking port 7 for closure in RASCS = 2
+[9916] 05-06 01:42:00:480: RasDialTryNextVpnDevice...
+[9916] 05-06 01:42:00:480: StartAsyncMachine
+[9916] 05-06 01:42:00:480: RasDialTryNextVpnDevice: Replacing 0x4950d0 with 0x48b308
+[9916] 05-06 01:42:00:480: RasDialTryNextVpnDevice: RasPortDisconnect(7)...
+[9916] 05-06 01:42:00:590: RasDialTryNextVpnDevice: RasPortDisconnect done(0)
+[9916] 05-06 01:42:00:590: RasDialTryNextVpnDevice: RasPortClose(7)...
+[9916] 05-06 01:42:00:620: RasDialTryNextVpnDevice: RasPortClose done(0)
+[9916] 05-06 01:42:00:620: (ER) RasProtocolStop...
+[9916] 05-06 01:42:00:660: (ER) RasProtocolStop done
+[9916] 05-06 01:42:00:660: RasDialTryNextVpnDevice done(0)
+[9916] 05-06 01:42:00:660: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[9916] 05-06 01:42:00:660: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:42:00:660: RDM: PortClose -1 ...
+[9916] 05-06 01:42:00:690: RDM: PortClose -1 Completed. 615
+[9916] 05-06 01:42:00:690: GetLogonUser=Hoster
+[9916] 05-06 01:42:00:690: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:42:00:690: Failed to ReportError for event (1): GetLastError(0)
+[9916] 05-06 01:42:00:690: RASCS_OpenPort
+[9916] 05-06 01:42:00:690: DwOpenPort
+[9916] 05-06 01:42:00:690: RasGetDeviceName(rdt=8)...
+[9916] 05-06 01:42:00:740: RasGetDeviceName. 0x0
+[9916] 05-06 01:42:00:740: DwOpenPort: RasPortOpenEx(WAN Miniport (PPTP),0)...
+[9916] 05-06 01:42:00:810: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[9916] 05-06 01:42:00:850: DwOpenPort: PortOpened = VPN3-1
+[9916] 05-06 01:42:00:850: DwOpenPort done. 0 (dwSavedError -2147023660)
+[9916] 05-06 01:42:00:850: RasSetPortUserData(dialparamsuid) for 5
+[9916] 05-06 01:42:00:880: RasSetPortUserData returned 0
+[9916] 05-06 01:42:00:880: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x5
+[9916] 05-06 01:42:00:880: EnableAsyncMachine: hport=5, pasyncmachine=0x48b314, OvDrop=0x48b34c, OvStateChange=0x48b36c, OvProtocolEngine=0x48b38c, OvLast=0x48b3ac
+[9916] 05-06 01:42:00:880: EnableAsyncMachine:Set DialEvent to Something 
+
+[9916] 05-06 01:42:00:920: RasSetConnectionParams...
+[9916] 05-06 01:42:00:950: RasSetConnectionParams(0)
+[9916] 05-06 01:42:00:950: RasAddConnectionPort(Nokia VPN,1)...
+[9916] 05-06 01:42:00:990: RasAddConnectionPort(0)
+[9916] 05-06 01:42:00:990: RasDialMachine errors=0,0
+[9916] 05-06 01:42:00:990: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:42:00:990: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:42:00:990: AppendNewContextToQueue:
+[9916] 05-06 01:42:00:990: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:00:990: WaitForDialMachineEvent
+[9916] 05-06 01:42:00:990: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:00:990: GetOneContextFromQueue
+[9916] 05-06 01:42:00:990: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:42:00:990: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:00:990: ValidateDmContext:
+[9916] 05-06 01:42:00:990: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:00:990: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:42:00:990: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:42:00:990: setting rasman state to 1
+[9916] 05-06 01:42:01:070: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:42:01:070: RasGetSubEntryHandleW
+[7536] 05-06 01:42:01:070: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:01:070: IsRasmanServiceRunning=1
+[9916] 05-06 01:42:01:179: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:42:01:179: RASCS_PortOpened
+[9916] 05-06 01:42:01:179: GetUserPreferences(m=0)
+[9916] 05-06 01:42:01:179: RegOpenKeyEx=2
+[9916] 05-06 01:42:01:179: GetUserPreferences=0
+[9916] 05-06 01:42:01:179: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:42:01:179: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:42:01:632: UpdateTunnelEndPointsInformation: Tunnel is over IPv4
+[9916] 05-06 01:42:02:178: UpdateTunnelEndPointsInformation: Lx: 123.237.140.18, Rx: 192.100.117.5
+[9916] 05-06 01:42:02:224: FindNextDevice: (vpn, WAN Miniport (PPTP))
+[9916] 05-06 01:42:02:287: RasDialMachine errors=0,0
+[9916] 05-06 01:42:02:287: RasDialMachine: SignalDone: prasconncb=0x48b308
+[9916] 05-06 01:42:02:287: SignalDone: pOverlapped=0x48b36c
+[9916] 05-06 01:42:02:287: AppendNewContextToQueue:
+[9916] 05-06 01:42:02:287: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:02:287: WaitForDialMachineEvent
+[9916] 05-06 01:42:02:287: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:02:287: GetOneContextFromQueue
+[9916] 05-06 01:42:02:287: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:42:02:287: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:02:287: ValidateDmContext:
+[9916] 05-06 01:42:02:287: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:02:287: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:42:02:287: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:42:02:287: setting rasman state to 2
+[9916] 05-06 01:42:02:349: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:42:02:349: RasGetConnectStatusW
+[7536] 05-06 01:42:02:349: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:02:349: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:02:396: SubEntryFromConnection: hrasconn=0x10000, dwSubEntry=1
+[7536] 05-06 01:42:02:661: RasGetConnectStatus: read device (vpn,WAN Miniport (PPTP)) from port user data
+[7536] 05-06 01:42:02:739: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[9916] 05-06 01:42:02:802: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:42:02:802: GetLogonUser=Hoster
+[9916] 05-06 01:42:02:802: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:42:02:833: RASCS_ConnectDevice
+[9916] 05-06 01:42:02:880: RasDeviceSetInfo done(0)
+[9916] 05-06 01:42:02:880: SetDeviceParamBinary for RDT_Tunnel_Pptp
+[9916] 05-06 01:42:02:880: GUID is dfe105df-d063-4695
+[9916] 05-06 01:42:02:911: RasDeviceSetInfo(Binary) done(0)
+[9916] 05-06 01:42:02:911: SetDeviceParamBinary returned 0
+[9916] 05-06 01:42:02:911: RasDeviceSetInfo(Compartment=1)...
+[9916] 05-06 01:42:02:958: RasDeviceSetInfo done(0)
+[9916] 05-06 01:42:02:958: SetDeviceParams(rastapi, WAN Miniport (PPTP), 0)
+[9916] 05-06 01:42:02:958: RasDeviceConnect(rastapi,WAN Miniport (PPTP))...
+[9916] 05-06 01:42:03:067: RasDeviceConnect done(600)
+[9916] 05-06 01:42:03:067: RasDialMachine errors=600,0
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:03:067: ValidateDmContext:
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: pOverlapped=0x495114, type=1
+[9916] 05-06 01:42:03:067: AppendNewContextToQueue:
+[9916] 05-06 01:42:03:067: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:03:067: GetOneContextFromQueue
+[9916] 05-06 01:42:03:067: GetOneContextFromQueue: The context is:0x00495114,type=1
+[9916] 05-06 01:42:03:067: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:03:067: ValidateDmContext:
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: pOverlapped=0x495114, type=1
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: Unblock i=0, h=0x4950dc
+[9916] 05-06 01:42:03:067: Link dropped!
+[9916] 05-06 01:42:03:067: RasGetInfo...
+[9916] 05-06 01:42:03:067: RasGetInfo done(618)
+[9916] 05-06 01:42:03:067: Port was close because of -2147023660
+[9916] 05-06 01:42:03:067: setting rasman state to 8193
+[9916] 05-06 01:42:03:067: Quitting s=8193,e=-2147023660
+[9916] 05-06 01:42:03:067: Asyncmachine: Cleaning up
+[9916] 05-06 01:42:03:067: RasDialCleanup...
+[9916] 05-06 01:42:03:067: CleanUpRasconncbNode
+[9916] 05-06 01:42:03:067: StopAsyncMachine
+[9916] 05-06 01:42:03:067: EnableAsyncMachine:Clear DialEvent for port:7 to NULL
+[9916] 05-06 01:42:03:067: (CU) RasProtocolStop...
+[9916] 05-06 01:42:03:067: (CU) RasProtocolStop done
+[9916] 05-06 01:42:03:067: DeleteRasconncbNodeCommon: prasconncb=0x4950d0
+[9916] 05-06 01:42:03:067: CloseAsyncMachine
+[9916] 05-06 01:42:03:067: CleanUpRasconncbNode done
+[9916] 05-06 01:42:03:067: RasDialCleanUp done.
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:03:067: ValidateDmContext:
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: pOverlapped=0x495174, type=4
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent:last message from Rasman
+[9916] 05-06 01:42:03:067: AppendNewContextToQueue:
+[9916] 05-06 01:42:03:067: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:03:067: GetOneContextFromQueue
+[9916] 05-06 01:42:03:067: GetOneContextFromQueue: The context is:0x00495174,type=4
+[9916] 05-06 01:42:03:067: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:03:067: ValidateDmContext:
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:03:067: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:03:067: WaitForDialMachineEvent: pOverlapped=0x495174, type=4
+[9916] 05-06 01:42:03:067: WaitForEvent:Received OVEVT_DIAL_LAST
+[9916] 05-06 01:42:03:067: asyncmachine=0x4950dc: last event for hport=7, freefunc()
+[9916] 05-06 01:42:03:067: RasDialFinalCleanup: deallocating prasconncb=0x4950d0
+[9916] 05-06 01:42:03:067: FinalCleanUpRasconncbNode: deallocating prasconncb=0x4950d0
+[9916] 05-06 01:42:03:067: FinalCleanUpRasconncbNode: 1 nodes remaining
+[9916] 05-06 01:42:03:067: FinalCleanUpRasconncbNode: Rasconnb blocks is not empty cannot call ShutdownAsyncMachine() to shut down dial machine
+[9916] 05-06 01:42:24:181: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:24:197: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:24:197: ValidateDmContext:
+[9916] 05-06 01:42:24:197: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:24:197: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:42:24:197: AppendNewContextToQueue:
+[9916] 05-06 01:42:24:197: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:24:197: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:24:197: GetOneContextFromQueue
+[9916] 05-06 01:42:24:197: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[9916] 05-06 01:42:24:197: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:24:197: ValidateDmContext:
+[9916] 05-06 01:42:24:197: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:24:197: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[9916] 05-06 01:42:24:197: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[9916] 05-06 01:42:24:197: RasGetInfo...
+[9916] 05-06 01:42:24:243: RasGetInfo done(0)
+[9916] 05-06 01:42:24:243: Async failure=807
+[9916] 05-06 01:42:24:243: RDM: Marking port 5 for closure in RASCS = 2
+[9916] 05-06 01:42:24:243: RasDialTryNextVpnDevice...
+[9916] 05-06 01:42:24:243: StartAsyncMachine
+[9916] 05-06 01:42:24:243: RasDialTryNextVpnDevice: Replacing 0x48b308 with 0x4af9c0
+[9916] 05-06 01:42:24:243: RasDialTryNextVpnDevice: RasPortDisconnect(5)...
+[9916] 05-06 01:42:24:519: RasDialTryNextVpnDevice: RasPortDisconnect done(0)
+[9916] 05-06 01:42:24:519: RasDialTryNextVpnDevice: RasPortClose(5)...
+[9916] 05-06 01:42:24:550: RasDialTryNextVpnDevice: RasPortClose done(0)
+[9916] 05-06 01:42:24:550: (ER) RasProtocolStop...
+[9916] 05-06 01:42:24:597: (ER) RasProtocolStop done
+[9916] 05-06 01:42:24:597: RasDialTryNextVpnDevice done(0)
+[9916] 05-06 01:42:24:597: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[9916] 05-06 01:42:24:597: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:42:24:597: RDM: PortClose -1 ...
+[9916] 05-06 01:42:24:628: RDM: PortClose -1 Completed. 615
+[9916] 05-06 01:42:24:628: GetLogonUser=Hoster
+[9916] 05-06 01:42:24:628: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:42:24:628: Failed to ReportError for event (1): GetLastError(0)
+[9916] 05-06 01:42:24:628: RASCS_OpenPort
+[9916] 05-06 01:42:24:628: DwOpenPort
+[9916] 05-06 01:42:24:628: RasGetDeviceName(rdt=9)...
+[9916] 05-06 01:42:24:675: RasGetDeviceName. 0x0
+[9916] 05-06 01:42:24:675: DwOpenPort: RasPortOpenEx(WAN Miniport (L2TP),0)...
+[9916] 05-06 01:42:24:786: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[9916] 05-06 01:42:24:818: DwOpenPort: PortOpened = VPN2-1
+[9916] 05-06 01:42:24:818: DwOpenPort done. 0 (dwSavedError 807)
+[9916] 05-06 01:42:24:818: RasSetPortUserData(dialparamsuid) for 2
+[9916] 05-06 01:42:24:849: RasSetPortUserData returned 0
+[9916] 05-06 01:42:24:849: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x2
+[9916] 05-06 01:42:24:849: EnableAsyncMachine: hport=2, pasyncmachine=0x4af9cc, OvDrop=0x4afa04, OvStateChange=0x4afa24, OvProtocolEngine=0x4afa44, OvLast=0x4afa64
+[9916] 05-06 01:42:24:849: EnableAsyncMachine:Set DialEvent to Something 
+
+[9916] 05-06 01:42:24:911: RasSetConnectionParams...
+[9916] 05-06 01:42:24:958: RasSetConnectionParams(0)
+[9916] 05-06 01:42:24:958: RasAddConnectionPort(Nokia VPN,1)...
+[9916] 05-06 01:42:24:989: RasAddConnectionPort(0)
+[9916] 05-06 01:42:24:989: RasDialMachine errors=0,0
+[9916] 05-06 01:42:24:989: RasDialMachine: SignalDone: prasconncb=0x4af9c0
+[9916] 05-06 01:42:24:989: SignalDone: pOverlapped=0x4afa24
+[9916] 05-06 01:42:24:989: AppendNewContextToQueue:
+[9916] 05-06 01:42:24:989: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:24:989: WaitForDialMachineEvent
+[9916] 05-06 01:42:24:989: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:24:989: GetOneContextFromQueue
+[9916] 05-06 01:42:24:989: GetOneContextFromQueue: The context is:0x004AFA24,type=2
+[9916] 05-06 01:42:24:989: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:24:989: ValidateDmContext:
+[9916] 05-06 01:42:24:989: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:24:989: WaitForDialMachineEvent: pOverlapped=0x4afa24, type=2
+[9916] 05-06 01:42:24:989: WaitForDialMachineEvent: Unblock i=1, h=0x4af9cc
+[9916] 05-06 01:42:24:989: setting rasman state to 1
+[9916] 05-06 01:42:25:064: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:42:25:064: RasGetSubEntryHandleW
+[7536] 05-06 01:42:25:064: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:25:064: IsRasmanServiceRunning=1
+[9916] 05-06 01:42:25:173: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:42:25:173: RASCS_PortOpened
+[9916] 05-06 01:42:25:173: GetUserPreferences(m=0)
+[9916] 05-06 01:42:25:173: RegOpenKeyEx=2
+[9916] 05-06 01:42:25:173: GetUserPreferences=0
+[9916] 05-06 01:42:25:173: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:42:25:173: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[9916] 05-06 01:42:25:565: UpdateTunnelEndPointsInformation: Tunnel is over IPv4
+[9916] 05-06 01:42:26:163: UpdateTunnelEndPointsInformation: Lx: 123.237.140.18, Rx: 192.100.117.5
+[9916] 05-06 01:42:26:210: FindNextDevice: (vpn, WAN Miniport (L2TP))
+[9916] 05-06 01:42:26:288: RasDialMachine errors=0,0
+[9916] 05-06 01:42:26:288: RasDialMachine: SignalDone: prasconncb=0x4af9c0
+[9916] 05-06 01:42:26:288: SignalDone: pOverlapped=0x4afa24
+[9916] 05-06 01:42:26:288: AppendNewContextToQueue:
+[9916] 05-06 01:42:26:288: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:26:288: WaitForDialMachineEvent
+[9916] 05-06 01:42:26:288: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:26:288: GetOneContextFromQueue
+[9916] 05-06 01:42:26:288: GetOneContextFromQueue: The context is:0x004AFA24,type=2
+[9916] 05-06 01:42:26:288: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:26:288: ValidateDmContext:
+[9916] 05-06 01:42:26:288: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:26:288: WaitForDialMachineEvent: pOverlapped=0x4afa24, type=2
+[9916] 05-06 01:42:26:288: WaitForDialMachineEvent: Unblock i=1, h=0x4af9cc
+[9916] 05-06 01:42:26:288: setting rasman state to 2
+[9916] 05-06 01:42:26:350: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:42:26:350: RasGetConnectStatusW
+[7536] 05-06 01:42:26:350: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:26:350: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:26:397: SubEntryFromConnection: hrasconn=0x10000, dwSubEntry=1
+[7536] 05-06 01:42:26:695: RasGetConnectStatus: read device (vpn,WAN Miniport (L2TP)) from port user data
+[7536] 05-06 01:42:26:760: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[9916] 05-06 01:42:26:854: NotifyCaller done (dwNotifyResult=1)
+[9916] 05-06 01:42:26:854: GetLogonUser=Hoster
+[9916] 05-06 01:42:26:854: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:42:26:901: RASCS_ConnectDevice
+[9916] 05-06 01:42:26:932: RasDeviceSetInfo done(0)
+[9916] 05-06 01:42:26:932: SetDeviceParamBinary for RDT_Tunnel_L2tp
+[9916] 05-06 01:42:26:963: RasDeviceSetInfo(Binary) done(0)
+[9916] 05-06 01:42:26:963: SetDeviceParamBinary returned 0
+[9916] 05-06 01:42:26:963: RasDeviceSetInfo(Compartment=1)...
+[9916] 05-06 01:42:26:994: RasDeviceSetInfo done(0)
+[9916] 05-06 01:42:26:994: SetDeviceParams(rastapi, WAN Miniport (L2TP), 0)
+[9916] 05-06 01:42:27:025: PORT_DISABLE_IKE_CHECK value is 0, RasSetPortUserData for it returned 0
+[9916] 05-06 01:42:27:025: RasEnableIpSec(2)..
+[9916] 05-06 01:42:27:119: RasEnableIpSec done. 766 Encryption type 2
+[9916] 05-06 01:42:27:119: RasDialMachine errors=766,0
+[9916] 05-06 01:42:27:119: RasDialMachine: SignalDone: prasconncb=0x4af9c0
+[9916] 05-06 01:42:27:119: SignalDone: pOverlapped=0x4afa24
+[9916] 05-06 01:42:27:119: AppendNewContextToQueue:
+[9916] 05-06 01:42:27:119: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:27:119: WaitForDialMachineEvent
+[9916] 05-06 01:42:27:119: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:27:119: GetOneContextFromQueue
+[9916] 05-06 01:42:27:119: GetOneContextFromQueue: The context is:0x004AFA24,type=2
+[9916] 05-06 01:42:27:119: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:27:119: ValidateDmContext:
+[9916] 05-06 01:42:27:119: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:27:119: WaitForDialMachineEvent: pOverlapped=0x4afa24, type=2
+[9916] 05-06 01:42:27:119: WaitForDialMachineEvent: Unblock i=1, h=0x4af9cc
+[9916] 05-06 01:42:27:119: RasDialTryNextVpnDevice...
+[9916] 05-06 01:42:27:119: RasDialTryNextVpnDevice done(800)
+[9916] 05-06 01:42:27:119: setting rasman state to 2
+[9916] 05-06 01:42:27:197: NotifyCaller(nt=0x2,su=1,s=2,e=800,xe=0)...
+[7536] 05-06 01:42:27:197: RasGetConnectStatusW
+[7536] 05-06 01:42:27:197: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:27:197: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:27:228: SubEntryFromConnection: hrasconn=0x10000, dwSubEntry=1
+[7536] 05-06 01:42:27:556: RasGetConnectStatus: read device (vpn,WAN Miniport (L2TP)) from port user data
+[7536] 05-06 01:42:27:634: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[9916] 05-06 01:42:27:712: NotifyCaller done (dwNotifyResult=0)
+[9916] 05-06 01:42:27:712: Discontinuing callbacks for hrasconn 0x10000
+[9916] 05-06 01:42:27:712: Cleared notifier for hrasconn 0x10000 subentry 1
+[9916] 05-06 01:42:27:712: Cleared notifier for hrasconn 0x10000 subentry 1
+[9916] 05-06 01:42:27:712: Quitting s=2,e=800
+[9916] 05-06 01:42:27:712: GetLogonUser=Hoster
+[9916] 05-06 01:42:27:712: GetLogonDomain=obdWebEngine
+[7536] 05-06 01:42:27:712: RasHangUpW
+[7536] 05-06 01:42:27:712: IsRasmanServiceRunning=1
+[7536] 05-06 01:42:27:712: IsRasmanServiceRunning=1
+[9916] 05-06 01:42:27:743: Asyncmachine: Cleaning up
+[7536] 05-06 01:42:27:743: (HU) RasFindPrerequisiteEntry, 0x10000
+[7536] 05-06 01:42:27:790: (HU) RasFindPrerequisiteEntry, 0x10000. hConnPrereq=0x0, rc=0
+[7536] 05-06 01:42:27:883: (HUC) RasRefConnection(FALSE), 0x10000 ...
+[7536] 05-06 01:42:27:915: (HUC) RasRefConnection(FALSE), 0x10000. ref=0, rc=0
+[7536] 05-06 01:42:27:915: (HU) RasDestroyConnection(65536)...
+[7536] 05-06 01:42:28:086: (HU) RasDestroyConnection done(0)
+[9916] 05-06 01:42:28:086: RasDialCleanup...
+[9916] 05-06 01:42:28:086: CleanUpRasconncbNode
+[9916] 05-06 01:42:28:086: StopAsyncMachine
+[9916] 05-06 01:42:28:086: EnableAsyncMachine:Clear DialEvent for port:2 to NULL
+[9916] 05-06 01:42:28:117: (CU) RasProtocolStop...
+[9916] 05-06 01:42:28:164: (CU) RasProtocolStop done
+[9916] 05-06 01:42:28:164: DeleteRasconncbNodeCommon: prasconncb=0x4af9c0
+[9916] 05-06 01:42:28:164: CloseAsyncMachine
+[9916] 05-06 01:42:28:164: CleanUpRasconncbNode done
+[9916] 05-06 01:42:28:164: RasDialCleanUp done.
+[9916] 05-06 01:42:28:164: WaitForDialMachineEvent
+[9916] 05-06 01:42:28:164: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:28:195: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:28:195: ValidateDmContext:
+[9916] 05-06 01:42:28:195: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:28:195: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:195: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[9916] 05-06 01:42:28:195: AppendNewContextToQueue:
+[9916] 05-06 01:42:28:195: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:28:195: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:28:195: GetOneContextFromQueue
+[9916] 05-06 01:42:28:195: GetOneContextFromQueue: The context is:0x0048B34C,type=1
+[9916] 05-06 01:42:28:195: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:28:195: ValidateDmContext:
+[9916] 05-06 01:42:28:195: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:28:195: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:195: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[9916] 05-06 01:42:28:195: WaitForDialMachineEvent: Unblock i=0, h=0x48b314
+[9916] 05-06 01:42:28:195: Link dropped!
+[9916] 05-06 01:42:28:195: RasGetInfo...
+[9916] 05-06 01:42:28:227: RasGetInfo done(618)
+[9916] 05-06 01:42:28:227: Port was close because of 807
+[9916] 05-06 01:42:28:227: setting rasman state to 8193
+[9916] 05-06 01:42:28:305: Quitting s=8193,e=807
+[9916] 05-06 01:42:28:305: GetLogonUser=Hoster
+[9916] 05-06 01:42:28:305: GetLogonDomain=obdWebEngine
+[9916] 05-06 01:42:28:305: Asyncmachine: Cleaning up
+[9916] 05-06 01:42:28:305: RasDialCleanup...
+[9916] 05-06 01:42:28:305: CleanUpRasconncbNode
+[9916] 05-06 01:42:28:305: StopAsyncMachine
+[9916] 05-06 01:42:28:305: EnableAsyncMachine:Clear DialEvent for port:5 to NULL
+[9916] 05-06 01:42:28:336: (CU) RasProtocolStop...
+[9916] 05-06 01:42:28:383: (CU) RasProtocolStop done
+[9916] 05-06 01:42:28:383: DeleteRasconncbNodeCommon: prasconncb=0x48b308
+[9916] 05-06 01:42:28:383: CloseAsyncMachine
+[9916] 05-06 01:42:28:383: RemoveAsyncWorkItem: Calling RasEventLogUninitialize
+[9916] 05-06 01:42:28:383: CleanUpRasconncbNode done
+[9916] 05-06 01:42:28:383: RasDialCleanUp done.
+[9916] 05-06 01:42:28:383: WaitForDialMachineEvent
+[9916] 05-06 01:42:28:383: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:28:414: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:28:414: ValidateDmContext:
+[9916] 05-06 01:42:28:414: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:28:414: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:414: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[9916] 05-06 01:42:28:414: WaitForDialMachineEvent:last message from Rasman
+[9916] 05-06 01:42:28:414: AppendNewContextToQueue:
+[9916] 05-06 01:42:28:414: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:28:414: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:28:429: GetOneContextFromQueue
+[9916] 05-06 01:42:28:429: GetOneContextFromQueue: The context is:0x0048B3AC,type=4
+[9916] 05-06 01:42:28:429: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:28:429: ValidateDmContext:
+[9916] 05-06 01:42:28:429: ValidateDmContext: hrasconn block contains a different context pointer or type
+[9916] 05-06 01:42:28:429: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:429: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[9916] 05-06 01:42:28:429: WaitForEvent:Received OVEVT_DIAL_LAST
+[9916] 05-06 01:42:28:429: asyncmachine=0x48b314: last event for hport=5, freefunc()
+[9916] 05-06 01:42:28:429: RasDialFinalCleanup: deallocating prasconncb=0x48b308
+[9916] 05-06 01:42:28:429: FinalCleanUpRasconncbNode: deallocating prasconncb=0x48b308
+[9916] 05-06 01:42:28:429: FinalCleanUpRasconncbNode: 1 nodes remaining
+[9916] 05-06 01:42:28:429: FinalCleanUpRasconncbNode: Rasconnb blocks is not empty cannot call ShutdownAsyncMachine() to shut down dial machine
+[9916] 05-06 01:42:28:429: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:28:461: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:28:461: ValidateDmContext:
+[9916] 05-06 01:42:28:461: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:461: WaitForDialMachineEvent: pOverlapped=0x4afa04, type=1
+[9916] 05-06 01:42:28:461: AppendNewContextToQueue:
+[9916] 05-06 01:42:28:461: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:28:461: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:28:461: GetOneContextFromQueue
+[9916] 05-06 01:42:28:461: GetOneContextFromQueue: The context is:0x004AFA04,type=1
+[9916] 05-06 01:42:28:461: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:28:461: ValidateDmContext:
+[9916] 05-06 01:42:28:461: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:461: WaitForDialMachineEvent: pOverlapped=0x4afa04, type=1
+[9916] 05-06 01:42:28:461: Skipping completed asyncmachine pointer: 0x4af9cc
+[9916] 05-06 01:42:28:461: WaitForDialMachineEvent: event from rasman
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: a context received
+[9916] 05-06 01:42:28:492: ValidateDmContext:
+[9916] 05-06 01:42:28:492: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: pOverlapped=0x4afa64, type=4
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent:last message from Rasman
+[9916] 05-06 01:42:28:492: AppendNewContextToQueue:
+[9916] 05-06 01:42:28:492: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:28:492: GetOneContextFromQueue
+[9916] 05-06 01:42:28:492: GetOneContextFromQueue: The context is:0x004AFA64,type=4
+[9916] 05-06 01:42:28:492: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:28:492: ValidateDmContext:
+[9916] 05-06 01:42:28:492: ValidateDmContext: hrasconn block verification passed
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: pOverlapped=0x4afa64, type=4
+[9916] 05-06 01:42:28:492: WaitForEvent:Received OVEVT_DIAL_LAST
+[9916] 05-06 01:42:28:492: asyncmachine=0x4af9cc: last event for hport=2, freefunc()
+[9916] 05-06 01:42:28:492: RasDialFinalCleanup: deallocating prasconncb=0x4af9c0
+[9916] 05-06 01:42:28:492: FinalCleanUpRasconncbNode: deallocating prasconncb=0x4af9c0
+[9916] 05-06 01:42:28:492: FinalCleanUpRasconncbNode: 0 nodes remaining
+[9916] 05-06 01:42:28:492: ShutdownAsyncMachine: pOverlapped=0x7418d3a0
+[9916] 05-06 01:42:28:492: AppendNewContextToQueue:
+[9916] 05-06 01:42:28:492: AppendNewContextToQueue:Set Event:
+[9916] 05-06 01:42:28:492: ShutdownAsyncMachine: PostcontextToDialMachine() succeeds!
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: event from dial machine
+[9916] 05-06 01:42:28:492: GetOneContextFromQueue
+[9916] 05-06 01:42:28:492: GetOneContextFromQueue: The context is:0x7418D3A0,type=5
+[9916] 05-06 01:42:28:492: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: pOverlapped=0x7418d3a0, type=5
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: OVTEVT_DIAL_SHUTDOWN event received
+[9916] 05-06 01:42:28:492: WaitForDialMachineEvent: Unblock i=3, h=0x4af9cc
+[9916] 05-06 01:42:28:492: AsyncMachineWorker:WaitForDialMachineEvent failure:0x3eb
+[9916] 05-06 01:42:28:492: AsyncMachineWorker terminating
+[9916] 05-06 01:42:28:492: CleanUpContextQueue:
+[4856] 05-06 01:54:29:204: RasGetEntryHrasconn
+[4856] 05-06 01:54:29:204: IsRasmanServiceRunning=1
+[4856] 05-06 01:54:29:204: IsRasmanServiceRunning=1
+[4856] 05-06 01:54:29:324: RasDialW
+[4856] 05-06 01:54:29:324: IsRasmanServiceRunning=1
+[4856] 05-06 01:54:29:324: _RasDial(start)
+[4856] 05-06 01:54:29:324: GetPbkAndEntryName
+[4856] 05-06 01:54:29:324: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 8
+[4856] 05-06 01:54:29:324: IsPublicPhonebook=1
+[4856] 05-06 01:54:29:334: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4856] 05-06 01:54:29:334: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4856] 05-06 01:54:29:334:  IsVirtualizationNeeded: return value = 1
+
+[4856] 05-06 01:54:29:334: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[4856] 05-06 01:54:29:334: ReadRasFile: ReadEntryList returned 0
+[4856] 05-06 01:54:29:334: SyncMasterPhonebookFile:++
+[4856] 05-06 01:54:29:334: IsPublicPhonebook=1
+[4856] 05-06 01:54:29:334: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4856] 05-06 01:54:29:334: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4856] 05-06 01:54:29:334: ENTRY: Reading "Nokia VPN"
+[4856] 05-06 01:54:29:334: 
+Before LoadPortsList2 in ReadEntryList()
+[4856] 05-06 01:54:29:334: LoadPortsList2
+[4856] 05-06 01:54:29:334: GetRasPorts
+[4856] 05-06 01:54:29:334: RasPortEnum...
+[4856] 05-06 01:54:29:334: RasPortEnum=603,c=12
+[4856] 05-06 01:54:29:334: RasPortEnum...
+[4856] 05-06 01:54:29:334: RasPortEnum=0,c=12
+[4856] 05-06 01:54:29:334: RasGetDevConfig
+[4856] 05-06 01:54:29:334: RasGetDevConfig=603
+[4856] 05-06 01:54:29:334: RasGetDevConfig
+[4856] 05-06 01:54:29:334: RasGetDevConfig=0
+[4856] 05-06 01:54:29:334: SanitizeUnimodemBlob: mdm prot=0
+[4856] 05-06 01:54:29:334: Port=COM3,fHw=1,fEc=1,bps=115200,fSp=1,prot=0
+[4856] 05-06 01:54:29:334: StringCchCopy failed due to error 0x8007007a
+[4856] 05-06 01:54:29:334: RasGetDevConfig
+[4856] 05-06 01:54:29:334: RasGetDevConfig=603
+[4856] 05-06 01:54:29:334: RasGetDevConfig
+[4856] 05-06 01:54:29:334: RasGetDevConfig=0
+[4856] 05-06 01:54:29:334: SanitizeUnimodemBlob: mdm prot=0
+[4856] 05-06 01:54:29:334: Port=COM5,fHw=1,fEc=0,bps=460800,fSp=0,prot=0
+[4856] 05-06 01:54:29:334: StringCchCopy failed due to error 0x8007007a
+[4856] 05-06 01:54:29:334: RasGetDevConfig
+[4856] 05-06 01:54:29:334: RasGetDevConfig=603
+[4856] 05-06 01:54:29:334: RasGetDevConfig
+[4856] 05-06 01:54:29:334: RasGetDevConfig=0
+[4856] 05-06 01:54:29:334: SanitizeUnimodemBlob: mdm prot=0
+[4856] 05-06 01:54:29:334: Port=COM6,fHw=0,fEc=0,bps=115200,fSp=0,prot=0
+[4856] 05-06 01:54:29:334: StringCchCopy failed due to error 0x8007007a
+[4856] 05-06 01:54:29:334: LoadPortsList=0
+[4856] 05-06 01:54:29:334: successfully finished LoadPortsList2 in ReadEntryList()
+
+[4856] 05-06 01:54:29:334: Reading media group "rastapi"
+[4856] 05-06 01:54:29:334: New link format
+[4856] 05-06 01:54:29:334: 
+DUPTEST:Port in this media
+[4856] 05-06 01:54:29:334: Port=VPN1-0
+[4856] 05-06 01:54:29:334: 
+Trying to match the phonebook port in the system ports
+[4856] 05-06 01:54:29:334: Port configured
+[4856] 05-06 01:54:29:334: Reading device group "vpn"
+[4856] 05-06 01:54:29:334: Device List after deleting dupe
+[4856] 05-06 01:54:29:334: Device List after deleting dupe
+[4856] 05-06 01:54:29:334: ReadRasFile: ReadEntryList returned 0
+[4856] 05-06 01:54:29:334: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[4856] 05-06 01:54:29:334: WritePhonebookFile
+[4856] 05-06 01:54:29:334: ModifyEntryList: Number of connections written 0
+[4856] 05-06 01:54:29:334: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[4856] 05-06 01:54:29:334: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[4856] 05-06 01:54:29:334: RASSQM: In ReadPhonebookFile Number of alluser profiles set 1
+[4856] 05-06 01:54:29:334: ReadPhonebookFile returns 0
+[4856] 05-06 01:54:29:334: GetPbkAndEntryName. rc=0x0
+[4856] 05-06 01:54:29:334: looking up subentry 1
+[4856] 05-06 01:54:29:344: IsPublicPhonebook=1
+[4856] 05-06 01:54:29:344: RasGetDeviceName(rdt=15)...
+[4856] 05-06 01:54:29:344: RasGetDeviceName. 0x0
+[4856] 05-06 01:54:29:344: RasCreateConnection...
+[4856] 05-06 01:54:29:344: RasCreateConnection(0) hrasconn=131072, ConnectionAlreadyPresent=0
+[4856] 05-06 01:54:29:344: dwIdleDisconnectSeconds=-1
+[4856] 05-06 01:54:29:344: SaveProjectionResults...
+[4856] 05-06 01:54:29:344: SaveProjectionResults: saving results (dwSubEntry=0)
+[4856] 05-06 01:54:29:344: SaveProjectionResults(0)
+[4856] 05-06 01:54:29:344: GetInstalledProtocolsEx=0xc. 
+[4856] 05-06 01:54:29:344: StartAsyncMachine
+[4856] 05-06 01:54:29:344: InsertAsyncWorkItem: Calling RasEventLogInitialize
+[4856] 05-06 01:54:29:544: InitializeContextQueue: Invalid input parameter
+[4856] 05-06 01:54:29:544: starting subentry 1
+[4856] 05-06 01:54:29:544: SignalDone: pOverlapped=0x48b36c
+[4856] 05-06 01:54:29:544: AppendNewContextToQueue:
+[4856] 05-06 01:54:29:544: AppendNewContextToQueue:Set Event:
+[4856] 05-06 01:54:29:544: RasDialW done(0)
+[5492] 05-06 01:54:29:544: WaitForDialMachineEvent
+[5492] 05-06 01:54:29:544: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:29:544: GetOneContextFromQueue
+[5492] 05-06 01:54:29:544: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:29:544: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:29:544: ValidateDmContext:
+[5492] 05-06 01:54:29:544: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:29:544: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:29:544: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:29:544: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[5492] 05-06 01:54:29:544: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:29:544: GetLogonUser=Hoster
+[5492] 05-06 01:54:29:544: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:54:29:644: RASCS_OpenPort
+[5492] 05-06 01:54:29:644: DwOpenPort
+[5492] 05-06 01:54:29:644: RasGetDeviceName(rdt=15)...
+[5492] 05-06 01:54:29:664: RasGetDeviceName. 0x0
+[5492] 05-06 01:54:29:664: DwOpenPort: RasPortOpenEx(WAN Miniport (IKEv2),0)...
+[5492] 05-06 01:54:29:814: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[5492] 05-06 01:54:29:814: DwOpenPort: PortOpened = VPN1-1
+[5492] 05-06 01:54:29:814: DwOpenPort done. 0 (dwSavedError 0)
+[5492] 05-06 01:54:29:814: RasSetPortUserData(dialparamsuid) for 0
+[5492] 05-06 01:54:29:814: RasSetPortUserData returned 0
+[5492] 05-06 01:54:29:814: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x0
+[5492] 05-06 01:54:29:814: EnableAsyncMachine: hport=0, pasyncmachine=0x48b314, OvDrop=0x48b34c, OvStateChange=0x48b36c, OvProtocolEngine=0x48b38c, OvLast=0x48b3ac
+[5492] 05-06 01:54:29:814: EnableAsyncMachine:Set DialEvent to Something 
+
+[5492] 05-06 01:54:29:824: RasSetConnectionParams...
+[5492] 05-06 01:54:29:844: RasSetConnectionParams(0)
+[5492] 05-06 01:54:29:844: RasAddConnectionPort(Nokia VPN,1)...
+[5492] 05-06 01:54:29:844: RasAddConnectionPort(0)
+[5492] 05-06 01:54:29:844: RasDialMachine errors=0,0
+[5492] 05-06 01:54:29:844: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:54:29:844: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:54:29:844: AppendNewContextToQueue:
+[5492] 05-06 01:54:29:844: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:29:844: WaitForDialMachineEvent
+[5492] 05-06 01:54:29:844: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:29:844: GetOneContextFromQueue
+[5492] 05-06 01:54:29:844: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:29:844: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:29:844: ValidateDmContext:
+[5492] 05-06 01:54:29:844: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:29:844: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:29:844: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:29:844: setting rasman state to 1
+[5492] 05-06 01:54:29:844: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:54:29:844: RasGetSubEntryHandleW
+[7536] 05-06 01:54:29:844: IsRasmanServiceRunning=1
+[7536] 05-06 01:54:29:844: IsRasmanServiceRunning=1
+[5492] 05-06 01:54:29:844: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:29:844: RASCS_PortOpened
+[5492] 05-06 01:54:29:844: GetUserPreferences(m=0)
+[5492] 05-06 01:54:29:844: RegOpenKeyEx=2
+[5492] 05-06 01:54:29:844: GetUserPreferences=0
+[5492] 05-06 01:54:29:844: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:54:29:844: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:54:30:684: UpdateTunnelEndPointsInformation: Tunnel is over IPv4
+[5492] 05-06 01:54:33:030: UpdateTunnelEndPointsInformation: Lx: 123.237.140.18, Rx: 192.100.117.5
+[5492] 05-06 01:54:33:030: FindNextDevice: (vpn, WAN Miniport (IKEv2))
+[5492] 05-06 01:54:33:030: RasDialMachine errors=0,0
+[5492] 05-06 01:54:33:030: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:54:33:030: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:54:33:030: AppendNewContextToQueue:
+[5492] 05-06 01:54:33:030: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:33:030: WaitForDialMachineEvent
+[5492] 05-06 01:54:33:030: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:33:030: GetOneContextFromQueue
+[5492] 05-06 01:54:33:030: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:33:030: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:33:030: ValidateDmContext:
+[5492] 05-06 01:54:33:030: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:33:030: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:33:030: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:33:030: setting rasman state to 2
+[5492] 05-06 01:54:33:030: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:54:33:030: RasGetConnectStatusW
+[7536] 05-06 01:54:33:030: IsRasmanServiceRunning=1
+[7536] 05-06 01:54:33:030: IsRasmanServiceRunning=1
+[7536] 05-06 01:54:33:030: SubEntryFromConnection: hrasconn=0x20000, dwSubEntry=1
+[7536] 05-06 01:54:33:030: RasGetConnectStatus: read device (vpn,WAN Miniport (IKEv2)) from port user data
+[7536] 05-06 01:54:33:030: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[5492] 05-06 01:54:33:030: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:33:030: GetLogonUser=Hoster
+[5492] 05-06 01:54:33:030: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:54:33:124: RASCS_ConnectDevice
+[5492] 05-06 01:54:33:140: RasDeviceSetInfo done(0)
+[5492] 05-06 01:54:33:140: SetDeviceParamBinary for RDT_Tunnel_Ikev2
+[5492] 05-06 01:54:33:170: RDT_Tunnel_Ikev2: Setting TunnelID: 0x2, ifIndex=10
+[5492] 05-06 01:54:33:240: RasDeviceSetInfo(Binary) done(0)
+[5492] 05-06 01:54:33:240: SetDeviceParamBinary returned 0
+[5492] 05-06 01:54:33:240: RasDeviceSetInfo(Compartment=1)...
+[5492] 05-06 01:54:33:280: RasDeviceSetInfo done(0)
+[5492] 05-06 01:54:33:280: SetDeviceParams(rastapi, WAN Miniport (IKEv2), 0)
+[5492] 05-06 01:54:33:280: RasDeviceConnect(rastapi,WAN Miniport (IKEv2))...
+[5492] 05-06 01:54:33:550: RasDeviceConnect done(600)
+[5492] 05-06 01:54:33:550: RasDialMachine errors=600,0
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:54:33:550: ValidateDmContext:
+[5492] 05-06 01:54:33:550: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:33:550: AppendNewContextToQueue:
+[5492] 05-06 01:54:33:550: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:33:550: GetOneContextFromQueue
+[5492] 05-06 01:54:33:550: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:33:550: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:33:550: ValidateDmContext:
+[5492] 05-06 01:54:33:550: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:33:550: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:33:550: RasGetInfo...
+[5492] 05-06 01:54:33:550: RasGetInfo done(0)
+[5492] 05-06 01:54:33:550: setting rasman state to 3
+[5492] 05-06 01:54:33:550: NotifyCaller(nt=0x2,su=1,s=3,e=0,xe=0)...
+[5492] 05-06 01:54:33:550: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:33:550: GetLogonUser=Hoster
+[5492] 05-06 01:54:33:550: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:54:33:590: RASCS_DeviceConnected
+[5492] 05-06 01:54:33:590: SaveVpnStrategyInformation...
+[5492] 05-06 01:54:33:590: Saving 8 as the vpn strategy
+[5492] 05-06 01:54:33:590: SaveVpnStrategyInformation done
+[5492] 05-06 01:54:33:590: RasDialMachine errors=0,0
+[5492] 05-06 01:54:33:590: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:54:33:590: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:54:33:590: AppendNewContextToQueue:
+[5492] 05-06 01:54:33:590: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:33:590: WaitForDialMachineEvent
+[5492] 05-06 01:54:33:590: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:33:590: GetOneContextFromQueue
+[5492] 05-06 01:54:33:590: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:33:590: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:33:590: ValidateDmContext:
+[5492] 05-06 01:54:33:590: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:33:590: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:33:590: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:33:590: setting rasman state to 4
+[5492] 05-06 01:54:33:670: NotifyCaller(nt=0x2,su=1,s=4,e=0,xe=0)...
+[5492] 05-06 01:54:33:670: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:33:670: GetLogonUser=Hoster
+[5492] 05-06 01:54:33:670: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:54:33:700: RASCS_AllDevicesConnected
+[5492] 05-06 01:54:33:700: RasPortConnectComplete...
+[5492] 05-06 01:54:33:760: RasPortConnectComplete done(0)
+[5492] 05-06 01:54:33:760: RasDialMachine errors=0,0
+[5492] 05-06 01:54:33:760: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:54:33:760: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:54:33:760: AppendNewContextToQueue:
+[5492] 05-06 01:54:33:760: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:33:760: WaitForDialMachineEvent
+[5492] 05-06 01:54:33:760: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:33:760: GetOneContextFromQueue
+[5492] 05-06 01:54:33:760: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:33:760: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:33:760: ValidateDmContext:
+[5492] 05-06 01:54:33:760: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:33:760: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:33:760: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:33:760: setting rasman state to 5
+[5492] 05-06 01:54:33:760: NotifyCaller(nt=0x2,su=1,s=5,e=0,xe=0)...
+[5492] 05-06 01:54:33:760: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:33:760: RASCS_Authenticate
+[5492] 05-06 01:54:33:760: RasPortSetFramingEx...
+[5492] 05-06 01:54:33:760: RasPortSetFramingEx done(0)
+[5492] 05-06 01:54:33:760: subentry 1 has suspend state 0
+[5492] 05-06 01:54:33:760: subentry 1 suspending all other subentries
+[5492] 05-06 01:54:33:760: UpdateProtocolConfigInfoFromEntry: Auth changed to Default EAP from PAP/CHAP/MSCHAPv2 for IKEv2
+[5492] 05-06 01:54:33:760: eapPropHiddenMethod property is set for the EAP method: "Microsoft: Windows Connect Now EAP Peer". Hence, Not added to the UI.
+[5492] 05-06 01:54:33:760: GetUserPreferences(m=0)
+[5492] 05-06 01:54:33:760: RegOpenKeyEx=2
+[5492] 05-06 01:54:33:760: GetUserPreferences=0
+[5492] 05-06 01:54:33:760: UpdateProtocolConfigInfoFromEntry: Using default eap method EAP-MSCHAPv2
+[5492] 05-06 01:54:33:790: SetEapInfo: Using default eap method EAP-MSCHAPv2
+[5492] 05-06 01:54:33:830: RasSetEapInfo returned = 0, dwConfigDataSize 8
+[5492] 05-06 01:54:33:830: RasProtocolStart(cfg=134255240)...
+[5492] 05-06 01:54:34:030: RasProtocolStart done(0)
+[5492] 05-06 01:54:34:030: RasDialMachine errors=0,0
+[5492] 05-06 01:54:34:030: WaitForDialMachineEvent
+[5492] 05-06 01:54:35:040: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:54:35:100: ValidateDmContext:
+[5492] 05-06 01:54:35:100: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: pOverlapped=0x48b38c, type=3
+[5492] 05-06 01:54:35:100: AppendNewContextToQueue:
+[5492] 05-06 01:54:35:100: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:35:100: GetOneContextFromQueue
+[5492] 05-06 01:54:35:100: GetOneContextFromQueue: The context is:0x0048B38C,type=3
+[5492] 05-06 01:54:35:100: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:35:100: ValidateDmContext:
+[5492] 05-06 01:54:35:100: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: pOverlapped=0x48b38c, type=3
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: Unblock i=2, h=0x48b314
+[5492] 05-06 01:54:35:100: setting rasman state to 6
+[5492] 05-06 01:54:35:100: NotifyCaller(nt=0x2,su=1,s=6,e=0,xe=0)...
+[5492] 05-06 01:54:35:100: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:35:100: RASCS_AuthNotify
+[5492] 05-06 01:54:35:100: RasProtocolGetInfo...
+[5492] 05-06 01:54:35:100: RasProtocolGetInfo done(0), msgId=1
+[5492] 05-06 01:54:35:100: RasDialMachine errors=13885,0
+[5492] 05-06 01:54:35:100: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:54:35:100: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:54:35:100: AppendNewContextToQueue:
+[5492] 05-06 01:54:35:100: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:35:100: GetOneContextFromQueue
+[5492] 05-06 01:54:35:100: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:54:35:100: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:35:100: ValidateDmContext:
+[5492] 05-06 01:54:35:100: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:54:35:100: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:54:35:100: RasDialTryNextVpnDevice...
+[5492] 05-06 01:54:35:100: StartAsyncMachine
+[5492] 05-06 01:54:35:100: RasDialTryNextVpnDevice: Replacing 0x48b308 with 0x4b7aa0
+[5492] 05-06 01:54:35:100: RasDialTryNextVpnDevice: RasPortDisconnect(0)...
+[5492] 05-06 01:54:35:300: RasDialTryNextVpnDevice: RasPortDisconnect done(0)
+[5492] 05-06 01:54:35:300: RasDialTryNextVpnDevice: RasPortClose(0)...
+[5492] 05-06 01:54:35:300: RasDialTryNextVpnDevice: RasPortClose done(0)
+[5492] 05-06 01:54:35:300: (ER) RasProtocolStop...
+[5492] 05-06 01:54:35:300: (ER) RasProtocolStop done
+[5492] 05-06 01:54:35:300: RasDialTryNextVpnDevice done(0)
+[5492] 05-06 01:54:35:300: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[5492] 05-06 01:54:35:300: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:35:300: GetLogonUser=Hoster
+[5492] 05-06 01:54:35:300: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:54:35:300: Failed to ReportError for event (1): GetLastError(0)
+[5492] 05-06 01:54:35:300: RASCS_OpenPort
+[5492] 05-06 01:54:35:300: DwOpenPort
+[5492] 05-06 01:54:35:300: RasGetDeviceName(rdt=14)...
+[5492] 05-06 01:54:35:300: RasGetDeviceName. 0x0
+[5492] 05-06 01:54:35:300: DwOpenPort: RasPortOpenEx(WAN Miniport (SSTP),0)...
+[5492] 05-06 01:54:35:310: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[5492] 05-06 01:54:35:310: DwOpenPort: PortOpened = VPN0-1
+[5492] 05-06 01:54:35:310: DwOpenPort done. 0 (dwSavedError 13885)
+[5492] 05-06 01:54:35:310: RasSetPortUserData(dialparamsuid) for 7
+[5492] 05-06 01:54:35:310: RasSetPortUserData returned 0
+[5492] 05-06 01:54:35:310: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x7
+[5492] 05-06 01:54:35:310: EnableAsyncMachine: hport=7, pasyncmachine=0x4b7aac, OvDrop=0x4b7ae4, OvStateChange=0x4b7b04, OvProtocolEngine=0x4b7b24, OvLast=0x4b7b44
+[5492] 05-06 01:54:35:310: EnableAsyncMachine:Set DialEvent to Something 
+
+[5492] 05-06 01:54:35:310: RasSetConnectionParams...
+[5492] 05-06 01:54:35:310: RasSetConnectionParams(0)
+[5492] 05-06 01:54:35:310: RasAddConnectionPort(Nokia VPN,1)...
+[5492] 05-06 01:54:35:310: RasAddConnectionPort(0)
+[5492] 05-06 01:54:35:310: RasDialMachine errors=0,0
+[5492] 05-06 01:54:35:310: RasDialMachine: SignalDone: prasconncb=0x4b7aa0
+[5492] 05-06 01:54:35:310: SignalDone: pOverlapped=0x4b7b04
+[5492] 05-06 01:54:35:310: AppendNewContextToQueue:
+[5492] 05-06 01:54:35:310: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:35:310: GetOneContextFromQueue
+[5492] 05-06 01:54:35:310: GetOneContextFromQueue: The context is:0x004B7B04,type=2
+[5492] 05-06 01:54:35:310: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:35:310: ValidateDmContext:
+[5492] 05-06 01:54:35:310: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent: pOverlapped=0x4b7b04, type=2
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent: Unblock i=1, h=0x4b7aac
+[5492] 05-06 01:54:35:310: setting rasman state to 1
+[5492] 05-06 01:54:35:310: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:54:35:310: RasGetSubEntryHandleW
+[7536] 05-06 01:54:35:310: IsRasmanServiceRunning=1
+[7536] 05-06 01:54:35:310: IsRasmanServiceRunning=1
+[5492] 05-06 01:54:35:310: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:35:310: RASCS_PortOpened
+[5492] 05-06 01:54:35:310: GetUserPreferences(m=0)
+[5492] 05-06 01:54:35:310: RegOpenKeyEx=2
+[5492] 05-06 01:54:35:310: GetUserPreferences=0
+[5492] 05-06 01:54:35:310: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:54:35:310: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:54:35:310: FindNextDevice: (vpn, WAN Miniport (SSTP))
+[5492] 05-06 01:54:35:310: RasDialMachine errors=0,0
+[5492] 05-06 01:54:35:310: RasDialMachine: SignalDone: prasconncb=0x4b7aa0
+[5492] 05-06 01:54:35:310: SignalDone: pOverlapped=0x4b7b04
+[5492] 05-06 01:54:35:310: AppendNewContextToQueue:
+[5492] 05-06 01:54:35:310: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:35:310: GetOneContextFromQueue
+[5492] 05-06 01:54:35:310: GetOneContextFromQueue: The context is:0x004B7B04,type=2
+[5492] 05-06 01:54:35:310: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:35:310: ValidateDmContext:
+[5492] 05-06 01:54:35:310: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent: pOverlapped=0x4b7b04, type=2
+[5492] 05-06 01:54:35:310: WaitForDialMachineEvent: Unblock i=1, h=0x4b7aac
+[5492] 05-06 01:54:35:310: setting rasman state to 2
+[5492] 05-06 01:54:35:310: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:54:35:310: RasGetConnectStatusW
+[7536] 05-06 01:54:35:310: IsRasmanServiceRunning=1
+[7536] 05-06 01:54:35:310: IsRasmanServiceRunning=1
+[7536] 05-06 01:54:35:310: SubEntryFromConnection: hrasconn=0x20000, dwSubEntry=1
+[7536] 05-06 01:54:35:310: RasGetConnectStatus: read device (vpn,WAN Miniport (SSTP)) from port user data
+[7536] 05-06 01:54:35:310: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[5492] 05-06 01:54:35:310: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:54:35:310: GetLogonUser=Hoster
+[5492] 05-06 01:54:35:310: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:54:35:340: RASCS_ConnectDevice
+[5492] 05-06 01:54:35:380: RasDeviceSetInfo done(0)
+[5492] 05-06 01:54:35:380: SetDeviceParamBinary for RDT_Tunnel_Sstp
+[5492] 05-06 01:54:35:380: GUID is 5432e75d-4689-4c40
+[5492] 05-06 01:54:44:991: GetSstpDestinationInfo completes with 0: Proxy Query Status: 12167 DestInfoSize: 104
+[5492] 05-06 01:54:44:991: GetSstpDestinationInfo completes with CorrelationID length 16.GUID is 5432e75d-4689-4c40
+[5492] 05-06 01:54:45:001: RasDeviceSetInfo(Binary) done(0)
+[5492] 05-06 01:54:45:001: SetDeviceParamBinary returned 0
+[5492] 05-06 01:54:45:001: RasDeviceSetInfo(Compartment=1)...
+[5492] 05-06 01:54:45:041: RasDeviceSetInfo done(0)
+[5492] 05-06 01:54:45:041: SetDeviceParams(rastapi, WAN Miniport (SSTP), 0)
+[5492] 05-06 01:54:45:041: RasDeviceConnect(rastapi,WAN Miniport (SSTP))...
+[5492] 05-06 01:54:45:271: RasDeviceConnect done(600)
+[5492] 05-06 01:54:45:271: RasDialMachine errors=600,0
+[5492] 05-06 01:54:45:271: WaitForDialMachineEvent
+[5492] 05-06 01:54:45:271: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:54:45:311: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:54:45:311: ValidateDmContext:
+[5492] 05-06 01:54:45:311: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:54:45:311: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:45:311: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[5492] 05-06 01:54:45:311: AppendNewContextToQueue:
+[5492] 05-06 01:54:45:311: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:45:311: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:45:311: GetOneContextFromQueue
+[5492] 05-06 01:54:45:311: GetOneContextFromQueue: The context is:0x0048B34C,type=1
+[5492] 05-06 01:54:45:311: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:45:311: ValidateDmContext:
+[5492] 05-06 01:54:45:311: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:54:45:311: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:45:311: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[5492] 05-06 01:54:45:311: WaitForDialMachineEvent: Unblock i=0, h=0x48b314
+[5492] 05-06 01:54:45:311: Link dropped!
+[5492] 05-06 01:54:45:311: RasGetInfo...
+[5492] 05-06 01:54:45:351: RasGetInfo done(618)
+[5492] 05-06 01:54:45:351: Port was close because of 13885
+[5492] 05-06 01:54:45:351: setting rasman state to 8193
+[5492] 05-06 01:54:45:481: Quitting s=8193,e=13885
+[5492] 05-06 01:54:45:481: Asyncmachine: Cleaning up
+[5492] 05-06 01:54:45:481: RasDialCleanup...
+[5492] 05-06 01:54:45:481: CleanUpRasconncbNode
+[5492] 05-06 01:54:45:481: StopAsyncMachine
+[5492] 05-06 01:54:45:481: EnableAsyncMachine:Clear DialEvent for port:0 to NULL
+[5492] 05-06 01:54:45:541: (CU) RasProtocolStop...
+[5492] 05-06 01:54:45:581: (CU) RasProtocolStop done
+[5492] 05-06 01:54:45:581: DeleteRasconncbNodeCommon: prasconncb=0x48b308
+[5492] 05-06 01:54:45:581: CloseAsyncMachine
+[5492] 05-06 01:54:45:581: CleanUpRasconncbNode done
+[5492] 05-06 01:54:45:581: RasDialCleanUp done.
+[5492] 05-06 01:54:45:581: WaitForDialMachineEvent
+[5492] 05-06 01:54:45:581: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:54:45:621: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:54:45:621: ValidateDmContext:
+[5492] 05-06 01:54:45:621: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:54:45:621: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:45:621: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[5492] 05-06 01:54:45:621: WaitForDialMachineEvent:last message from Rasman
+[5492] 05-06 01:54:45:621: AppendNewContextToQueue:
+[5492] 05-06 01:54:45:621: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:54:45:621: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:54:45:621: GetOneContextFromQueue
+[5492] 05-06 01:54:45:621: GetOneContextFromQueue: The context is:0x0048B3AC,type=4
+[5492] 05-06 01:54:45:621: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:54:45:621: ValidateDmContext:
+[5492] 05-06 01:54:45:621: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:54:45:621: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:54:45:621: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[5492] 05-06 01:54:45:621: WaitForEvent:Received OVEVT_DIAL_LAST
+[5492] 05-06 01:54:45:621: asyncmachine=0x48b314: last event for hport=0, freefunc()
+[5492] 05-06 01:54:45:621: RasDialFinalCleanup: deallocating prasconncb=0x48b308
+[5492] 05-06 01:54:45:621: FinalCleanUpRasconncbNode: deallocating prasconncb=0x48b308
+[5492] 05-06 01:54:45:621: FinalCleanUpRasconncbNode: 1 nodes remaining
+[5492] 05-06 01:54:45:621: FinalCleanUpRasconncbNode: Rasconnb blocks is not empty cannot call ShutdownAsyncMachine() to shut down dial machine
+[5492] 05-06 01:55:01:156: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:01:166: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:01:166: ValidateDmContext:
+[5492] 05-06 01:55:01:166: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:01:166: WaitForDialMachineEvent: pOverlapped=0x4b7b04, type=2
+[5492] 05-06 01:55:01:166: AppendNewContextToQueue:
+[5492] 05-06 01:55:01:166: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:01:166: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:01:166: GetOneContextFromQueue
+[5492] 05-06 01:55:01:166: GetOneContextFromQueue: The context is:0x004B7B04,type=2
+[5492] 05-06 01:55:01:166: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:01:166: ValidateDmContext:
+[5492] 05-06 01:55:01:166: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:01:166: WaitForDialMachineEvent: pOverlapped=0x4b7b04, type=2
+[5492] 05-06 01:55:01:166: WaitForDialMachineEvent: Unblock i=1, h=0x4b7aac
+[5492] 05-06 01:55:01:166: RasGetInfo...
+[5492] 05-06 01:55:01:196: RasGetInfo done(0)
+[5492] 05-06 01:55:01:196: Async failure=-2147023660
+[5492] 05-06 01:55:01:196: RDM: Marking port 7 for closure in RASCS = 2
+[5492] 05-06 01:55:01:196: RasDialTryNextVpnDevice...
+[5492] 05-06 01:55:01:196: StartAsyncMachine
+[5492] 05-06 01:55:01:196: RasDialTryNextVpnDevice: Replacing 0x4b7aa0 with 0x48b308
+[5492] 05-06 01:55:01:196: RasDialTryNextVpnDevice: RasPortDisconnect(7)...
+[5492] 05-06 01:55:01:546: RasDialTryNextVpnDevice: RasPortDisconnect done(0)
+[5492] 05-06 01:55:01:546: RasDialTryNextVpnDevice: RasPortClose(7)...
+[5492] 05-06 01:55:01:606: RasDialTryNextVpnDevice: RasPortClose done(0)
+[5492] 05-06 01:55:01:606: (ER) RasProtocolStop...
+[5492] 05-06 01:55:01:606: (ER) RasProtocolStop done
+[5492] 05-06 01:55:01:606: RasDialTryNextVpnDevice done(0)
+[5492] 05-06 01:55:01:606: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[5492] 05-06 01:55:01:606: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:55:01:606: RDM: PortClose -1 ...
+[5492] 05-06 01:55:01:606: RDM: PortClose -1 Completed. 615
+[5492] 05-06 01:55:01:606: GetLogonUser=Hoster
+[5492] 05-06 01:55:01:606: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:55:01:606: Failed to ReportError for event (1): GetLastError(0)
+[5492] 05-06 01:55:01:606: RASCS_OpenPort
+[5492] 05-06 01:55:01:606: DwOpenPort
+[5492] 05-06 01:55:01:606: RasGetDeviceName(rdt=8)...
+[5492] 05-06 01:55:01:606: RasGetDeviceName. 0x0
+[5492] 05-06 01:55:01:606: DwOpenPort: RasPortOpenEx(WAN Miniport (PPTP),0)...
+[5492] 05-06 01:55:01:616: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[5492] 05-06 01:55:01:616: DwOpenPort: PortOpened = VPN3-1
+[5492] 05-06 01:55:01:616: DwOpenPort done. 0 (dwSavedError -2147023660)
+[5492] 05-06 01:55:01:616: RasSetPortUserData(dialparamsuid) for 5
+[5492] 05-06 01:55:01:616: RasSetPortUserData returned 0
+[5492] 05-06 01:55:01:616: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x5
+[5492] 05-06 01:55:01:616: EnableAsyncMachine: hport=5, pasyncmachine=0x48b314, OvDrop=0x48b34c, OvStateChange=0x48b36c, OvProtocolEngine=0x48b38c, OvLast=0x48b3ac
+[5492] 05-06 01:55:01:616: EnableAsyncMachine:Set DialEvent to Something 
+
+[5492] 05-06 01:55:01:616: RasSetConnectionParams...
+[5492] 05-06 01:55:01:616: RasSetConnectionParams(0)
+[5492] 05-06 01:55:01:616: RasAddConnectionPort(Nokia VPN,1)...
+[5492] 05-06 01:55:01:616: RasAddConnectionPort(0)
+[5492] 05-06 01:55:01:616: RasDialMachine errors=0,0
+[5492] 05-06 01:55:01:616: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:55:01:616: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:55:01:616: AppendNewContextToQueue:
+[5492] 05-06 01:55:01:616: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:01:616: WaitForDialMachineEvent
+[5492] 05-06 01:55:01:616: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:01:616: GetOneContextFromQueue
+[5492] 05-06 01:55:01:616: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:55:01:616: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:01:616: ValidateDmContext:
+[5492] 05-06 01:55:01:616: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:01:616: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:55:01:616: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:55:01:616: setting rasman state to 1
+[5492] 05-06 01:55:01:616: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:55:01:616: RasGetSubEntryHandleW
+[7536] 05-06 01:55:01:616: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:01:616: IsRasmanServiceRunning=1
+[5492] 05-06 01:55:01:616: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:55:01:616: RASCS_PortOpened
+[5492] 05-06 01:55:01:616: GetUserPreferences(m=0)
+[5492] 05-06 01:55:01:616: RegOpenKeyEx=2
+[5492] 05-06 01:55:01:616: GetUserPreferences=0
+[5492] 05-06 01:55:01:616: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:55:01:616: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:55:01:666: UpdateTunnelEndPointsInformation: Tunnel is over IPv4
+[5492] 05-06 01:55:02:340: UpdateTunnelEndPointsInformation: Lx: 123.237.140.18, Rx: 192.100.117.5
+[5492] 05-06 01:55:02:360: FindNextDevice: (vpn, WAN Miniport (PPTP))
+[5492] 05-06 01:55:02:420: RasDialMachine errors=0,0
+[5492] 05-06 01:55:02:420: RasDialMachine: SignalDone: prasconncb=0x48b308
+[5492] 05-06 01:55:02:420: SignalDone: pOverlapped=0x48b36c
+[5492] 05-06 01:55:02:420: AppendNewContextToQueue:
+[5492] 05-06 01:55:02:420: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:02:420: WaitForDialMachineEvent
+[5492] 05-06 01:55:02:420: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:02:420: GetOneContextFromQueue
+[5492] 05-06 01:55:02:420: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:55:02:420: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:02:420: ValidateDmContext:
+[5492] 05-06 01:55:02:420: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:02:420: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:55:02:420: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:55:02:420: setting rasman state to 2
+[5492] 05-06 01:55:02:500: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:55:02:500: RasGetConnectStatusW
+[7536] 05-06 01:55:02:500: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:02:500: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:02:540: SubEntryFromConnection: hrasconn=0x20000, dwSubEntry=1
+[7536] 05-06 01:55:03:020: RasGetConnectStatus: read device (vpn,WAN Miniport (PPTP)) from port user data
+[7536] 05-06 01:55:03:100: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[5492] 05-06 01:55:03:170: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:55:03:170: GetLogonUser=Hoster
+[5492] 05-06 01:55:03:170: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:55:03:210: RASCS_ConnectDevice
+[5492] 05-06 01:55:03:250: RasDeviceSetInfo done(0)
+[5492] 05-06 01:55:03:250: SetDeviceParamBinary for RDT_Tunnel_Pptp
+[5492] 05-06 01:55:03:250: GUID is 5432e75d-4689-4c40
+[5492] 05-06 01:55:03:290: RasDeviceSetInfo(Binary) done(0)
+[5492] 05-06 01:55:03:290: SetDeviceParamBinary returned 0
+[5492] 05-06 01:55:03:290: RasDeviceSetInfo(Compartment=1)...
+[5492] 05-06 01:55:03:330: RasDeviceSetInfo done(0)
+[5492] 05-06 01:55:03:340: SetDeviceParams(rastapi, WAN Miniport (PPTP), 0)
+[5492] 05-06 01:55:03:340: RasDeviceConnect(rastapi,WAN Miniport (PPTP))...
+[5492] 05-06 01:55:03:750: RasDeviceConnect done(600)
+[5492] 05-06 01:55:03:750: RasDialMachine errors=600,0
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:03:750: ValidateDmContext:
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: pOverlapped=0x4b7ae4, type=1
+[5492] 05-06 01:55:03:750: AppendNewContextToQueue:
+[5492] 05-06 01:55:03:750: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:03:750: GetOneContextFromQueue
+[5492] 05-06 01:55:03:750: GetOneContextFromQueue: The context is:0x004B7AE4,type=1
+[5492] 05-06 01:55:03:750: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:03:750: ValidateDmContext:
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: pOverlapped=0x4b7ae4, type=1
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: Unblock i=0, h=0x4b7aac
+[5492] 05-06 01:55:03:750: Link dropped!
+[5492] 05-06 01:55:03:750: RasGetInfo...
+[5492] 05-06 01:55:03:750: RasGetInfo done(618)
+[5492] 05-06 01:55:03:750: Port was close because of -2147023660
+[5492] 05-06 01:55:03:750: setting rasman state to 8193
+[5492] 05-06 01:55:03:750: Quitting s=8193,e=-2147023660
+[5492] 05-06 01:55:03:750: Asyncmachine: Cleaning up
+[5492] 05-06 01:55:03:750: RasDialCleanup...
+[5492] 05-06 01:55:03:750: CleanUpRasconncbNode
+[5492] 05-06 01:55:03:750: StopAsyncMachine
+[5492] 05-06 01:55:03:750: EnableAsyncMachine:Clear DialEvent for port:7 to NULL
+[5492] 05-06 01:55:03:750: (CU) RasProtocolStop...
+[5492] 05-06 01:55:03:750: (CU) RasProtocolStop done
+[5492] 05-06 01:55:03:750: DeleteRasconncbNodeCommon: prasconncb=0x4b7aa0
+[5492] 05-06 01:55:03:750: CloseAsyncMachine
+[5492] 05-06 01:55:03:750: CleanUpRasconncbNode done
+[5492] 05-06 01:55:03:750: RasDialCleanUp done.
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:03:750: ValidateDmContext:
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: pOverlapped=0x4b7b44, type=4
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent:last message from Rasman
+[5492] 05-06 01:55:03:750: AppendNewContextToQueue:
+[5492] 05-06 01:55:03:750: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:03:750: GetOneContextFromQueue
+[5492] 05-06 01:55:03:750: GetOneContextFromQueue: The context is:0x004B7B44,type=4
+[5492] 05-06 01:55:03:750: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:03:750: ValidateDmContext:
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:03:750: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:03:750: WaitForDialMachineEvent: pOverlapped=0x4b7b44, type=4
+[5492] 05-06 01:55:03:750: WaitForEvent:Received OVEVT_DIAL_LAST
+[5492] 05-06 01:55:03:750: asyncmachine=0x4b7aac: last event for hport=7, freefunc()
+[5492] 05-06 01:55:03:750: RasDialFinalCleanup: deallocating prasconncb=0x4b7aa0
+[5492] 05-06 01:55:03:750: FinalCleanUpRasconncbNode: deallocating prasconncb=0x4b7aa0
+[5492] 05-06 01:55:03:750: FinalCleanUpRasconncbNode: 1 nodes remaining
+[5492] 05-06 01:55:03:750: FinalCleanUpRasconncbNode: Rasconnb blocks is not empty cannot call ShutdownAsyncMachine() to shut down dial machine
+[5492] 05-06 01:55:24:678: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:24:694: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:24:694: ValidateDmContext:
+[5492] 05-06 01:55:24:694: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:24:694: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:55:24:694: AppendNewContextToQueue:
+[5492] 05-06 01:55:24:694: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:24:694: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:24:694: GetOneContextFromQueue
+[5492] 05-06 01:55:24:694: GetOneContextFromQueue: The context is:0x0048B36C,type=2
+[5492] 05-06 01:55:24:694: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:24:694: ValidateDmContext:
+[5492] 05-06 01:55:24:694: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:24:694: WaitForDialMachineEvent: pOverlapped=0x48b36c, type=2
+[5492] 05-06 01:55:24:694: WaitForDialMachineEvent: Unblock i=1, h=0x48b314
+[5492] 05-06 01:55:24:694: RasGetInfo...
+[5492] 05-06 01:55:24:694: RasGetInfo done(0)
+[5492] 05-06 01:55:24:694: Async failure=807
+[5492] 05-06 01:55:24:694: RDM: Marking port 5 for closure in RASCS = 2
+[5492] 05-06 01:55:24:694: RasDialTryNextVpnDevice...
+[5492] 05-06 01:55:24:694: StartAsyncMachine
+[5492] 05-06 01:55:24:694: RasDialTryNextVpnDevice: Replacing 0x48b308 with 0x4ae970
+[5492] 05-06 01:55:24:694: RasDialTryNextVpnDevice: RasPortDisconnect(5)...
+[5492] 05-06 01:55:25:396: RasDialTryNextVpnDevice: RasPortDisconnect done(0)
+[5492] 05-06 01:55:25:396: RasDialTryNextVpnDevice: RasPortClose(5)...
+[5492] 05-06 01:55:25:396: RasDialTryNextVpnDevice: RasPortClose done(0)
+[5492] 05-06 01:55:25:396: (ER) RasProtocolStop...
+[5492] 05-06 01:55:25:461: (ER) RasProtocolStop done
+[5492] 05-06 01:55:25:461: RasDialTryNextVpnDevice done(0)
+[5492] 05-06 01:55:25:461: NotifyCaller(nt=0x2,su=1,s=0,e=0,xe=0)...
+[5492] 05-06 01:55:25:461: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:55:25:461: RDM: PortClose -1 ...
+[5492] 05-06 01:55:25:492: RDM: PortClose -1 Completed. 615
+[5492] 05-06 01:55:25:492: GetLogonUser=Hoster
+[5492] 05-06 01:55:25:492: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:55:25:492: Failed to ReportError for event (1): GetLastError(0)
+[5492] 05-06 01:55:25:492: RASCS_OpenPort
+[5492] 05-06 01:55:25:492: DwOpenPort
+[5492] 05-06 01:55:25:492: RasGetDeviceName(rdt=9)...
+[5492] 05-06 01:55:25:539: RasGetDeviceName. 0x0
+[5492] 05-06 01:55:25:539: DwOpenPort: RasPortOpenEx(WAN Miniport (L2TP),0)...
+[5492] 05-06 01:55:25:695: DwOpenPort: RasPortOpenEx done(0). Flags=0x2
+[5492] 05-06 01:55:25:695: DwOpenPort: PortOpened = VPN2-1
+[5492] 05-06 01:55:25:695: DwOpenPort done. 0 (dwSavedError 807)
+[5492] 05-06 01:55:25:695: RasSetPortUserData(dialparamsuid) for 2
+[5492] 05-06 01:55:25:695: RasSetPortUserData returned 0
+[5492] 05-06 01:55:25:695: RasDialMachine:EnableAsyncMachien for  RASCS_OpenPort for port:0x2
+[5492] 05-06 01:55:25:695: EnableAsyncMachine: hport=2, pasyncmachine=0x4ae97c, OvDrop=0x4ae9b4, OvStateChange=0x4ae9d4, OvProtocolEngine=0x4ae9f4, OvLast=0x4aea14
+[5492] 05-06 01:55:25:695: EnableAsyncMachine:Set DialEvent to Something 
+
+[5492] 05-06 01:55:25:695: RasSetConnectionParams...
+[5492] 05-06 01:55:25:695: RasSetConnectionParams(0)
+[5492] 05-06 01:55:25:695: RasAddConnectionPort(Nokia VPN,1)...
+[5492] 05-06 01:55:25:695: RasAddConnectionPort(0)
+[5492] 05-06 01:55:25:695: RasDialMachine errors=0,0
+[5492] 05-06 01:55:25:695: RasDialMachine: SignalDone: prasconncb=0x4ae970
+[5492] 05-06 01:55:25:695: SignalDone: pOverlapped=0x4ae9d4
+[5492] 05-06 01:55:25:695: AppendNewContextToQueue:
+[5492] 05-06 01:55:25:695: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:25:695: WaitForDialMachineEvent
+[5492] 05-06 01:55:25:695: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:25:695: GetOneContextFromQueue
+[5492] 05-06 01:55:25:695: GetOneContextFromQueue: The context is:0x004AE9D4,type=2
+[5492] 05-06 01:55:25:695: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:25:695: ValidateDmContext:
+[5492] 05-06 01:55:25:695: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:25:695: WaitForDialMachineEvent: pOverlapped=0x4ae9d4, type=2
+[5492] 05-06 01:55:25:695: WaitForDialMachineEvent: Unblock i=1, h=0x4ae97c
+[5492] 05-06 01:55:25:695: setting rasman state to 1
+[5492] 05-06 01:55:25:695: NotifyCaller(nt=0x2,su=1,s=1,e=0,xe=0)...
+[7536] 05-06 01:55:25:695: RasGetSubEntryHandleW
+[7536] 05-06 01:55:25:695: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:25:695: IsRasmanServiceRunning=1
+[5492] 05-06 01:55:25:710: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:55:25:710: RASCS_PortOpened
+[5492] 05-06 01:55:25:710: GetUserPreferences(m=0)
+[5492] 05-06 01:55:25:710: RegOpenKeyEx=2
+[5492] 05-06 01:55:25:710: GetUserPreferences=0
+[5492] 05-06 01:55:25:710: ConstructPhoneNumber: PhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:55:25:710: ConstructPhoneNumber: DisplayPhoneNumber: portal.access.nokia.com
+[5492] 05-06 01:55:26:444: UpdateTunnelEndPointsInformation: Tunnel is over IPv4
+[5492] 05-06 01:55:26:794: UpdateTunnelEndPointsInformation: Lx: 123.237.140.18, Rx: 192.100.117.5
+[5492] 05-06 01:55:26:794: FindNextDevice: (vpn, WAN Miniport (L2TP))
+[5492] 05-06 01:55:26:888: RasDialMachine errors=0,0
+[5492] 05-06 01:55:26:888: RasDialMachine: SignalDone: prasconncb=0x4ae970
+[5492] 05-06 01:55:26:888: SignalDone: pOverlapped=0x4ae9d4
+[5492] 05-06 01:55:26:888: AppendNewContextToQueue:
+[5492] 05-06 01:55:26:888: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:26:888: WaitForDialMachineEvent
+[5492] 05-06 01:55:26:888: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:26:888: GetOneContextFromQueue
+[5492] 05-06 01:55:26:888: GetOneContextFromQueue: The context is:0x004AE9D4,type=2
+[5492] 05-06 01:55:26:888: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:26:888: ValidateDmContext:
+[5492] 05-06 01:55:26:888: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:26:888: WaitForDialMachineEvent: pOverlapped=0x4ae9d4, type=2
+[5492] 05-06 01:55:26:888: WaitForDialMachineEvent: Unblock i=1, h=0x4ae97c
+[5492] 05-06 01:55:26:888: setting rasman state to 2
+[5492] 05-06 01:55:26:966: NotifyCaller(nt=0x2,su=1,s=2,e=0,xe=0)...
+[7536] 05-06 01:55:27:028: RasGetConnectStatusW
+[7536] 05-06 01:55:27:028: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:27:044: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:27:075: SubEntryFromConnection: hrasconn=0x20000, dwSubEntry=1
+[7536] 05-06 01:55:27:371: RasGetConnectStatus: read device (vpn,WAN Miniport (L2TP)) from port user data
+[7536] 05-06 01:55:27:434: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[5492] 05-06 01:55:27:519: NotifyCaller done (dwNotifyResult=1)
+[5492] 05-06 01:55:27:519: GetLogonUser=Hoster
+[5492] 05-06 01:55:27:519: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:55:27:551: RASCS_ConnectDevice
+[5492] 05-06 01:55:27:597: RasDeviceSetInfo done(0)
+[5492] 05-06 01:55:27:597: SetDeviceParamBinary for RDT_Tunnel_L2tp
+[5492] 05-06 01:55:27:629: RasDeviceSetInfo(Binary) done(0)
+[5492] 05-06 01:55:27:629: SetDeviceParamBinary returned 0
+[5492] 05-06 01:55:27:629: RasDeviceSetInfo(Compartment=1)...
+[5492] 05-06 01:55:27:675: RasDeviceSetInfo done(0)
+[5492] 05-06 01:55:27:675: SetDeviceParams(rastapi, WAN Miniport (L2TP), 0)
+[5492] 05-06 01:55:27:769: PORT_DISABLE_IKE_CHECK value is 0, RasSetPortUserData for it returned 0
+[5492] 05-06 01:55:27:769: RasEnableIpSec(2)..
+[5492] 05-06 01:55:27:800: RasEnableIpSec done. 766 Encryption type 2
+[5492] 05-06 01:55:27:800: RasDialMachine errors=766,0
+[5492] 05-06 01:55:27:800: RasDialMachine: SignalDone: prasconncb=0x4ae970
+[5492] 05-06 01:55:27:800: SignalDone: pOverlapped=0x4ae9d4
+[5492] 05-06 01:55:27:800: AppendNewContextToQueue:
+[5492] 05-06 01:55:27:800: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:27:800: WaitForDialMachineEvent
+[5492] 05-06 01:55:27:800: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:27:800: GetOneContextFromQueue
+[5492] 05-06 01:55:27:800: GetOneContextFromQueue: The context is:0x004AE9D4,type=2
+[5492] 05-06 01:55:27:800: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:27:800: ValidateDmContext:
+[5492] 05-06 01:55:27:800: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:27:800: WaitForDialMachineEvent: pOverlapped=0x4ae9d4, type=2
+[5492] 05-06 01:55:27:800: WaitForDialMachineEvent: Unblock i=1, h=0x4ae97c
+[5492] 05-06 01:55:27:800: RasDialTryNextVpnDevice...
+[5492] 05-06 01:55:27:800: RasDialTryNextVpnDevice done(800)
+[5492] 05-06 01:55:27:800: setting rasman state to 2
+[5492] 05-06 01:55:27:881: NotifyCaller(nt=0x2,su=1,s=2,e=800,xe=0)...
+[7536] 05-06 01:55:27:881: RasGetConnectStatusW
+[7536] 05-06 01:55:27:881: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:27:881: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:27:927: SubEntryFromConnection: hrasconn=0x20000, dwSubEntry=1
+[7536] 05-06 01:55:28:302: RasGetConnectStatus: read device (vpn,WAN Miniport (L2TP)) from port user data
+[7536] 05-06 01:55:28:411: RasGetConnectStatus: read phonenumber portal.access.nokia.com from port user data
+[5492] 05-06 01:55:28:520: NotifyCaller done (dwNotifyResult=0)
+[5492] 05-06 01:55:28:520: Discontinuing callbacks for hrasconn 0x20000
+[5492] 05-06 01:55:28:520: Cleared notifier for hrasconn 0x20000 subentry 1
+[5492] 05-06 01:55:28:520: Cleared notifier for hrasconn 0x20000 subentry 1
+[5492] 05-06 01:55:28:520: Quitting s=2,e=800
+[5492] 05-06 01:55:28:520: GetLogonUser=Hoster
+[5492] 05-06 01:55:28:520: GetLogonDomain=obdWebEngine
+[7536] 05-06 01:55:28:536: RasHangUpW
+[7536] 05-06 01:55:28:536: IsRasmanServiceRunning=1
+[7536] 05-06 01:55:28:536: IsRasmanServiceRunning=1
+[5492] 05-06 01:55:28:583: Asyncmachine: Cleaning up
+[7536] 05-06 01:55:28:583: (HU) RasFindPrerequisiteEntry, 0x20000
+[7536] 05-06 01:55:28:614: (HU) RasFindPrerequisiteEntry, 0x20000. hConnPrereq=0x0, rc=0
+[7536] 05-06 01:55:28:739: (HUC) RasRefConnection(FALSE), 0x20000 ...
+[7536] 05-06 01:55:28:785: (HUC) RasRefConnection(FALSE), 0x20000. ref=0, rc=0
+[7536] 05-06 01:55:28:785: (HU) RasDestroyConnection(131072)...
+[7536] 05-06 01:55:29:743: (HU) RasDestroyConnection done(0)
+[5492] 05-06 01:55:29:743: RasDialCleanup...
+[5492] 05-06 01:55:29:743: CleanUpRasconncbNode
+[5492] 05-06 01:55:29:743: StopAsyncMachine
+[5492] 05-06 01:55:29:743: EnableAsyncMachine:Clear DialEvent for port:2 to NULL
+[5492] 05-06 01:55:29:743: (CU) RasProtocolStop...
+[5492] 05-06 01:55:29:743: (CU) RasProtocolStop done
+[5492] 05-06 01:55:29:759: DeleteRasconncbNodeCommon: prasconncb=0x4ae970
+[5492] 05-06 01:55:29:759: CloseAsyncMachine
+[5492] 05-06 01:55:29:759: CleanUpRasconncbNode done
+[5492] 05-06 01:55:29:759: RasDialCleanUp done.
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:29:759: ValidateDmContext:
+[5492] 05-06 01:55:29:759: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:29:759: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[5492] 05-06 01:55:29:759: AppendNewContextToQueue:
+[5492] 05-06 01:55:29:759: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:29:759: GetOneContextFromQueue
+[5492] 05-06 01:55:29:759: GetOneContextFromQueue: The context is:0x0048B34C,type=1
+[5492] 05-06 01:55:29:759: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:29:759: ValidateDmContext:
+[5492] 05-06 01:55:29:759: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:29:759: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent: pOverlapped=0x48b34c, type=1
+[5492] 05-06 01:55:29:759: WaitForDialMachineEvent: Unblock i=0, h=0x48b314
+[5492] 05-06 01:55:29:759: Link dropped!
+[5492] 05-06 01:55:29:759: RasGetInfo...
+[5492] 05-06 01:55:29:759: RasGetInfo done(618)
+[5492] 05-06 01:55:29:759: Port was close because of 807
+[5492] 05-06 01:55:29:759: setting rasman state to 8193
+[5492] 05-06 01:55:29:759: Quitting s=8193,e=807
+[5492] 05-06 01:55:29:759: GetLogonUser=Hoster
+[5492] 05-06 01:55:29:759: GetLogonDomain=obdWebEngine
+[5492] 05-06 01:55:29:790: Asyncmachine: Cleaning up
+[5492] 05-06 01:55:29:790: RasDialCleanup...
+[5492] 05-06 01:55:29:790: CleanUpRasconncbNode
+[5492] 05-06 01:55:29:790: StopAsyncMachine
+[5492] 05-06 01:55:29:790: EnableAsyncMachine:Clear DialEvent for port:5 to NULL
+[5492] 05-06 01:55:29:837: (CU) RasProtocolStop...
+[5492] 05-06 01:55:29:868: (CU) RasProtocolStop done
+[5492] 05-06 01:55:29:868: DeleteRasconncbNodeCommon: prasconncb=0x48b308
+[5492] 05-06 01:55:29:868: CloseAsyncMachine
+[5492] 05-06 01:55:29:868: RemoveAsyncWorkItem: Calling RasEventLogUninitialize
+[5492] 05-06 01:55:30:087: CleanUpRasconncbNode done
+[5492] 05-06 01:55:30:087: RasDialCleanUp done.
+[5492] 05-06 01:55:30:087: WaitForDialMachineEvent
+[5492] 05-06 01:55:30:087: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:30:165: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:30:165: ValidateDmContext:
+[5492] 05-06 01:55:30:165: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:30:165: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:30:165: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[5492] 05-06 01:55:30:165: WaitForDialMachineEvent:last message from Rasman
+[5492] 05-06 01:55:30:165: AppendNewContextToQueue:
+[5492] 05-06 01:55:30:165: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:30:165: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:30:165: GetOneContextFromQueue
+[5492] 05-06 01:55:30:165: GetOneContextFromQueue: The context is:0x0048B3AC,type=4
+[5492] 05-06 01:55:30:165: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:30:165: ValidateDmContext:
+[5492] 05-06 01:55:30:165: ValidateDmContext: hrasconn block contains a different context pointer or type
+[5492] 05-06 01:55:30:165: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:30:165: WaitForDialMachineEvent: pOverlapped=0x48b3ac, type=4
+[5492] 05-06 01:55:30:165: WaitForEvent:Received OVEVT_DIAL_LAST
+[5492] 05-06 01:55:30:165: asyncmachine=0x48b314: last event for hport=5, freefunc()
+[5492] 05-06 01:55:30:165: RasDialFinalCleanup: deallocating prasconncb=0x48b308
+[5492] 05-06 01:55:30:165: FinalCleanUpRasconncbNode: deallocating prasconncb=0x48b308
+[5492] 05-06 01:55:30:165: FinalCleanUpRasconncbNode: 1 nodes remaining
+[5492] 05-06 01:55:30:165: FinalCleanUpRasconncbNode: Rasconnb blocks is not empty cannot call ShutdownAsyncMachine() to shut down dial machine
+[5492] 05-06 01:55:30:165: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:30:274: ValidateDmContext:
+[5492] 05-06 01:55:30:274: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: pOverlapped=0x4ae9b4, type=1
+[5492] 05-06 01:55:30:274: AppendNewContextToQueue:
+[5492] 05-06 01:55:30:274: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue: The context is:0x004AE9B4,type=1
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:30:274: ValidateDmContext:
+[5492] 05-06 01:55:30:274: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: pOverlapped=0x4ae9b4, type=1
+[5492] 05-06 01:55:30:274: Skipping completed asyncmachine pointer: 0x4ae97c
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: event from rasman
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: a context received
+[5492] 05-06 01:55:30:274: ValidateDmContext:
+[5492] 05-06 01:55:30:274: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: pOverlapped=0x4aea14, type=4
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent:last message from Rasman
+[5492] 05-06 01:55:30:274: AppendNewContextToQueue:
+[5492] 05-06 01:55:30:274: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue: The context is:0x004AEA14,type=4
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:30:274: ValidateDmContext:
+[5492] 05-06 01:55:30:274: ValidateDmContext: hrasconn block verification passed
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: pOverlapped=0x4aea14, type=4
+[5492] 05-06 01:55:30:274: WaitForEvent:Received OVEVT_DIAL_LAST
+[5492] 05-06 01:55:30:274: asyncmachine=0x4ae97c: last event for hport=2, freefunc()
+[5492] 05-06 01:55:30:274: RasDialFinalCleanup: deallocating prasconncb=0x4ae970
+[5492] 05-06 01:55:30:274: FinalCleanUpRasconncbNode: deallocating prasconncb=0x4ae970
+[5492] 05-06 01:55:30:274: FinalCleanUpRasconncbNode: 0 nodes remaining
+[5492] 05-06 01:55:30:274: ShutdownAsyncMachine: pOverlapped=0x7418d3a0
+[5492] 05-06 01:55:30:274: AppendNewContextToQueue:
+[5492] 05-06 01:55:30:274: AppendNewContextToQueue:Set Event:
+[5492] 05-06 01:55:30:274: ShutdownAsyncMachine: PostcontextToDialMachine() succeeds!
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: event from dial machine
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue: The context is:0x7418D3A0,type=5
+[5492] 05-06 01:55:30:274: GetOneContextFromQueue: Number of Messages left in the queue is:0
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: pOverlapped=0x7418d3a0, type=5
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: OVTEVT_DIAL_SHUTDOWN event received
+[5492] 05-06 01:55:30:274: WaitForDialMachineEvent: Unblock i=3, h=0x4ae97c
+[5492] 05-06 01:55:30:274: AsyncMachineWorker:WaitForDialMachineEvent failure:0x3eb
+[5492] 05-06 01:55:30:274: AsyncMachineWorker terminating
+[5492] 05-06 01:55:30:274: CleanUpContextQueue:

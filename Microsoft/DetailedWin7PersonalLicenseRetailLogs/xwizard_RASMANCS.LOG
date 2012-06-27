@@ -1,0 +1,15 @@
+
+[9528] 05-06 01:40:52:062: RasInitialize called by 7084
+[9528] 05-06 01:40:52:174: RasInitialize called by 7084
+[9528] 05-06 01:40:52:404: GetUserSid: returning 0 
+[9916] 05-06 01:40:52:784: GetUserSid: returning 0 
+[9916] 05-06 01:40:56:912: GetUserSid: returning 0 
+[9916] 05-06 01:40:59:111: GetUserSid: returning 0 
+[9916] 05-06 01:42:00:780: GetUserSid: returning 0 
+[9916] 05-06 01:42:24:708: GetUserSid: returning 0 
+[4856] 05-06 01:54:29:334: GetUserSid: returning 0 
+[5492] 05-06 01:54:29:814: GetUserSid: returning 0 
+[5492] 05-06 01:54:33:830: GetUserSid: returning 0 
+[5492] 05-06 01:54:35:310: GetUserSid: returning 0 
+[5492] 05-06 01:55:01:616: GetUserSid: returning 0 
+[5492] 05-06 01:55:25:679: GetUserSid: returning 0 

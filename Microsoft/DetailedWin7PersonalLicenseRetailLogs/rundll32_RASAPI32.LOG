@@ -1,0 +1,367 @@
+
+[7228] 03-21 02:29:23:648: RasEnumEntriesW
+[7228] 03-21 02:29:23:649: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[7228] 03-21 02:29:23:649: IsPublicPhonebook=1
+[7228] 03-21 02:29:23:649: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7228] 03-21 02:29:23:649: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7228] 03-21 02:29:23:649:  IsVirtualizationNeeded: return value = 0
+
+[7228] 03-21 02:29:23:650: FindFirstFile failed with 0x2
+[7228] 03-21 02:29:23:650: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7228] 03-21 02:29:23:650: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[7228] 03-21 02:29:23:650: ReadPhonebookFile returns 0
+[7228] 03-21 02:29:23:650: ReadPhonebookFileEx: called for pbk C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[7228] 03-21 02:29:23:650: IsPublicPhonebook=0
+[7228] 03-21 02:29:23:650: path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7228] 03-21 02:29:23:650: full path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[7228] 03-21 02:29:23:650:  IsVirtualizationNeeded: return value = 0
+
+[7228] 03-21 02:29:23:650: FindFirstFile failed with 0x2
+[7228] 03-21 02:29:23:651: ReadRasFile: File C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[7228] 03-21 02:29:23:651: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[7228] 03-21 02:29:23:651: ReadPhonebookFile returns 0
+[5660] 03-28 17:47:18:573: RasEnumEntriesW
+[5660] 03-28 17:47:18:594: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[5660] 03-28 17:47:18:594: IsPublicPhonebook=1
+[5660] 03-28 17:47:18:594: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5660] 03-28 17:47:18:594: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5660] 03-28 17:47:18:594:  IsVirtualizationNeeded: return value = 0
+
+[5660] 03-28 17:47:18:594: FindFirstFile failed with 0x2
+[5660] 03-28 17:47:18:594: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[5660] 03-28 17:47:18:594: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[5660] 03-28 17:47:18:594: ReadPhonebookFile returns 0
+[5660] 03-28 17:47:18:594: ReadPhonebookFileEx: called for pbk C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[5660] 03-28 17:47:18:594: IsPublicPhonebook=0
+[5660] 03-28 17:47:18:595: path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5660] 03-28 17:47:18:595: full path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5660] 03-28 17:47:18:595:  IsVirtualizationNeeded: return value = 0
+
+[5660] 03-28 17:47:18:595: FindFirstFile failed with 0x2
+[5660] 03-28 17:47:18:595: ReadRasFile: File C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[5660] 03-28 17:47:18:595: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[5660] 03-28 17:47:18:595: ReadPhonebookFile returns 0
+[3292] 04-08 22:19:35:728: RasEnumEntriesW
+[3292] 04-08 22:19:35:760: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3292] 04-08 22:19:35:775: IsPublicPhonebook=1
+[3292] 04-08 22:19:35:775: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:775: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:775:  IsVirtualizationNeeded: return value = 1
+
+[3292] 04-08 22:19:35:838: FindFirstFile failed with 0x2
+[3292] 04-08 22:19:35:853: FindFirstFile failed with 0x2
+[3292] 04-08 22:19:35:853: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[3292] 04-08 22:19:35:853: ReadRasFile: ReadEntryList returned 0
+[3292] 04-08 22:19:35:853: SyncMasterPhonebookFile:++
+[3292] 04-08 22:19:35:853: IsPublicPhonebook=1
+[3292] 04-08 22:19:35:853: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:853: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:853: FindFirstFile failed with 0x2
+[3292] 04-08 22:19:35:853: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3292] 04-08 22:19:35:853: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[3292] 04-08 22:19:35:853: WritePhonebookFile
+[3292] 04-08 22:19:35:853: ModifyEntryList: Number of connections written 0
+[3292] 04-08 22:19:35:853: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[3292] 04-08 22:19:35:853: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[3292] 04-08 22:19:35:853: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[3292] 04-08 22:19:35:853: ReadPhonebookFile returns 0
+[3292] 04-08 22:19:35:869: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3292] 04-08 22:19:35:869: IsPublicPhonebook=0
+[3292] 04-08 22:19:35:869: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869:  IsVirtualizationNeeded: return value = 0
+
+[3292] 04-08 22:19:35:869: FindFirstFile failed with 0x2
+[3292] 04-08 22:19:35:869: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3292] 04-08 22:19:35:869: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[3292] 04-08 22:19:35:869: ReadPhonebookFile returns 0
+[3292] 04-08 22:19:35:869: RasEnumEntriesW
+[3292] 04-08 22:19:35:869: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3292] 04-08 22:19:35:869: IsPublicPhonebook=1
+[3292] 04-08 22:19:35:869: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869:  IsVirtualizationNeeded: return value = 1
+
+[3292] 04-08 22:19:35:869: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[3292] 04-08 22:19:35:869: ReadRasFile: ReadEntryList returned 0
+[3292] 04-08 22:19:35:869: SyncMasterPhonebookFile:++
+[3292] 04-08 22:19:35:869: IsPublicPhonebook=1
+[3292] 04-08 22:19:35:869: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869: FindFirstFile failed with 0x2
+[3292] 04-08 22:19:35:869: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3292] 04-08 22:19:35:869: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[3292] 04-08 22:19:35:869: WritePhonebookFile
+[3292] 04-08 22:19:35:869: ModifyEntryList: Number of connections written 0
+[3292] 04-08 22:19:35:869: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[3292] 04-08 22:19:35:869: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[3292] 04-08 22:19:35:869: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[3292] 04-08 22:19:35:869: ReadPhonebookFile returns 0
+[3292] 04-08 22:19:35:869: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3292] 04-08 22:19:35:869: IsPublicPhonebook=0
+[3292] 04-08 22:19:35:869: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3292] 04-08 22:19:35:869:  IsVirtualizationNeeded: return value = 0
+
+[3292] 04-08 22:19:35:869: FindFirstFile failed with 0x2
+[3292] 04-08 22:19:35:869: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3292] 04-08 22:19:35:869: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[3292] 04-08 22:19:35:869: ReadPhonebookFile returns 0
+[3560] 04-08 22:19:38:568: RasEnumEntriesW
+[3560] 04-08 22:19:38:568: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3560] 04-08 22:19:38:568: IsPublicPhonebook=1
+[3560] 04-08 22:19:38:568: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3560] 04-08 22:19:38:568: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3560] 04-08 22:19:38:568:  IsVirtualizationNeeded: return value = 1
+
+[3560] 04-08 22:19:38:568: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[3560] 04-08 22:19:38:568: ReadRasFile: ReadEntryList returned 0
+[3560] 04-08 22:19:38:568: SyncMasterPhonebookFile:++
+[3560] 04-08 22:19:38:568: IsPublicPhonebook=1
+[3560] 04-08 22:19:38:568: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3560] 04-08 22:19:38:568: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3560] 04-08 22:19:38:568: FindFirstFile failed with 0x2
+[3560] 04-08 22:19:38:568: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3560] 04-08 22:19:38:568: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[3560] 04-08 22:19:38:568: WritePhonebookFile
+[3560] 04-08 22:19:38:568: ModifyEntryList: Number of connections written 0
+[3560] 04-08 22:19:38:568: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[3560] 04-08 22:19:38:568: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[3560] 04-08 22:19:38:568: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[3560] 04-08 22:19:38:568: ReadPhonebookFile returns 0
+[3560] 04-08 22:19:38:568: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3560] 04-08 22:19:38:568: IsPublicPhonebook=0
+[3560] 04-08 22:19:38:568: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3560] 04-08 22:19:38:568: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3560] 04-08 22:19:38:568:  IsVirtualizationNeeded: return value = 0
+
+[3560] 04-08 22:19:38:568: FindFirstFile failed with 0x2
+[3560] 04-08 22:19:38:568: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3560] 04-08 22:19:38:568: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[3560] 04-08 22:19:38:568: ReadPhonebookFile returns 0
+[3380] 04-23 21:18:17:712: RasEnumEntriesW
+[3380] 04-23 21:18:17:728: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3380] 04-23 21:18:17:728: IsPublicPhonebook=1
+[3380] 04-23 21:18:17:728: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:728: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:728:  IsVirtualizationNeeded: return value = 0
+
+[3380] 04-23 21:18:17:728: FindFirstFile failed with 0x2
+[3380] 04-23 21:18:17:728: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3380] 04-23 21:18:17:728: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[3380] 04-23 21:18:17:728: ReadPhonebookFile returns 0
+[3380] 04-23 21:18:17:728: ReadPhonebookFileEx: called for pbk C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3380] 04-23 21:18:17:728: IsPublicPhonebook=0
+[3380] 04-23 21:18:17:744: path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:744: full path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:744:  IsVirtualizationNeeded: return value = 0
+
+[3380] 04-23 21:18:17:744: FindFirstFile failed with 0x3
+[3380] 04-23 21:18:17:744: ReadRasFile: File C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3380] 04-23 21:18:17:744: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[3380] 04-23 21:18:17:744: ReadPhonebookFile returns 0
+[3380] 04-23 21:18:17:744: RasEnumEntriesW
+[3380] 04-23 21:18:17:744: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3380] 04-23 21:18:17:744: IsPublicPhonebook=1
+[3380] 04-23 21:18:17:744: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:744: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:744:  IsVirtualizationNeeded: return value = 0
+
+[3380] 04-23 21:18:17:744: FindFirstFile failed with 0x2
+[3380] 04-23 21:18:17:744: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3380] 04-23 21:18:17:744: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[3380] 04-23 21:18:17:744: ReadPhonebookFile returns 0
+[3380] 04-23 21:18:17:744: ReadPhonebookFileEx: called for pbk C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3380] 04-23 21:18:17:744: IsPublicPhonebook=0
+[3380] 04-23 21:18:17:744: path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:744: full path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3380] 04-23 21:18:17:744:  IsVirtualizationNeeded: return value = 0
+
+[3380] 04-23 21:18:17:744: FindFirstFile failed with 0x3
+[3380] 04-23 21:18:17:744: ReadRasFile: File C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3380] 04-23 21:18:17:744: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[3380] 04-23 21:18:17:744: ReadPhonebookFile returns 0
+[3596] 04-23 21:18:20:411: RasEnumEntriesW
+[3596] 04-23 21:18:20:411: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3596] 04-23 21:18:20:411: IsPublicPhonebook=1
+[3596] 04-23 21:18:20:411: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3596] 04-23 21:18:20:411: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3596] 04-23 21:18:20:411:  IsVirtualizationNeeded: return value = 0
+
+[3596] 04-23 21:18:20:411: FindFirstFile failed with 0x2
+[3596] 04-23 21:18:20:411: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3596] 04-23 21:18:20:411: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[3596] 04-23 21:18:20:411: ReadPhonebookFile returns 0
+[3596] 04-23 21:18:20:411: ReadPhonebookFileEx: called for pbk C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[3596] 04-23 21:18:20:411: IsPublicPhonebook=0
+[3596] 04-23 21:18:20:411: path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3596] 04-23 21:18:20:411: full path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[3596] 04-23 21:18:20:411:  IsVirtualizationNeeded: return value = 0
+
+[3596] 04-23 21:18:20:411: FindFirstFile failed with 0x3
+[3596] 04-23 21:18:20:411: ReadRasFile: File C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[3596] 04-23 21:18:20:411: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[3596] 04-23 21:18:20:411: ReadPhonebookFile returns 0
+[6212] 05-01 22:10:50:780: RasEnumEntriesW
+[6212] 05-01 22:10:50:784: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[6212] 05-01 22:10:50:785: IsPublicPhonebook=1
+[6212] 05-01 22:10:50:785: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:785: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:785:  IsVirtualizationNeeded: return value = 1
+
+[6212] 05-01 22:10:50:785: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[6212] 05-01 22:10:50:785: ReadRasFile: ReadEntryList returned 0
+[6212] 05-01 22:10:50:785: SyncMasterPhonebookFile:++
+[6212] 05-01 22:10:50:785: IsPublicPhonebook=1
+[6212] 05-01 22:10:50:785: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:785: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:785: FindFirstFile failed with 0x2
+[6212] 05-01 22:10:50:785: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[6212] 05-01 22:10:50:785: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[6212] 05-01 22:10:50:785: WritePhonebookFile
+[6212] 05-01 22:10:50:785: ModifyEntryList: Number of connections written 0
+[6212] 05-01 22:10:50:785: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[6212] 05-01 22:10:50:786: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[6212] 05-01 22:10:50:786: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[6212] 05-01 22:10:50:786: ReadPhonebookFile returns 0
+[6212] 05-01 22:10:50:786: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[6212] 05-01 22:10:50:786: IsPublicPhonebook=0
+[6212] 05-01 22:10:50:786: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:786: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:786:  IsVirtualizationNeeded: return value = 0
+
+[6212] 05-01 22:10:50:786: FindFirstFile failed with 0x2
+[6212] 05-01 22:10:50:786: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[6212] 05-01 22:10:50:786: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[6212] 05-01 22:10:50:786: ReadPhonebookFile returns 0
+[6212] 05-01 22:10:50:786: RasEnumEntriesW
+[6212] 05-01 22:10:50:786: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[6212] 05-01 22:10:50:786: IsPublicPhonebook=1
+[6212] 05-01 22:10:50:787: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:787: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:787:  IsVirtualizationNeeded: return value = 1
+
+[6212] 05-01 22:10:50:787: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[6212] 05-01 22:10:50:787: ReadRasFile: ReadEntryList returned 0
+[6212] 05-01 22:10:50:787: SyncMasterPhonebookFile:++
+[6212] 05-01 22:10:50:787: IsPublicPhonebook=1
+[6212] 05-01 22:10:50:787: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:787: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:787: FindFirstFile failed with 0x2
+[6212] 05-01 22:10:50:787: ReadRasFile: File C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[6212] 05-01 22:10:50:787: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[6212] 05-01 22:10:50:787: WritePhonebookFile
+[6212] 05-01 22:10:50:787: ModifyEntryList: Number of connections written 0
+[6212] 05-01 22:10:50:787: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[6212] 05-01 22:10:50:787: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[6212] 05-01 22:10:50:787: RASSQM: In ReadPhonebookFile Number of alluser profiles set 0
+[6212] 05-01 22:10:50:787: ReadPhonebookFile returns 0
+[6212] 05-01 22:10:50:787: ReadPhonebookFileEx: called for pbk C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[6212] 05-01 22:10:50:788: IsPublicPhonebook=0
+[6212] 05-01 22:10:50:788: path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:788: full path=C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6212] 05-01 22:10:50:788:  IsVirtualizationNeeded: return value = 0
+
+[6212] 05-01 22:10:50:788: FindFirstFile failed with 0x2
+[6212] 05-01 22:10:50:788: ReadRasFile: File C:\Users\Hoster\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[6212] 05-01 22:10:50:788: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[6212] 05-01 22:10:50:788: ReadPhonebookFile returns 0
+[1764] 05-09 19:35:25:306: RasEnumEntriesW
+[1764] 05-09 19:35:25:312: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[1764] 05-09 19:35:25:312: IsPublicPhonebook=1
+[1764] 05-09 19:35:25:312: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:312: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:312:  IsVirtualizationNeeded: return value = 1
+
+[1764] 05-09 19:35:25:313: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[1764] 05-09 19:35:25:313: ReadRasFile: ReadEntryList returned 0
+[1764] 05-09 19:35:25:313: SyncMasterPhonebookFile:++
+[1764] 05-09 19:35:25:313: IsPublicPhonebook=1
+[1764] 05-09 19:35:25:313: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:313: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:314: ENTRY: Reading "Nokia VPN"
+[1764] 05-09 19:35:25:314: Reading media group "rastapi"
+[1764] 05-09 19:35:25:314: New link format
+[1764] 05-09 19:35:25:314: 
+DUPTEST:Port in this media
+[1764] 05-09 19:35:25:314: Port=VPN1-0
+[1764] 05-09 19:35:25:314: TESTDU:port is still not configured by matching in the system ports
+[1764] 05-09 19:35:25:314: 	TESTDU: port Not configured from NT4 conversion
+
+[1764] 05-09 19:35:25:314: TESTDU:port is still not configured, set the default in ppblink
+[1764] 05-09 19:35:25:314: SetDefaultModemSettings(bps=0)=1
+[1764] 05-09 19:35:25:314: TESTDU:port is still not configured
+[1764] 05-09 19:35:25:314: Reading device group "vpn"
+[1764] 05-09 19:35:25:314: Device List after deleting dupe
+[1764] 05-09 19:35:25:314: Device List after deleting dupe
+[1764] 05-09 19:35:25:314: ReadRasFile: ReadEntryList returned 0
+[1764] 05-09 19:35:25:314: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[1764] 05-09 19:35:25:314: WritePhonebookFile
+[1764] 05-09 19:35:25:314: ModifyEntryList: Number of connections written 0
+[1764] 05-09 19:35:25:314: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[1764] 05-09 19:35:25:314: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[1764] 05-09 19:35:25:314: RASSQM: In ReadPhonebookFile Number of alluser profiles set 1
+[1764] 05-09 19:35:25:314: ReadPhonebookFile returns 0
+[1764] 05-09 19:35:25:315: ReadPhonebookFileEx: called for pbk C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[1764] 05-09 19:35:25:315: IsPublicPhonebook=0
+[1764] 05-09 19:35:25:315: path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:315: full path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:315:  IsVirtualizationNeeded: return value = 0
+
+[1764] 05-09 19:35:25:315: FindFirstFile failed with 0x2
+[1764] 05-09 19:35:25:315: ReadRasFile: File C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[1764] 05-09 19:35:25:315: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[1764] 05-09 19:35:25:315: ReadPhonebookFile returns 0
+[1764] 05-09 19:35:25:316: RasEnumEntriesW
+[1764] 05-09 19:35:25:316: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[1764] 05-09 19:35:25:316: IsPublicPhonebook=1
+[1764] 05-09 19:35:25:316: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:316: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:316:  IsVirtualizationNeeded: return value = 1
+
+[1764] 05-09 19:35:25:316: GetLUAPhonebookPath: Return value 0 hiddenpbk path C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\rasphone.pbk
+
+[1764] 05-09 19:35:25:316: ReadRasFile: ReadEntryList returned 0
+[1764] 05-09 19:35:25:316: SyncMasterPhonebookFile:++
+[1764] 05-09 19:35:25:316: IsPublicPhonebook=1
+[1764] 05-09 19:35:25:316: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:316: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:316: ENTRY: Reading "Nokia VPN"
+[1764] 05-09 19:35:25:317: Reading media group "rastapi"
+[1764] 05-09 19:35:25:317: New link format
+[1764] 05-09 19:35:25:317: 
+DUPTEST:Port in this media
+[1764] 05-09 19:35:25:317: Port=VPN1-0
+[1764] 05-09 19:35:25:317: TESTDU:port is still not configured by matching in the system ports
+[1764] 05-09 19:35:25:317: 	TESTDU: port Not configured from NT4 conversion
+
+[1764] 05-09 19:35:25:317: TESTDU:port is still not configured, set the default in ppblink
+[1764] 05-09 19:35:25:317: SetDefaultModemSettings(bps=0)=1
+[1764] 05-09 19:35:25:317: TESTDU:port is still not configured
+[1764] 05-09 19:35:25:317: Reading device group "vpn"
+[1764] 05-09 19:35:25:317: Device List after deleting dupe
+[1764] 05-09 19:35:25:317: Device List after deleting dupe
+[1764] 05-09 19:35:25:317: ReadRasFile: ReadEntryList returned 0
+[1764] 05-09 19:35:25:317: DeleteEntriesOnlyInHiddenPhonebookFile ++
+[1764] 05-09 19:35:25:317: WritePhonebookFile
+[1764] 05-09 19:35:25:317: ModifyEntryList: Number of connections written 0
+[1764] 05-09 19:35:25:317: RASSQM: In WritePhonebookFile Number of alluser profiles set 0
+[1764] 05-09 19:35:25:317: DeleteEntriesOnlyInHiddenPhonebookFile : WritePhonebookFile failed with 0
+[1764] 05-09 19:35:25:317: RASSQM: In ReadPhonebookFile Number of alluser profiles set 1
+[1764] 05-09 19:35:25:317: ReadPhonebookFile returns 0
+[1764] 05-09 19:35:25:317: ReadPhonebookFileEx: called for pbk C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[1764] 05-09 19:35:25:317: IsPublicPhonebook=0
+[1764] 05-09 19:35:25:317: path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:317: full path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[1764] 05-09 19:35:25:317:  IsVirtualizationNeeded: return value = 0
+
+[1764] 05-09 19:35:25:317: FindFirstFile failed with 0x2
+[1764] 05-09 19:35:25:317: ReadRasFile: File C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[1764] 05-09 19:35:25:317: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[1764] 05-09 19:35:25:317: ReadPhonebookFile returns 0

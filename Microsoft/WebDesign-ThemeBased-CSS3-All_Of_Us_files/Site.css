@@ -1,0 +1,651 @@
+* {
+	margin: 0px; padding: 0px; border: 0px currentColor;
+}
+html {
+	background: url("../images/background/bkgrnd.png") repeat-x rgb(215, 232, 233); overflow-y: scroll;
+}
+h1 {
+	font: 24px/normal Georgia; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+h3 {
+	font: 18px/normal Georgia; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+h4 {
+	font: 18px/normal Georgia; margin: 0px; padding: 0px; color: rgb(138, 138, 138); font-size-adjust: none; font-stretch: normal;
+}
+h5 {
+	font: 16px/normal Georgia; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+h6 {
+	font: 14px/normal Georgia; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+.t1 {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 13px;
+}
+.t2 {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 12px;
+}
+.t3 {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px;
+}
+.t4 {
+	color: rgb(138, 138, 138); font-family: Lucida Sans Unicode; font-size: 11px;
+}
+.t5 {
+	color: rgb(138, 138, 138); font-family: Lucida Sans Unicode; font-size: 10px;
+}
+.l1 {
+	color: rgb(0, 187, 204); font-family: Lucida Sans Unicode; font-size: 13px;
+}
+.l1 {
+	color: rgb(0, 187, 204); font-family: Lucida Sans Unicode; font-size: 12px;
+}
+.l1 {
+	color: rgb(0, 187, 204); font-family: Lucida Sans Unicode; font-size: 11px;
+}
+.selected {
+	text-decoration: underline;
+}
+.n1 {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+.n1 a {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+.n1:hover {
+	text-decoration: underline;
+}
+.n1 a:hover {
+	text-decoration: underline;
+}
+.n2 {
+	color: rgb(0, 0, 0); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+.n2 a {
+	color: rgb(0, 0, 0); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+hr {
+	margin: 0px; padding: 0px; border: 0px currentColor; width: 100%; height: 1px; background-color: rgb(208, 208, 208);
+}
+hr.dotted {
+	background: url("../Images/dot.png"); margin: 5px 0px; height: 1px;
+}
+.clear {
+	clear: both;
+}
+.cr {
+	clear: right;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.bold {
+	font-weight: bold;
+}
+.ml {
+	margin-left: 7px;
+}
+.mr {
+	margin-right: 7px;
+}
+.mts {
+	margin-top: 10px;
+}
+.mt {
+	margin-top: 15px;
+}
+.mb {
+	margin-bottom: 15px;
+}
+.mtl {
+	margin-top: 25px;
+}
+.mbl {
+	margin-bottom: 25px;
+}
+#center {
+	width: 940px; float: left; position: relative;
+}
+#left {
+	width: 50%; margin-right: -470px; float: left;
+}
+#right {
+	width: 50%; margin-left: -471px; float: right;
+}
+#left div {
+	float: left;
+}
+#left div {
+	background: url("../images/navigation/nav_left.png"); padding: 0px; width: 100%; height: 52px; margin-top: 56px;
+}
+#right div {
+	background: url("../images/navigation/nav_left.png"); padding: 0px; width: 100%; height: 52px; margin-top: 56px;
+}
+#right div {
+	background: url("../images/navigation/nav_right.png"); float: right;
+}
+div.logo {
+	padding: 15px 0px 5px 15px; height: 36px;
+}
+div.nav {
+	height: 52px;
+}
+div.plainNav {
+	background: url("../images/navigation/nav_left.png"); width: 420px; height: 52px; float: left;
+}
+div.mainNav {
+	background: url("../images/navigation/nav_right.png"); width: 520px; height: 52px; float: right;
+}
+div.content {
+	width: 100%; padding-top: 10px; padding-bottom: 10px; float: left;
+}
+div.footer {
+	height: 35px; color: rgb(138, 138, 138); clear: both; font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none; margin-bottom: 30px; background-color: rgb(202, 221, 224);
+}
+div.footer a:link {
+	color: rgb(0, 187, 204); font-size: 12px; text-decoration: none;
+}
+div.footer a:visited {
+	color: rgb(0, 187, 204); font-size: 12px; text-decoration: none;
+}
+div.footer a:hover {
+	color: rgb(0, 187, 204); font-size: 12px; text-decoration: none;
+}
+div.copyright {
+	top: 25%; padding-left: 15px; float: left; position: relative;
+}
+div.footerRight {
+	top: 25%; padding-right: 15px; float: right; position: relative;
+}
+div.mainNav a:link {
+	color: rgb(255, 255, 255); font-family: Lucida Sans Unicode; font-size: 13px; text-decoration: none;
+}
+div.mainNav a:hover {
+	color: rgb(255, 255, 255); font-family: Lucida Sans Unicode; font-size: 13px; text-decoration: none;
+}
+div.mainNav a:visited {
+	color: rgb(255, 255, 255); font-family: Lucida Sans Unicode; font-size: 13px; text-decoration: none;
+}
+div.mainNav ul {
+	margin: 0px; padding: 0px; width: 100%; height: 52px; float: left; list-style-type: none;
+}
+div.mainNav ul li {
+	margin: 0px; padding: 0px; width: 130px; height: 100%; float: left; display: inline;
+}
+div.mainNav ul li a {
+	margin: 0px; padding: 17px 0px 0px; width: 130px; height: 32px; text-indent: 10px; display: block;
+}
+div.mainNav li.Services a {
+	background: url("../images/navigation/nav_services_r.png") no-repeat left top;
+}
+div.mainNav li.Services a:hover {
+	background: url("../images/navigation/nav_services_h.png") no-repeat left top;
+}
+div.mainNav li.ServicesSelected a {
+	background: url("../images/navigation/nav_services_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.ServicesSelected a:hover {
+	background: url("../images/navigation/nav_services_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.Portfolio a {
+	background: url("../images/navigation/nav_portfolio_r.png") no-repeat left top;
+}
+div.mainNav li.Portfolio a:hover {
+	background: url("../images/navigation/nav_portfolio_h.png") no-repeat left top;
+}
+div.mainNav li.PortfolioSelected a {
+	background: url("../images/navigation/nav_portfolio_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.PortfolioSelected a:hover {
+	background: url("../images/navigation/nav_portfolio_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.About a {
+	background: url("../images/navigation/nav_about_r.png") no-repeat left top;
+}
+div.mainNav li.About a:hover {
+	background: url("../images/navigation/nav_about_h.png") no-repeat left top;
+}
+div.mainNav li.AboutSelected a {
+	background: url("../images/navigation/nav_about_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.AboutSelected a:hover {
+	background: url("../images/navigation/nav_about_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.News a {
+	background: url("../images/navigation/nav_news_r.png") no-repeat left top;
+}
+div.mainNav li.News a:hover {
+	background: url("../images/navigation/nav_news_h.png") no-repeat left top;
+}
+div.mainNav li.NewsSelected a {
+	background: url("../images/navigation/nav_news_s.png") no-repeat left top; height: 52px;
+}
+div.mainNav li.NewsSelected a:hover {
+	background: url("../images/navigation/nav_news_s.png") no-repeat left top; height: 52px;
+}
+#VisualDesign {
+	margin: 0px 20px 10px 0px; width: 220px; float: left;
+}
+#InteractionDesign {
+	margin: 0px 20px 10px 0px; width: 220px; float: left;
+}
+#SystemsandTools {
+	margin: 0px 20px 10px 0px; width: 220px; float: left;
+}
+#TeamServices {
+	margin: 0px 20px 10px 0px; width: 220px; float: left;
+}
+#CloudServices {
+	margin: 0px 20px 10px 0px; width: 220px; float: left;
+}
+#CloudServices {
+	width: 940px; margin-top: 15px;
+}
+#TeamServices {
+	margin-right: 0px;
+}
+#VisualDesign div.top {
+	height: 20px; display: block;
+}
+#InteractionDesign div.top {
+	height: 20px; display: block;
+}
+#SystemsandTools div.top {
+	height: 20px; display: block;
+}
+#TeamServices div.top {
+	height: 20px; display: block;
+}
+#CloudServices div.top {
+	height: 20px; display: block;
+}
+#VisualDesign div.bottom {
+	height: 20px; display: block;
+}
+#InteractionDesign div.bottom {
+	height: 20px; display: block;
+}
+#SystemsandTools div.bottom {
+	height: 20px; display: block;
+}
+#TeamServices div.bottom {
+	height: 20px; display: block;
+}
+#CloudServices div.bottom {
+	height: 20px; display: block;
+}
+#VisualDesign div.top {
+	background: url("../Images/Services/1_services_main_top.png") no-repeat left top;
+}
+#InteractionDesign div.top {
+	background: url("../Images/Services/2_services_main_top.png") no-repeat left top;
+}
+#SystemsandTools div.top {
+	background: url("../Images/Services/3_services_main_top.png") no-repeat left top;
+}
+#TeamServices div.top {
+	background: url("../Images/Services/4_services_main_top.png") no-repeat left top;
+}
+#CloudServices div.top {
+	background: url("../Images/Services/5_services_main_top.png") no-repeat left top;
+}
+#VisualDesign div.mid {
+	padding: 5px 0px 20px; height: 240px; display: inline-block;
+}
+#InteractionDesign div.mid {
+	padding: 5px 0px 20px; height: 240px; display: inline-block;
+}
+#SystemsandTools div.mid {
+	padding: 5px 0px 20px; height: 240px; display: inline-block;
+}
+#TeamServices div.mid {
+	padding: 5px 0px 20px; height: 240px; display: inline-block;
+}
+#CloudServices div.mid {
+	padding: 5px 0px 20px; height: 240px; display: inline-block;
+}
+#VisualDesign div.mid {
+	background: url("../Images/Services/1_services_main_mid.png") repeat-y;
+}
+#InteractionDesign div.mid {
+	background: url("../Images/Services/2_services_main_mid.png") repeat-y;
+}
+#SystemsandTools div.mid {
+	background: url("../Images/Services/3_services_main_mid.png") repeat-y;
+}
+#TeamServices div.mid {
+	background: url("../Images/Services/4_services_main_mid.png") repeat-y;
+}
+#CloudServices div.mid {
+	background: url("../Images/Services/5_services_main_mid.png") repeat-y; height: 170px; display: block;
+}
+#CloudServices div.mid div {
+	width: 240px; float: left;
+}
+#VisualDesign div.bottom {
+	background: url("../Images/Services/1_services_main_bottom.png") no-repeat left top;
+}
+#InteractionDesign div.bottom {
+	background: url("../Images/Services/2_services_main_bottom.png") no-repeat left top;
+}
+#SystemsandTools div.bottom {
+	background: url("../Images/Services/3_services_main_bottom.png") no-repeat left top;
+}
+#TeamServices div.bottom {
+	background: url("../Images/Services/4_services_main_bottom.png") no-repeat left top;
+}
+#CloudServices div.bottom {
+	background: url("../Images/Services/5_services_main_bottom.png") no-repeat left top;
+}
+#CloudServices span.intro {
+	width: 600px;
+}
+#CloudServices div.banner {
+	width: 180px !important; margin-top: 20px; margin-right: 20px; float: right !important;
+}
+span.intro {
+	font: 12px/normal Lucida Sans Unicode; margin: 12px 15px; color: rgb(80, 80, 80); display: block; font-size-adjust: none; font-stretch: normal;
+}
+span.intro a {
+	font: 12px/normal Lucida Sans Unicode; color: rgb(0, 187, 204); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+span.intro a:hover {
+	font: 12px/normal Lucida Sans Unicode; color: rgb(0, 187, 204); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+span.intro a:link {
+	font: 12px/normal Lucida Sans Unicode; color: rgb(0, 187, 204); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+span.intro a:visited {
+	font: 12px/normal Lucida Sans Unicode; color: rgb(0, 187, 204); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+span.services {
+	font: 12px/12px Lucida Sans Unicode; color: rgb(80, 80, 80); margin-bottom: 10px; margin-left: 35px; display: block; font-size-adjust: none; font-stretch: normal;
+}
+h3.services {
+	margin-top: 30px; margin-left: 15px; display: inline;
+}
+div.homeImg {
+	margin: 0px 0px 15px; width: 940px; height: 325px;
+}
+div.homeLeft {
+	margin: 0px 20px 28px 15px; width: 685px; float: left; position: relative;
+}
+div.homeRight {
+	width: 205px; margin-bottom: 28px; float: left; position: relative;
+}
+div.homeLeft h4 {
+	line-height: 30px;
+}
+div.homeLeft h4 span {
+	font: 13px/normal Lucida Sans Unicode; color: rgb(0, 187, 204); font-size-adjust: none; font-stretch: normal;
+}
+h5.margin {
+	margin: 30px 0px 15px;
+}
+div.first {
+	font: 12px/normal Lucida Sans Unicode; margin: 0px 15px 0px 0px; width: 145px; color: rgb(80, 80, 80); float: left; font-size-adjust: none; font-stretch: normal;
+}
+div.other {
+	font: 12px/normal Lucida Sans Unicode; margin: 0px 15px 0px 0px; width: 145px; color: rgb(80, 80, 80); float: left; font-size-adjust: none; font-stretch: normal;
+}
+div.last {
+	font: 12px/normal Lucida Sans Unicode; margin: 0px 15px 0px 0px; width: 145px; color: rgb(80, 80, 80); float: left; font-size-adjust: none; font-stretch: normal;
+}
+div.first {
+	margin-left: 20px;
+}
+div.last {
+	margin-right: 40px;
+}
+ul.home {
+	font: 11px/normal Lucida Sans Unicode; color: rgb(80, 80, 80); margin-top: 5px; list-style-type: none; font-size-adjust: none; font-stretch: normal;
+}
+ul.home li {
+	margin: 0px; padding-bottom: 5px;
+}
+#homeanim {
+	top: 118px; height: 255px; position: absolute;
+}
+#homeanim div.home {
+	display: none;
+}
+div.abtImg {
+	margin: 0px 0px 25px; width: 940px; height: 245px;
+}
+div.leftSection {
+	font: 11px/normal Lucida Sans Unicode; margin: 0px 0px 0px 15px; width: 200px; color: rgb(80, 80, 80); float: left; font-size-adjust: none; font-stretch: normal;
+}
+div.rightSection {
+	width: 710px; float: right;
+}
+div.leftSection h3 {
+	margin: 3px 0px 10px;
+}
+div.leftSection a {
+	color: rgb(0, 187, 204); text-decoration: none;
+}
+div.leftSection p {
+	margin: 10px 0px 20px; line-height: 14px;
+}
+img.fb {
+	margin: 0px 10px 0px 0px; border: 0px currentColor; vertical-align: middle;
+}
+div.rightSection h1 {
+	margin: 0px 0px 0px 10px;
+}
+div.rightSection p {
+	font: 13px/20px Lucida Sans Unicode; margin: 10px 0px 34px 10px; color: rgb(80, 80, 80); font-size-adjust: none; font-stretch: normal;
+}
+div.jobs {
+	background: url("../Images/About/8abbbd_10.png"); font: 12px/normal Lucida Sans Unicode; padding: 12px 0px 10px; color: rgb(80, 80, 80); margin-bottom: 30px; font-size-adjust: none; font-stretch: normal;
+}
+div.jobs a:link {
+	color: rgb(0, 187, 204); font-size: 12px; text-decoration: none;
+}
+div.jobs a:visited {
+	color: rgb(0, 187, 204); font-size: 12px; text-decoration: none;
+}
+div.jobs a:hover {
+	color: rgb(0, 187, 204); font-size: 12px; text-decoration: none;
+}
+div.jobs h3 {
+	margin: 0px 0px 13px 10px;
+}
+.hiring {
+	padding-right: 10px; margin-left: 10px;
+}
+.hiring .description {
+	margin-bottom: 13px;
+}
+#quotes {
+	top: 118px; height: 255px; position: absolute;
+}
+#quotes div {
+	background: url("../Images/About/quotebkgrnd.png") no-repeat; left: 0px; top: 0px; width: 225px; color: rgb(255, 255, 255); position: absolute; z-index: 8;
+}
+#quotes div p {
+	margin: 12px 0px 0px 15px; height: 202px; line-height: 24px; font-family: Georgia; font-size: 16px; font-style: italic;
+}
+#quotes div span {
+	padding: 0px 0px 0px 15px; top: 6px; font-family: Lucida Sans Unicode; font-size: 11px; font-style: normal; position: relative;
+}
+#quotes div.quote {
+	display: none;
+}
+#quotes div.sm p {
+	line-height: 16px !important; font-size: 13px !important;
+}
+#quotes div.m p {
+	line-height: 22px !important; font-size: 15px !important;
+}
+#newsLeft {
+	padding: 20px 0px 0px 15px; width: 200px; float: left;
+}
+#newsRight {
+	padding: 20px 15px 0px 0px; width: 685px; float: right;
+}
+div.title {
+	margin-top: 25px;
+}
+div.date {
+	margin-top: 5px;
+}
+div.date ul {
+	list-style: none; margin: 10px 0px;
+}
+span.tags ul {
+	list-style: none; margin: 10px 0px;
+}
+div.date ul li {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+div.date ul li a {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+span.tags ul li {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+span.tags ul li a {
+	color: rgb(80, 80, 80); font-family: Lucida Sans Unicode; font-size: 11px; text-decoration: none;
+}
+div.date ul li a:hover {
+	text-decoration: underline;
+}
+div.date ul li {
+	margin: 7px 0px;
+}
+span.tags ul li {
+	margin: 7px 0px;
+}
+div.post {
+	margin: 10px 0px 25px; line-height: 20px;
+}
+div.tags {
+	margin: 5px 0px 40px; text-align: right;
+}
+#portLeft {
+	width: 195px; padding-top: 20px; margin-left: 15px; float: left;
+}
+.portfolioview {
+	width: 720px; float: right; min-height: 720px;
+}
+.portfoliolist {
+	background: url("../Images/Portfolio/a4bcc5_35.png"); margin: 0px 0px 20px 20px; width: 160px; height: 160px; display: block;
+}
+.portfoliolist:hover {
+	background: url("../Images/Portfolio/a4bcc5_70.png");
+}
+.portfoliolist div {
+	padding: 20px; width: 120px; height: 120px; display: block;
+}
+.box {
+	left: 50%; top: 450px; width: 570px; height: 610px; margin-top: -300px; margin-left: -280px; display: none; position: absolute; z-index: 9999 !important; background-color: rgb(164, 188, 197);
+}
+.box .highres {
+	margin: 20px 20px 0px; width: 530px; height: 530px; text-align: center; display: block; background-color: rgb(255, 255, 255);
+}
+.lefthalf {
+	background: url("../Images/Portfolio/spacer.png"); left: 20px; top: 20px; width: 265px; height: 530px; display: block; position: absolute; z-index: 10;
+}
+.righthalf {
+	background: url("../Images/Portfolio/spacer.png"); left: 285px; top: 20px; width: 265px; height: 530px; display: block; position: absolute; z-index: 10;
+}
+.box .text {
+	font: 11px/20px Lucida Sans Unicode; margin: 4px 20px 16px; color: rgb(80, 80, 80); font-size-adjust: none; font-stretch: normal;
+}
+.box .text a {
+	color: rgb(255, 255, 255); text-decoration: none;
+}
+.box span {
+	font-size: 13px;
+}
+.box .back {
+	left: 0px; top: 80px; width: 57px; height: 28px; display: none; position: relative; z-index: 11; cursor: pointer;
+}
+.box .next {
+	left: 208px; top: 80px; width: 57px; height: 28px; display: none; position: relative; z-index: 11; cursor: pointer;
+}
+.snapshots {
+	margin: 0px 0px 20px 20px;
+}
+.snapshots .snapshot {
+	width: 220px; height: 130px;
+}
+.snapshots .large {
+	background: url("../Images/Portfolio/casestudies_bottom.png") no-repeat left top; font: 12px/16px Lucida Sans Unicode; width: 210px; height: 40px; color: rgb(80, 80, 80); padding-left: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.snapshots .large a {
+	color: rgb(255, 255, 255);
+}
+#screen {
+	background: rgb(0, 0, 0); left: 0px; top: 0px; position: absolute; z-index: 1 !important;
+}
+.casestudylistview {
+	width: 720px; margin-bottom: 20px; float: right;
+}
+.casestudyview {
+	width: 700px; float: right;
+}
+.casestudyslides {
+	width: 180px; float: left;
+}
+.casestudyslides #strip {
+	height: 288px; overflow: hidden; background-color: rgb(204, 218, 223);
+}
+.casestudyslides .slide {
+	width: 180px; height: 96px; text-align: center; background-color: rgb(212, 225, 228);
+}
+.casestudyslides .slide img {
+	margin-top: 5px;
+}
+.casestudyslides .slide:hover {
+	filter: alpha(opacity=50); opacity: 0.5; background-color: rgb(164, 188, 197); -moz-opacity: 0.50; -khtml-opacity: 0.50;
+}
+.casestudyslides .selected {
+	background-color: rgb(164, 188, 197);
+}
+.casestudyslides .resting {
+	filter: alpha(opacity=40); opacity: 0.4; background-color: rgb(204, 218, 223); -moz-opacity: 0.40; -khtml-opacity: 0.40;
+}
+.casestudyslides .hidden {
+	display: none;
+}
+.casestudyslides .b_prev {
+	width: 180px; height: 31px; display: inline-block; cursor: pointer; background-image: url("../Images/Portfolio/casestudy_back_r.png"); background-repeat: no-repeat;
+}
+.casestudyslides .b_prev:hover {
+	background-image: url("../Images/Portfolio/casestudy_back_h.png"); background-repeat: no-repeat;
+}
+.casestudyslides .b_prev_hidden {
+	width: 180px; height: 31px; display: inline-block; background-image: url("../Images/Portfolio/casestudy_back_i.png");
+}
+.casestudyslides .b_next {
+	width: 180px; height: 31px; display: inline-block; cursor: pointer; background-image: url("../Images/Portfolio/casestudy_next.png"); background-repeat: no-repeat; background-color: rgb(204, 218, 223);
+}
+.casestudyslides .b_next:hover {
+	filter: alpha(opacity=50); opacity: 0.5; background-color: rgb(164, 188, 197); -moz-opacity: 0.50; -khtml-opacity: 0.50;
+}
+.casestudyslides .b_next_hidden {
+	width: 180px; height: 31px; display: inline-block; background-color: rgb(204, 218, 223);
+}
+.casestudydescription p {
+	margin: 10px 0px; line-height: 20px;
+}
+.errorpage {
+	text-align: center; line-height: 20px; margin-top: 40px; min-height: 620px;
+}
+a {
+	color: rgb(0, 187, 204); text-decoration: none;
+}
+a:link {
+	color: rgb(0, 187, 204); text-decoration: none;
+}
+a:visited {
+	color: rgb(0, 187, 204); text-decoration: none;
+}
+#bloglink {
+	color: rgb(202, 221, 224); text-decoration: none;
+}

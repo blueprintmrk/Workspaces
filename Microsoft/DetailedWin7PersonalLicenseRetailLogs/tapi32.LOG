@@ -1,0 +1,2512 @@
+
+[6592] 23:03:27:921: [TRACE] DoFunc: result = x80000023
+[6592] 23:03:27:928: [TRACE] DoFunc  -- enter
+[6592] 23:03:27:928: [TRACE] AllocClientResources: enter
+[6592] 23:03:27:928: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:03:27:930: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:03:27:930: [TRACE] DoFunc: result = x0
+[6592] 23:03:27:930: [TRACE] DoFunc  -- enter
+[6592] 23:03:27:930: [TRACE] AllocClientResources: enter
+[6592] 23:03:27:930: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:03:27:930: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:03:27:930: [TRACE] DoFunc: result = x80000023
+[6592] 23:03:31:976: [TRACE] DoFunc  -- enter
+[6592] 23:03:31:976: [TRACE] AllocClientResources: enter
+[6592] 23:03:31:976: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:03:31:977: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:03:31:977: [TRACE] DoFunc: result = x0
+[6592] 23:03:31:977: [TRACE] DoFunc  -- enter
+[6592] 23:03:31:977: [TRACE] AllocClientResources: enter
+[6592] 23:03:31:977: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:03:31:986: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:03:31:986: [TRACE] DoFunc: result = x80000023
+[6592] 23:03:31:986: [TRACE] DoFunc  -- enter
+[6592] 23:03:31:986: [TRACE] AllocClientResources: enter
+[6592] 23:03:31:986: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:03:31:989: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:03:31:989: [TRACE] DoFunc: result = x0
+[6592] 23:03:31:989: [TRACE] DoFunc  -- enter
+[6592] 23:03:31:989: [TRACE] AllocClientResources: enter
+[6592] 23:03:31:989: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:03:31:992: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:03:31:992: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:36:760: [TRACE] DoFunc  -- enter
+[3892] 23:03:36:761: [TRACE] AllocClientResources: enter
+[3892] 23:03:36:761: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:36:761: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:36:761: [TRACE] DoFunc: result = x0
+[3892] 23:03:36:761: [TRACE] DoFunc  -- enter
+[3892] 23:03:36:761: [TRACE] AllocClientResources: enter
+[3892] 23:03:36:761: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:36:762: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:36:762: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:36:762: [TRACE] DoFunc  -- enter
+[3892] 23:03:36:762: [TRACE] AllocClientResources: enter
+[3892] 23:03:36:762: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:36:763: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:36:763: [TRACE] DoFunc: result = x0
+[3892] 23:03:36:763: [TRACE] DoFunc  -- enter
+[3892] 23:03:36:763: [TRACE] AllocClientResources: enter
+[3892] 23:03:36:763: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:36:763: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:36:763: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:41:589: [TRACE] DoFunc  -- enter
+[3892] 23:03:41:589: [TRACE] AllocClientResources: enter
+[3892] 23:03:41:589: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:41:590: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:41:590: [TRACE] DoFunc: result = x0
+[3892] 23:03:41:590: [TRACE] DoFunc  -- enter
+[3892] 23:03:41:590: [TRACE] AllocClientResources: enter
+[3892] 23:03:41:590: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:41:592: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:41:592: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:41:592: [TRACE] DoFunc  -- enter
+[3892] 23:03:41:592: [TRACE] AllocClientResources: enter
+[3892] 23:03:41:592: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:41:593: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:41:593: [TRACE] DoFunc: result = x0
+[3892] 23:03:41:593: [TRACE] DoFunc  -- enter
+[3892] 23:03:41:593: [TRACE] AllocClientResources: enter
+[3892] 23:03:41:593: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:41:599: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:41:599: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:47:108: [TRACE] DoFunc  -- enter
+[3892] 23:03:47:108: [TRACE] AllocClientResources: enter
+[3892] 23:03:47:108: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:47:110: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:47:110: [TRACE] DoFunc: result = x0
+[3892] 23:03:47:110: [TRACE] DoFunc  -- enter
+[3892] 23:03:47:110: [TRACE] AllocClientResources: enter
+[3892] 23:03:47:110: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:47:111: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:47:111: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:47:121: [TRACE] DoFunc  -- enter
+[3892] 23:03:47:121: [TRACE] AllocClientResources: enter
+[3892] 23:03:47:121: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:47:126: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:47:126: [TRACE] DoFunc: result = x0
+[3892] 23:03:47:126: [TRACE] DoFunc  -- enter
+[3892] 23:03:47:126: [TRACE] AllocClientResources: enter
+[3892] 23:03:47:126: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:47:127: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:47:127: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:51:571: [TRACE] DoFunc  -- enter
+[3892] 23:03:51:571: [TRACE] AllocClientResources: enter
+[3892] 23:03:51:571: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:51:572: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:51:572: [TRACE] DoFunc: result = x0
+[3892] 23:03:51:572: [TRACE] DoFunc  -- enter
+[3892] 23:03:51:572: [TRACE] AllocClientResources: enter
+[3892] 23:03:51:572: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:51:573: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:51:573: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:51:573: [TRACE] DoFunc  -- enter
+[3892] 23:03:51:573: [TRACE] AllocClientResources: enter
+[3892] 23:03:51:573: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:51:574: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:51:574: [TRACE] DoFunc: result = x0
+[3892] 23:03:51:574: [TRACE] DoFunc  -- enter
+[3892] 23:03:51:574: [TRACE] AllocClientResources: enter
+[3892] 23:03:51:574: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:51:575: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:51:575: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:56:725: [TRACE] DoFunc  -- enter
+[3892] 23:03:56:725: [TRACE] AllocClientResources: enter
+[3892] 23:03:56:725: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:56:725: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:56:725: [TRACE] DoFunc: result = x0
+[3892] 23:03:56:725: [TRACE] DoFunc  -- enter
+[3892] 23:03:56:725: [TRACE] AllocClientResources: enter
+[3892] 23:03:56:725: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:56:728: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:56:728: [TRACE] DoFunc: result = x80000023
+[3892] 23:03:56:730: [TRACE] DoFunc  -- enter
+[3892] 23:03:56:730: [TRACE] AllocClientResources: enter
+[3892] 23:03:56:730: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:56:731: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:03:56:731: [TRACE] DoFunc: result = x0
+[3892] 23:03:56:731: [TRACE] DoFunc  -- enter
+[3892] 23:03:56:731: [TRACE] AllocClientResources: enter
+[3892] 23:03:56:731: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:03:56:735: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:03:56:735: [TRACE] DoFunc: result = x80000023
+[4808] 23:04:01:910: [TRACE] DoFunc  -- enter
+[4808] 23:04:01:910: [TRACE] AllocClientResources: enter
+[4808] 23:04:01:910: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:04:01:910: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:04:01:910: [TRACE] DoFunc: result = x0
+[4808] 23:04:01:910: [TRACE] DoFunc  -- enter
+[4808] 23:04:01:910: [TRACE] AllocClientResources: enter
+[4808] 23:04:01:910: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:04:01:917: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:04:01:917: [TRACE] DoFunc: result = x80000023
+[4808] 23:04:01:918: [TRACE] DoFunc  -- enter
+[4808] 23:04:01:918: [TRACE] AllocClientResources: enter
+[4808] 23:04:01:918: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:04:01:921: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:04:01:921: [TRACE] DoFunc: result = x0
+[4808] 23:04:01:921: [TRACE] DoFunc  -- enter
+[4808] 23:04:01:921: [TRACE] AllocClientResources: enter
+[4808] 23:04:01:922: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:04:01:926: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:04:01:926: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:06:684: [TRACE] DoFunc  -- enter
+[6592] 23:04:06:684: [TRACE] AllocClientResources: enter
+[6592] 23:04:06:684: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:06:684: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:06:684: [TRACE] DoFunc: result = x0
+[6592] 23:04:06:684: [TRACE] DoFunc  -- enter
+[6592] 23:04:06:684: [TRACE] AllocClientResources: enter
+[6592] 23:04:06:685: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:06:692: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:06:692: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:06:698: [TRACE] DoFunc  -- enter
+[6592] 23:04:06:698: [TRACE] AllocClientResources: enter
+[6592] 23:04:06:698: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:06:700: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:06:700: [TRACE] DoFunc: result = x0
+[6592] 23:04:06:700: [TRACE] DoFunc  -- enter
+[6592] 23:04:06:700: [TRACE] AllocClientResources: enter
+[6592] 23:04:06:700: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:06:701: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:06:701: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:11:697: [TRACE] DoFunc  -- enter
+[6592] 23:04:11:697: [TRACE] AllocClientResources: enter
+[6592] 23:04:11:698: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:11:702: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:11:702: [TRACE] DoFunc: result = x0
+[6592] 23:04:11:702: [TRACE] DoFunc  -- enter
+[6592] 23:04:11:702: [TRACE] AllocClientResources: enter
+[6592] 23:04:11:702: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:11:703: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:11:703: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:11:703: [TRACE] DoFunc  -- enter
+[6592] 23:04:11:703: [TRACE] AllocClientResources: enter
+[6592] 23:04:11:703: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:11:704: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:11:704: [TRACE] DoFunc: result = x0
+[6592] 23:04:11:704: [TRACE] DoFunc  -- enter
+[6592] 23:04:11:704: [TRACE] AllocClientResources: enter
+[6592] 23:04:11:704: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:11:705: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:11:705: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:16:883: [TRACE] DoFunc  -- enter
+[3892] 23:04:16:884: [TRACE] AllocClientResources: enter
+[3892] 23:04:16:884: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:16:884: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:16:884: [TRACE] DoFunc: result = x0
+[3892] 23:04:16:884: [TRACE] DoFunc  -- enter
+[3892] 23:04:16:884: [TRACE] AllocClientResources: enter
+[3892] 23:04:16:884: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:16:888: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:16:888: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:16:888: [TRACE] DoFunc  -- enter
+[3892] 23:04:16:888: [TRACE] AllocClientResources: enter
+[3892] 23:04:16:888: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:16:888: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:16:888: [TRACE] DoFunc: result = x0
+[3892] 23:04:16:888: [TRACE] DoFunc  -- enter
+[3892] 23:04:16:888: [TRACE] AllocClientResources: enter
+[3892] 23:04:16:888: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:16:896: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:16:896: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:21:616: [TRACE] DoFunc  -- enter
+[6592] 23:04:21:616: [TRACE] AllocClientResources: enter
+[6592] 23:04:21:616: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:21:616: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:21:616: [TRACE] DoFunc: result = x0
+[6592] 23:04:21:616: [TRACE] DoFunc  -- enter
+[6592] 23:04:21:616: [TRACE] AllocClientResources: enter
+[6592] 23:04:21:616: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:21:619: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:21:619: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:21:619: [TRACE] DoFunc  -- enter
+[6592] 23:04:21:620: [TRACE] AllocClientResources: enter
+[6592] 23:04:21:620: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:21:620: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:21:620: [TRACE] DoFunc: result = x0
+[6592] 23:04:21:620: [TRACE] DoFunc  -- enter
+[6592] 23:04:21:620: [TRACE] AllocClientResources: enter
+[6592] 23:04:21:620: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:21:627: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:21:627: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:28:079: [TRACE] DoFunc  -- enter
+[6592] 23:04:28:079: [TRACE] AllocClientResources: enter
+[6592] 23:04:28:080: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:28:080: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:28:080: [TRACE] DoFunc: result = x0
+[6592] 23:04:28:080: [TRACE] DoFunc  -- enter
+[6592] 23:04:28:080: [TRACE] AllocClientResources: enter
+[6592] 23:04:28:080: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:28:080: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:28:080: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:28:080: [TRACE] DoFunc  -- enter
+[6592] 23:04:28:083: [TRACE] AllocClientResources: enter
+[6592] 23:04:28:083: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:28:083: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:28:083: [TRACE] DoFunc: result = x0
+[6592] 23:04:28:083: [TRACE] DoFunc  -- enter
+[6592] 23:04:28:083: [TRACE] AllocClientResources: enter
+[6592] 23:04:28:083: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:28:087: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:28:087: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:31:678: [TRACE] DoFunc  -- enter
+[6592] 23:04:31:678: [TRACE] AllocClientResources: enter
+[6592] 23:04:31:678: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:31:681: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:31:681: [TRACE] DoFunc: result = x0
+[6592] 23:04:31:681: [TRACE] DoFunc  -- enter
+[6592] 23:04:31:681: [TRACE] AllocClientResources: enter
+[6592] 23:04:31:681: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:31:681: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:31:681: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:31:681: [TRACE] DoFunc  -- enter
+[6592] 23:04:31:681: [TRACE] AllocClientResources: enter
+[6592] 23:04:31:681: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:31:685: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:31:685: [TRACE] DoFunc: result = x0
+[6592] 23:04:31:685: [TRACE] DoFunc  -- enter
+[6592] 23:04:31:685: [TRACE] AllocClientResources: enter
+[6592] 23:04:31:685: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:31:685: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:31:685: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:38:109: [TRACE] DoFunc  -- enter
+[6592] 23:04:38:109: [TRACE] AllocClientResources: enter
+[6592] 23:04:38:109: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:38:109: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:38:109: [TRACE] DoFunc: result = x0
+[6592] 23:04:38:109: [TRACE] DoFunc  -- enter
+[6592] 23:04:38:109: [TRACE] AllocClientResources: enter
+[6592] 23:04:38:109: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:38:109: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:38:109: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:38:109: [TRACE] DoFunc  -- enter
+[6592] 23:04:38:109: [TRACE] AllocClientResources: enter
+[6592] 23:04:38:109: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:38:110: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:38:110: [TRACE] DoFunc: result = x0
+[6592] 23:04:38:110: [TRACE] DoFunc  -- enter
+[6592] 23:04:38:110: [TRACE] AllocClientResources: enter
+[6592] 23:04:38:110: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:38:110: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:38:110: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:42:919: [TRACE] DoFunc  -- enter
+[3892] 23:04:42:919: [TRACE] AllocClientResources: enter
+[3892] 23:04:42:919: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:42:919: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:42:919: [TRACE] DoFunc: result = x0
+[3892] 23:04:42:919: [TRACE] DoFunc  -- enter
+[3892] 23:04:42:919: [TRACE] AllocClientResources: enter
+[3892] 23:04:42:919: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:42:919: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:42:919: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:42:920: [TRACE] DoFunc  -- enter
+[3892] 23:04:42:920: [TRACE] AllocClientResources: enter
+[3892] 23:04:42:920: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:42:920: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:42:920: [TRACE] DoFunc: result = x0
+[3892] 23:04:42:920: [TRACE] DoFunc  -- enter
+[3892] 23:04:42:920: [TRACE] AllocClientResources: enter
+[3892] 23:04:42:920: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:42:920: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:42:920: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:47:341: [TRACE] DoFunc  -- enter
+[3892] 23:04:47:341: [TRACE] AllocClientResources: enter
+[3892] 23:04:47:341: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:47:342: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:47:342: [TRACE] DoFunc: result = x0
+[3892] 23:04:47:342: [TRACE] DoFunc  -- enter
+[3892] 23:04:47:342: [TRACE] AllocClientResources: enter
+[3892] 23:04:47:342: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:47:342: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:47:342: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:47:347: [TRACE] DoFunc  -- enter
+[3892] 23:04:47:347: [TRACE] AllocClientResources: enter
+[3892] 23:04:47:347: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:47:365: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:47:365: [TRACE] DoFunc: result = x0
+[3892] 23:04:47:365: [TRACE] DoFunc  -- enter
+[3892] 23:04:47:365: [TRACE] AllocClientResources: enter
+[3892] 23:04:47:365: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:47:380: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:47:380: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:52:509: [TRACE] DoFunc  -- enter
+[6592] 23:04:52:509: [TRACE] AllocClientResources: enter
+[6592] 23:04:52:509: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:52:509: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:52:509: [TRACE] DoFunc: result = x0
+[6592] 23:04:52:509: [TRACE] DoFunc  -- enter
+[6592] 23:04:52:509: [TRACE] AllocClientResources: enter
+[6592] 23:04:52:509: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:52:512: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:52:512: [TRACE] DoFunc: result = x80000023
+[6592] 23:04:52:512: [TRACE] DoFunc  -- enter
+[6592] 23:04:52:512: [TRACE] AllocClientResources: enter
+[6592] 23:04:52:512: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:52:513: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:04:52:513: [TRACE] DoFunc: result = x0
+[6592] 23:04:52:513: [TRACE] DoFunc  -- enter
+[6592] 23:04:52:513: [TRACE] AllocClientResources: enter
+[6592] 23:04:52:513: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:04:52:516: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:04:52:516: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:57:256: [TRACE] DoFunc  -- enter
+[3892] 23:04:57:256: [TRACE] AllocClientResources: enter
+[3892] 23:04:57:256: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:57:257: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:57:257: [TRACE] DoFunc: result = x0
+[3892] 23:04:57:257: [TRACE] DoFunc  -- enter
+[3892] 23:04:57:257: [TRACE] AllocClientResources: enter
+[3892] 23:04:57:257: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:57:257: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:57:257: [TRACE] DoFunc: result = x80000023
+[3892] 23:04:57:257: [TRACE] DoFunc  -- enter
+[3892] 23:04:57:257: [TRACE] AllocClientResources: enter
+[3892] 23:04:57:257: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:57:260: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:04:57:260: [TRACE] DoFunc: result = x0
+[3892] 23:04:57:260: [TRACE] DoFunc  -- enter
+[3892] 23:04:57:260: [TRACE] AllocClientResources: enter
+[3892] 23:04:57:260: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:04:57:262: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:04:57:262: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:02:471: [TRACE] DoFunc  -- enter
+[3892] 23:05:02:471: [TRACE] AllocClientResources: enter
+[3892] 23:05:02:471: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:02:629: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:02:629: [TRACE] DoFunc: result = x0
+[3892] 23:05:02:629: [TRACE] DoFunc  -- enter
+[3892] 23:05:02:629: [TRACE] AllocClientResources: enter
+[3892] 23:05:02:629: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:02:630: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:02:630: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:02:630: [TRACE] DoFunc  -- enter
+[3892] 23:05:02:630: [TRACE] AllocClientResources: enter
+[3892] 23:05:02:630: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:02:635: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:02:635: [TRACE] DoFunc: result = x0
+[3892] 23:05:02:635: [TRACE] DoFunc  -- enter
+[3892] 23:05:02:635: [TRACE] AllocClientResources: enter
+[3892] 23:05:02:635: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:02:641: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:02:641: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:07:567: [TRACE] DoFunc  -- enter
+[3892] 23:05:07:568: [TRACE] AllocClientResources: enter
+[3892] 23:05:07:568: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:07:590: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:07:590: [TRACE] DoFunc: result = x0
+[3892] 23:05:07:590: [TRACE] DoFunc  -- enter
+[3892] 23:05:07:590: [TRACE] AllocClientResources: enter
+[3892] 23:05:07:590: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:07:590: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:07:590: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:07:590: [TRACE] DoFunc  -- enter
+[3892] 23:05:07:590: [TRACE] AllocClientResources: enter
+[3892] 23:05:07:590: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:07:590: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:07:590: [TRACE] DoFunc: result = x0
+[3892] 23:05:07:590: [TRACE] DoFunc  -- enter
+[3892] 23:05:07:590: [TRACE] AllocClientResources: enter
+[3892] 23:05:07:590: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:07:591: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:07:591: [TRACE] DoFunc: result = x80000023
+[4808] 23:05:11:908: [TRACE] DoFunc  -- enter
+[4808] 23:05:11:908: [TRACE] AllocClientResources: enter
+[4808] 23:05:11:908: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:11:909: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:05:11:909: [TRACE] DoFunc: result = x0
+[4808] 23:05:11:909: [TRACE] DoFunc  -- enter
+[4808] 23:05:11:909: [TRACE] AllocClientResources: enter
+[4808] 23:05:11:909: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:11:909: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:05:11:909: [TRACE] DoFunc: result = x80000023
+[4808] 23:05:11:909: [TRACE] DoFunc  -- enter
+[4808] 23:05:11:909: [TRACE] AllocClientResources: enter
+[4808] 23:05:11:909: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:11:909: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:05:11:909: [TRACE] DoFunc: result = x0
+[4808] 23:05:11:909: [TRACE] DoFunc  -- enter
+[4808] 23:05:11:909: [TRACE] AllocClientResources: enter
+[4808] 23:05:11:909: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:11:910: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:05:11:910: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:16:747: [TRACE] DoFunc  -- enter
+[3892] 23:05:16:747: [TRACE] AllocClientResources: enter
+[3892] 23:05:16:747: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:16:747: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:16:747: [TRACE] DoFunc: result = x0
+[3892] 23:05:16:747: [TRACE] DoFunc  -- enter
+[3892] 23:05:16:747: [TRACE] AllocClientResources: enter
+[3892] 23:05:16:747: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:16:748: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:16:748: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:16:748: [TRACE] DoFunc  -- enter
+[3892] 23:05:16:748: [TRACE] AllocClientResources: enter
+[3892] 23:05:16:748: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:16:748: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:16:748: [TRACE] DoFunc: result = x0
+[3892] 23:05:16:748: [TRACE] DoFunc  -- enter
+[3892] 23:05:16:748: [TRACE] AllocClientResources: enter
+[3892] 23:05:16:748: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:16:748: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:16:748: [TRACE] DoFunc: result = x80000023
+[4808] 23:05:21:746: [TRACE] DoFunc  -- enter
+[4808] 23:05:21:750: [TRACE] AllocClientResources: enter
+[4808] 23:05:21:750: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:21:750: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:05:21:750: [TRACE] DoFunc: result = x0
+[4808] 23:05:21:750: [TRACE] DoFunc  -- enter
+[4808] 23:05:21:750: [TRACE] AllocClientResources: enter
+[4808] 23:05:21:750: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:21:751: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:05:21:751: [TRACE] DoFunc: result = x80000023
+[4808] 23:05:21:751: [TRACE] DoFunc  -- enter
+[4808] 23:05:21:751: [TRACE] AllocClientResources: enter
+[4808] 23:05:21:751: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:21:751: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:05:21:751: [TRACE] DoFunc: result = x0
+[4808] 23:05:21:751: [TRACE] DoFunc  -- enter
+[4808] 23:05:21:751: [TRACE] AllocClientResources: enter
+[4808] 23:05:21:751: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:21:752: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:05:21:752: [TRACE] DoFunc: result = x80000023
+[4808] 23:05:38:608: [TRACE] DoFunc  -- enter
+[4808] 23:05:38:608: [TRACE] AllocClientResources: enter
+[4808] 23:05:38:608: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:38:612: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:05:38:612: [TRACE] DoFunc: result = x0
+[4808] 23:05:38:612: [TRACE] DoFunc  -- enter
+[4808] 23:05:38:612: [TRACE] AllocClientResources: enter
+[4808] 23:05:38:612: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:38:624: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:05:38:624: [TRACE] DoFunc: result = x80000023
+[4808] 23:05:38:624: [TRACE] DoFunc  -- enter
+[4808] 23:05:38:624: [TRACE] AllocClientResources: enter
+[4808] 23:05:38:624: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:38:629: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:05:38:629: [TRACE] DoFunc: result = x0
+[4808] 23:05:38:629: [TRACE] DoFunc  -- enter
+[4808] 23:05:38:629: [TRACE] AllocClientResources: enter
+[4808] 23:05:38:629: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:05:38:634: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:05:38:634: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:48:768: [TRACE] DoFunc  -- enter
+[3892] 23:05:48:768: [TRACE] AllocClientResources: enter
+[3892] 23:05:48:768: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:48:768: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:48:768: [TRACE] DoFunc: result = x0
+[3892] 23:05:48:768: [TRACE] DoFunc  -- enter
+[3892] 23:05:48:769: [TRACE] AllocClientResources: enter
+[3892] 23:05:48:769: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:48:773: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:48:773: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:48:775: [TRACE] DoFunc  -- enter
+[3892] 23:05:48:775: [TRACE] AllocClientResources: enter
+[3892] 23:05:48:775: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:48:780: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:05:48:780: [TRACE] DoFunc: result = x0
+[3892] 23:05:48:780: [TRACE] DoFunc  -- enter
+[3892] 23:05:48:780: [TRACE] AllocClientResources: enter
+[3892] 23:05:48:780: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:05:48:786: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:05:48:786: [TRACE] DoFunc: result = x80000023
+[3892] 23:05:54:473: [TRACE] DoFunc  -- enter
+[3892] 23:05:54:473: [TRACE] AllocClientResources: enter
+[3892] 23:05:54:473: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:06:00:223: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:06:00:223: [TRACE] DoFunc: result = x0
+[3892] 23:06:00:223: [TRACE] DoFunc  -- enter
+[3892] 23:06:00:223: [TRACE] AllocClientResources: enter
+[3892] 23:06:00:223: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:06:00:230: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:06:00:230: [TRACE] DoFunc: result = x80000023
+[4808] 23:06:00:231: [TRACE] DoFunc  -- enter
+[4808] 23:06:00:231: [TRACE] AllocClientResources: enter
+[4808] 23:06:00:231: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:06:00:245: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:06:00:245: [TRACE] DoFunc: result = x0
+[4808] 23:06:00:245: [TRACE] DoFunc  -- enter
+[4808] 23:06:00:245: [TRACE] AllocClientResources: enter
+[4808] 23:06:00:245: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:06:00:260: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:06:00:260: [TRACE] DoFunc: result = x80000023
+[3892] 23:06:04:527: [TRACE] DoFunc  -- enter
+[3892] 23:06:04:527: [TRACE] AllocClientResources: enter
+[3892] 23:06:04:527: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:06:04:527: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:06:04:527: [TRACE] DoFunc: result = x0
+[3892] 23:06:04:527: [TRACE] DoFunc  -- enter
+[3892] 23:06:04:527: [TRACE] AllocClientResources: enter
+[3892] 23:06:04:527: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:06:04:527: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:06:04:527: [TRACE] DoFunc: result = x80000023
+[3892] 23:06:04:528: [TRACE] DoFunc  -- enter
+[3892] 23:06:04:528: [TRACE] AllocClientResources: enter
+[3892] 23:06:04:528: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:06:04:528: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:06:04:528: [TRACE] DoFunc: result = x0
+[3892] 23:06:04:528: [TRACE] DoFunc  -- enter
+[3892] 23:06:04:528: [TRACE] AllocClientResources: enter
+[3892] 23:06:04:528: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:06:04:535: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:06:04:535: [TRACE] DoFunc: result = x80000023
+[4808] 23:06:07:626: [TRACE] DoFunc  -- enter
+[4808] 23:06:07:626: [TRACE] AllocClientResources: enter
+[4808] 23:06:07:626: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:06:07:627: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:06:07:627: [TRACE] DoFunc: result = x0
+[4808] 23:06:07:627: [TRACE] DoFunc  -- enter
+[4808] 23:06:07:627: [TRACE] AllocClientResources: enter
+[4808] 23:06:07:627: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:06:07:628: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:06:07:628: [TRACE] DoFunc: result = x80000023
+[4808] 23:06:07:628: [TRACE] DoFunc  -- enter
+[4808] 23:06:07:628: [TRACE] AllocClientResources: enter
+[4808] 23:06:07:628: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:06:07:628: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:06:07:628: [TRACE] DoFunc: result = x0
+[4808] 23:06:07:628: [TRACE] DoFunc  -- enter
+[4808] 23:06:07:628: [TRACE] AllocClientResources: enter
+[4808] 23:06:07:628: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:06:07:629: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:06:07:629: [TRACE] DoFunc: result = x80000023
+[7260] 23:06:13:036: [TRACE] DoFunc  -- enter
+[7260] 23:06:13:036: [TRACE] AllocClientResources: enter
+[7260] 23:06:13:036: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:06:13:052: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:06:13:052: [TRACE] DoFunc: result = x0
+[7260] 23:06:13:052: [TRACE] DoFunc  -- enter
+[7260] 23:06:13:052: [TRACE] AllocClientResources: enter
+[7260] 23:06:13:052: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:06:13:052: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:06:13:052: [TRACE] DoFunc: result = x80000023
+[7260] 23:06:13:053: [TRACE] DoFunc  -- enter
+[7260] 23:06:13:053: [TRACE] AllocClientResources: enter
+[7260] 23:06:13:053: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:06:13:053: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:06:13:053: [TRACE] DoFunc: result = x0
+[7260] 23:06:13:053: [TRACE] DoFunc  -- enter
+[7260] 23:06:13:053: [TRACE] AllocClientResources: enter
+[7260] 23:06:13:053: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:06:13:053: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:06:13:053: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:17:693: [TRACE] DoFunc  -- enter
+[2460] 23:06:17:693: [TRACE] AllocClientResources: enter
+[2460] 23:06:17:693: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:17:696: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:17:696: [TRACE] DoFunc: result = x0
+[2460] 23:06:17:696: [TRACE] DoFunc  -- enter
+[2460] 23:06:17:696: [TRACE] AllocClientResources: enter
+[2460] 23:06:17:696: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:17:697: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:17:697: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:17:699: [TRACE] DoFunc  -- enter
+[2460] 23:06:17:699: [TRACE] AllocClientResources: enter
+[2460] 23:06:17:699: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:17:700: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:17:700: [TRACE] DoFunc: result = x0
+[2460] 23:06:17:700: [TRACE] DoFunc  -- enter
+[2460] 23:06:17:700: [TRACE] AllocClientResources: enter
+[2460] 23:06:17:700: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:17:701: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:17:701: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:22:729: [TRACE] DoFunc  -- enter
+[2460] 23:06:22:729: [TRACE] AllocClientResources: enter
+[2460] 23:06:22:729: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:22:729: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:22:729: [TRACE] DoFunc: result = x0
+[2460] 23:06:22:729: [TRACE] DoFunc  -- enter
+[2460] 23:06:22:729: [TRACE] AllocClientResources: enter
+[2460] 23:06:22:729: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:22:730: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:22:730: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:22:730: [TRACE] DoFunc  -- enter
+[2460] 23:06:22:730: [TRACE] AllocClientResources: enter
+[2460] 23:06:22:730: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:22:739: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:22:739: [TRACE] DoFunc: result = x0
+[2460] 23:06:22:739: [TRACE] DoFunc  -- enter
+[2460] 23:06:22:739: [TRACE] AllocClientResources: enter
+[2460] 23:06:22:739: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:22:739: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:22:739: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:27:829: [TRACE] DoFunc  -- enter
+[2460] 23:06:27:829: [TRACE] AllocClientResources: enter
+[2460] 23:06:27:829: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:27:835: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:27:835: [TRACE] DoFunc: result = x0
+[2460] 23:06:27:835: [TRACE] DoFunc  -- enter
+[2460] 23:06:27:835: [TRACE] AllocClientResources: enter
+[2460] 23:06:27:835: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:27:837: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:27:837: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:27:838: [TRACE] DoFunc  -- enter
+[2460] 23:06:27:838: [TRACE] AllocClientResources: enter
+[2460] 23:06:27:838: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:27:864: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:27:864: [TRACE] DoFunc: result = x0
+[2460] 23:06:27:864: [TRACE] DoFunc  -- enter
+[2460] 23:06:27:864: [TRACE] AllocClientResources: enter
+[2460] 23:06:27:864: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:27:907: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:27:907: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:32:842: [TRACE] DoFunc  -- enter
+[2460] 23:06:32:842: [TRACE] AllocClientResources: enter
+[2460] 23:06:32:842: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:32:901: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:32:901: [TRACE] DoFunc: result = x0
+[2460] 23:06:32:901: [TRACE] DoFunc  -- enter
+[2460] 23:06:32:901: [TRACE] AllocClientResources: enter
+[2460] 23:06:32:901: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:32:916: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:32:916: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:32:916: [TRACE] DoFunc  -- enter
+[2460] 23:06:32:916: [TRACE] AllocClientResources: enter
+[2460] 23:06:32:916: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:32:954: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:32:954: [TRACE] DoFunc: result = x0
+[2460] 23:06:32:954: [TRACE] DoFunc  -- enter
+[2460] 23:06:32:954: [TRACE] AllocClientResources: enter
+[2460] 23:06:32:954: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:32:962: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:32:962: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:38:538: [TRACE] DoFunc  -- enter
+[2460] 23:06:38:538: [TRACE] AllocClientResources: enter
+[2460] 23:06:38:538: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:38:538: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:38:538: [TRACE] DoFunc: result = x0
+[2460] 23:06:38:538: [TRACE] DoFunc  -- enter
+[2460] 23:06:38:538: [TRACE] AllocClientResources: enter
+[2460] 23:06:38:538: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:38:547: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:38:547: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:38:547: [TRACE] DoFunc  -- enter
+[2460] 23:06:38:547: [TRACE] AllocClientResources: enter
+[2460] 23:06:38:547: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:38:549: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:38:549: [TRACE] DoFunc: result = x0
+[2460] 23:06:38:549: [TRACE] DoFunc  -- enter
+[2460] 23:06:38:549: [TRACE] AllocClientResources: enter
+[2460] 23:06:38:549: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:38:576: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:38:576: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:42:616: [TRACE] DoFunc  -- enter
+[2460] 23:06:42:617: [TRACE] AllocClientResources: enter
+[2460] 23:06:42:617: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:42:620: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:42:620: [TRACE] DoFunc: result = x0
+[2460] 23:06:42:620: [TRACE] DoFunc  -- enter
+[2460] 23:06:42:620: [TRACE] AllocClientResources: enter
+[2460] 23:06:42:620: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:42:630: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:42:630: [TRACE] DoFunc: result = x80000023
+[7260] 23:06:42:644: [TRACE] DoFunc  -- enter
+[7260] 23:06:42:644: [TRACE] AllocClientResources: enter
+[7260] 23:06:42:644: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:06:42:645: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:06:42:645: [TRACE] DoFunc: result = x0
+[7260] 23:06:42:645: [TRACE] DoFunc  -- enter
+[7260] 23:06:42:645: [TRACE] AllocClientResources: enter
+[7260] 23:06:42:645: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:06:42:658: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:06:42:658: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:47:472: [TRACE] DoFunc  -- enter
+[2460] 23:06:47:472: [TRACE] AllocClientResources: enter
+[2460] 23:06:47:472: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:47:476: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:47:476: [TRACE] DoFunc: result = x0
+[2460] 23:06:47:476: [TRACE] DoFunc  -- enter
+[2460] 23:06:47:476: [TRACE] AllocClientResources: enter
+[2460] 23:06:47:476: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:47:477: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:47:477: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:47:477: [TRACE] DoFunc  -- enter
+[2460] 23:06:47:477: [TRACE] AllocClientResources: enter
+[2460] 23:06:47:477: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:47:477: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:47:477: [TRACE] DoFunc: result = x0
+[2460] 23:06:47:477: [TRACE] DoFunc  -- enter
+[2460] 23:06:47:477: [TRACE] AllocClientResources: enter
+[2460] 23:06:47:477: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:47:480: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:47:480: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:52:479: [TRACE] DoFunc  -- enter
+[2460] 23:06:52:479: [TRACE] AllocClientResources: enter
+[2460] 23:06:52:479: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:52:483: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:52:483: [TRACE] DoFunc: result = x0
+[2460] 23:06:52:483: [TRACE] DoFunc  -- enter
+[2460] 23:06:52:483: [TRACE] AllocClientResources: enter
+[2460] 23:06:52:483: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:52:483: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:52:483: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:52:484: [TRACE] DoFunc  -- enter
+[2460] 23:06:52:484: [TRACE] AllocClientResources: enter
+[2460] 23:06:52:484: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:52:484: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:52:484: [TRACE] DoFunc: result = x0
+[2460] 23:06:52:484: [TRACE] DoFunc  -- enter
+[2460] 23:06:52:484: [TRACE] AllocClientResources: enter
+[2460] 23:06:52:484: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:52:485: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:52:485: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:57:479: [TRACE] DoFunc  -- enter
+[2460] 23:06:57:479: [TRACE] AllocClientResources: enter
+[2460] 23:06:57:479: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:57:480: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:57:480: [TRACE] DoFunc: result = x0
+[2460] 23:06:57:480: [TRACE] DoFunc  -- enter
+[2460] 23:06:57:480: [TRACE] AllocClientResources: enter
+[2460] 23:06:57:480: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:57:481: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:57:481: [TRACE] DoFunc: result = x80000023
+[2460] 23:06:57:483: [TRACE] DoFunc  -- enter
+[2460] 23:06:57:483: [TRACE] AllocClientResources: enter
+[2460] 23:06:57:483: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:57:483: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:06:57:483: [TRACE] DoFunc: result = x0
+[2460] 23:06:57:483: [TRACE] DoFunc  -- enter
+[2460] 23:06:57:483: [TRACE] AllocClientResources: enter
+[2460] 23:06:57:483: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:06:57:492: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:06:57:492: [TRACE] DoFunc: result = x80000023
+[2460] 23:07:19:887: [TRACE] DoFunc  -- enter
+[2460] 23:07:19:887: [TRACE] AllocClientResources: enter
+[2460] 23:07:19:887: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:07:19:887: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:07:19:887: [TRACE] DoFunc: result = x0
+[2460] 23:07:19:887: [TRACE] DoFunc  -- enter
+[2460] 23:07:19:887: [TRACE] AllocClientResources: enter
+[2460] 23:07:19:887: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:07:19:888: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:07:19:888: [TRACE] DoFunc: result = x80000023
+[2460] 23:07:19:888: [TRACE] DoFunc  -- enter
+[2460] 23:07:19:888: [TRACE] AllocClientResources: enter
+[2460] 23:07:19:888: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:07:19:888: [TRACE] DoFunc: back from srv- return code=0x00000000
+[2460] 23:07:19:888: [TRACE] DoFunc: result = x0
+[2460] 23:07:19:888: [TRACE] DoFunc  -- enter
+[2460] 23:07:19:888: [TRACE] AllocClientResources: enter
+[2460] 23:07:19:888: [TRACE] AllocClientResources: exit, returning x0
+[2460] 23:07:19:888: [TRACE] DoFunc: back from srv- return code=0x80000023
+[2460] 23:07:19:888: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:22:771: [TRACE] DoFunc  -- enter
+[6592] 23:07:22:772: [TRACE] AllocClientResources: enter
+[6592] 23:07:22:772: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:22:777: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:22:777: [TRACE] DoFunc: result = x0
+[6592] 23:07:22:777: [TRACE] DoFunc  -- enter
+[6592] 23:07:22:777: [TRACE] AllocClientResources: enter
+[6592] 23:07:22:777: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:22:777: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:22:777: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:22:778: [TRACE] DoFunc  -- enter
+[6592] 23:07:22:778: [TRACE] AllocClientResources: enter
+[6592] 23:07:22:778: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:22:778: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:22:778: [TRACE] DoFunc: result = x0
+[6592] 23:07:22:778: [TRACE] DoFunc  -- enter
+[6592] 23:07:22:778: [TRACE] AllocClientResources: enter
+[6592] 23:07:22:778: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:22:778: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:22:778: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:27:677: [TRACE] DoFunc  -- enter
+[6592] 23:07:27:677: [TRACE] AllocClientResources: enter
+[6592] 23:07:27:677: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:27:677: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:27:677: [TRACE] DoFunc: result = x0
+[6592] 23:07:27:677: [TRACE] DoFunc  -- enter
+[6592] 23:07:27:677: [TRACE] AllocClientResources: enter
+[6592] 23:07:27:677: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:27:678: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:27:678: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:27:678: [TRACE] DoFunc  -- enter
+[6592] 23:07:27:678: [TRACE] AllocClientResources: enter
+[6592] 23:07:27:678: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:27:678: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:27:678: [TRACE] DoFunc: result = x0
+[6592] 23:07:27:678: [TRACE] DoFunc  -- enter
+[6592] 23:07:27:678: [TRACE] AllocClientResources: enter
+[6592] 23:07:27:678: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:27:679: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:27:679: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:33:013: [TRACE] DoFunc  -- enter
+[7260] 23:07:33:013: [TRACE] AllocClientResources: enter
+[7260] 23:07:33:013: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:33:022: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:33:023: [TRACE] DoFunc: result = x0
+[7260] 23:07:33:023: [TRACE] DoFunc  -- enter
+[7260] 23:07:33:023: [TRACE] AllocClientResources: enter
+[7260] 23:07:33:023: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:33:025: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:33:025: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:33:025: [TRACE] DoFunc  -- enter
+[7260] 23:07:33:025: [TRACE] AllocClientResources: enter
+[7260] 23:07:33:025: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:33:028: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:33:028: [TRACE] DoFunc: result = x0
+[7260] 23:07:33:028: [TRACE] DoFunc  -- enter
+[7260] 23:07:33:028: [TRACE] AllocClientResources: enter
+[7260] 23:07:33:029: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:33:036: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:33:036: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:37:752: [TRACE] DoFunc  -- enter
+[6592] 23:07:37:753: [TRACE] AllocClientResources: enter
+[6592] 23:07:37:753: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:37:753: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:37:753: [TRACE] DoFunc: result = x0
+[6592] 23:07:37:753: [TRACE] DoFunc  -- enter
+[6592] 23:07:37:753: [TRACE] AllocClientResources: enter
+[6592] 23:07:37:753: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:37:758: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:37:758: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:37:758: [TRACE] DoFunc  -- enter
+[6592] 23:07:37:758: [TRACE] AllocClientResources: enter
+[6592] 23:07:37:758: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:37:758: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:37:758: [TRACE] DoFunc: result = x0
+[6592] 23:07:37:758: [TRACE] DoFunc  -- enter
+[6592] 23:07:37:758: [TRACE] AllocClientResources: enter
+[6592] 23:07:37:758: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:37:759: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:37:759: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:42:702: [TRACE] DoFunc  -- enter
+[7260] 23:07:42:702: [TRACE] AllocClientResources: enter
+[7260] 23:07:42:702: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:42:705: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:42:705: [TRACE] DoFunc: result = x0
+[7260] 23:07:42:705: [TRACE] DoFunc  -- enter
+[7260] 23:07:42:705: [TRACE] AllocClientResources: enter
+[7260] 23:07:42:705: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:42:708: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:42:708: [TRACE] DoFunc: result = x80000023
+[6592] 23:07:42:708: [TRACE] DoFunc  -- enter
+[6592] 23:07:42:708: [TRACE] AllocClientResources: enter
+[6592] 23:07:42:709: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:42:710: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:07:42:710: [TRACE] DoFunc: result = x0
+[6592] 23:07:42:710: [TRACE] DoFunc  -- enter
+[6592] 23:07:42:710: [TRACE] AllocClientResources: enter
+[6592] 23:07:42:710: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:07:42:719: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:07:42:719: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:47:989: [TRACE] DoFunc  -- enter
+[7260] 23:07:47:989: [TRACE] AllocClientResources: enter
+[7260] 23:07:47:989: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:47:989: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:47:989: [TRACE] DoFunc: result = x0
+[7260] 23:07:47:989: [TRACE] DoFunc  -- enter
+[7260] 23:07:47:989: [TRACE] AllocClientResources: enter
+[7260] 23:07:47:989: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:47:989: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:47:989: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:47:989: [TRACE] DoFunc  -- enter
+[7260] 23:07:47:989: [TRACE] AllocClientResources: enter
+[7260] 23:07:47:989: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:47:989: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:47:990: [TRACE] DoFunc: result = x0
+[7260] 23:07:47:990: [TRACE] DoFunc  -- enter
+[7260] 23:07:47:990: [TRACE] AllocClientResources: enter
+[7260] 23:07:47:990: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:47:990: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:47:990: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:54:452: [TRACE] DoFunc  -- enter
+[7260] 23:07:54:453: [TRACE] AllocClientResources: enter
+[7260] 23:07:54:469: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:54:474: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:54:474: [TRACE] DoFunc: result = x0
+[7260] 23:07:54:474: [TRACE] DoFunc  -- enter
+[7260] 23:07:54:474: [TRACE] AllocClientResources: enter
+[7260] 23:07:54:474: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:54:485: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:54:485: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:54:490: [TRACE] DoFunc  -- enter
+[7260] 23:07:54:490: [TRACE] AllocClientResources: enter
+[7260] 23:07:54:490: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:54:491: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:54:491: [TRACE] DoFunc: result = x0
+[7260] 23:07:54:491: [TRACE] DoFunc  -- enter
+[7260] 23:07:54:491: [TRACE] AllocClientResources: enter
+[7260] 23:07:54:491: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:54:496: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:54:496: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:57:963: [TRACE] DoFunc  -- enter
+[7260] 23:07:57:963: [TRACE] AllocClientResources: enter
+[7260] 23:07:57:963: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:57:963: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:57:963: [TRACE] DoFunc: result = x0
+[7260] 23:07:57:963: [TRACE] DoFunc  -- enter
+[7260] 23:07:57:963: [TRACE] AllocClientResources: enter
+[7260] 23:07:57:963: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:57:965: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:57:965: [TRACE] DoFunc: result = x80000023
+[7260] 23:07:57:968: [TRACE] DoFunc  -- enter
+[7260] 23:07:57:968: [TRACE] AllocClientResources: enter
+[7260] 23:07:57:968: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:57:975: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:07:57:975: [TRACE] DoFunc: result = x0
+[7260] 23:07:57:975: [TRACE] DoFunc  -- enter
+[7260] 23:07:57:975: [TRACE] AllocClientResources: enter
+[7260] 23:07:57:975: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:07:57:975: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:07:57:975: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:02:693: [TRACE] DoFunc  -- enter
+[6592] 23:08:02:693: [TRACE] AllocClientResources: enter
+[6592] 23:08:02:693: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:02:693: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:02:693: [TRACE] DoFunc: result = x0
+[6592] 23:08:02:693: [TRACE] DoFunc  -- enter
+[6592] 23:08:02:693: [TRACE] AllocClientResources: enter
+[6592] 23:08:02:693: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:02:694: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:02:694: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:02:694: [TRACE] DoFunc  -- enter
+[6592] 23:08:02:694: [TRACE] AllocClientResources: enter
+[6592] 23:08:02:694: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:02:694: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:02:694: [TRACE] DoFunc: result = x0
+[6592] 23:08:02:694: [TRACE] DoFunc  -- enter
+[6592] 23:08:02:694: [TRACE] AllocClientResources: enter
+[6592] 23:08:02:694: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:02:695: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:02:695: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:07:724: [TRACE] DoFunc  -- enter
+[6592] 23:08:07:724: [TRACE] AllocClientResources: enter
+[6592] 23:08:07:725: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:07:726: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:07:726: [TRACE] DoFunc: result = x0
+[6592] 23:08:07:726: [TRACE] DoFunc  -- enter
+[6592] 23:08:07:726: [TRACE] AllocClientResources: enter
+[6592] 23:08:07:726: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:07:732: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:07:732: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:07:732: [TRACE] DoFunc  -- enter
+[6592] 23:08:07:732: [TRACE] AllocClientResources: enter
+[6592] 23:08:07:732: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:07:737: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:07:737: [TRACE] DoFunc: result = x0
+[6592] 23:08:07:737: [TRACE] DoFunc  -- enter
+[6592] 23:08:07:737: [TRACE] AllocClientResources: enter
+[6592] 23:08:07:737: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:07:740: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:07:740: [TRACE] DoFunc: result = x80000023
+[7260] 23:08:12:888: [TRACE] DoFunc  -- enter
+[7260] 23:08:12:888: [TRACE] AllocClientResources: enter
+[7260] 23:08:12:888: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:12:890: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:08:12:890: [TRACE] DoFunc: result = x0
+[7260] 23:08:12:890: [TRACE] DoFunc  -- enter
+[7260] 23:08:12:890: [TRACE] AllocClientResources: enter
+[7260] 23:08:12:890: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:12:898: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:08:12:898: [TRACE] DoFunc: result = x80000023
+[7260] 23:08:12:899: [TRACE] DoFunc  -- enter
+[7260] 23:08:12:899: [TRACE] AllocClientResources: enter
+[7260] 23:08:12:899: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:12:899: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:08:12:899: [TRACE] DoFunc: result = x0
+[7260] 23:08:12:899: [TRACE] DoFunc  -- enter
+[7260] 23:08:12:899: [TRACE] AllocClientResources: enter
+[7260] 23:08:12:899: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:12:899: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:08:12:899: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:18:012: [TRACE] DoFunc  -- enter
+[6592] 23:08:18:012: [TRACE] AllocClientResources: enter
+[6592] 23:08:18:012: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:18:013: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:18:013: [TRACE] DoFunc: result = x0
+[6592] 23:08:18:013: [TRACE] DoFunc  -- enter
+[6592] 23:08:18:013: [TRACE] AllocClientResources: enter
+[6592] 23:08:18:013: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:18:013: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:18:013: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:18:013: [TRACE] DoFunc  -- enter
+[6592] 23:08:18:013: [TRACE] AllocClientResources: enter
+[6592] 23:08:18:013: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:18:013: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:18:013: [TRACE] DoFunc: result = x0
+[6592] 23:08:18:013: [TRACE] DoFunc  -- enter
+[6592] 23:08:18:013: [TRACE] AllocClientResources: enter
+[6592] 23:08:18:013: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:18:014: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:18:014: [TRACE] DoFunc: result = x80000023
+[7260] 23:08:23:186: [TRACE] DoFunc  -- enter
+[7260] 23:08:23:187: [TRACE] AllocClientResources: enter
+[7260] 23:08:23:187: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:23:192: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:08:23:192: [TRACE] DoFunc: result = x0
+[7260] 23:08:23:192: [TRACE] DoFunc  -- enter
+[7260] 23:08:23:192: [TRACE] AllocClientResources: enter
+[7260] 23:08:23:193: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:23:200: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:08:23:200: [TRACE] DoFunc: result = x80000023
+[7260] 23:08:23:202: [TRACE] DoFunc  -- enter
+[7260] 23:08:23:202: [TRACE] AllocClientResources: enter
+[7260] 23:08:23:202: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:23:206: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:08:23:206: [TRACE] DoFunc: result = x0
+[7260] 23:08:23:206: [TRACE] DoFunc  -- enter
+[7260] 23:08:23:206: [TRACE] AllocClientResources: enter
+[7260] 23:08:23:206: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:08:23:217: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:08:23:217: [TRACE] DoFunc: result = x80000023
+[4808] 23:08:27:927: [TRACE] DoFunc  -- enter
+[4808] 23:08:27:927: [TRACE] AllocClientResources: enter
+[4808] 23:08:27:927: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:27:927: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:08:27:927: [TRACE] DoFunc: result = x0
+[4808] 23:08:27:927: [TRACE] DoFunc  -- enter
+[4808] 23:08:27:927: [TRACE] AllocClientResources: enter
+[4808] 23:08:27:927: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:27:927: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:08:27:927: [TRACE] DoFunc: result = x80000023
+[4808] 23:08:27:928: [TRACE] DoFunc  -- enter
+[4808] 23:08:27:928: [TRACE] AllocClientResources: enter
+[4808] 23:08:27:928: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:27:928: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:08:27:928: [TRACE] DoFunc: result = x0
+[4808] 23:08:27:928: [TRACE] DoFunc  -- enter
+[4808] 23:08:27:928: [TRACE] AllocClientResources: enter
+[4808] 23:08:27:928: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:27:928: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:08:27:928: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:33:140: [TRACE] DoFunc  -- enter
+[6592] 23:08:33:140: [TRACE] AllocClientResources: enter
+[6592] 23:08:33:140: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:33:142: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:33:142: [TRACE] DoFunc: result = x0
+[6592] 23:08:33:142: [TRACE] DoFunc  -- enter
+[6592] 23:08:33:142: [TRACE] AllocClientResources: enter
+[6592] 23:08:33:142: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:33:142: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:33:142: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:33:142: [TRACE] DoFunc  -- enter
+[6592] 23:08:33:142: [TRACE] AllocClientResources: enter
+[6592] 23:08:33:142: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:33:143: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:33:143: [TRACE] DoFunc: result = x0
+[6592] 23:08:33:143: [TRACE] DoFunc  -- enter
+[6592] 23:08:33:143: [TRACE] AllocClientResources: enter
+[6592] 23:08:33:143: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:33:143: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:33:143: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:38:043: [TRACE] DoFunc  -- enter
+[6592] 23:08:38:043: [TRACE] AllocClientResources: enter
+[6592] 23:08:38:043: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:38:051: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:38:051: [TRACE] DoFunc: result = x0
+[6592] 23:08:38:051: [TRACE] DoFunc  -- enter
+[6592] 23:08:38:051: [TRACE] AllocClientResources: enter
+[6592] 23:08:38:051: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:38:052: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:38:052: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:38:053: [TRACE] DoFunc  -- enter
+[6592] 23:08:38:053: [TRACE] AllocClientResources: enter
+[6592] 23:08:38:053: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:38:053: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:38:053: [TRACE] DoFunc: result = x0
+[6592] 23:08:38:053: [TRACE] DoFunc  -- enter
+[6592] 23:08:38:053: [TRACE] AllocClientResources: enter
+[6592] 23:08:38:053: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:38:053: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:38:053: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:42:967: [TRACE] DoFunc  -- enter
+[6592] 23:08:42:967: [TRACE] AllocClientResources: enter
+[6592] 23:08:42:968: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:42:968: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:42:968: [TRACE] DoFunc: result = x0
+[6592] 23:08:42:968: [TRACE] DoFunc  -- enter
+[6592] 23:08:42:968: [TRACE] AllocClientResources: enter
+[6592] 23:08:42:968: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:42:980: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:42:980: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:42:980: [TRACE] DoFunc  -- enter
+[6592] 23:08:42:980: [TRACE] AllocClientResources: enter
+[6592] 23:08:42:980: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:42:980: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:42:980: [TRACE] DoFunc: result = x0
+[6592] 23:08:42:980: [TRACE] DoFunc  -- enter
+[6592] 23:08:42:980: [TRACE] AllocClientResources: enter
+[6592] 23:08:42:980: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:42:981: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:42:981: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:48:058: [TRACE] DoFunc  -- enter
+[6592] 23:08:48:058: [TRACE] AllocClientResources: enter
+[6592] 23:08:48:058: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:48:060: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:48:060: [TRACE] DoFunc: result = x0
+[6592] 23:08:48:060: [TRACE] DoFunc  -- enter
+[6592] 23:08:48:060: [TRACE] AllocClientResources: enter
+[6592] 23:08:48:060: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:48:060: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:48:060: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:48:060: [TRACE] DoFunc  -- enter
+[6592] 23:08:48:060: [TRACE] AllocClientResources: enter
+[6592] 23:08:48:060: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:48:061: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:48:061: [TRACE] DoFunc: result = x0
+[6592] 23:08:48:061: [TRACE] DoFunc  -- enter
+[6592] 23:08:48:061: [TRACE] AllocClientResources: enter
+[6592] 23:08:48:061: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:48:061: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:48:061: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:54:296: [TRACE] DoFunc  -- enter
+[6592] 23:08:54:296: [TRACE] AllocClientResources: enter
+[6592] 23:08:54:296: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:54:297: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:54:297: [TRACE] DoFunc: result = x0
+[6592] 23:08:54:297: [TRACE] DoFunc  -- enter
+[6592] 23:08:54:297: [TRACE] AllocClientResources: enter
+[6592] 23:08:54:297: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:54:301: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:54:301: [TRACE] DoFunc: result = x80000023
+[6592] 23:08:54:301: [TRACE] DoFunc  -- enter
+[6592] 23:08:54:301: [TRACE] AllocClientResources: enter
+[6592] 23:08:54:301: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:54:309: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:08:54:309: [TRACE] DoFunc: result = x0
+[6592] 23:08:54:309: [TRACE] DoFunc  -- enter
+[6592] 23:08:54:309: [TRACE] AllocClientResources: enter
+[6592] 23:08:54:309: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:08:54:321: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:08:54:321: [TRACE] DoFunc: result = x80000023
+[4808] 23:08:59:814: [TRACE] DoFunc  -- enter
+[4808] 23:08:59:814: [TRACE] AllocClientResources: enter
+[4808] 23:08:59:814: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:59:903: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:08:59:903: [TRACE] DoFunc: result = x0
+[4808] 23:08:59:903: [TRACE] DoFunc  -- enter
+[4808] 23:08:59:903: [TRACE] AllocClientResources: enter
+[4808] 23:08:59:903: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:59:912: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:08:59:912: [TRACE] DoFunc: result = x80000023
+[4808] 23:08:59:913: [TRACE] DoFunc  -- enter
+[4808] 23:08:59:913: [TRACE] AllocClientResources: enter
+[4808] 23:08:59:913: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:59:926: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:08:59:926: [TRACE] DoFunc: result = x0
+[4808] 23:08:59:926: [TRACE] DoFunc  -- enter
+[4808] 23:08:59:926: [TRACE] AllocClientResources: enter
+[4808] 23:08:59:926: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:08:59:930: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:08:59:930: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:02:845: [TRACE] DoFunc  -- enter
+[4808] 23:09:02:845: [TRACE] AllocClientResources: enter
+[4808] 23:09:02:845: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:02:851: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:02:851: [TRACE] DoFunc: result = x0
+[4808] 23:09:02:851: [TRACE] DoFunc  -- enter
+[4808] 23:09:02:851: [TRACE] AllocClientResources: enter
+[4808] 23:09:02:851: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:02:851: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:02:851: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:02:852: [TRACE] DoFunc  -- enter
+[4808] 23:09:02:852: [TRACE] AllocClientResources: enter
+[4808] 23:09:02:852: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:02:853: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:02:854: [TRACE] DoFunc: result = x0
+[4808] 23:09:02:854: [TRACE] DoFunc  -- enter
+[4808] 23:09:02:854: [TRACE] AllocClientResources: enter
+[4808] 23:09:02:854: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:02:854: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:02:854: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:08:012: [TRACE] DoFunc  -- enter
+[4808] 23:09:08:012: [TRACE] AllocClientResources: enter
+[4808] 23:09:08:012: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:08:020: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:08:020: [TRACE] DoFunc: result = x0
+[4808] 23:09:08:020: [TRACE] DoFunc  -- enter
+[4808] 23:09:08:020: [TRACE] AllocClientResources: enter
+[4808] 23:09:08:020: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:08:036: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:08:036: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:08:036: [TRACE] DoFunc  -- enter
+[4808] 23:09:08:036: [TRACE] AllocClientResources: enter
+[4808] 23:09:08:036: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:08:043: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:08:043: [TRACE] DoFunc: result = x0
+[4808] 23:09:08:043: [TRACE] DoFunc  -- enter
+[4808] 23:09:08:043: [TRACE] AllocClientResources: enter
+[4808] 23:09:08:043: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:08:045: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:08:045: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:13:055: [TRACE] DoFunc  -- enter
+[4808] 23:09:13:055: [TRACE] AllocClientResources: enter
+[4808] 23:09:13:055: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:13:055: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:13:055: [TRACE] DoFunc: result = x0
+[4808] 23:09:13:055: [TRACE] DoFunc  -- enter
+[4808] 23:09:13:055: [TRACE] AllocClientResources: enter
+[4808] 23:09:13:055: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:13:061: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:13:061: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:13:066: [TRACE] DoFunc  -- enter
+[4808] 23:09:13:066: [TRACE] AllocClientResources: enter
+[4808] 23:09:13:066: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:13:073: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:13:073: [TRACE] DoFunc: result = x0
+[4808] 23:09:13:073: [TRACE] DoFunc  -- enter
+[4808] 23:09:13:073: [TRACE] AllocClientResources: enter
+[4808] 23:09:13:073: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:13:074: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:13:074: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:18:170: [TRACE] DoFunc  -- enter
+[4808] 23:09:18:170: [TRACE] AllocClientResources: enter
+[4808] 23:09:18:170: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:18:170: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:18:170: [TRACE] DoFunc: result = x0
+[4808] 23:09:18:170: [TRACE] DoFunc  -- enter
+[4808] 23:09:18:170: [TRACE] AllocClientResources: enter
+[4808] 23:09:18:170: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:18:177: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:18:177: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:18:181: [TRACE] DoFunc  -- enter
+[4808] 23:09:18:181: [TRACE] AllocClientResources: enter
+[4808] 23:09:18:181: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:18:182: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:18:182: [TRACE] DoFunc: result = x0
+[4808] 23:09:18:182: [TRACE] DoFunc  -- enter
+[4808] 23:09:18:182: [TRACE] AllocClientResources: enter
+[4808] 23:09:18:182: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:18:182: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:18:182: [TRACE] DoFunc: result = x80000023
+[6592] 23:09:23:105: [TRACE] DoFunc  -- enter
+[6592] 23:09:23:105: [TRACE] AllocClientResources: enter
+[6592] 23:09:23:105: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:23:108: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:09:23:108: [TRACE] DoFunc: result = x0
+[6592] 23:09:23:108: [TRACE] DoFunc  -- enter
+[6592] 23:09:23:108: [TRACE] AllocClientResources: enter
+[6592] 23:09:23:108: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:23:110: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:09:23:110: [TRACE] DoFunc: result = x80000023
+[6592] 23:09:23:110: [TRACE] DoFunc  -- enter
+[6592] 23:09:23:110: [TRACE] AllocClientResources: enter
+[6592] 23:09:23:110: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:23:120: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:09:23:120: [TRACE] DoFunc: result = x0
+[6592] 23:09:23:120: [TRACE] DoFunc  -- enter
+[6592] 23:09:23:120: [TRACE] AllocClientResources: enter
+[6592] 23:09:23:120: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:23:121: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:09:23:121: [TRACE] DoFunc: result = x80000023
+[6592] 23:09:28:585: [TRACE] DoFunc  -- enter
+[6592] 23:09:28:585: [TRACE] AllocClientResources: enter
+[6592] 23:09:28:585: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:28:586: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:09:28:586: [TRACE] DoFunc: result = x0
+[6592] 23:09:28:586: [TRACE] DoFunc  -- enter
+[6592] 23:09:28:586: [TRACE] AllocClientResources: enter
+[6592] 23:09:28:586: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:28:587: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:09:28:587: [TRACE] DoFunc: result = x80000023
+[6592] 23:09:28:587: [TRACE] DoFunc  -- enter
+[6592] 23:09:28:587: [TRACE] AllocClientResources: enter
+[6592] 23:09:28:587: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:28:587: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:09:28:588: [TRACE] DoFunc: result = x0
+[6592] 23:09:28:588: [TRACE] DoFunc  -- enter
+[6592] 23:09:28:588: [TRACE] AllocClientResources: enter
+[6592] 23:09:28:588: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:28:588: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:09:28:588: [TRACE] DoFunc: result = x80000023
+[6592] 23:09:33:155: [TRACE] DoFunc  -- enter
+[6592] 23:09:33:156: [TRACE] AllocClientResources: enter
+[6592] 23:09:33:156: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:33:157: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:09:33:157: [TRACE] DoFunc: result = x0
+[6592] 23:09:33:157: [TRACE] DoFunc  -- enter
+[6592] 23:09:33:157: [TRACE] AllocClientResources: enter
+[6592] 23:09:33:157: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:33:164: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:09:33:164: [TRACE] DoFunc: result = x80000023
+[6592] 23:09:33:165: [TRACE] DoFunc  -- enter
+[6592] 23:09:33:165: [TRACE] AllocClientResources: enter
+[6592] 23:09:33:165: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:33:173: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:09:33:173: [TRACE] DoFunc: result = x0
+[6592] 23:09:33:173: [TRACE] DoFunc  -- enter
+[6592] 23:09:33:173: [TRACE] AllocClientResources: enter
+[6592] 23:09:33:173: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:09:33:181: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:09:33:181: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:38:097: [TRACE] DoFunc  -- enter
+[4808] 23:09:38:097: [TRACE] AllocClientResources: enter
+[4808] 23:09:38:097: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:38:098: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:38:098: [TRACE] DoFunc: result = x0
+[4808] 23:09:38:098: [TRACE] DoFunc  -- enter
+[4808] 23:09:38:098: [TRACE] AllocClientResources: enter
+[4808] 23:09:38:098: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:38:099: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:38:099: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:38:099: [TRACE] DoFunc  -- enter
+[4808] 23:09:38:099: [TRACE] AllocClientResources: enter
+[4808] 23:09:38:099: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:38:100: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:38:100: [TRACE] DoFunc: result = x0
+[4808] 23:09:38:100: [TRACE] DoFunc  -- enter
+[4808] 23:09:38:100: [TRACE] AllocClientResources: enter
+[4808] 23:09:38:100: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:38:100: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:38:100: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:43:080: [TRACE] DoFunc  -- enter
+[4808] 23:09:43:081: [TRACE] AllocClientResources: enter
+[4808] 23:09:43:081: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:43:089: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:43:089: [TRACE] DoFunc: result = x0
+[4808] 23:09:43:089: [TRACE] DoFunc  -- enter
+[4808] 23:09:43:089: [TRACE] AllocClientResources: enter
+[4808] 23:09:43:089: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:43:090: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:43:090: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:43:091: [TRACE] DoFunc  -- enter
+[4808] 23:09:43:091: [TRACE] AllocClientResources: enter
+[4808] 23:09:43:091: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:43:091: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:43:091: [TRACE] DoFunc: result = x0
+[4808] 23:09:43:091: [TRACE] DoFunc  -- enter
+[4808] 23:09:43:091: [TRACE] AllocClientResources: enter
+[4808] 23:09:43:091: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:43:092: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:43:092: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:48:216: [TRACE] DoFunc  -- enter
+[4808] 23:09:48:216: [TRACE] AllocClientResources: enter
+[4808] 23:09:48:216: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:48:225: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:48:225: [TRACE] DoFunc: result = x0
+[4808] 23:09:48:225: [TRACE] DoFunc  -- enter
+[4808] 23:09:48:225: [TRACE] AllocClientResources: enter
+[4808] 23:09:48:225: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:48:228: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:48:228: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:48:229: [TRACE] DoFunc  -- enter
+[4808] 23:09:48:229: [TRACE] AllocClientResources: enter
+[4808] 23:09:48:229: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:48:230: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:48:230: [TRACE] DoFunc: result = x0
+[4808] 23:09:48:230: [TRACE] DoFunc  -- enter
+[4808] 23:09:48:230: [TRACE] AllocClientResources: enter
+[4808] 23:09:48:230: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:48:231: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:48:231: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:53:691: [TRACE] DoFunc  -- enter
+[4808] 23:09:53:691: [TRACE] AllocClientResources: enter
+[4808] 23:09:53:691: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:53:692: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:53:692: [TRACE] DoFunc: result = x0
+[4808] 23:09:53:692: [TRACE] DoFunc  -- enter
+[4808] 23:09:53:692: [TRACE] AllocClientResources: enter
+[4808] 23:09:53:692: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:53:700: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:53:700: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:53:700: [TRACE] DoFunc  -- enter
+[4808] 23:09:53:700: [TRACE] AllocClientResources: enter
+[4808] 23:09:53:700: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:53:702: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:53:702: [TRACE] DoFunc: result = x0
+[4808] 23:09:53:703: [TRACE] DoFunc  -- enter
+[4808] 23:09:53:703: [TRACE] AllocClientResources: enter
+[4808] 23:09:53:703: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:53:706: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:53:706: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:58:164: [TRACE] DoFunc  -- enter
+[4808] 23:09:58:174: [TRACE] AllocClientResources: enter
+[4808] 23:09:58:174: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:58:174: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:58:174: [TRACE] DoFunc: result = x0
+[4808] 23:09:58:174: [TRACE] DoFunc  -- enter
+[4808] 23:09:58:174: [TRACE] AllocClientResources: enter
+[4808] 23:09:58:174: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:58:174: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:58:174: [TRACE] DoFunc: result = x80000023
+[4808] 23:09:58:174: [TRACE] DoFunc  -- enter
+[4808] 23:09:58:174: [TRACE] AllocClientResources: enter
+[4808] 23:09:58:174: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:58:175: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:09:58:175: [TRACE] DoFunc: result = x0
+[4808] 23:09:58:175: [TRACE] DoFunc  -- enter
+[4808] 23:09:58:175: [TRACE] AllocClientResources: enter
+[4808] 23:09:58:175: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:09:58:175: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:09:58:175: [TRACE] DoFunc: result = x80000023
+[3892] 23:10:03:109: [TRACE] DoFunc  -- enter
+[3892] 23:10:03:109: [TRACE] AllocClientResources: enter
+[3892] 23:10:03:109: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:03:110: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:10:03:110: [TRACE] DoFunc: result = x0
+[3892] 23:10:03:110: [TRACE] DoFunc  -- enter
+[3892] 23:10:03:110: [TRACE] AllocClientResources: enter
+[3892] 23:10:03:110: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:03:110: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:10:03:110: [TRACE] DoFunc: result = x80000023
+[3892] 23:10:03:110: [TRACE] DoFunc  -- enter
+[3892] 23:10:03:110: [TRACE] AllocClientResources: enter
+[3892] 23:10:03:110: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:03:110: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:10:03:110: [TRACE] DoFunc: result = x0
+[3892] 23:10:03:111: [TRACE] DoFunc  -- enter
+[3892] 23:10:03:111: [TRACE] AllocClientResources: enter
+[3892] 23:10:03:111: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:03:111: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:10:03:111: [TRACE] DoFunc: result = x80000023
+[3892] 23:10:08:044: [TRACE] DoFunc  -- enter
+[3892] 23:10:08:044: [TRACE] AllocClientResources: enter
+[3892] 23:10:08:044: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:08:053: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:10:08:053: [TRACE] DoFunc: result = x0
+[3892] 23:10:08:053: [TRACE] DoFunc  -- enter
+[3892] 23:10:08:053: [TRACE] AllocClientResources: enter
+[3892] 23:10:08:053: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:08:055: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:10:08:055: [TRACE] DoFunc: result = x80000023
+[3892] 23:10:08:060: [TRACE] DoFunc  -- enter
+[3892] 23:10:08:060: [TRACE] AllocClientResources: enter
+[3892] 23:10:08:060: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:08:060: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:10:08:060: [TRACE] DoFunc: result = x0
+[3892] 23:10:08:060: [TRACE] DoFunc  -- enter
+[3892] 23:10:08:060: [TRACE] AllocClientResources: enter
+[3892] 23:10:08:060: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:08:060: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:10:08:060: [TRACE] DoFunc: result = x80000023
+[4808] 23:10:13:076: [TRACE] DoFunc  -- enter
+[4808] 23:10:13:076: [TRACE] AllocClientResources: enter
+[4808] 23:10:13:076: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:13:078: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:10:13:078: [TRACE] DoFunc: result = x0
+[4808] 23:10:13:078: [TRACE] DoFunc  -- enter
+[4808] 23:10:13:078: [TRACE] AllocClientResources: enter
+[4808] 23:10:13:078: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:13:091: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:10:13:091: [TRACE] DoFunc: result = x80000023
+[4808] 23:10:13:091: [TRACE] DoFunc  -- enter
+[4808] 23:10:13:091: [TRACE] AllocClientResources: enter
+[4808] 23:10:13:091: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:13:091: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:10:13:091: [TRACE] DoFunc: result = x0
+[4808] 23:10:13:091: [TRACE] DoFunc  -- enter
+[4808] 23:10:13:091: [TRACE] AllocClientResources: enter
+[4808] 23:10:13:091: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:13:092: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:10:13:092: [TRACE] DoFunc: result = x80000023
+[4808] 23:10:32:458: [TRACE] DoFunc  -- enter
+[4808] 23:10:32:458: [TRACE] AllocClientResources: enter
+[4808] 23:10:32:458: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:32:461: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:10:32:461: [TRACE] DoFunc: result = x0
+[4808] 23:10:32:462: [TRACE] DoFunc  -- enter
+[4808] 23:10:32:462: [TRACE] AllocClientResources: enter
+[4808] 23:10:32:462: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:32:466: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:10:32:466: [TRACE] DoFunc: result = x80000023
+[4808] 23:10:32:466: [TRACE] DoFunc  -- enter
+[4808] 23:10:32:466: [TRACE] AllocClientResources: enter
+[4808] 23:10:32:466: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:32:469: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:10:32:469: [TRACE] DoFunc: result = x0
+[4808] 23:10:32:469: [TRACE] DoFunc  -- enter
+[4808] 23:10:32:469: [TRACE] AllocClientResources: enter
+[4808] 23:10:32:469: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:10:32:471: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:10:32:471: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:33:680: [TRACE] DoFunc  -- enter
+[6592] 23:10:33:681: [TRACE] AllocClientResources: enter
+[6592] 23:10:33:681: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:33:691: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:33:691: [TRACE] DoFunc: result = x0
+[6592] 23:10:33:691: [TRACE] DoFunc  -- enter
+[6592] 23:10:33:691: [TRACE] AllocClientResources: enter
+[6592] 23:10:33:691: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:33:696: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:33:696: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:33:696: [TRACE] DoFunc  -- enter
+[6592] 23:10:33:696: [TRACE] AllocClientResources: enter
+[6592] 23:10:33:696: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:33:700: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:33:700: [TRACE] DoFunc: result = x0
+[6592] 23:10:33:700: [TRACE] DoFunc  -- enter
+[6592] 23:10:33:700: [TRACE] AllocClientResources: enter
+[6592] 23:10:33:700: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:33:714: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:33:714: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:39:570: [TRACE] DoFunc  -- enter
+[6592] 23:10:39:570: [TRACE] AllocClientResources: enter
+[6592] 23:10:39:570: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:39:573: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:39:573: [TRACE] DoFunc: result = x0
+[6592] 23:10:39:573: [TRACE] DoFunc  -- enter
+[6592] 23:10:39:573: [TRACE] AllocClientResources: enter
+[6592] 23:10:39:573: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:39:581: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:39:581: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:39:586: [TRACE] DoFunc  -- enter
+[6592] 23:10:39:586: [TRACE] AllocClientResources: enter
+[6592] 23:10:39:586: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:39:586: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:39:586: [TRACE] DoFunc: result = x0
+[6592] 23:10:39:586: [TRACE] DoFunc  -- enter
+[6592] 23:10:39:586: [TRACE] AllocClientResources: enter
+[6592] 23:10:39:586: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:39:587: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:39:587: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:43:269: [TRACE] DoFunc  -- enter
+[6592] 23:10:43:269: [TRACE] AllocClientResources: enter
+[6592] 23:10:43:269: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:43:269: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:43:269: [TRACE] DoFunc: result = x0
+[6592] 23:10:43:269: [TRACE] DoFunc  -- enter
+[6592] 23:10:43:269: [TRACE] AllocClientResources: enter
+[6592] 23:10:43:269: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:43:276: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:43:276: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:43:276: [TRACE] DoFunc  -- enter
+[6592] 23:10:43:276: [TRACE] AllocClientResources: enter
+[6592] 23:10:43:276: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:43:281: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:43:281: [TRACE] DoFunc: result = x0
+[6592] 23:10:43:281: [TRACE] DoFunc  -- enter
+[6592] 23:10:43:281: [TRACE] AllocClientResources: enter
+[6592] 23:10:43:281: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:43:283: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:43:283: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:48:305: [TRACE] DoFunc  -- enter
+[6592] 23:10:48:305: [TRACE] AllocClientResources: enter
+[6592] 23:10:48:305: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:48:307: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:48:307: [TRACE] DoFunc: result = x0
+[6592] 23:10:48:307: [TRACE] DoFunc  -- enter
+[6592] 23:10:48:307: [TRACE] AllocClientResources: enter
+[6592] 23:10:48:307: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:48:308: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:48:308: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:48:308: [TRACE] DoFunc  -- enter
+[6592] 23:10:48:308: [TRACE] AllocClientResources: enter
+[6592] 23:10:48:308: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:48:308: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:48:308: [TRACE] DoFunc: result = x0
+[6592] 23:10:48:308: [TRACE] DoFunc  -- enter
+[6592] 23:10:48:308: [TRACE] AllocClientResources: enter
+[6592] 23:10:48:308: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:48:309: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:48:309: [TRACE] DoFunc: result = x80000023
+[3892] 23:10:53:819: [TRACE] DoFunc  -- enter
+[3892] 23:10:53:819: [TRACE] AllocClientResources: enter
+[3892] 23:10:53:819: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:53:822: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:10:53:822: [TRACE] DoFunc: result = x0
+[3892] 23:10:53:822: [TRACE] DoFunc  -- enter
+[3892] 23:10:53:822: [TRACE] AllocClientResources: enter
+[3892] 23:10:53:822: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:53:831: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:10:53:831: [TRACE] DoFunc: result = x80000023
+[3892] 23:10:53:831: [TRACE] DoFunc  -- enter
+[3892] 23:10:53:831: [TRACE] AllocClientResources: enter
+[3892] 23:10:53:831: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:53:844: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:10:53:844: [TRACE] DoFunc: result = x0
+[3892] 23:10:53:844: [TRACE] DoFunc  -- enter
+[3892] 23:10:53:844: [TRACE] AllocClientResources: enter
+[3892] 23:10:53:844: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:10:53:847: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:10:53:847: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:58:309: [TRACE] DoFunc  -- enter
+[6592] 23:10:58:309: [TRACE] AllocClientResources: enter
+[6592] 23:10:58:309: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:58:321: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:58:321: [TRACE] DoFunc: result = x0
+[6592] 23:10:58:321: [TRACE] DoFunc  -- enter
+[6592] 23:10:58:321: [TRACE] AllocClientResources: enter
+[6592] 23:10:58:321: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:58:322: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:58:322: [TRACE] DoFunc: result = x80000023
+[6592] 23:10:58:324: [TRACE] DoFunc  -- enter
+[6592] 23:10:58:324: [TRACE] AllocClientResources: enter
+[6592] 23:10:58:324: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:58:324: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:10:58:324: [TRACE] DoFunc: result = x0
+[6592] 23:10:58:324: [TRACE] DoFunc  -- enter
+[6592] 23:10:58:324: [TRACE] AllocClientResources: enter
+[6592] 23:10:58:324: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:10:58:324: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:10:58:324: [TRACE] DoFunc: result = x80000023
+[3892] 23:11:03:349: [TRACE] DoFunc  -- enter
+[3892] 23:11:03:349: [TRACE] AllocClientResources: enter
+[3892] 23:11:03:349: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:03:370: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:11:03:370: [TRACE] DoFunc: result = x0
+[3892] 23:11:03:370: [TRACE] DoFunc  -- enter
+[3892] 23:11:03:370: [TRACE] AllocClientResources: enter
+[3892] 23:11:03:370: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:03:378: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:11:03:378: [TRACE] DoFunc: result = x80000023
+[3892] 23:11:03:378: [TRACE] DoFunc  -- enter
+[3892] 23:11:03:378: [TRACE] AllocClientResources: enter
+[3892] 23:11:03:378: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:03:378: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:11:03:378: [TRACE] DoFunc: result = x0
+[3892] 23:11:03:378: [TRACE] DoFunc  -- enter
+[3892] 23:11:03:378: [TRACE] AllocClientResources: enter
+[3892] 23:11:03:378: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:03:378: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:11:03:378: [TRACE] DoFunc: result = x80000023
+[3892] 23:11:09:205: [TRACE] DoFunc  -- enter
+[3892] 23:11:09:205: [TRACE] AllocClientResources: enter
+[3892] 23:11:09:205: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:09:205: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:11:09:205: [TRACE] DoFunc: result = x0
+[3892] 23:11:09:205: [TRACE] DoFunc  -- enter
+[3892] 23:11:09:205: [TRACE] AllocClientResources: enter
+[3892] 23:11:09:206: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:09:207: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:11:09:207: [TRACE] DoFunc: result = x80000023
+[3892] 23:11:09:207: [TRACE] DoFunc  -- enter
+[3892] 23:11:09:207: [TRACE] AllocClientResources: enter
+[3892] 23:11:09:207: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:09:207: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:11:09:207: [TRACE] DoFunc: result = x0
+[3892] 23:11:09:207: [TRACE] DoFunc  -- enter
+[3892] 23:11:09:207: [TRACE] AllocClientResources: enter
+[3892] 23:11:09:207: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:09:207: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:11:09:207: [TRACE] DoFunc: result = x80000023
+[4808] 23:11:15:032: [TRACE] DoFunc  -- enter
+[4808] 23:11:15:032: [TRACE] AllocClientResources: enter
+[4808] 23:11:15:032: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:15:032: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:11:15:032: [TRACE] DoFunc: result = x0
+[4808] 23:11:15:032: [TRACE] DoFunc  -- enter
+[4808] 23:11:15:032: [TRACE] AllocClientResources: enter
+[4808] 23:11:15:032: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:15:034: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:11:15:034: [TRACE] DoFunc: result = x80000023
+[4808] 23:11:15:044: [TRACE] DoFunc  -- enter
+[4808] 23:11:15:044: [TRACE] AllocClientResources: enter
+[4808] 23:11:15:044: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:15:045: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:11:15:045: [TRACE] DoFunc: result = x0
+[4808] 23:11:15:045: [TRACE] DoFunc  -- enter
+[4808] 23:11:15:045: [TRACE] AllocClientResources: enter
+[4808] 23:11:15:045: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:15:061: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:11:15:061: [TRACE] DoFunc: result = x80000023
+[4808] 23:11:18:249: [TRACE] DoFunc  -- enter
+[4808] 23:11:18:249: [TRACE] AllocClientResources: enter
+[4808] 23:11:18:249: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:18:251: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:11:18:251: [TRACE] DoFunc: result = x0
+[4808] 23:11:18:251: [TRACE] DoFunc  -- enter
+[4808] 23:11:18:251: [TRACE] AllocClientResources: enter
+[4808] 23:11:18:251: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:18:252: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:11:18:252: [TRACE] DoFunc: result = x80000023
+[4808] 23:11:18:253: [TRACE] DoFunc  -- enter
+[4808] 23:11:18:253: [TRACE] AllocClientResources: enter
+[4808] 23:11:18:253: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:18:254: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:11:18:254: [TRACE] DoFunc: result = x0
+[4808] 23:11:18:254: [TRACE] DoFunc  -- enter
+[4808] 23:11:18:254: [TRACE] AllocClientResources: enter
+[4808] 23:11:18:254: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:18:254: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:11:18:254: [TRACE] DoFunc: result = x80000023
+[4808] 23:11:29:708: [TRACE] DoFunc  -- enter
+[4808] 23:11:29:708: [TRACE] AllocClientResources: enter
+[4808] 23:11:29:708: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:29:708: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:11:29:708: [TRACE] DoFunc: result = x0
+[4808] 23:11:29:708: [TRACE] DoFunc  -- enter
+[4808] 23:11:29:708: [TRACE] AllocClientResources: enter
+[4808] 23:11:29:708: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:11:29:708: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:11:29:708: [TRACE] DoFunc: result = x80000023
+[3892] 23:11:29:885: [TRACE] DoFunc  -- enter
+[3892] 23:11:29:885: [TRACE] AllocClientResources: enter
+[3892] 23:11:29:885: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:29:885: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:11:29:885: [TRACE] DoFunc: result = x0
+[3892] 23:11:29:885: [TRACE] DoFunc  -- enter
+[3892] 23:11:29:885: [TRACE] AllocClientResources: enter
+[3892] 23:11:29:885: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:29:886: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:11:29:886: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:38:593: [TRACE] DoFunc  -- enter
+[6592] 23:11:38:593: [TRACE] AllocClientResources: enter
+[6592] 23:11:38:593: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:38:596: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:38:596: [TRACE] DoFunc: result = x0
+[6592] 23:11:38:596: [TRACE] DoFunc  -- enter
+[6592] 23:11:38:596: [TRACE] AllocClientResources: enter
+[6592] 23:11:38:596: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:38:597: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:38:597: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:38:597: [TRACE] DoFunc  -- enter
+[6592] 23:11:38:597: [TRACE] AllocClientResources: enter
+[6592] 23:11:38:597: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:38:597: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:38:597: [TRACE] DoFunc: result = x0
+[6592] 23:11:38:597: [TRACE] DoFunc  -- enter
+[6592] 23:11:38:597: [TRACE] AllocClientResources: enter
+[6592] 23:11:38:597: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:38:598: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:38:598: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:44:058: [TRACE] DoFunc  -- enter
+[6592] 23:11:44:058: [TRACE] AllocClientResources: enter
+[6592] 23:11:44:058: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:44:061: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:44:061: [TRACE] DoFunc: result = x0
+[6592] 23:11:44:061: [TRACE] DoFunc  -- enter
+[6592] 23:11:44:061: [TRACE] AllocClientResources: enter
+[6592] 23:11:44:061: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:44:069: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:44:069: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:44:069: [TRACE] DoFunc  -- enter
+[6592] 23:11:44:069: [TRACE] AllocClientResources: enter
+[6592] 23:11:44:069: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:44:087: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:44:087: [TRACE] DoFunc: result = x0
+[6592] 23:11:44:087: [TRACE] DoFunc  -- enter
+[6592] 23:11:44:087: [TRACE] AllocClientResources: enter
+[6592] 23:11:44:087: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:44:100: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:44:100: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:50:950: [TRACE] DoFunc  -- enter
+[6592] 23:11:50:950: [TRACE] AllocClientResources: enter
+[6592] 23:11:50:950: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:50:963: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:50:963: [TRACE] DoFunc: result = x0
+[6592] 23:11:50:963: [TRACE] DoFunc  -- enter
+[6592] 23:11:50:963: [TRACE] AllocClientResources: enter
+[6592] 23:11:50:963: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:50:964: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:50:964: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:50:964: [TRACE] DoFunc  -- enter
+[6592] 23:11:50:964: [TRACE] AllocClientResources: enter
+[6592] 23:11:50:964: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:50:965: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:50:965: [TRACE] DoFunc: result = x0
+[6592] 23:11:50:965: [TRACE] DoFunc  -- enter
+[6592] 23:11:50:965: [TRACE] AllocClientResources: enter
+[6592] 23:11:50:965: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:50:965: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:50:965: [TRACE] DoFunc: result = x80000023
+[6592] 23:11:58:523: [TRACE] DoFunc  -- enter
+[6592] 23:11:58:523: [TRACE] AllocClientResources: enter
+[6592] 23:11:58:523: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:58:529: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:11:58:529: [TRACE] DoFunc: result = x0
+[6592] 23:11:58:529: [TRACE] DoFunc  -- enter
+[6592] 23:11:58:529: [TRACE] AllocClientResources: enter
+[6592] 23:11:58:529: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:11:58:559: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:11:58:559: [TRACE] DoFunc: result = x80000023
+[3892] 23:11:58:563: [TRACE] DoFunc  -- enter
+[3892] 23:11:58:563: [TRACE] AllocClientResources: enter
+[3892] 23:11:58:563: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:58:564: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:11:58:564: [TRACE] DoFunc: result = x0
+[3892] 23:11:58:564: [TRACE] DoFunc  -- enter
+[3892] 23:11:58:564: [TRACE] AllocClientResources: enter
+[3892] 23:11:58:564: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:11:58:564: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:11:58:564: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:06:406: [TRACE] DoFunc  -- enter
+[3892] 23:12:06:406: [TRACE] AllocClientResources: enter
+[3892] 23:12:06:406: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:06:439: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:06:439: [TRACE] DoFunc: result = x0
+[3892] 23:12:06:439: [TRACE] DoFunc  -- enter
+[3892] 23:12:06:439: [TRACE] AllocClientResources: enter
+[3892] 23:12:06:439: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:06:439: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:06:439: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:06:439: [TRACE] DoFunc  -- enter
+[3892] 23:12:06:439: [TRACE] AllocClientResources: enter
+[3892] 23:12:06:439: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:06:440: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:06:440: [TRACE] DoFunc: result = x0
+[3892] 23:12:06:440: [TRACE] DoFunc  -- enter
+[3892] 23:12:06:440: [TRACE] AllocClientResources: enter
+[3892] 23:12:06:440: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:06:440: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:06:440: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:09:202: [TRACE] DoFunc  -- enter
+[6592] 23:12:09:202: [TRACE] AllocClientResources: enter
+[6592] 23:12:09:202: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:09:211: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:09:211: [TRACE] DoFunc: result = x0
+[6592] 23:12:09:211: [TRACE] DoFunc  -- enter
+[6592] 23:12:09:211: [TRACE] AllocClientResources: enter
+[6592] 23:12:09:211: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:09:218: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:09:218: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:09:220: [TRACE] DoFunc  -- enter
+[6592] 23:12:09:220: [TRACE] AllocClientResources: enter
+[6592] 23:12:09:220: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:09:220: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:09:220: [TRACE] DoFunc: result = x0
+[6592] 23:12:09:220: [TRACE] DoFunc  -- enter
+[6592] 23:12:09:220: [TRACE] AllocClientResources: enter
+[6592] 23:12:09:220: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:09:221: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:09:221: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:15:320: [TRACE] DoFunc  -- enter
+[3892] 23:12:15:320: [TRACE] AllocClientResources: enter
+[3892] 23:12:15:320: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:15:320: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:15:320: [TRACE] DoFunc: result = x0
+[3892] 23:12:15:320: [TRACE] DoFunc  -- enter
+[3892] 23:12:15:320: [TRACE] AllocClientResources: enter
+[3892] 23:12:15:320: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:15:325: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:15:325: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:15:327: [TRACE] DoFunc  -- enter
+[6592] 23:12:15:327: [TRACE] AllocClientResources: enter
+[6592] 23:12:15:327: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:15:327: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:15:327: [TRACE] DoFunc: result = x0
+[6592] 23:12:15:327: [TRACE] DoFunc  -- enter
+[6592] 23:12:15:327: [TRACE] AllocClientResources: enter
+[6592] 23:12:15:327: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:15:327: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:15:327: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:18:271: [TRACE] DoFunc  -- enter
+[3892] 23:12:18:271: [TRACE] AllocClientResources: enter
+[3892] 23:12:18:271: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:18:276: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:18:276: [TRACE] DoFunc: result = x0
+[3892] 23:12:18:276: [TRACE] DoFunc  -- enter
+[3892] 23:12:18:276: [TRACE] AllocClientResources: enter
+[3892] 23:12:18:276: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:18:282: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:18:282: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:18:282: [TRACE] DoFunc  -- enter
+[3892] 23:12:18:282: [TRACE] AllocClientResources: enter
+[3892] 23:12:18:282: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:18:284: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:18:284: [TRACE] DoFunc: result = x0
+[3892] 23:12:18:284: [TRACE] DoFunc  -- enter
+[3892] 23:12:18:284: [TRACE] AllocClientResources: enter
+[3892] 23:12:18:284: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:18:287: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:18:288: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:23:499: [TRACE] DoFunc  -- enter
+[6592] 23:12:23:500: [TRACE] AllocClientResources: enter
+[6592] 23:12:23:500: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:23:513: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:23:513: [TRACE] DoFunc: result = x0
+[6592] 23:12:23:513: [TRACE] DoFunc  -- enter
+[6592] 23:12:23:513: [TRACE] AllocClientResources: enter
+[6592] 23:12:23:513: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:23:525: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:23:525: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:23:525: [TRACE] DoFunc  -- enter
+[6592] 23:12:23:525: [TRACE] AllocClientResources: enter
+[6592] 23:12:23:525: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:23:526: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:23:526: [TRACE] DoFunc: result = x0
+[6592] 23:12:23:526: [TRACE] DoFunc  -- enter
+[6592] 23:12:23:526: [TRACE] AllocClientResources: enter
+[6592] 23:12:23:526: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:23:533: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:23:533: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:29:920: [TRACE] DoFunc  -- enter
+[3892] 23:12:29:920: [TRACE] AllocClientResources: enter
+[3892] 23:12:29:920: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:29:924: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:29:924: [TRACE] DoFunc: result = x0
+[3892] 23:12:29:924: [TRACE] DoFunc  -- enter
+[3892] 23:12:29:924: [TRACE] AllocClientResources: enter
+[3892] 23:12:29:924: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:29:929: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:29:929: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:29:929: [TRACE] DoFunc  -- enter
+[3892] 23:12:29:929: [TRACE] AllocClientResources: enter
+[3892] 23:12:29:929: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:29:931: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:29:931: [TRACE] DoFunc: result = x0
+[3892] 23:12:29:931: [TRACE] DoFunc  -- enter
+[3892] 23:12:29:931: [TRACE] AllocClientResources: enter
+[3892] 23:12:29:931: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:29:931: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:29:931: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:33:285: [TRACE] DoFunc  -- enter
+[6592] 23:12:33:285: [TRACE] AllocClientResources: enter
+[6592] 23:12:33:285: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:33:287: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:33:287: [TRACE] DoFunc: result = x0
+[6592] 23:12:33:287: [TRACE] DoFunc  -- enter
+[6592] 23:12:33:287: [TRACE] AllocClientResources: enter
+[6592] 23:12:33:287: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:33:287: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:33:287: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:33:288: [TRACE] DoFunc  -- enter
+[6592] 23:12:33:288: [TRACE] AllocClientResources: enter
+[6592] 23:12:33:288: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:33:289: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:33:289: [TRACE] DoFunc: result = x0
+[6592] 23:12:33:289: [TRACE] DoFunc  -- enter
+[6592] 23:12:33:289: [TRACE] AllocClientResources: enter
+[6592] 23:12:33:289: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:33:289: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:33:289: [TRACE] DoFunc: result = x80000023
+[4808] 23:12:39:282: [TRACE] DoFunc  -- enter
+[4808] 23:12:39:282: [TRACE] AllocClientResources: enter
+[4808] 23:12:39:282: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:12:39:286: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:12:39:286: [TRACE] DoFunc: result = x0
+[4808] 23:12:39:286: [TRACE] DoFunc  -- enter
+[4808] 23:12:39:286: [TRACE] AllocClientResources: enter
+[4808] 23:12:39:286: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:12:39:289: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:12:39:289: [TRACE] DoFunc: result = x80000023
+[4808] 23:12:39:289: [TRACE] DoFunc  -- enter
+[4808] 23:12:39:289: [TRACE] AllocClientResources: enter
+[4808] 23:12:39:289: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:12:39:297: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:12:39:297: [TRACE] DoFunc: result = x0
+[4808] 23:12:39:297: [TRACE] DoFunc  -- enter
+[4808] 23:12:39:297: [TRACE] AllocClientResources: enter
+[4808] 23:12:39:297: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:12:39:300: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:12:39:300: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:44:365: [TRACE] DoFunc  -- enter
+[6592] 23:12:44:365: [TRACE] AllocClientResources: enter
+[6592] 23:12:44:365: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:44:366: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:44:366: [TRACE] DoFunc: result = x0
+[6592] 23:12:44:366: [TRACE] DoFunc  -- enter
+[6592] 23:12:44:366: [TRACE] AllocClientResources: enter
+[6592] 23:12:44:366: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:44:367: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:44:367: [TRACE] DoFunc: result = x80000023
+[6592] 23:12:44:369: [TRACE] DoFunc  -- enter
+[6592] 23:12:44:369: [TRACE] AllocClientResources: enter
+[6592] 23:12:44:369: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:44:369: [TRACE] DoFunc: back from srv- return code=0x00000000
+[6592] 23:12:44:369: [TRACE] DoFunc: result = x0
+[6592] 23:12:44:369: [TRACE] DoFunc  -- enter
+[6592] 23:12:44:369: [TRACE] AllocClientResources: enter
+[6592] 23:12:44:369: [TRACE] AllocClientResources: exit, returning x0
+[6592] 23:12:44:371: [TRACE] DoFunc: back from srv- return code=0x80000023
+[6592] 23:12:44:371: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:48:680: [TRACE] DoFunc  -- enter
+[3892] 23:12:48:680: [TRACE] AllocClientResources: enter
+[3892] 23:12:48:680: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:48:684: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:48:684: [TRACE] DoFunc: result = x0
+[3892] 23:12:48:684: [TRACE] DoFunc  -- enter
+[3892] 23:12:48:684: [TRACE] AllocClientResources: enter
+[3892] 23:12:48:684: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:48:689: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:48:689: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:48:689: [TRACE] DoFunc  -- enter
+[3892] 23:12:48:689: [TRACE] AllocClientResources: enter
+[3892] 23:12:48:689: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:48:692: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:48:692: [TRACE] DoFunc: result = x0
+[3892] 23:12:48:692: [TRACE] DoFunc  -- enter
+[3892] 23:12:48:692: [TRACE] AllocClientResources: enter
+[3892] 23:12:48:692: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:48:713: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:48:713: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:57:892: [TRACE] DoFunc  -- enter
+[3892] 23:12:57:892: [TRACE] AllocClientResources: enter
+[3892] 23:12:57:892: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:58:004: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:58:004: [TRACE] DoFunc: result = x0
+[3892] 23:12:58:004: [TRACE] DoFunc  -- enter
+[3892] 23:12:58:004: [TRACE] AllocClientResources: enter
+[3892] 23:12:58:004: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:58:011: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:58:011: [TRACE] DoFunc: result = x80000023
+[3892] 23:12:58:011: [TRACE] DoFunc  -- enter
+[3892] 23:12:58:011: [TRACE] AllocClientResources: enter
+[3892] 23:12:58:011: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:58:011: [TRACE] DoFunc: back from srv- return code=0x00000000
+[3892] 23:12:58:011: [TRACE] DoFunc: result = x0
+[3892] 23:12:58:011: [TRACE] DoFunc  -- enter
+[3892] 23:12:58:011: [TRACE] AllocClientResources: enter
+[3892] 23:12:58:011: [TRACE] AllocClientResources: exit, returning x0
+[3892] 23:12:58:011: [TRACE] DoFunc: back from srv- return code=0x80000023
+[3892] 23:12:58:011: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:19:468: [TRACE] DoFunc  -- enter
+[7260] 23:13:19:470: [TRACE] AllocClientResources: enter
+[7260] 23:13:19:470: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:19:477: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:19:477: [TRACE] DoFunc: result = x0
+[7260] 23:13:19:477: [TRACE] DoFunc  -- enter
+[7260] 23:13:19:477: [TRACE] AllocClientResources: enter
+[7260] 23:13:19:477: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:19:477: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:19:477: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:19:478: [TRACE] DoFunc  -- enter
+[7260] 23:13:19:478: [TRACE] AllocClientResources: enter
+[7260] 23:13:19:478: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:19:478: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:19:478: [TRACE] DoFunc: result = x0
+[7260] 23:13:19:478: [TRACE] DoFunc  -- enter
+[7260] 23:13:19:478: [TRACE] AllocClientResources: enter
+[7260] 23:13:19:478: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:19:481: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:19:481: [TRACE] DoFunc: result = x80000023
+[4808] 23:13:23:430: [TRACE] DoFunc  -- enter
+[4808] 23:13:23:430: [TRACE] AllocClientResources: enter
+[4808] 23:13:23:430: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:23:438: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:13:23:438: [TRACE] DoFunc: result = x0
+[4808] 23:13:23:438: [TRACE] DoFunc  -- enter
+[4808] 23:13:23:438: [TRACE] AllocClientResources: enter
+[4808] 23:13:23:438: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:23:445: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:13:23:445: [TRACE] DoFunc: result = x80000023
+[4808] 23:13:23:447: [TRACE] DoFunc  -- enter
+[4808] 23:13:23:447: [TRACE] AllocClientResources: enter
+[4808] 23:13:23:447: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:23:453: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:13:23:453: [TRACE] DoFunc: result = x0
+[4808] 23:13:23:454: [TRACE] DoFunc  -- enter
+[4808] 23:13:23:454: [TRACE] AllocClientResources: enter
+[4808] 23:13:23:454: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:23:455: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:13:23:455: [TRACE] DoFunc: result = x80000023
+[4808] 23:13:28:552: [TRACE] DoFunc  -- enter
+[4808] 23:13:28:552: [TRACE] AllocClientResources: enter
+[4808] 23:13:28:552: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:28:552: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:13:28:552: [TRACE] DoFunc: result = x0
+[4808] 23:13:28:552: [TRACE] DoFunc  -- enter
+[4808] 23:13:28:552: [TRACE] AllocClientResources: enter
+[4808] 23:13:28:552: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:28:552: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:13:28:552: [TRACE] DoFunc: result = x80000023
+[4808] 23:13:28:552: [TRACE] DoFunc  -- enter
+[4808] 23:13:28:552: [TRACE] AllocClientResources: enter
+[4808] 23:13:28:552: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:28:553: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:13:28:553: [TRACE] DoFunc: result = x0
+[4808] 23:13:28:553: [TRACE] DoFunc  -- enter
+[4808] 23:13:28:553: [TRACE] AllocClientResources: enter
+[4808] 23:13:28:553: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:28:555: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:13:28:555: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:33:451: [TRACE] DoFunc  -- enter
+[7260] 23:13:33:451: [TRACE] AllocClientResources: enter
+[7260] 23:13:33:451: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:33:452: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:33:452: [TRACE] DoFunc: result = x0
+[7260] 23:13:33:452: [TRACE] DoFunc  -- enter
+[7260] 23:13:33:452: [TRACE] AllocClientResources: enter
+[7260] 23:13:33:452: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:33:452: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:33:452: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:33:452: [TRACE] DoFunc  -- enter
+[7260] 23:13:33:453: [TRACE] AllocClientResources: enter
+[7260] 23:13:33:453: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:33:453: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:33:453: [TRACE] DoFunc: result = x0
+[7260] 23:13:33:453: [TRACE] DoFunc  -- enter
+[7260] 23:13:33:453: [TRACE] AllocClientResources: enter
+[7260] 23:13:33:453: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:33:453: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:33:453: [TRACE] DoFunc: result = x80000023
+[4808] 23:13:38:373: [TRACE] DoFunc  -- enter
+[4808] 23:13:38:373: [TRACE] AllocClientResources: enter
+[4808] 23:13:38:373: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:38:373: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:13:38:373: [TRACE] DoFunc: result = x0
+[4808] 23:13:38:373: [TRACE] DoFunc  -- enter
+[4808] 23:13:38:373: [TRACE] AllocClientResources: enter
+[4808] 23:13:38:373: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:38:373: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:13:38:373: [TRACE] DoFunc: result = x80000023
+[4808] 23:13:38:374: [TRACE] DoFunc  -- enter
+[4808] 23:13:38:374: [TRACE] AllocClientResources: enter
+[4808] 23:13:38:374: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:38:374: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:13:38:374: [TRACE] DoFunc: result = x0
+[4808] 23:13:38:374: [TRACE] DoFunc  -- enter
+[4808] 23:13:38:374: [TRACE] AllocClientResources: enter
+[4808] 23:13:38:374: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:13:38:374: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:13:38:374: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:44:852: [TRACE] DoFunc  -- enter
+[7260] 23:13:44:858: [TRACE] AllocClientResources: enter
+[7260] 23:13:44:858: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:44:869: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:44:869: [TRACE] DoFunc: result = x0
+[7260] 23:13:44:869: [TRACE] DoFunc  -- enter
+[7260] 23:13:44:869: [TRACE] AllocClientResources: enter
+[7260] 23:13:44:869: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:44:871: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:44:871: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:44:872: [TRACE] DoFunc  -- enter
+[7260] 23:13:44:872: [TRACE] AllocClientResources: enter
+[7260] 23:13:44:872: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:44:887: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:44:887: [TRACE] DoFunc: result = x0
+[7260] 23:13:44:888: [TRACE] DoFunc  -- enter
+[7260] 23:13:44:888: [TRACE] AllocClientResources: enter
+[7260] 23:13:44:888: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:44:897: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:44:897: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:49:802: [TRACE] DoFunc  -- enter
+[7260] 23:13:49:802: [TRACE] AllocClientResources: enter
+[7260] 23:13:49:802: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:49:802: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:49:802: [TRACE] DoFunc: result = x0
+[7260] 23:13:49:802: [TRACE] DoFunc  -- enter
+[7260] 23:13:49:802: [TRACE] AllocClientResources: enter
+[7260] 23:13:49:802: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:49:803: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:49:803: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:49:803: [TRACE] DoFunc  -- enter
+[7260] 23:13:49:803: [TRACE] AllocClientResources: enter
+[7260] 23:13:49:803: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:49:811: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:49:811: [TRACE] DoFunc: result = x0
+[7260] 23:13:49:811: [TRACE] DoFunc  -- enter
+[7260] 23:13:49:811: [TRACE] AllocClientResources: enter
+[7260] 23:13:49:811: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:49:816: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:49:816: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:57:066: [TRACE] DoFunc  -- enter
+[7260] 23:13:57:066: [TRACE] AllocClientResources: enter
+[7260] 23:13:57:066: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:57:077: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:57:077: [TRACE] DoFunc: result = x0
+[7260] 23:13:57:077: [TRACE] DoFunc  -- enter
+[7260] 23:13:57:077: [TRACE] AllocClientResources: enter
+[7260] 23:13:57:077: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:57:080: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:57:080: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:57:080: [TRACE] DoFunc  -- enter
+[7260] 23:13:57:080: [TRACE] AllocClientResources: enter
+[7260] 23:13:57:080: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:57:082: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:57:082: [TRACE] DoFunc: result = x0
+[7260] 23:13:57:082: [TRACE] DoFunc  -- enter
+[7260] 23:13:57:082: [TRACE] AllocClientResources: enter
+[7260] 23:13:57:082: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:57:084: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:57:084: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:58:300: [TRACE] DoFunc  -- enter
+[7260] 23:13:58:300: [TRACE] AllocClientResources: enter
+[7260] 23:13:58:300: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:58:302: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:58:302: [TRACE] DoFunc: result = x0
+[7260] 23:13:58:302: [TRACE] DoFunc  -- enter
+[7260] 23:13:58:302: [TRACE] AllocClientResources: enter
+[7260] 23:13:58:302: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:58:304: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:58:304: [TRACE] DoFunc: result = x80000023
+[7260] 23:13:58:307: [TRACE] DoFunc  -- enter
+[7260] 23:13:58:307: [TRACE] AllocClientResources: enter
+[7260] 23:13:58:307: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:58:310: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:13:58:310: [TRACE] DoFunc: result = x0
+[7260] 23:13:58:310: [TRACE] DoFunc  -- enter
+[7260] 23:13:58:310: [TRACE] AllocClientResources: enter
+[7260] 23:13:58:310: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:13:58:314: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:13:58:314: [TRACE] DoFunc: result = x80000023
+[7260] 23:14:04:441: [TRACE] DoFunc  -- enter
+[7260] 23:14:04:441: [TRACE] AllocClientResources: enter
+[7260] 23:14:04:441: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:04:446: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:14:04:446: [TRACE] DoFunc: result = x0
+[7260] 23:14:04:446: [TRACE] DoFunc  -- enter
+[7260] 23:14:04:446: [TRACE] AllocClientResources: enter
+[7260] 23:14:04:446: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:04:476: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:14:04:476: [TRACE] DoFunc: result = x80000023
+[7260] 23:14:04:477: [TRACE] DoFunc  -- enter
+[7260] 23:14:04:477: [TRACE] AllocClientResources: enter
+[7260] 23:14:04:477: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:04:499: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:14:04:499: [TRACE] DoFunc: result = x0
+[7260] 23:14:04:499: [TRACE] DoFunc  -- enter
+[7260] 23:14:04:499: [TRACE] AllocClientResources: enter
+[7260] 23:14:04:499: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:04:505: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:14:04:505: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:08:330: [TRACE] DoFunc  -- enter
+[7792] 23:14:08:330: [TRACE] AllocClientResources: enter
+[7792] 23:14:08:330: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:08:344: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:08:344: [TRACE] DoFunc: result = x0
+[7792] 23:14:08:344: [TRACE] DoFunc  -- enter
+[7792] 23:14:08:344: [TRACE] AllocClientResources: enter
+[7792] 23:14:08:344: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:08:346: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:08:346: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:08:346: [TRACE] DoFunc  -- enter
+[7792] 23:14:08:346: [TRACE] AllocClientResources: enter
+[7792] 23:14:08:346: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:08:348: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:08:348: [TRACE] DoFunc: result = x0
+[7792] 23:14:08:348: [TRACE] DoFunc  -- enter
+[7792] 23:14:08:348: [TRACE] AllocClientResources: enter
+[7792] 23:14:08:348: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:08:350: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:08:350: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:13:371: [TRACE] DoFunc  -- enter
+[7792] 23:14:13:371: [TRACE] AllocClientResources: enter
+[7792] 23:14:13:371: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:13:381: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:13:381: [TRACE] DoFunc: result = x0
+[7792] 23:14:13:381: [TRACE] DoFunc  -- enter
+[7792] 23:14:13:381: [TRACE] AllocClientResources: enter
+[7792] 23:14:13:381: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:13:383: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:13:383: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:13:383: [TRACE] DoFunc  -- enter
+[7792] 23:14:13:383: [TRACE] AllocClientResources: enter
+[7792] 23:14:13:383: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:13:385: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:13:385: [TRACE] DoFunc: result = x0
+[7792] 23:14:13:385: [TRACE] DoFunc  -- enter
+[7792] 23:14:13:385: [TRACE] AllocClientResources: enter
+[7792] 23:14:13:385: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:13:389: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:13:389: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:18:345: [TRACE] DoFunc  -- enter
+[7792] 23:14:18:345: [TRACE] AllocClientResources: enter
+[7792] 23:14:18:345: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:18:357: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:18:357: [TRACE] DoFunc: result = x0
+[7792] 23:14:18:357: [TRACE] DoFunc  -- enter
+[7792] 23:14:18:357: [TRACE] AllocClientResources: enter
+[7792] 23:14:18:357: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:18:374: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:18:374: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:18:374: [TRACE] DoFunc  -- enter
+[7792] 23:14:18:374: [TRACE] AllocClientResources: enter
+[7792] 23:14:18:374: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:18:380: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:18:380: [TRACE] DoFunc: result = x0
+[7792] 23:14:18:380: [TRACE] DoFunc  -- enter
+[7792] 23:14:18:380: [TRACE] AllocClientResources: enter
+[7792] 23:14:18:380: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:18:385: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:18:385: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:27:584: [TRACE] DoFunc  -- enter
+[7792] 23:14:27:584: [TRACE] AllocClientResources: enter
+[7792] 23:14:27:584: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:27:590: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:27:590: [TRACE] DoFunc: result = x0
+[7792] 23:14:27:590: [TRACE] DoFunc  -- enter
+[7792] 23:14:27:590: [TRACE] AllocClientResources: enter
+[7792] 23:14:27:590: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:27:595: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:27:595: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:27:597: [TRACE] DoFunc  -- enter
+[7792] 23:14:27:597: [TRACE] AllocClientResources: enter
+[7792] 23:14:27:597: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:27:798: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:27:798: [TRACE] DoFunc: result = x0
+[7792] 23:14:27:798: [TRACE] DoFunc  -- enter
+[7792] 23:14:27:798: [TRACE] AllocClientResources: enter
+[7792] 23:14:27:798: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:27:800: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:27:800: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:34:880: [TRACE] DoFunc  -- enter
+[7792] 23:14:34:880: [TRACE] AllocClientResources: enter
+[7792] 23:14:34:880: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:34:885: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:34:885: [TRACE] DoFunc: result = x0
+[7792] 23:14:34:885: [TRACE] DoFunc  -- enter
+[7792] 23:14:34:885: [TRACE] AllocClientResources: enter
+[7792] 23:14:34:885: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:34:901: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:34:901: [TRACE] DoFunc: result = x80000023
+[7792] 23:14:34:901: [TRACE] DoFunc  -- enter
+[7792] 23:14:34:901: [TRACE] AllocClientResources: enter
+[7792] 23:14:34:901: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:34:904: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:14:34:904: [TRACE] DoFunc: result = x0
+[7792] 23:14:34:904: [TRACE] DoFunc  -- enter
+[7792] 23:14:34:904: [TRACE] AllocClientResources: enter
+[7792] 23:14:34:904: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:14:34:916: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:14:34:916: [TRACE] DoFunc: result = x80000023
+[7260] 23:14:39:145: [TRACE] DoFunc  -- enter
+[7260] 23:14:39:145: [TRACE] AllocClientResources: enter
+[7260] 23:14:39:145: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:39:146: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:14:39:146: [TRACE] DoFunc: result = x0
+[7260] 23:14:39:146: [TRACE] DoFunc  -- enter
+[7260] 23:14:39:146: [TRACE] AllocClientResources: enter
+[7260] 23:14:39:146: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:39:152: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:14:39:152: [TRACE] DoFunc: result = x80000023
+[7260] 23:14:39:154: [TRACE] DoFunc  -- enter
+[7260] 23:14:39:154: [TRACE] AllocClientResources: enter
+[7260] 23:14:39:154: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:39:156: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:14:39:156: [TRACE] DoFunc: result = x0
+[7260] 23:14:39:156: [TRACE] DoFunc  -- enter
+[7260] 23:14:39:156: [TRACE] AllocClientResources: enter
+[7260] 23:14:39:156: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:39:161: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:14:39:161: [TRACE] DoFunc: result = x80000023
+[4808] 23:14:43:890: [TRACE] DoFunc  -- enter
+[4808] 23:14:43:890: [TRACE] AllocClientResources: enter
+[4808] 23:14:43:890: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:14:43:997: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:14:43:997: [TRACE] DoFunc: result = x0
+[4808] 23:14:43:997: [TRACE] DoFunc  -- enter
+[4808] 23:14:43:997: [TRACE] AllocClientResources: enter
+[4808] 23:14:43:997: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:14:44:073: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:14:44:073: [TRACE] DoFunc: result = x80000023
+[4808] 23:14:44:073: [TRACE] DoFunc  -- enter
+[4808] 23:14:44:073: [TRACE] AllocClientResources: enter
+[4808] 23:14:44:073: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:14:44:085: [TRACE] DoFunc: back from srv- return code=0x00000000
+[4808] 23:14:44:085: [TRACE] DoFunc: result = x0
+[4808] 23:14:44:085: [TRACE] DoFunc  -- enter
+[4808] 23:14:44:085: [TRACE] AllocClientResources: enter
+[4808] 23:14:44:085: [TRACE] AllocClientResources: exit, returning x0
+[4808] 23:14:44:097: [TRACE] DoFunc: back from srv- return code=0x80000023
+[4808] 23:14:44:097: [TRACE] DoFunc: result = x80000023
+[7260] 23:14:48:774: [TRACE] DoFunc  -- enter
+[7260] 23:14:48:774: [TRACE] AllocClientResources: enter
+[7260] 23:14:48:774: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:48:776: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:14:48:776: [TRACE] DoFunc: result = x0
+[7260] 23:14:48:776: [TRACE] DoFunc  -- enter
+[7260] 23:14:48:776: [TRACE] AllocClientResources: enter
+[7260] 23:14:48:776: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:48:786: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:14:48:786: [TRACE] DoFunc: result = x80000023
+[7260] 23:14:48:786: [TRACE] DoFunc  -- enter
+[7260] 23:14:48:786: [TRACE] AllocClientResources: enter
+[7260] 23:14:48:786: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:48:789: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7260] 23:14:48:789: [TRACE] DoFunc: result = x0
+[7260] 23:14:48:789: [TRACE] DoFunc  -- enter
+[7260] 23:14:48:789: [TRACE] AllocClientResources: enter
+[7260] 23:14:48:789: [TRACE] AllocClientResources: exit, returning x0
+[7260] 23:14:48:794: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7260] 23:14:48:794: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:01:282: [TRACE] DoFunc  -- enter
+[7792] 23:15:01:283: [TRACE] AllocClientResources: enter
+[7792] 23:15:01:283: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:01:288: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:01:288: [TRACE] DoFunc: result = x0
+[7792] 23:15:01:289: [TRACE] DoFunc  -- enter
+[7792] 23:15:01:289: [TRACE] AllocClientResources: enter
+[7792] 23:15:01:289: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:01:290: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:01:290: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:01:290: [TRACE] DoFunc  -- enter
+[7792] 23:15:01:290: [TRACE] AllocClientResources: enter
+[7792] 23:15:01:291: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:01:293: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:01:293: [TRACE] DoFunc: result = x0
+[7792] 23:15:01:293: [TRACE] DoFunc  -- enter
+[7792] 23:15:01:293: [TRACE] AllocClientResources: enter
+[7792] 23:15:01:293: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:01:299: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:01:299: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:03:419: [TRACE] DoFunc  -- enter
+[7792] 23:15:03:419: [TRACE] AllocClientResources: enter
+[7792] 23:15:03:419: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:03:421: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:03:421: [TRACE] DoFunc: result = x0
+[7792] 23:15:03:421: [TRACE] DoFunc  -- enter
+[7792] 23:15:03:421: [TRACE] AllocClientResources: enter
+[7792] 23:15:03:421: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:03:425: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:03:425: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:03:425: [TRACE] DoFunc  -- enter
+[7792] 23:15:03:425: [TRACE] AllocClientResources: enter
+[7792] 23:15:03:425: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:03:427: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:03:427: [TRACE] DoFunc: result = x0
+[7792] 23:15:03:427: [TRACE] DoFunc  -- enter
+[7792] 23:15:03:427: [TRACE] AllocClientResources: enter
+[7792] 23:15:03:427: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:03:430: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:03:430: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:08:422: [TRACE] DoFunc  -- enter
+[7792] 23:15:08:422: [TRACE] AllocClientResources: enter
+[7792] 23:15:08:422: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:08:432: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:08:432: [TRACE] DoFunc: result = x0
+[7792] 23:15:08:432: [TRACE] DoFunc  -- enter
+[7792] 23:15:08:432: [TRACE] AllocClientResources: enter
+[7792] 23:15:08:432: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:08:437: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:08:437: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:08:437: [TRACE] DoFunc  -- enter
+[7792] 23:15:08:437: [TRACE] AllocClientResources: enter
+[7792] 23:15:08:437: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:08:442: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:08:442: [TRACE] DoFunc: result = x0
+[7792] 23:15:08:443: [TRACE] DoFunc  -- enter
+[7792] 23:15:08:443: [TRACE] AllocClientResources: enter
+[7792] 23:15:08:443: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:08:444: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:08:444: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:13:600: [TRACE] DoFunc  -- enter
+[7792] 23:15:13:600: [TRACE] AllocClientResources: enter
+[7792] 23:15:13:600: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:13:602: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:13:602: [TRACE] DoFunc: result = x0
+[7792] 23:15:13:602: [TRACE] DoFunc  -- enter
+[7792] 23:15:13:602: [TRACE] AllocClientResources: enter
+[7792] 23:15:13:602: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:13:615: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:13:615: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:13:618: [TRACE] DoFunc  -- enter
+[7792] 23:15:13:618: [TRACE] AllocClientResources: enter
+[7792] 23:15:13:618: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:13:623: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:13:623: [TRACE] DoFunc: result = x0
+[7792] 23:15:13:623: [TRACE] DoFunc  -- enter
+[7792] 23:15:13:623: [TRACE] AllocClientResources: enter
+[7792] 23:15:13:623: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:13:633: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:13:633: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:18:587: [TRACE] DoFunc  -- enter
+[7792] 23:15:18:587: [TRACE] AllocClientResources: enter
+[7792] 23:15:18:587: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:18:589: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:18:589: [TRACE] DoFunc: result = x0
+[7792] 23:15:18:589: [TRACE] DoFunc  -- enter
+[7792] 23:15:18:589: [TRACE] AllocClientResources: enter
+[7792] 23:15:18:589: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:18:591: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:18:591: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:18:592: [TRACE] DoFunc  -- enter
+[7792] 23:15:18:592: [TRACE] AllocClientResources: enter
+[7792] 23:15:18:592: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:18:598: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:18:598: [TRACE] DoFunc: result = x0
+[7792] 23:15:18:598: [TRACE] DoFunc  -- enter
+[7792] 23:15:18:598: [TRACE] AllocClientResources: enter
+[7792] 23:15:18:598: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:18:602: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:18:602: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:23:446: [TRACE] DoFunc  -- enter
+[7792] 23:15:23:446: [TRACE] AllocClientResources: enter
+[7792] 23:15:23:446: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:23:448: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:23:448: [TRACE] DoFunc: result = x0
+[7792] 23:15:23:448: [TRACE] DoFunc  -- enter
+[7792] 23:15:23:448: [TRACE] AllocClientResources: enter
+[7792] 23:15:23:448: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:23:450: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:23:450: [TRACE] DoFunc: result = x80000023
+[7792] 23:15:23:450: [TRACE] DoFunc  -- enter
+[7792] 23:15:23:450: [TRACE] AllocClientResources: enter
+[7792] 23:15:23:450: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:23:452: [TRACE] DoFunc: back from srv- return code=0x00000000
+[7792] 23:15:23:452: [TRACE] DoFunc: result = x0
+[7792] 23:15:23:452: [TRACE] DoFunc  -- enter
+[7792] 23:15:23:452: [TRACE] AllocClientResources: enter
+[7792] 23:15:23:452: [TRACE] AllocClientResources: exit, returning x0
+[7792] 23:15:23:465: [TRACE] DoFunc: back from srv- return code=0x80000023
+[7792] 23:15:23:465: [TRACE] DoFunc: result = x80000023

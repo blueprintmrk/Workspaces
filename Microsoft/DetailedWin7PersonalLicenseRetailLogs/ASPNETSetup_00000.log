@@ -1,0 +1,82 @@
+********************************************************************************
+**** Starting ASP.NET Setup at: 2012-03-18 20:30:42
+**** Registering ASP.NET isapi: c:\Windows\Microsoft.NET\Framework\v4.0.30319\aspnet_isapi.dll
+**** Internal flags: 0x00000404
+********************************************************************************
+
+2012-03-18 20:30:42			Starting	Stopping service: aspnet_state
+2012-03-18 20:30:42			Starting	Connecting to Service Manager
+2012-03-18 20:30:42			Success 	Connecting to Service Manager
+2012-03-18 20:30:42			Starting	Opening Service handle
+2012-03-18 20:30:42			Success 	Opening Service handle
+2012-03-18 20:30:43			Starting	Stopping service
+2012-03-18 20:30:43			Starting	Finding out service state
+2012-03-18 20:30:43			Success 	Finding out service state
+2012-03-18 20:30:43			Starting	Shutting down service
+2012-03-18 20:30:43			Success 	Shutting down service
+2012-03-18 20:30:43			Starting	Waiting for service to shut down
+2012-03-18 20:30:43			Success 	Waiting for service to shut down
+2012-03-18 20:30:43			Success 	Stopping service
+2012-03-18 20:30:43			Success 	Stopping service: aspnet_state
+2012-03-18 20:30:43			Starting	Changing IIS ApplicationHost.config
+2012-03-18 20:30:43			Success 	Changing IIS ApplicationHost.config
+2012-03-18 20:30:43			Starting	Determining if current ASP.NET isapi has the highest version
+2012-03-18 20:30:43			Success 	Determining if current ASP.NET isapi has the highest version
+2012-03-18 20:30:43			Starting	Installing WMI file:aspnet.mof
+2012-03-18 20:30:46			Success 	Installing WMI file:aspnet.mof
+2012-03-18 20:30:46			Starting	Setting ACLs on dirs and WMI
+2012-03-18 20:30:46			Starting	Getting location of Temporary ASP.Net directory
+2012-03-18 20:30:46			Success 	Getting location of Temporary ASP.Net directory
+2012-03-18 20:30:46			Starting	Setting ACLs on Temporary ASP.Net directory
+2012-03-18 20:30:46			Success 	Setting ACLs on Temporary ASP.Net directory
+2012-03-18 20:30:46			Starting	Setting ACLs on install root directory
+2012-03-18 20:30:46			Success 	Setting ACLs on install root directory
+2012-03-18 20:30:46			Starting	Setting ACLs on config directory
+2012-03-18 20:30:46			Success 	Setting ACLs on config directory
+2012-03-18 20:30:46			Starting	Grant access to WMI namespace: root\aspnet
+2012-03-18 20:30:47			Success 	Grant access to WMI namespace: root\aspnet
+2012-03-18 20:30:47			Success 	Setting ACLs on dirs and WMI
+2012-03-18 20:30:47			Starting	Install all ASP.NET Services
+2012-03-18 20:30:47			Starting	Getting credentials for the service account
+2012-03-18 20:30:47			Success 	Getting credentials for the service account
+2012-03-18 20:30:47			Starting	Connecting to Service Manager
+2012-03-18 20:30:47			Success 	Connecting to Service Manager
+2012-03-18 20:30:47			Starting	aspnet_state
+2012-03-18 20:30:47			Success 	aspnet_state
+2012-03-18 20:30:47			Starting	Reading various service settings for: aspnet_state
+2012-03-18 20:30:47			Success 	Reading various service settings for: aspnet_state
+2012-03-18 20:30:47			Starting	Executing inf section: StateService.Install
+2012-03-18 20:30:47			Success 	Executing inf section: 
+2012-03-18 20:30:48			Starting	Locking service database
+2012-03-18 20:30:48			Success 	Locking service database
+2012-03-18 20:30:48			Starting	Opening Service handle
+2012-03-18 20:30:48			Success 	Opening Service handle
+2012-03-18 20:30:48			Starting	Writing back various service settings for: aspnet_state
+2012-03-18 20:30:48			Starting	Changing the service startup type
+2012-03-18 20:30:48			Success 	Changing the service startup type
+2012-03-18 20:30:48			Success 	Writing back various service settings for: aspnet_state
+2012-03-18 20:30:48			Starting	Changing service account and password
+2012-03-18 20:30:48			Success 	Changing service account and password
+2012-03-18 20:30:48			Success 	Install all ASP.NET Services
+2012-03-18 20:30:48			Starting	Executing inf section: MmcAspNetExtCOMComponents.Install
+2012-03-18 20:30:48			Success 	Executing inf section: MmcAspNetExtCOMComponents.Install
+2012-03-18 20:30:48			Starting	Install the ASP.NET Performance counters
+2012-03-18 20:30:49			Success 	Install the ASP.NET Performance counters
+2012-03-18 20:30:49			Starting	Install common performance counters
+2012-03-18 20:30:55			Success 	Install common performance counters
+2012-03-18 20:30:55			Starting	Setting up client script files for website:*
+2012-03-18 20:30:55			Starting	Getting all client file dirs and paths
+2012-03-18 20:30:55			Success 	Getting all client file dirs and paths
+2012-03-18 20:30:55			Starting	Creating list of client site scripts dirs
+2012-03-18 20:30:55			Starting	Creating directory: C:\inetpub\wwwroot\aspnet_client
+2012-03-18 20:30:55			Success 	Creating directory: C:\inetpub\wwwroot\aspnet_client
+2012-03-18 20:30:55			Starting	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web
+2012-03-18 20:30:55			Success 	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web
+2012-03-18 20:30:55			Starting	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web\4_0_30319
+2012-03-18 20:30:55			Success 	Creating directory: C:\inetpub\wwwroot\aspnet_client\system_web\4_0_30319
+2012-03-18 20:30:55			Success 	Creating list of client site scripts dirs
+2012-03-18 20:30:56			Starting	Copy the client side script or web admin files to a list of directories.
+2012-03-18 20:30:56			Success 	Copy the client side script or web admin files to a list of directories.
+2012-03-18 20:30:56			Success 	Setting up client script files for website:*
+2012-03-18 20:30:56			Starting	Starting service: aspnet_state
+2012-03-18 20:30:56			Success 	Starting service: aspnet_state

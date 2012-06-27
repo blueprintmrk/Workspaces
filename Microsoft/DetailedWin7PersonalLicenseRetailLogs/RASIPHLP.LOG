@@ -1,0 +1,85 @@
+
+[5720] 03-15 07:59:20:996: HelperInitialize
+[5720] 03-15 07:59:20:996: HelperInitialize ref count is  1
+[5720] 03-15 07:59:20:996: HelperInitialize completed 0
+[1016] 03-15 07:59:20:999: HelperInitialize
+[1016] 03-15 07:59:20:999: HelperInitialize ref count is  1
+[1016] 03-15 07:59:20:999: HelperInitialize completed 0
+[1016] 03-15 07:59:21:000: HelperInitialize
+[1016] 03-15 07:59:21:000: HelperInitialize ref count is  2
+[1016] 03-15 07:59:21:000: HelperInitialize completed 0
+[1016] 03-15 09:46:57:239: HelperUninitialize
+[1016] 03-15 09:46:57:239: HelperUninitialize ref count is  1
+[1016] 03-15 09:46:57:239: HelperUninitialize
+[1016] 03-15 09:46:57:239: HelperUninitialize ref count is  0
+[4912] 04-08 19:47:54:352: HelperInitialize
+[4912] 04-08 19:47:54:352: HelperInitialize ref count is  1
+[4912] 04-08 19:47:54:352: HelperInitialize completed 0
+[2412] 04-08 19:47:54:382: HelperInitialize
+[2412] 04-08 19:47:54:382: HelperInitialize ref count is  1
+[2412] 04-08 19:47:54:382: HelperInitialize completed 0
+[2412] 04-08 19:47:54:382: HelperInitialize
+[2412] 04-08 19:47:54:382: HelperInitialize ref count is  2
+[2412] 04-08 19:47:54:382: HelperInitialize completed 0
+[2412] 04-08 19:58:05:583: HelperUninitialize
+[2412] 04-08 19:58:05:583: HelperUninitialize ref count is  1
+[2412] 04-08 19:58:05:583: HelperUninitialize
+[2412] 04-08 19:58:05:583: HelperUninitialize ref count is  0
+[6376] 04-22 14:49:11:132: HelperInitialize
+[6376] 04-22 14:49:11:149: HelperInitialize ref count is  1
+[6376] 04-22 14:49:11:149: HelperInitialize completed 0
+[13052] 04-22 14:49:11:287: HelperInitialize
+[13052] 04-22 14:49:11:287: HelperInitialize ref count is  1
+[13052] 04-22 14:49:11:288: HelperInitialize completed 0
+[13052] 04-22 14:49:11:288: HelperInitialize
+[13052] 04-22 14:49:11:288: HelperInitialize ref count is  2
+[13052] 04-22 14:49:11:288: HelperInitialize completed 0
+[13052] 04-22 15:04:26:276: HelperUninitialize
+[13052] 04-22 15:04:26:276: HelperUninitialize ref count is  1
+[13052] 04-22 15:04:26:276: HelperUninitialize
+[13052] 04-22 15:04:26:276: HelperUninitialize ref count is  0
+[6588] 05-06 01:40:48:368: HelperInitialize
+[6588] 05-06 01:40:48:368: HelperInitialize ref count is  1
+[6588] 05-06 01:40:48:368: HelperInitialize completed 0
+[9680] 05-06 01:40:48:477: HelperInitialize
+[9680] 05-06 01:40:48:477: HelperInitialize ref count is  1
+[9680] 05-06 01:40:48:477: HelperInitialize completed 0
+[9680] 05-06 01:40:48:477: HelperInitialize
+[9680] 05-06 01:40:48:477: HelperInitialize ref count is  2
+[9680] 05-06 01:40:48:477: HelperInitialize completed 0
+[6096] 05-06 01:40:58:877: SaveTcpipV6Info
+[6096] 05-06 01:40:58:877: SaveTcpipV6Info
+[6096] 05-06 01:40:58:877: SaveTcpipV6Param
+[6096] 05-06 01:40:58:877: SaveTcpipV6Param
+[6096] 05-06 01:40:58:877: RegOpenKeyEx(b19-49d8f43532f0}
+   writer name: wmi writer
+   writer instance id: {eb752461-a76b-46f2-8e30-0c8191239570}) (v4) failed and returned 2
+[5652] 05-06 01:54:35:040: SaveTcpipV6Info
+[5652] 05-06 01:54:35:040: SaveTcpipV6Info
+[5652] 05-06 01:54:35:040: SaveTcpipV6Param
+[5652] 05-06 01:54:35:040: SaveTcpipV6Param
+[5652] 05-06 01:54:35:040: RegOpenKeyEx(b19-49d8f43532f0}
+   writer name: wmi writer
+   writer instance id: {eb752461-a76b-46f2-8e30-0c8191239570}) (v4) failed and returned 2
+[9680] 05-06 02:37:12:558: HelperUninitialize
+[9680] 05-06 02:37:12:558: HelperUninitialize ref count is  1
+[9680] 05-06 02:37:20:904: HelperUninitialize
+[9680] 05-06 02:37:20:904: HelperUninitialize ref count is  0
+[4072] 05-11 10:41:48:020: HelperInitialize
+[4072] 05-11 10:41:48:036: HelperInitialize ref count is  1
+[4072] 05-11 10:41:48:036: HelperInitialize completed 0
+[1440] 05-11 10:41:48:036: HelperInitialize
+[1440] 05-11 10:41:48:036: HelperInitialize ref count is  1
+[1440] 05-11 10:41:48:036: HelperInitialize completed 0
+[1440] 05-11 10:41:48:036: HelperInitialize
+[1440] 05-11 10:41:48:036: HelperInitialize ref count is  2
+[1440] 05-11 10:41:48:036: HelperInitialize completed 0
+[8076] 05-14 04:00:37:819: HelperInitialize
+[8076] 05-14 04:00:37:834: HelperInitialize ref count is  1
+[8076] 05-14 04:00:37:834: HelperInitialize completed 0
+[2964] 05-14 04:00:37:873: HelperInitialize
+[2964] 05-14 04:00:37:873: HelperInitialize ref count is  1
+[2964] 05-14 04:00:37:873: HelperInitialize completed 0
+[2964] 05-14 04:00:37:874: HelperInitialize
+[2964] 05-14 04:00:37:874: HelperInitialize ref count is  2
+[2964] 05-14 04:00:37:874: HelperInitialize completed 0

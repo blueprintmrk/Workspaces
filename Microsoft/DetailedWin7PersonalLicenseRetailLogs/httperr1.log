@@ -1,0 +1,362 @@
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-11 09:15:49
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-11 09:15:49 123.237.140.62 57978 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:23:24 123.237.142.172 54684 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:24:39 123.237.139.65 50920 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:27:49 123.237.137.116 53240 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:36:19 123.237.136.168 49272 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:42:06 127.0.0.1 49743 127.0.0.1 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:43:21 123.237.142.172 55279 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 09:47:46 123.237.137.116 53808 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 10:16:21 123.237.136.168 50044 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 10:23:01 123.237.141.34 51296 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 10:24:21 123.237.136.201 55441 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 10:24:31 123.237.139.65 51099 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 10:35:51 123.237.140.62 58878 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 10:43:21 123.237.142.172 58040 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 11:03:18 123.237.142.172 58478 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 11:23:20 123.237.142.172 59552 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-11 12:40:27
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-11 12:40:27 123.237.136.168 50933 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 12:44:22 123.237.136.201 56150 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 12:48:02 123.237.137.116 58431 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:00:18 123.237.136.168 51451 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:04:23 123.237.136.201 56229 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:06:13 123.237.143.92 50199 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:18:19 123.237.142.172 49466 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:24:20 123.237.136.201 56314 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:24:35 123.237.139.65 51708 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:28:05 123.237.137.116 59550 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:32:40 123.237.140.119 49298 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:38:10 123.237.142.172 50320 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:44:20 123.237.136.201 56457 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:44:40 123.237.139.65 51788 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:48:05 123.237.137.116 59946 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:50:30 123.237.140.167 61876 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:58:10 123.237.142.172 50670 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 13:59:40 123.237.143.251 49244 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:01:00 123.237.142.183 63256 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:04:20 123.237.136.201 56521 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:04:35 123.237.139.65 51859 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:04:55 123.237.140.62 49762 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:18:10 123.237.142.172 51275 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:19:40 123.237.143.251 50057 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:26:20 123.237.143.92 51716 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:31:45 123.237.140.119 50170 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:39:40 123.237.143.251 50980 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:58:10 123.237.140.167 60242 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 14:59:50 123.237.143.251 52045 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:00:05 123.237.142.172 51631 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:04:25 123.237.136.201 57314 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:06:00 123.237.140.167 54048 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:10:46 123.237.136.168 50525 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:17:01 123.237.140.150 53138 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:20:11 123.237.142.172 51798 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:26:31 123.237.143.92 52505 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:27:26 123.237.137.83 52358 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:30:41 123.237.140.167 50101 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:31:11 123.237.136.168 50699 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:40:11 123.237.142.172 52645 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:41:51 123.237.140.150 55714 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:44:21 123.237.136.201 58071 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:44:36 123.237.139.65 52730 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:48:16 123.237.137.116 63295 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 15:55:46 123.237.141.34 53003 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:00:11 123.237.142.172 53056 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:10:46 123.237.140.167 50749 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:11:21 123.237.137.21 52015 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:20:11 123.237.142.172 53267 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:24:36 123.237.139.65 53617 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:40:21 123.237.142.172 53729 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:44:21 123.237.136.201 58307 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:44:41 123.237.139.65 54637 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:47:01 123.237.141.34 54373 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:49:56 123.237.138.175 51311 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 16:51:51 123.237.143.92 53358 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:00:11 123.237.142.172 53951 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:01:42 123.237.140.150 56824 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:04:47 123.237.139.65 54803 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:20:17 123.237.142.172 54862 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:24:42 123.237.139.65 55205 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:30:47 123.237.136.168 52376 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-11 17:49:00
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-11 17:49:00 123.237.141.34 50334 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:49:50 123.237.137.26 49236 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-11 17:49:50 123.237.138.175 56570 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-12 17:15:12
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-12 17:15:12 123.237.138.175 56792 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:17:37 123.237.136.201 61448 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:20:22 123.237.136.168 56116 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:25:32 123.237.140.167 52441 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:28:32 123.237.141.34 51204 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:30:32 123.237.139.65 49612 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:35:12 123.237.138.175 59010 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:37:37 123.237.136.201 61627 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:40:32 123.237.136.168 56380 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:45:28 123.237.140.167 52564 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:48:33 123.237.141.34 51886 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:50:43 123.237.139.65 49671 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:57:43 123.237.136.201 61842 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 17:58:18 123.237.137.26 51241 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 18:08:24 123.237.137.86 49295 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 18:10:39 123.237.139.65 49765 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 18:30:35 123.237.139.65 50109 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 18:36:05 123.237.140.167 50170 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-12 18:37:40 123.237.136.201 62053 123.237.143.250 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 17:41:11 ::1%0 61157 ::1%0 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-13 17:49:48
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-13 17:49:48 123.237.137.86 50909 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 17:54:08 123.237.140.167 64311 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:09:28 123.237.142.172 53612 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:12:33 123.237.142.13 50867 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:18:33 123.237.137.26 60866 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:18:53 123.237.136.201 63154 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:19:28 123.237.136.168 52247 123.237.142.3 2869 - - - - - Timer_MinBytesPerSecond -
+2012-03-13 18:29:18 123.237.142.172 54180 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:38:53 123.237.136.201 64577 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-13 18:52:28 123.237.142.13 50987 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-14 16:40:36
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-14 16:40:36 123.237.136.201 57306 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 16:52:01 123.237.142.172 51208 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 16:52:26 123.237.139.243 50295 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 16:52:26 123.237.136.168 51183 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:01:26 123.237.139.29 54141 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:11:51 123.237.142.172 52431 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:24:16 123.237.137.86 49388 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:25:51 123.237.137.86 49531 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:39:21 123.237.139.29 49256 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:40:41 123.237.136.201 60686 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:45:02 ::1%0 50324 ::1%0 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:45:57 123.237.137.86 49878 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 17:56:17 127.0.0.1 50350 127.0.0.1 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 18:11:12 123.237.136.168 51773 123.237.142.3 2869 - - - - - Timer_MinBytesPerSecond -
+2012-03-14 18:25:58 123.237.137.86 51506 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 18:40:48 123.237.136.201 62837 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 19:06:29 123.237.140.81 49226 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+2012-03-14 19:11:54 123.237.142.172 54046 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-03-14 20:12:39
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-03-14 20:12:39 123.237.136.168 52691 123.237.142.3 2869 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-07 03:19:16
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-07 03:19:16 ::1%0 49213 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-07 08:01:41
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-07 08:01:41 ::1%0 49159 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-07 08:01:41 ::1%0 49157 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-07 08:03:16 ::1%0 49158 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-08 04:15:59
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-08 04:15:59 ::1%0 49179 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 04:15:59 ::1%0 49180 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-08 14:12:24
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-08 14:12:24 ::1%0 49157 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 14:12:24 ::1%0 49158 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-08 14:38:22
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-08 14:38:22 ::1%0 49208 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 14:38:22 ::1%0 49211 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 14:38:22 ::1%0 49209 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 15:14:43 ::1%0 50524 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 15:50:48 ::1%0 51735 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 16:20:58 ::1%0 52396 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-08 16:53:18
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-08 16:53:18 ::1%0 49200 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 16:53:18 ::1%0 49202 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 17:00:08 ::1%0 49328 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 17:00:08 ::1%0 49327 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-08 19:01:29 ::1%0 51064 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-10 17:29:25
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-10 17:29:25 ::1%0 49185 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-10 17:29:30 ::1%0 49186 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-14 12:47:33
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-14 12:47:33 ::1%0 52240 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 12:48:33 ::1%0 52237 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 12:48:33 ::1%0 52239 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 13:17:33 ::1%0 52793 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 13:46:34 ::1%0 54597 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 13:52:29 ::1%0 54655 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 14:04:55 ::1%0 55011 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 14:12:05 ::1%0 55205 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 14:19:05 ::1%0 55337 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 14:19:05 ::1%0 55358 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 16:16:56 ::1%0 58236 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 16:19:36 ::1%0 58377 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 16:33:26 ::1%0 58609 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 17:04:16 ::1%0 59060 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 17:08:37 ::1%0 59133 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 17:08:37 ::1%0 59115 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 18:05:57 ::1%0 59770 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 18:11:12 ::1%0 59814 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 18:28:27 ::1%0 60034 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 19:02:23 ::1%0 60413 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 19:48:41 ::1%0 61228 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 20:09:56 ::1%0 61510 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 20:40:31 ::1%0 62614 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 21:09:11 ::1%0 63014 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-14 21:11:51 ::1%0 63044 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-18 19:38:38
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-18 19:38:38 ::1%0 49254 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-18 19:38:38 ::1%0 49253 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-18 20:40:26 ::1%0 50789 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-18 20:48:26 ::1%0 51348 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-18 21:54:26 ::1%0 53542 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-21 13:16:58
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-21 13:16:58 ::1%0 49359 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 13:16:58 ::1%0 49360 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 13:17:03 ::1%0 49358 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 13:30:14 ::1%0 49628 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 14:47:11 ::1%0 50730 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 14:53:01 ::1%0 50844 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 14:57:46 ::1%0 51151 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 15:00:41 ::1%0 51201 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 15:16:27 ::1%0 51498 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 15:41:07 ::1%0 51991 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 15:57:48 ::1%0 52162 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 16:07:23 ::1%0 52411 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 16:08:38 ::1%0 52410 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 17:13:35 ::1%0 55590 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 17:17:20 ::1%0 55622 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 17:18:05 ::1%0 55623 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 17:43:11 ::1%0 56193 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 17:50:11 ::1%0 56314 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 17:59:42 ::1%0 56391 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 18:52:43 ::1%0 57175 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 19:18:43 ::1%0 57333 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 19:24:28 ::1%0 57385 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 19:26:59 ::1%0 57481 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 19:40:34 ::1%0 57704 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 19:43:24 ::1%0 57774 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 19:51:20 ::1%0 58210 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 21:12:55 ::1%0 59127 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 21:30:50 ::1%0 59276 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 22:57:36 ::1%0 60255 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 23:13:01 ::1%0 60631 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-21 23:53:32 ::1%0 61458 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 00:56:47 ::1%0 62767 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 01:28:02 ::1%0 63558 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 01:57:42 ::1%0 64225 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 05:03:29 ::1%0 51781 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 05:37:59 ::1%0 52689 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 06:06:34 ::1%0 53323 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 06:10:59 ::1%0 53423 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 07:13:04 ::1%0 54731 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 07:29:34 ::1%0 55115 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 08:04:50 ::1%0 55881 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 08:07:25 ::1%0 56243 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-22 09:17:45 ::1%0 57676 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-04-28 16:59:39
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-04-28 16:59:39 ::1%0 52403 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 17:00:44 ::1%0 52402 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 17:20:25 ::1%0 52983 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 17:25:00 ::1%0 53053 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 18:10:44 ::1%0 53487 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 18:26:40 ::1%0 53645 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 18:40:11 ::1%0 53867 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-04-28 18:44:51 ::1%0 53910 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-05-03 16:32:45
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-05-03 16:32:45 123.237.136.198 49891 123.237.137.109 5357 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-05-08 13:21:22
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-05-08 13:21:22 ::1%0 49286 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-08 13:22:32 ::1%0 49284 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-08 14:07:44 ::1%0 49285 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-08 14:09:59 ::1%0 49870 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-08 14:09:59 ::1%0 49871 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 00:31:09 ::1%0 49869 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 11:52:30 ::1%0 53481 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 11:52:30 ::1%0 53482 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 12:18:25 ::1%0 54511 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 12:28:10 ::1%0 54985 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 12:44:31 ::1%0 56063 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-09 12:54:01 ::1%0 56401 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-05-11 05:16:07
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-05-11 05:16:07 ::1%0 49199 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-11 05:16:07 ::1%0 49198 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-05-11 05:35:45
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-05-11 05:35:45 ::1%0 49316 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-11 05:35:45 ::1%0 49317 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-11 05:35:55 ::1%0 49315 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+#Software: Microsoft HTTP API 2.0
+#Version: 1.0
+#Date: 2012-05-13 21:06:39
+#Fields: date time c-ip c-port s-ip s-port cs-version cs-method cs-uri sc-status s-siteid s-reason s-queuename
+2012-05-13 21:06:39 ::1%0 49206 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 21:06:44 ::1%0 49204 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 21:10:39 ::1%0 49330 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 21:14:09 ::1%0 49577 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 21:35:44 ::1%0 50277 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 21:48:30 ::1%0 50362 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 21:54:05 ::1%0 50456 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:00:55 ::1%0 50778 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:18:01 ::1%0 50915 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:18:01 ::1%0 50914 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:22:51 ::1%0 50973 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51060 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51215 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51273 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51364 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51363 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51435 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51497 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51544 ::1%0 12372 - - - - - Timer_ConnectionIdle -
+2012-05-13 22:28:01 ::1%0 51599 ::1%0 12372 - - - - - Timer_ConnectionIdle -

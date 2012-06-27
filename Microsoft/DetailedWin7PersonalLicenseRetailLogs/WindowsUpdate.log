@@ -1,0 +1,12 @@
+2012-04-22	14:52:16:378	1824	74c	Misc	===========  Logging initialized (build: 7.5.7601.17514, tz: +0530)  ===========
+2012-04-22	14:52:16:378	1824	74c	Misc	  = Process: C:\Windows\System32\svchost.exe
+2012-04-22	14:52:16:378	1824	74c	Misc	  = Module: C:\Windows\system32\wuapi.dll
+2012-04-22	14:52:16:377	1824	74c	COMAPI	-------------
+2012-04-22	14:52:16:378	1824	74c	COMAPI	-- START --  COMAPI: Search [ClientId = Windows System Health Agent Search]
+2012-04-22	14:52:16:378	1824	74c	COMAPI	---------
+2012-04-22	14:52:16:422	1824	74c	COMAPI	<<-- SUBMITTED -- COMAPI: Search [ClientId = Windows System Health Agent Search]
+2012-04-22	14:53:08:817	1824	1824	COMAPI	>>--  RESUMED  -- COMAPI: Search [ClientId = Windows System Health Agent Search]
+2012-04-22	14:53:08:818	1824	1824	COMAPI	  - Updates found = 0
+2012-04-22	14:53:08:818	1824	1824	COMAPI	---------
+2012-04-22	14:53:08:818	1824	1824	COMAPI	--  END  --  COMAPI: Search [ClientId = Windows System Health Agent Search]
+2012-04-22	14:53:08:818	1824	1824	COMAPI	-------------

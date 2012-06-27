@@ -1,0 +1,314 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0033)http://www.qtrac.eu/pyqtbook.html -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><HTML><HEAD>
+<META content="text/html; charset=UTF-8" http-equiv="Content-Type"><LINK rel="stylesheet" 
+type="text/css" href="Rapid%20GUI%20Programming%20with%20Python%20and%20Qt_files/style.css"><LINK 
+rel="icon" type="image/png" href="favicon.png"><LINK rel="shortcut icon" type="image/png" 
+href="favicon.png"><TITLE>Rapid GUI Programming with Python and Qt</TITLE>
+<META name="description" content="Rapid GUI Programming with Python&#10;and Qt book, PyQt book, PySide bookC++, Go, Lout, Qt, Python, and PyQt, training and consultancy">
+<META name="keywords" content="C++, Go, golang, lout, Qt, Python, PyQt, training, consultancy, programming">
+<SCRIPT src="Rapid%20GUI%20Programming%20with%20Python%20and%20Qt_files/BookImages.js"></SCRIPT>
+
+<SCRIPT>
+var bookImages = new BookImages("pyqtbook");
+</SCRIPT>
+
+<META name="GENERATOR" content="MSHTML 9.00.8112.16443"></HEAD>
+<BODY><!-- Navigation -->
+<DIV class="navbar">
+<P class="nav-caption nav-caption-first">Qtrac Ltd.</P>
+<UL class="nav">
+  <LI><A href="http://www.qtrac.eu/index.html">Home</A></LI></UL>
+<P class="nav-caption">Our Books</P>
+<UL class="nav">
+  <LI class="nav-link"><A href="http://www.qtrac.eu/gobook.html">Programming in 
+  Go</A></LI>
+  <LI class="nav-link"><A href="http://www.qtrac.eu/aqpbook.html">Advanced Qt 
+  Programming</A></LI>
+  <LI class="nav-link"><A href="http://www.qtrac.eu/py3book.html">Programming in 
+  Python&nbsp;3</A></LI>
+  <LI class="nav-here">Rapid GUI Programming with Python and Qt    
+  <UL class="nav-sub">
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook.html#toc">Contents &amp; Cover</A></LI>
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook.html#eg">Downloads
+     (Python&nbsp;2.5)</A></LI>
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook.html#eg2">Downloads (Python 
+2.6+)</A></LI>
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook.html#eg3">Downloads (Python 
+    3.<I>x</I>)</A></LI>
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook.html#pyside">PySide Porting</A></LI>
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook.html#reviews">Reviews</A></LI>
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/pyqtbook-errata.html">Errata</A></LI></UL></LI>
+  <LI class="nav-link"><A href="http://www.qtrac.eu/marksummerfield.html">C++ 
+  GUI Programming with Qt 4</A></LI></UL>
+<P class="nav-caption">Our Free Software</P>
+<UL class="nav">
+  <LI class="nav-link"><A 
+  href="http://www.qtrac.eu/diffpdf.html">DiffPDF</A></LI>
+  <LI class="nav-link"><A 
+  href="http://www.qtrac.eu/viewpdf.html">ViewPDF</A></LI>
+  <LI class="nav-link"><A 
+  href="http://www.qtrac.eu/comparepdf.html">comparepdf</A></LI>
+  <LI class="nav-link"><A href="http://www.qtrac.eu/easyplay.html">Easy 
+  Play</A></LI>
+  <LI class="nav-link"><A href="http://www.qtrac.eu/alt_key.html">Alt_Key</A>
+  <UL class="nav-sub">
+    <LI class="nav-link-sub"><A 
+    href="http://www.qtrac.eu/alt_key_api.html">Alt_Key Library</A></LI></UL></LI>
+</UL>
+<P class="nav-caption">All Our Writing &amp; Software</P>
+<UL class="nav">
+  <LI class="nav-link"><A href="http://www.qtrac.eu/marksummerfield.html">Mark 
+  Summerfield</A></LI></UL><A id="bookurl" class="nav-book" href="http://www.qtrac.eu/aqpbook.html" 
+name="bookurl"><IMG id="bookimage" class="copyright" border="0" alt="Book Cover" 
+src="Rapid%20GUI%20Programming%20with%20Python%20and%20Qt_files/aqpvs.png" 
+width="200" height="264"></A><!-- Change the above src to this page's book if it is a *book*.html page --><!-- Footer -->
+<P class="copyright">Copyright © 2006-12 <A href="http://www.qtrac.eu/about.html">Qtrac&nbsp;Ltd.</A>
+All&nbsp;Rights&nbsp;Reserved.</P>
+<P class="copyright"><A href="http://endsoftpatents.org/innovating-without-patents"><IMG 
+style="border-width: 0px;" src="Rapid%20GUI%20Programming%20with%20Python%20and%20Qt_files/esp-red_chicklet.png" 
+width="80" height="15"></A></P></DIV><!-- Header -->
+<H1 id="top" class="title">Rapid GUI Programming with Python and Qt</H1>
+<H2 class="subtitle2">The Definitive Guide to PyQt Programming<BR>by <I>Mark 
+Summerfield</I></H2>
+<H3 class="subsubtitle">ISBN-10: 0132354187&nbsp;–&nbsp;ISBN-13: 
+978-0132354189</H3><!-- Body -->
+<P>A <A href="http://www.informit.com/store/product.aspx?isbn=0132354187">sample
+ chapter</A> is available from InformIT—click "Sample Content" and then 
+"Download the chapter" (almost at the bottom of the page).</P>
+<P>This book teaches programmers how to write programs using PyQt&nbsp;4, the 
+Python bindings for the Qt&nbsp;4 application development framework. PyQt&nbsp;4 
+is probably the fastest and easiest route into GUI programming and works on 
+Windows, Mac&nbsp;OS&nbsp;X, and most operating systems that use the 
+X&nbsp;Window System, such as Linux and many Unices. Note that the book is also 
+useful for <A href="http://www.qtrac.eu/pyqtbook.html#pyside">PySide
+ programmers</A>. (Be aware that from PyQt4.6, PyQt now has two slightly
+ different APIs—but this only affects Python&nbsp;3 out of the box and doesn't 
+affect Python&nbsp;2 users unless they want it to: see <A href="http://www.qtrac.eu/pyqtbook.html#eg3">Downloads 
+(Python&nbsp;3 Downloads)</A>.)</P>
+<P>The book will be useful to people who program professionally as part of their 
+job, whether as full-time software developers, or those from other disciplines, 
+including <A href="http://www.pythonxy.com/">scientists and engineers</A>, who 
+need to do some programming in support of their work. It is also suitable for 
+students—the only prerequisite is basic knowledge of an object oriented 
+programming language, for example, Java or C++, or of course Python itself.</P>
+<P>The book is ~550 pages (648 including the appendices and index), has a
+ foreword by Phil Thompson creator of PyQt, and is published by<A href="http://vig.prenhall.com/catalog/academic/product/0,1144,0132354187,00.html">Prentice
+ Hall</A>. It can also be bought from<A href="http://www.amazon.com/Programming-Python-Prentice-Software-Development/dp/0132354187">Amazon.com</A>,
+<A href="http://search.barnesandnoble.com/Rapid-GUI-Programming-with-Python-and-QT/Mark-Summerfield/e/9780132354189">Barnes
+&amp; Noble</A>,<A href="http://www.amazon.co.uk/Programming-Python-Prentice-Software-Development/dp/0132354187">Amazon.co.uk</A>,
+<A href="http://www.amazon.de/Programming-Python-Prentice-Software-Development/dp/0132354187">Amazon.de</A>,
+<A href="http://www.amazon.fr/Programming-Python-Prentice-Software-Development/dp/0132354187">Amazon.fr</A>,
+<A href="http://www.amazon.jp/Programming-Python-Prentice-Software-Development/dp/0132354187">Amazon.jp</A>,
+ and other online and local book stores.</P>
+<P>Only the printed editions are <I>definitive</I>—although available in
+ electronic formats, "ebooks" usually restrict your rights, and they are often 
+retypeset which can introduce errors. A legal PDF version is available from <A 
+href="http://www.informit.com/store/product.aspx?isbn=0132354187">InformIT</A>.
+</P>
+<H2 id="eg">Downloads (Python 2.5)</H2>
+<P>The source code, including <TT>mkpyqt.py</TT> and Make&nbsp;PyQt is available 
+in two formats, <A 
+href="http://www.qtrac.eu/pyqtbook.tar.gz">pyqtbook.tar.gz</A>(713K suitable for 
+any platform), and <A href="http://www.qtrac.eu/pyqtbook.zip">pyqtbook.zip</A> 
+(909K Windows line endings) <FONT color="brown">[updated 2011-02-15]</FONT>. 
+These examples have been tested with Python&nbsp;2.5 and PyQt&nbsp;4.2-4.6. (See 
+the bottom of the page for <A 
+href="http://www.qtrac.eu/pyqtbook.html#eg2">Downloads (Python&nbsp;2.6+)</A> 
+and<A href="http://www.qtrac.eu/pyqtbook.html#eg3">Downloads (Python&nbsp;3)</A> 
+and for information <A href="http://www.qtrac.eu/pyqtbook.html#pyside">PySide 
+Porting</A>.)</P>
+<P>There is also an <A 
+href="http://www.qtrac.eu/pyqtbook-errata.html">Errata</A><FONT 
+color="brown">[updated 2010-06-03]</FONT>.</P>
+<DIV style="margin: 1em; float: right; max-width: 350px;"><IMG alt="PyQt book cover" 
+src="Rapid%20GUI%20Programming%20with%20Python%20and%20Qt_files/pyqtbookm.png" 
+width="350" height="461">
+<H3>Unsolicited Reader Comments</H3>
+<UL>
+  <LI><I>"This book is an absolute gold-mine, it's concise and practical and 
+  shows examples which are applications in their own right, rather than 
+  contrived ideas merely to illustrate a point."</I></LI>
+  <LI><I>"First of all congratulations on the excellent book! Its been a
+   fantastic learning experience and I'm having a great time with the material 
+  you present."</I></LI>
+  <LI><I>"In contrast to many (most) IT-books I read, this book is a real 
+  pleasure to read."</I></LI>
+  <LI><I>"It's been a very long time since I enjoyed reading a technical book
+   this much... a brillant job for one of the most underestimated technologies 
+  available today."</I></LI>
+  <LI><I>"Your book 'Rapid GUI Programming with Python and Qt' is outstanding!  
+   I'm really enjoying it and PyQt is a pleasure to work with."</I></LI>
+  <LI><I>"I am enjoying reading it and I am developing code at the same 
+  time."</I></LI>
+  <LI><I>"The book is wonderful... PyQt's model seems to be a good fit for my 
+  brain so far. Thank you for writing the book!"</I></LI>
+  <LI><I>"I think that you managed to clearly get to the essence of Python in 
+  very few words."</I></LI>
+  <LI><I>"I decided not to rush and not to skip `what I already knew' and I am
+   learning some quite interesting things even from the initial 
+  chapters."</I></LI>
+  <LI><I>"It's a very nice and comprehensive book..."</I></LI>
+  <LI><I>"I recommend this book to anyone that wants to learn PyQt, it is an 
+  excellent book..."</I></LI></UL></DIV>
+<H2 id="toc">Table of Contents—<SMALL>the chapters also have exercises and 
+summaries</SMALL></H2>
+<UL class="toptoc">
+  <LI>Part I: Python Programming	
+  <UL class="toc">
+    <LI>Chapter 1. Data Types and Data Structures</LI>
+    <LI>Chapter 2. Control Structures</LI>
+    <LI>Chapter 3. Classes and Modules</LI></UL></LI>
+  <LI>Part II: Basic GUI Programming	
+  <UL class="toc">
+    <LI>Chapter 4. Introduction to GUI Programming</LI>
+    <LI>Chapter 5. Dialogs</LI>
+    <LI>Chapter 6. Main Windows</LI>
+    <LI>Chapter 7. Using Qt Designer</LI>
+    <LI>Chapter 8. Custom File Formats</LI></UL></LI>
+  <LI>Part III: Intermediate GUI Programming    
+  <UL class="toc">
+    <LI>Chapter 9. Layouts and Multiple Documents</LI>
+    <LI>Chapter 10. Events, the Clipboard, and Drag &amp; Drop</LI>
+    <LI>Chapter 11. Custom Widgets</LI>
+    <LI>Chapter 12. Graphics (<I>this chapter is devoted to the graphics view
+    	architecture introduced with Qt&nbsp;4.2)</I></LI>
+    <LI>Chapter 13. Rich Text</LI>
+    <LI>Chapter 14. Model/View Programming</LI>
+    <LI>Chapter 15. Databases</LI></UL></LI>
+  <LI>Part IV: Advanced GUI Programming	
+  <UL class="toc">
+    <LI>Chapter 16. Advanced Model/View Programming</LI>
+    <LI>Chapter 17. Internationalization</LI>
+    <LI>Chapter 18. Networking</LI>
+    <LI>Chapter 19. Multithreading</LI></UL></LI>
+  <LI>Appendix A: Installing Python, PyQt, and the Qt Libraries on    Windows, 
+  Mac&nbsp;OS&nbsp;X, and X11-based Unices including Linux</LI>
+  <LI>Appendix B: Selected PyQt Widgets</LI>
+  <LI>Appendix C: Selected PyQt Class Hierarchies</LI>
+  <LI>Index</LI></UL>
+<P>Part I is designed to quickly teach Python to non-Python programmers so that 
+they can use the rest of the book. This part is also useful to Python 
+programmers because it covers some of the non-GUI Qt classes, and some of the 
+Python techniques that are often used in GUI programming, such as partial 
+function application.</P>
+<P>Most of the text is in Parts II, III, and IV. The chapters in these parts 
+cover similar ground to my <A 
+href="http://www.qtrac.eu/marksummerfield.html">C++/Qt books</A>, but have been 
+written entirely from scratch with different examples and written from a totally 
+PyQt&nbsp;4 perspective. Also, some topics are included that are not covered by 
+my other books, for example, the rich text engine, and some more advanced 
+model/view programming techniques.</P>
+<H2 id="reviews">Reviews</H2>
+<UL>
+  <LI><A href="http://www.baypiggies.net/user-group-association-program/BookReviews/rapid-gui-programming-with-python-and-qt-review-by-tony-cappellini">Review
+   by Tony Cappellini</A>—Rating: 9/10</LI>
+  <LI><A href="http://www.techbookreport.com/tbr0330.html">Review on 
+  TechBookReport</A>—Verdict: Highly Recommended</LI>
+  <LI><A href="http://kib2.free.fr/Articles/Revue_du_livre_Rapid_GUI_Programming_with_Python_and_Qt.html">
+  Review by "Kib" (in French)</A></LI></UL>
+<H2 id="eg2">Downloads (Python 2.6 &amp; 2.7)</H2>
+<P>Although the examples work fine with both Python&nbsp;2.5 and
+ Python&nbsp;2.6, I've created Python&nbsp;2.6–specific versions that take some 
+advantage of Python&nbsp;2.6's Python&nbsp;3–like features. The code is 
+available in two formats, <A 
+href="http://www.qtrac.eu/pyqtbook26.tar.gz">pyqtbook26.tar.gz</A> (720K 
+suitable for any platform), and <A 
+href="http://www.qtrac.eu/pyqtbook26.zip">pyqtbook26.zip</A> (926K Windows line 
+endings) <FONT color="brown">[updated 2011-06-20]</FONT>. These examples have 
+been tested on Linux with Python&nbsp;2.6 and PyQt&nbsp;4.4-4.6. Mac users 
+please note that PyQt does not seem to be buildable with Python&nbsp;2.6 on 
+Mac&nbsp;OS&nbsp;X, at least not for me and for some readers in the summer of 
+2009, so Mac users are recommended to use Python&nbsp;2.5, or maybe try 
+Python&nbsp;3! (I have now heard from one reader who has successfully got PyQt 
+working with Python&nbsp;2.6 on his Mac. Essentially what he did was to change 
+the<TT>/usr/locale/Qt4.6/mkspecs/default</TT> symbolic link to point directly to 
+the compiler rather than Xcode—in his case to<TT>macx-g++40</TT>. In fact, since 
+he was on a PowerPC rather than an x86-based Mac he also had to modify the 
+<TT>qconfig.pri</TT> file's<TT>QT_CONFIG</TT> statement to remove <TT>x86</TT>. 
+He then unpacked the PyQt Mac tarball and did the usual installation process and 
+it worked. I haven't tried this myself and don't plan to—I'm switching 
+exclusively to using Python&nbsp;3 now.)</P>
+<H2 id="eg3">Downloads (Python 3.<I>x</I>)</H2>
+<P>From PyQt4.6, PyQt has <I>two</I> APIs, API#1 (the original), and API#2 
+(new). API#2 is more Pythonic and eliminates <TT>QString</TT> and 
+<TT>QVariant</TT>, and is a bit nicer to use. API#1 remains best for those using 
+PyQt to prototype C++/Qt applications. API#1 is the default for PyQt4.<I>x</I> 
+with Python&nbsp;2.<I>x</I>, and for PyQt4.0-4.5 with Python&nbsp;3.<I>x</I>, 
+and is the API used by PySide. API#2 is the default for PyQt4.6+ with 
+Python&nbsp;3.<I>x</I>. The book uses API#1, but the differences are not too 
+big. Basically, most of the changes affect uses of <TT>QDataStream</TT>,
+<TT>QSettings</TT>, and <TT>QTextStream</TT>, and of course any use of
+<TT>QString</TT> methods (since in API#2, <TT>QString</TT> is gone, so we use 
+<TT>str</TT>). </P>
+<P>Versions of the examples for Python&nbsp;3.0 and PyQt&nbsp;4.5.1 using API#1
+ are available in the usual two formats, <A href="http://www.qtrac.eu/pyqtbook3.tar.gz">pyqtbook3.tar.gz</A> 
+(718K suitable for any platform), and <A href="http://www.qtrac.eu/pyqtbook3.zip">pyqtbook3.zip</A> 
+(920K Windows line endings) <FONT color="brown">[updated 2010-07-21]</FONT>. The
+ examples have also been ported to Python&nbsp;3.1 and PyQt&nbsp;4.7.3 using 
+API#2: <A href="http://www.qtrac.eu/pyqtbook31.tar.gz">pyqtbook31.tar.gz</A> 
+(723K suitable for any platform), and <A href="http://www.qtrac.eu/pyqtbook31.zip">pyqtbook31.zip</A> 
+(918K Windows line endings)<FONT color="brown">[updated 2010-08-24]</FONT>. Note 
+that both sets of Python&nbsp;3 examples are straight conversions of the book's 
+original examples and don't take any specific advantage of Python&nbsp;3 or
+ PyQt&nbsp;4.5 (or later) features, except for using<TT>str.format()</TT> rather 
+than the <TT>%</TT> operator. The API#2 versions don't always match up with the 
+examples in the book (because the book uses API#1), but as already noted, the 
+differences aren't huge and only affect a few specific classes.</P>
+<H2 id="pyside">PySide Porting</H2>
+<P>PySide is highly compatible with PyQt. However, I have not released PySide 
+versions of the book's examples because I haven't had time to complete porting 
+them. If you want to use the book's examples with PySide I strongly recommend 
+that you start from the <A 
+href="http://www.qtrac.eu/pyqtbook31.tar.gz">pyqtbook31.tar.gz</A> (723K
+ suitable for any platform), or <A 
+href="http://www.qtrac.eu/pyqtbook31.zip">pyqtbook31.zip</A> (918K Windows line 
+endings) archives since PySide uses API#2 which is what the examples in these
+ archives use.</P>
+<P>To convert any particular example to PySide the steps are as follows:</P>
+<UL>
+  <LI>Replace <TT>python3</TT> in the first line with <TT>python</TT>.</LI>
+  <LI>Add the following statements before the first import:<TT><PRE>from __future__ import division
+from __future__ import print_function
+from future_builtins import *
+</PRE></TT>
+  </LI>
+  <LI>Replace <TT>PyQt4</TT> with <TT>PySide</TT> throughout (e.g., in the
+   imports)</LI>
+  <LI>If using Python&nbsp;2.6 replace <TT>{}</TT> in format strings with
+  <TT>{0}</TT>, <TT>{1}</TT>, etc., as appropriate.</LI>
+  <LI>Add <TT>[0]</TT> at the end of every <TT>QFileDialog.*()</TT>function 
+  call. (In PyQt these return a—possibly empty—filename; in PySide they return a 
+  filename–filter 2-tuple, but all the examples only need the filename.)</LI>
+  <LI>Replace <TT>QT_VERSION_STR</TT> with <TT>qVersion()</TT>.</LI>
+  <LI>Replace <TT>PYQT_VERSION_STR</TT> with <TT>PySide.__version__</TT>; you 
+  will also need to add <TT>import PySide</TT> in the imports after the future 
+  imports.</LI>
+  <LI>Replace <TT>@pyqtSignature</TT> with <TT>@Slot</TT>.</LI>
+  <LI>Replace <TT>def isAlive(qobj): ...</TT> with <TT>def isAlive(qobj): return 
+  True</TT>. (There is currently no PySide equivalent.)</LI>
+  <LI>Replace <TT>chr</TT> with <TT>unichr</TT>.</LI></UL>
+<P>These conversions are sufficient in most cases. However, a few of the
+ examples' behavior is not correct even after these changes. And unfortunately, 
+I don't have the time to investigate.</P>
+<P>For more information on the tools the book teaches see the <A href="http://www.python.org/">Python 
+website</A>, the <A href="http://www.qtsoftware.com/">Qt Software website</A> 
+(makers of Qt), the <A href="http://www.riverbankcomputing.co.uk/">Riverbank 
+website</A>(makers of PyQt&nbsp;4), and the <A 
+href="http://www.pyside.org/">PySide website</A> (makers of PySide, official 
+Nokia-sponsored Python bindings for Qt, largely PyQt compatible). And for those 
+interested in scientific and engineering programming the <A href="http://www.pythonxy.com/">Python(x,y)</A> 
+Python distribution should be of interest.</P>
+<P>Like <A href="http://www.qtrac.eu/marksummerfield.html">all my books and most 
+of my other writings</A>, this book was written using <A href="http://www.qtrac.eu/lout.html">The 
+Lout Typesetting System</A>.</P>
+<P><A href="http://www.qtrac.eu/pyqtbook.html#top">Top</A></P>
+<HR>
+</BODY></HTML>

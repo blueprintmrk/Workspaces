@@ -1,0 +1,1512 @@
+
+[5704] 03-15 07:59:20:660: EnumerateTapiPorts
+[5704] 03-15 07:59:20:836: EnumerateTapiPorts: Number of lines = 7
+[5704] 03-15 07:59:20:836: dwCreateTapiPortsPerLine: line 0...
+[5704] 03-15 07:59:20:853: dwCreateTapiPortsPerLine: fModem = TRUE
+[5704] 03-15 07:59:20:855: ReadModemname=Agere Systems HDA Modem, strlen=1910496786
+[5704] 03-15 07:59:20:856: **rdiDeviceInfo.dwNumEndPoints=1
+[5704] 07:59:20:856: dwFindModemPortUsage: Modem is not enabled for RAS
+[5704] 07:59:20:856: dwFindModemPortUsage: Modem is not enabled for Routing
+[5704] 03-15 07:59:20:856: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for DialIn
+[5704] 03-15 07:59:20:856: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for routing
+[5704] 07:59:20:867: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:867: dwCreateTapiPortsPerLine: PortUsage for Agere Systems HDA Modem = 2
+[5704] 03-15 07:59:20:867: dwCreateTapiPortsPerLine: Creating line=0
+[5704] 03-15 07:59:20:867: dwCreateTapiPortsPerLine: Port Usage for COM3 = 2
+[5704] 03-15 07:59:20:867: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:867:  
+[5704] 03-15 07:59:20:867: dwCreateTapiPortsPerLine: line 1...
+[5704] 03-15 07:59:20:868: dwCreateTapiPortsPerLine: fModem = TRUE
+[5704] 03-15 07:59:20:870: ReadModemname=Standard Modem over Bluetooth link, strlen=1910496786
+[5704] 03-15 07:59:20:870: **rdiDeviceInfo.dwNumEndPoints=1
+[5704] 07:59:20:870: dwFindModemPortUsage: Modem is not enabled for RAS
+[5704] 07:59:20:870: dwFindModemPortUsage: Modem is not enabled for Routing
+[5704] 03-15 07:59:20:870: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for DialIn
+[5704] 03-15 07:59:20:870: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for routing
+[5704] 07:59:20:871: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:871: dwCreateTapiPortsPerLine: PortUsage for Standard Modem over Bluetooth link = 2
+[5704] 03-15 07:59:20:871: dwCreateTapiPortsPerLine: Creating line=1
+[5704] 03-15 07:59:20:871: dwCreateTapiPortsPerLine: Port Usage for COM6 = 2
+[5704] 03-15 07:59:20:871: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:871:  
+[5704] 03-15 07:59:20:871: dwCreateTapiPortsPerLine: line 2...
+[5704] 03-15 07:59:20:872: dwGetLineAddress:...
+[5704] 03-15 07:59:20:874: Media type for index 13
+[5704] 03-15 07:59:20:874: MediaType being returned as VPN
+[5704] 03-15 07:59:20:874: dwGetLineAddress: done. 0x0
+[5704] 03-15 07:59:20:874:  
+[5704] 03-15 07:59:20:874: ------DeviceInfo for WAN Miniport (SSTP)--------
+[5704] 03-15 07:59:20:874:  
+[5704] 03-15 07:59:20:874: WanEndPoints      =2
+[5704] 03-15 07:59:20:874: RasEnabled        =0
+[5704] 03-15 07:59:20:874: RasEnabledRouter  =0
+[5704] 03-15 07:59:20:874: MinWanEndPoints   =0x0
+[5704] 03-15 07:59:20:874: MaxWanEndPoints   =0x3
+[5704] 03-15 07:59:20:874:  
+[5704] 03-15 07:59:20:874: ------------------------------------
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for DialIn
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for Routing
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for outbound routing
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Creating line=2
+[5704] 07:59:20:875: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Friendly Name = VPN0-0
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Port Usage for VPN0-0 = 2
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: line=2 already present
+[5704] 07:59:20:875: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Friendly Name = VPN0-1
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: Port Usage for VPN0-1 = 2
+[5704] 03-15 07:59:20:875: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[5704] 03-15 07:59:20:875: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:876:  
+[5704] 03-15 07:59:20:876: dwCreateTapiPortsPerLine: line 3...
+[5704] 03-15 07:59:20:877: dwGetLineAddress:...
+[5704] 03-15 07:59:20:879: Media type for index 8
+[5704] 03-15 07:59:20:879: MediaType being returned as VPN
+[5704] 03-15 07:59:20:879: dwGetLineAddress: done. 0x0
+[5704] 03-15 07:59:20:879:  
+[5704] 03-15 07:59:20:879: ------DeviceInfo for WAN Miniport (PPTP)--------
+[5704] 03-15 07:59:20:879:  
+[5704] 03-15 07:59:20:879: WanEndPoints      =2
+[5704] 03-15 07:59:20:879: RasEnabled        =0
+[5704] 03-15 07:59:20:879: RasEnabledRouter  =0
+[5704] 03-15 07:59:20:879: MinWanEndPoints   =0x0
+[5704] 03-15 07:59:20:879: MaxWanEndPoints   =0x3
+[5704] 03-15 07:59:20:879:  
+[5704] 03-15 07:59:20:879: ------------------------------------
+[5704] 03-15 07:59:20:879: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for DialIn
+[5704] 03-15 07:59:20:879: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for Routing
+[5704] 03-15 07:59:20:879: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for outbound routing
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Creating line=3
+[5704] 07:59:20:880: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Friendly Name = VPN3-0
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Port Usage for VPN3-0 = 2
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: line=3 already present
+[5704] 07:59:20:880: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Friendly Name = VPN3-1
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: Port Usage for VPN3-1 = 2
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[5704] 03-15 07:59:20:880: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:880:  
+[5704] 03-15 07:59:20:880: dwCreateTapiPortsPerLine: line 4...
+[5704] 03-15 07:59:20:882: dwGetLineAddress:...
+[5704] 03-15 07:59:20:883: Media type for index 14
+[5704] 03-15 07:59:20:883: MediaType being returned as VPN
+[5704] 03-15 07:59:20:883: dwGetLineAddress: done. 0x0
+[5704] 03-15 07:59:20:883:  
+[5704] 03-15 07:59:20:884: ------DeviceInfo for WAN Miniport (IKEv2)--------
+[5704] 03-15 07:59:20:884:  
+[5704] 03-15 07:59:20:884: WanEndPoints      =2
+[5704] 03-15 07:59:20:884: RasEnabled        =0
+[5704] 03-15 07:59:20:884: RasEnabledRouter  =0
+[5704] 03-15 07:59:20:884: MinWanEndPoints   =0x0
+[5704] 03-15 07:59:20:884: MaxWanEndPoints   =0x3
+[5704] 03-15 07:59:20:884:  
+[5704] 03-15 07:59:20:884: ------------------------------------
+[5704] 03-15 07:59:20:884: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for DialIn
+[5704] 03-15 07:59:20:884: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for Routing
+[5704] 03-15 07:59:20:884: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for outbound routing
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Creating line=4
+[5704] 07:59:20:885: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Friendly Name = VPN1-0
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Port Usage for VPN1-0 = 2
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: line=4 already present
+[5704] 07:59:20:885: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Friendly Name = VPN1-1
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: Port Usage for VPN1-1 = 2
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[5704] 03-15 07:59:20:885: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:885:  
+[5704] 03-15 07:59:20:885: dwCreateTapiPortsPerLine: line 5...
+[5704] 03-15 07:59:20:886: dwGetLineAddress:...
+[5704] 03-15 07:59:20:888: Media type for index 12
+[5704] 03-15 07:59:20:888: MediaType being returned as PPPoE
+[5704] 03-15 07:59:20:888: dwGetLineAddress: done. 0x0
+[5704] 03-15 07:59:20:888:  
+[5704] 03-15 07:59:20:888: ------DeviceInfo for WAN Miniport (PPPOE)--------
+[5704] 03-15 07:59:20:888:  
+[5704] 03-15 07:59:20:888: WanEndPoints      =1
+[5704] 03-15 07:59:20:888: RasEnabled        =0
+[5704] 03-15 07:59:20:888: RasEnabledRouter  =0
+[5704] 03-15 07:59:20:888: MinWanEndPoints   =0x0
+[5704] 03-15 07:59:20:888: MaxWanEndPoints   =0x3
+[5704] 03-15 07:59:20:888:  
+[5704] 03-15 07:59:20:888: ------------------------------------
+[5704] 03-15 07:59:20:888: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for DialIn
+[5704] 03-15 07:59:20:888: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for Routing
+[5704] 03-15 07:59:20:888: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for outbound routing
+[5704] 03-15 07:59:20:889: dwCreateTapiPortsPerLine: Total = 1
+[5704] 03-15 07:59:20:889: dwCreateTapiPortsPerLine: Creating line=5
+[5704] 07:59:20:889: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:889: dwCreateTapiPortsPerLine: Friendly Name = PPPoE4-0
+[5704] 03-15 07:59:20:889: dwCreateTapiPortsPerLine: Port Usage for PPPoE4-0 = 2
+[5704] 03-15 07:59:20:889: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:889:  
+[5704] 03-15 07:59:20:889: dwCreateTapiPortsPerLine: line 6...
+[5704] 03-15 07:59:20:890: dwGetLineAddress:...
+[5704] 03-15 07:59:20:892: Media type for index 9
+[5704] 03-15 07:59:20:892: MediaType being returned as VPN
+[5704] 03-15 07:59:20:892: dwGetLineAddress: done. 0x0
+[5704] 03-15 07:59:20:892:  
+[5704] 03-15 07:59:20:892: ------DeviceInfo for WAN Miniport (L2TP)--------
+[5704] 03-15 07:59:20:892:  
+[5704] 03-15 07:59:20:892: WanEndPoints      =2
+[5704] 03-15 07:59:20:892: RasEnabled        =0
+[5704] 03-15 07:59:20:892: RasEnabledRouter  =0
+[5704] 03-15 07:59:20:892: MinWanEndPoints   =0x0
+[5704] 03-15 07:59:20:892: MaxWanEndPoints   =0x3
+[5704] 03-15 07:59:20:893:  
+[5704] 03-15 07:59:20:893: ------------------------------------
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for DialIn
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for Routing
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for outbound routing
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Creating line=6
+[5704] 07:59:20:893: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Friendly Name = VPN2-0
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Port Usage for VPN2-0 = 2
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Total = 2
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: line=6 already present
+[5704] 07:59:20:893: dwGetPorTUsage:...
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Friendly Name = VPN2-1
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: Port Usage for VPN2-1 = 2
+[5704] 03-15 07:59:20:893: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[5704] 03-15 07:59:20:893: dwGetFriendlyNameAndUsage: done. 0
+[5704] 03-15 07:59:20:894:  
+[5704] 07:59:20:894: dwGetNumberOfRings: dwRings=2. lr=0x2
+[5720] 03-15 07:59:20:894: PortEnum
+[5720] 03-15 07:59:20:894: PortEnum: Number of Ports = 11
+[5720] 03-15 07:59:20:894: PortEnum: size required = 2288, size avail = 0, returning 603
+[5720] 03-15 07:59:20:894: PortEnum
+[5720] 03-15 07:59:20:894: PortEnum: Number of Ports = 11
+[5720] 03-15 07:59:20:894: PortEnum: size required = 2288, size avail = 0, returning 603
+[5720] 03-15 07:59:20:894: PortEnum
+[5720] 03-15 07:59:20:894: PortEnum: Number of Ports = 11
+[5720] 03-15 07:59:20:894: GetZeroDeviceInfo. rc=0, cDevices=0
+[5704] 03-15 08:02:22:085: RasTapicallback: msg=25 , param1=1l , param2=0l
+[5704] 03-15 08:02:22:086: RasTapiCallback: LINE_REMOVE
+[5704] 03-15 08:02:22:086: PostNotificationRemoveLine: 1
+[5704] 03-15 08:02:22:086: PostNotificationRemovePort: Posted 0x2e288f0
+[5720] 03-15 08:02:22:086: RemovePort: COM6
+[5720] 03-15 08:02:22:086: RemovePort: removing COM6
+[5720] 03-15 08:02:22:086: dwRemovePort: COM6
+[5720] 03-15 08:02:22:086: RemovePort. dwnumEndPoints for port = 0
+[5720] 03-15 08:02:22:086:  
+[5720] 03-15 09:46:58:331: RemovePorts
+[5720] 03-15 09:46:58:331: RemoveDevices
+[5720] 03-15 09:46:58:331: RemoveLines
+[2644] 04-08 19:47:53:082: EnumerateTapiPorts
+[2644] 04-08 19:47:53:272: EnumerateTapiPorts: Number of lines = 6
+[2644] 04-08 19:47:53:272: dwCreateTapiPortsPerLine: line 0...
+[2644] 04-08 19:47:53:313: dwCreateTapiPortsPerLine: fModem = TRUE
+[2644] 04-08 19:47:53:315: ReadModemname=Agere Systems HDA Modem, strlen=1397153298
+[2644] 04-08 19:47:53:315: **rdiDeviceInfo.dwNumEndPoints=1
+[2644] 19:47:53:315: dwFindModemPortUsage: Modem is not enabled for RAS
+[2644] 19:47:53:315: dwFindModemPortUsage: Modem is not enabled for Routing
+[2644] 04-08 19:47:53:315: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for DialIn
+[2644] 04-08 19:47:53:315: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for routing
+[2644] 19:47:53:316: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:316: dwCreateTapiPortsPerLine: PortUsage for Agere Systems HDA Modem = 2
+[2644] 04-08 19:47:53:316: dwCreateTapiPortsPerLine: Creating line=0
+[2644] 04-08 19:47:53:316: dwCreateTapiPortsPerLine: Port Usage for COM3 = 2
+[2644] 04-08 19:47:53:316: dwGetFriendlyNameAndUsage: done. 0
+[2644] 04-08 19:47:53:316:  
+[2644] 04-08 19:47:53:316: dwCreateTapiPortsPerLine: line 1...
+[2644] 04-08 19:47:53:317: dwGetLineAddress:...
+[2644] 04-08 19:47:53:318: Media type for index 14
+[2644] 04-08 19:47:53:318: MediaType being returned as VPN
+[2644] 04-08 19:47:53:318: dwGetLineAddress: done. 0x0
+[2644] 04-08 19:47:53:318:  
+[2644] 04-08 19:47:53:318: ------DeviceInfo for WAN Miniport (IKEv2)--------
+[2644] 04-08 19:47:53:318:  
+[2644] 04-08 19:47:53:318: WanEndPoints      =2
+[2644] 04-08 19:47:53:318: RasEnabled        =0
+[2644] 04-08 19:47:53:318: RasEnabledRouter  =0
+[2644] 04-08 19:47:53:318: MinWanEndPoints   =0x0
+[2644] 04-08 19:47:53:318: MaxWanEndPoints   =0x3
+[2644] 04-08 19:47:53:318:  
+[2644] 04-08 19:47:53:318: ------------------------------------
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for DialIn
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for Routing
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for outbound routing
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Creating line=1
+[2644] 19:47:53:318: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Friendly Name = VPN1-0
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Port Usage for VPN1-0 = 2
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: line=1 already present
+[2644] 19:47:53:318: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Friendly Name = VPN1-1
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: Port Usage for VPN1-1 = 2
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2644] 04-08 19:47:53:318: dwGetFriendlyNameAndUsage: done. 0
+[2644] 04-08 19:47:53:318:  
+[2644] 04-08 19:47:53:318: dwCreateTapiPortsPerLine: line 2...
+[2644] 04-08 19:47:53:319: dwGetLineAddress:...
+[2644] 04-08 19:47:53:320: Media type for index 9
+[2644] 04-08 19:47:53:320: MediaType being returned as VPN
+[2644] 04-08 19:47:53:320: dwGetLineAddress: done. 0x0
+[2644] 04-08 19:47:53:320:  
+[2644] 04-08 19:47:53:321: ------DeviceInfo for WAN Miniport (L2TP)--------
+[2644] 04-08 19:47:53:321:  
+[2644] 04-08 19:47:53:321: WanEndPoints      =2
+[2644] 04-08 19:47:53:321: RasEnabled        =0
+[2644] 04-08 19:47:53:321: RasEnabledRouter  =0
+[2644] 04-08 19:47:53:321: MinWanEndPoints   =0x0
+[2644] 04-08 19:47:53:321: MaxWanEndPoints   =0x3
+[2644] 04-08 19:47:53:321:  
+[2644] 04-08 19:47:53:321: ------------------------------------
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for DialIn
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for Routing
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for outbound routing
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Creating line=2
+[2644] 19:47:53:321: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Friendly Name = VPN2-0
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Port Usage for VPN2-0 = 2
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: line=2 already present
+[2644] 19:47:53:321: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Friendly Name = VPN2-1
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: Port Usage for VPN2-1 = 2
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2644] 04-08 19:47:53:321: dwGetFriendlyNameAndUsage: done. 0
+[2644] 04-08 19:47:53:321:  
+[2644] 04-08 19:47:53:321: dwCreateTapiPortsPerLine: line 3...
+[2644] 04-08 19:47:53:322: dwGetLineAddress:...
+[2644] 04-08 19:47:53:323: Media type for index 12
+[2644] 04-08 19:47:53:323: MediaType being returned as PPPoE
+[2644] 04-08 19:47:53:323: dwGetLineAddress: done. 0x0
+[2644] 04-08 19:47:53:323:  
+[2644] 04-08 19:47:53:323: ------DeviceInfo for WAN Miniport (PPPOE)--------
+[2644] 04-08 19:47:53:323:  
+[2644] 04-08 19:47:53:323: WanEndPoints      =1
+[2644] 04-08 19:47:53:323: RasEnabled        =0
+[2644] 04-08 19:47:53:323: RasEnabledRouter  =0
+[2644] 04-08 19:47:53:323: MinWanEndPoints   =0x0
+[2644] 04-08 19:47:53:323: MaxWanEndPoints   =0x3
+[2644] 04-08 19:47:53:323:  
+[2644] 04-08 19:47:53:323: ------------------------------------
+[2644] 04-08 19:47:53:323: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for DialIn
+[2644] 04-08 19:47:53:323: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for Routing
+[2644] 04-08 19:47:53:323: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for outbound routing
+[2644] 04-08 19:47:53:324: dwCreateTapiPortsPerLine: Total = 1
+[2644] 04-08 19:47:53:324: dwCreateTapiPortsPerLine: Creating line=3
+[2644] 19:47:53:324: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:324: dwCreateTapiPortsPerLine: Friendly Name = PPPoE4-0
+[2644] 04-08 19:47:53:324: dwCreateTapiPortsPerLine: Port Usage for PPPoE4-0 = 2
+[2644] 04-08 19:47:53:324: dwGetFriendlyNameAndUsage: done. 0
+[2644] 04-08 19:47:53:324:  
+[2644] 04-08 19:47:53:324: dwCreateTapiPortsPerLine: line 4...
+[2644] 04-08 19:47:53:325: dwGetLineAddress:...
+[2644] 04-08 19:47:53:326: Media type for index 8
+[2644] 04-08 19:47:53:326: MediaType being returned as VPN
+[2644] 04-08 19:47:53:326: dwGetLineAddress: done. 0x0
+[2644] 04-08 19:47:53:326:  
+[2644] 04-08 19:47:53:326: ------DeviceInfo for WAN Miniport (PPTP)--------
+[2644] 04-08 19:47:53:326:  
+[2644] 04-08 19:47:53:326: WanEndPoints      =2
+[2644] 04-08 19:47:53:326: RasEnabled        =0
+[2644] 04-08 19:47:53:326: RasEnabledRouter  =0
+[2644] 04-08 19:47:53:326: MinWanEndPoints   =0x0
+[2644] 04-08 19:47:53:326: MaxWanEndPoints   =0x3
+[2644] 04-08 19:47:53:326:  
+[2644] 04-08 19:47:53:326: ------------------------------------
+[2644] 04-08 19:47:53:326: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for DialIn
+[2644] 04-08 19:47:53:326: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for Routing
+[2644] 04-08 19:47:53:326: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for outbound routing
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Creating line=4
+[2644] 19:47:53:327: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Friendly Name = VPN3-0
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Port Usage for VPN3-0 = 2
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: line=4 already present
+[2644] 19:47:53:327: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Friendly Name = VPN3-1
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: Port Usage for VPN3-1 = 2
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2644] 04-08 19:47:53:327: dwGetFriendlyNameAndUsage: done. 0
+[2644] 04-08 19:47:53:327:  
+[2644] 04-08 19:47:53:327: dwCreateTapiPortsPerLine: line 5...
+[2644] 04-08 19:47:53:328: dwGetLineAddress:...
+[2644] 04-08 19:47:53:329: Media type for index 13
+[2644] 04-08 19:47:53:329: MediaType being returned as VPN
+[2644] 04-08 19:47:53:329: dwGetLineAddress: done. 0x0
+[2644] 04-08 19:47:53:329:  
+[2644] 04-08 19:47:53:329: ------DeviceInfo for WAN Miniport (SSTP)--------
+[2644] 04-08 19:47:53:329:  
+[2644] 04-08 19:47:53:329: WanEndPoints      =2
+[2644] 04-08 19:47:53:329: RasEnabled        =0
+[2644] 04-08 19:47:53:329: RasEnabledRouter  =0
+[2644] 04-08 19:47:53:329: MinWanEndPoints   =0x0
+[2644] 04-08 19:47:53:329: MaxWanEndPoints   =0x3
+[2644] 04-08 19:47:53:329:  
+[2644] 04-08 19:47:53:329: ------------------------------------
+[2644] 04-08 19:47:53:329: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for DialIn
+[2644] 04-08 19:47:53:329: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for Routing
+[2644] 04-08 19:47:53:329: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for outbound routing
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Creating line=5
+[2644] 19:47:53:330: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Friendly Name = VPN0-0
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Port Usage for VPN0-0 = 2
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Total = 2
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: line=5 already present
+[2644] 19:47:53:330: dwGetPorTUsage:...
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Friendly Name = VPN0-1
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: Port Usage for VPN0-1 = 2
+[2644] 04-08 19:47:53:330: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2644] 04-08 19:47:53:330: dwGetFriendlyNameAndUsage: done. 0
+[2644] 04-08 19:47:53:330:  
+[2644] 19:47:53:330: dwGetNumberOfRings: dwRings=2. lr=0x2
+[4912] 04-08 19:47:53:330: PortEnum
+[4912] 04-08 19:47:53:330: PortEnum: Number of Ports = 10
+[4912] 04-08 19:47:53:330: PortEnum: size required = 2080, size avail = 0, returning 603
+[4912] 04-08 19:47:53:330: PortEnum
+[4912] 04-08 19:47:53:330: PortEnum: Number of Ports = 10
+[4912] 04-08 19:47:53:330: PortEnum: size required = 2080, size avail = 0, returning 603
+[4912] 04-08 19:47:53:330: PortEnum
+[4912] 04-08 19:47:53:330: PortEnum: Number of Ports = 10
+[4912] 04-08 19:47:53:330: GetZeroDeviceInfo. rc=0, cDevices=0
+[4912] 04-08 19:58:05:926: RemovePorts
+[4912] 04-08 19:58:05:926: RemoveDevices
+[4912] 04-08 19:58:05:926: RemoveLines
+[2260] 04-22 14:49:10:316: EnumerateTapiPorts
+[2260] 04-22 14:49:10:637: EnumerateTapiPorts: Number of lines = 7
+[2260] 04-22 14:49:10:637: dwCreateTapiPortsPerLine: line 0...
+[2260] 04-22 14:49:10:653: dwCreateTapiPortsPerLine: fModem = TRUE
+[2260] 04-22 14:49:10:667: ReadModemname=Agere Systems HDA Modem, strlen=1603526162
+[2260] 04-22 14:49:10:667: **rdiDeviceInfo.dwNumEndPoints=1
+[2260] 14:49:10:667: dwFindModemPortUsage: Modem is not enabled for RAS
+[2260] 14:49:10:667: dwFindModemPortUsage: Modem is not enabled for Routing
+[2260] 04-22 14:49:10:667: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for DialIn
+[2260] 04-22 14:49:10:668: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for routing
+[2260] 14:49:10:669: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:669: dwCreateTapiPortsPerLine: PortUsage for Agere Systems HDA Modem = 2
+[2260] 04-22 14:49:10:669: dwCreateTapiPortsPerLine: Creating line=0
+[2260] 04-22 14:49:10:669: dwCreateTapiPortsPerLine: Port Usage for COM3 = 2
+[2260] 04-22 14:49:10:669: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:669:  
+[2260] 04-22 14:49:10:669: dwCreateTapiPortsPerLine: line 1...
+[2260] 04-22 14:49:10:670: dwCreateTapiPortsPerLine: fModem = TRUE
+[2260] 04-22 14:49:10:672: ReadModemname=Standard Modem over Bluetooth link, strlen=1603526162
+[2260] 04-22 14:49:10:672: **rdiDeviceInfo.dwNumEndPoints=1
+[2260] 14:49:10:672: lrCheckValue: value EnableForRas not found
+[2260] 14:49:10:673: dwFindModemPortUsage: Modem is not enabled for RAS
+[2260] 14:49:10:673: lrCheckValue: value EnableForRouting not found
+[2260] 14:49:10:673: dwFindModemPortUsage: Modem is not enabled for Routing
+[2260] 04-22 14:49:10:673: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for DialIn
+[2260] 04-22 14:49:10:673: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for routing
+[2260] 14:49:10:674: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:674: dwCreateTapiPortsPerLine: PortUsage for Standard Modem over Bluetooth link = 2
+[2260] 04-22 14:49:10:674: dwCreateTapiPortsPerLine: Creating line=1
+[2260] 04-22 14:49:10:674: dwCreateTapiPortsPerLine: Port Usage for COM6 = 2
+[2260] 04-22 14:49:10:674: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:674:  
+[2260] 04-22 14:49:10:674: dwCreateTapiPortsPerLine: line 2...
+[2260] 04-22 14:49:10:675: dwGetLineAddress:...
+[2260] 04-22 14:49:10:677: Media type for index 13
+[2260] 04-22 14:49:10:677: MediaType being returned as VPN
+[2260] 04-22 14:49:10:677: dwGetLineAddress: done. 0x0
+[2260] 04-22 14:49:10:677:  
+[2260] 04-22 14:49:10:677: ------DeviceInfo for WAN Miniport (SSTP)--------
+[2260] 04-22 14:49:10:677:  
+[2260] 04-22 14:49:10:677: WanEndPoints      =2
+[2260] 04-22 14:49:10:677: RasEnabled        =0
+[2260] 04-22 14:49:10:677: RasEnabledRouter  =0
+[2260] 04-22 14:49:10:677: MinWanEndPoints   =0x0
+[2260] 04-22 14:49:10:677: MaxWanEndPoints   =0x3
+[2260] 04-22 14:49:10:677:  
+[2260] 04-22 14:49:10:677: ------------------------------------
+[2260] 04-22 14:49:10:677: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for DialIn
+[2260] 04-22 14:49:10:677: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for Routing
+[2260] 04-22 14:49:10:677: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for outbound routing
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Creating line=2
+[2260] 14:49:10:678: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Friendly Name = VPN0-0
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Port Usage for VPN0-0 = 2
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: line=2 already present
+[2260] 14:49:10:678: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Friendly Name = VPN0-1
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: Port Usage for VPN0-1 = 2
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2260] 04-22 14:49:10:678: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:678:  
+[2260] 04-22 14:49:10:678: dwCreateTapiPortsPerLine: line 3...
+[2260] 04-22 14:49:10:679: dwGetLineAddress:...
+[2260] 04-22 14:49:10:682: Media type for index 8
+[2260] 04-22 14:49:10:682: MediaType being returned as VPN
+[2260] 04-22 14:49:10:682: dwGetLineAddress: done. 0x0
+[2260] 04-22 14:49:10:682:  
+[2260] 04-22 14:49:10:682: ------DeviceInfo for WAN Miniport (PPTP)--------
+[2260] 04-22 14:49:10:682:  
+[2260] 04-22 14:49:10:682: WanEndPoints      =2
+[2260] 04-22 14:49:10:682: RasEnabled        =0
+[2260] 04-22 14:49:10:682: RasEnabledRouter  =0
+[2260] 04-22 14:49:10:682: MinWanEndPoints   =0x0
+[2260] 04-22 14:49:10:682: MaxWanEndPoints   =0x3
+[2260] 04-22 14:49:10:682:  
+[2260] 04-22 14:49:10:682: ------------------------------------
+[2260] 04-22 14:49:10:682: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for DialIn
+[2260] 04-22 14:49:10:682: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for Routing
+[2260] 04-22 14:49:10:682: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for outbound routing
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Creating line=3
+[2260] 14:49:10:683: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Friendly Name = VPN3-0
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Port Usage for VPN3-0 = 2
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: line=3 already present
+[2260] 14:49:10:683: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Friendly Name = VPN3-1
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: Port Usage for VPN3-1 = 2
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2260] 04-22 14:49:10:683: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:683:  
+[2260] 04-22 14:49:10:683: dwCreateTapiPortsPerLine: line 4...
+[2260] 04-22 14:49:10:684: dwGetLineAddress:...
+[2260] 04-22 14:49:10:686: Media type for index 12
+[2260] 04-22 14:49:10:686: MediaType being returned as PPPoE
+[2260] 04-22 14:49:10:686: dwGetLineAddress: done. 0x0
+[2260] 04-22 14:49:10:686:  
+[2260] 04-22 14:49:10:687: ------DeviceInfo for WAN Miniport (PPPOE)--------
+[2260] 04-22 14:49:10:687:  
+[2260] 04-22 14:49:10:687: WanEndPoints      =1
+[2260] 04-22 14:49:10:687: RasEnabled        =0
+[2260] 04-22 14:49:10:687: RasEnabledRouter  =0
+[2260] 04-22 14:49:10:687: MinWanEndPoints   =0x0
+[2260] 04-22 14:49:10:687: MaxWanEndPoints   =0x3
+[2260] 04-22 14:49:10:687:  
+[2260] 04-22 14:49:10:687: ------------------------------------
+[2260] 04-22 14:49:10:687: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for DialIn
+[2260] 04-22 14:49:10:687: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for Routing
+[2260] 04-22 14:49:10:687: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for outbound routing
+[2260] 04-22 14:49:10:688: dwCreateTapiPortsPerLine: Total = 1
+[2260] 04-22 14:49:10:688: dwCreateTapiPortsPerLine: Creating line=4
+[2260] 14:49:10:688: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:688: dwCreateTapiPortsPerLine: Friendly Name = PPPoE4-0
+[2260] 04-22 14:49:10:688: dwCreateTapiPortsPerLine: Port Usage for PPPoE4-0 = 2
+[2260] 04-22 14:49:10:688: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:688:  
+[2260] 04-22 14:49:10:688: dwCreateTapiPortsPerLine: line 5...
+[2260] 04-22 14:49:10:689: dwGetLineAddress:...
+[2260] 04-22 14:49:10:691: Media type for index 9
+[2260] 04-22 14:49:10:691: MediaType being returned as VPN
+[2260] 04-22 14:49:10:691: dwGetLineAddress: done. 0x0
+[2260] 04-22 14:49:10:691:  
+[2260] 04-22 14:49:10:691: ------DeviceInfo for WAN Miniport (L2TP)--------
+[2260] 04-22 14:49:10:691:  
+[2260] 04-22 14:49:10:691: WanEndPoints      =2
+[2260] 04-22 14:49:10:691: RasEnabled        =0
+[2260] 04-22 14:49:10:691: RasEnabledRouter  =0
+[2260] 04-22 14:49:10:691: MinWanEndPoints   =0x0
+[2260] 04-22 14:49:10:691: MaxWanEndPoints   =0x3
+[2260] 04-22 14:49:10:691:  
+[2260] 04-22 14:49:10:691: ------------------------------------
+[2260] 04-22 14:49:10:691: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for DialIn
+[2260] 04-22 14:49:10:691: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for Routing
+[2260] 04-22 14:49:10:691: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for outbound routing
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Creating line=5
+[2260] 14:49:10:692: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Friendly Name = VPN2-0
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Port Usage for VPN2-0 = 2
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: line=5 already present
+[2260] 14:49:10:692: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Friendly Name = VPN2-1
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: Port Usage for VPN2-1 = 2
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2260] 04-22 14:49:10:692: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:692:  
+[2260] 04-22 14:49:10:692: dwCreateTapiPortsPerLine: line 6...
+[2260] 04-22 14:49:10:693: dwGetLineAddress:...
+[2260] 04-22 14:49:10:695: Media type for index 14
+[2260] 04-22 14:49:10:695: MediaType being returned as VPN
+[2260] 04-22 14:49:10:695: dwGetLineAddress: done. 0x0
+[2260] 04-22 14:49:10:695:  
+[2260] 04-22 14:49:10:695: ------DeviceInfo for WAN Miniport (IKEv2)--------
+[2260] 04-22 14:49:10:695:  
+[2260] 04-22 14:49:10:695: WanEndPoints      =2
+[2260] 04-22 14:49:10:695: RasEnabled        =0
+[2260] 04-22 14:49:10:695: RasEnabledRouter  =0
+[2260] 04-22 14:49:10:695: MinWanEndPoints   =0x0
+[2260] 04-22 14:49:10:695: MaxWanEndPoints   =0x3
+[2260] 04-22 14:49:10:696:  
+[2260] 04-22 14:49:10:696: ------------------------------------
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for DialIn
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for Routing
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for outbound routing
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Creating line=6
+[2260] 14:49:10:696: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Friendly Name = VPN1-0
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Port Usage for VPN1-0 = 2
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Total = 2
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: line=6 already present
+[2260] 14:49:10:696: dwGetPorTUsage:...
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Friendly Name = VPN1-1
+[2260] 04-22 14:49:10:696: dwCreateTapiPortsPerLine: Port Usage for VPN1-1 = 2
+[2260] 04-22 14:49:10:697: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[2260] 04-22 14:49:10:697: dwGetFriendlyNameAndUsage: done. 0
+[2260] 04-22 14:49:10:697:  
+[2260] 14:49:10:697: dwGetNumberOfRings: dwRings=2. lr=0x2
+[6376] 04-22 14:49:10:697: PortEnum
+[6376] 04-22 14:49:10:697: PortEnum: Number of Ports = 11
+[6376] 04-22 14:49:10:697: PortEnum: size required = 2288, size avail = 0, returning 603
+[6376] 04-22 14:49:10:697: PortEnum
+[6376] 04-22 14:49:10:697: PortEnum: Number of Ports = 11
+[6376] 04-22 14:49:10:697: PortEnum: size required = 2288, size avail = 0, returning 603
+[6376] 04-22 14:49:10:697: PortEnum
+[6376] 04-22 14:49:10:697: PortEnum: Number of Ports = 11
+[6376] 04-22 14:49:10:697: GetZeroDeviceInfo. rc=0, cDevices=0
+[6376] 04-22 15:04:26:463: RemovePorts
+[6376] 04-22 15:04:26:463: RemoveDevices
+[6376] 04-22 15:04:26:463: RemoveLines
+[3336] 05-06 01:40:45:606: EnumerateTapiPorts
+[3336] 05-06 01:40:47:400: EnumerateTapiPorts: Number of lines = 8
+[3336] 05-06 01:40:47:400: dwCreateTapiPortsPerLine: line 0...
+[3336] 05-06 01:40:47:416: dwCreateTapiPortsPerLine: fModem = TRUE
+[3336] 05-06 01:40:47:432: ReadModemname=Agere Systems HDA Modem, strlen=1961483794
+[3336] 05-06 01:40:47:432: **rdiDeviceInfo.dwNumEndPoints=1
+[3336] 01:40:47:432: dwFindModemPortUsage: Modem is not enabled for RAS
+[3336] 01:40:47:432: dwFindModemPortUsage: Modem is not enabled for Routing
+[3336] 05-06 01:40:47:432: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for DialIn
+[3336] 05-06 01:40:47:494: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for routing
+[3336] 01:40:47:494: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:494: dwCreateTapiPortsPerLine: PortUsage for Agere Systems HDA Modem = 2
+[3336] 05-06 01:40:47:494: dwCreateTapiPortsPerLine: Creating line=0
+[3336] 05-06 01:40:47:494: dwCreateTapiPortsPerLine: Port Usage for COM3 = 2
+[3336] 05-06 01:40:47:494: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:494:  
+[3336] 05-06 01:40:47:494: dwCreateTapiPortsPerLine: line 1...
+[3336] 05-06 01:40:47:494: dwCreateTapiPortsPerLine: fModem = TRUE
+[3336] 05-06 01:40:47:494: ReadModemname=Nokia C6-00 USB Modem, strlen=1961483794
+[3336] 05-06 01:40:47:494: **rdiDeviceInfo.dwNumEndPoints=1
+[3336] 01:40:47:572: lrCheckValue: value EnableForRas not found
+[3336] 01:40:47:572: dwFindModemPortUsage: Modem is not enabled for RAS
+[3336] 01:40:47:572: lrCheckValue: value EnableForRouting not found
+[3336] 01:40:47:588: dwFindModemPortUsage: Modem is not enabled for Routing
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: device Nokia C6-00 USB Modem is notenabled for DialIn
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: device Nokia C6-00 USB Modem is notenabled for routing
+[3336] 01:40:47:588: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: PortUsage for Nokia C6-00 USB Modem = 2
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: Creating line=1
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: Port Usage for COM5 = 2
+[3336] 05-06 01:40:47:588: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:588:  
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: line 2...
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: fModem = TRUE
+[3336] 05-06 01:40:47:588: ReadModemname=Standard Modem over Bluetooth link, strlen=1961483794
+[3336] 05-06 01:40:47:588: **rdiDeviceInfo.dwNumEndPoints=1
+[3336] 01:40:47:588: dwFindModemPortUsage: Modem is not enabled for RAS
+[3336] 01:40:47:588: dwFindModemPortUsage: Modem is not enabled for Routing
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for DialIn
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for routing
+[3336] 01:40:47:588: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: PortUsage for Standard Modem over Bluetooth link = 2
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: Creating line=2
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: Port Usage for COM6 = 2
+[3336] 05-06 01:40:47:588: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:588:  
+[3336] 05-06 01:40:47:588: dwCreateTapiPortsPerLine: line 3...
+[3336] 05-06 01:40:47:619: dwGetLineAddress:...
+[3336] 05-06 01:40:47:619: Media type for index 13
+[3336] 05-06 01:40:47:619: MediaType being returned as VPN
+[3336] 05-06 01:40:47:619: dwGetLineAddress: done. 0x0
+[3336] 05-06 01:40:47:619:  
+[3336] 05-06 01:40:47:619: ------DeviceInfo for WAN Miniport (SSTP)--------
+[3336] 05-06 01:40:47:619:  
+[3336] 05-06 01:40:47:619: WanEndPoints      =2
+[3336] 05-06 01:40:47:619: RasEnabled        =0
+[3336] 05-06 01:40:47:619: RasEnabledRouter  =0
+[3336] 05-06 01:40:47:619: MinWanEndPoints   =0x0
+[3336] 05-06 01:40:47:619: MaxWanEndPoints   =0x3
+[3336] 05-06 01:40:47:619:  
+[3336] 05-06 01:40:47:619: ------------------------------------
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for DialIn
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for Routing
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for outbound routing
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Creating line=3
+[3336] 01:40:47:619: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Friendly Name = VPN0-0
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Port Usage for VPN0-0 = 2
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: line=3 already present
+[3336] 01:40:47:619: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Friendly Name = VPN0-1
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: Port Usage for VPN0-1 = 2
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[3336] 05-06 01:40:47:619: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:619:  
+[3336] 05-06 01:40:47:619: dwCreateTapiPortsPerLine: line 4...
+[3336] 05-06 01:40:47:634: dwGetLineAddress:...
+[3336] 05-06 01:40:47:634: Media type for index 8
+[3336] 05-06 01:40:47:634: MediaType being returned as VPN
+[3336] 05-06 01:40:47:634: dwGetLineAddress: done. 0x0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------DeviceInfo for WAN Miniport (PPTP)--------
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: WanEndPoints      =2
+[3336] 05-06 01:40:47:634: RasEnabled        =0
+[3336] 05-06 01:40:47:634: RasEnabledRouter  =0
+[3336] 05-06 01:40:47:634: MinWanEndPoints   =0x0
+[3336] 05-06 01:40:47:634: MaxWanEndPoints   =0x3
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------------------------------------
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for DialIn
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for Routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for outbound routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Creating line=4
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = VPN3-0
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for VPN3-0 = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: line=4 already present
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = VPN3-1
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for VPN3-1 = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[3336] 05-06 01:40:47:634: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: line 5...
+[3336] 05-06 01:40:47:634: dwGetLineAddress:...
+[3336] 05-06 01:40:47:634: Media type for index 12
+[3336] 05-06 01:40:47:634: MediaType being returned as PPPoE
+[3336] 05-06 01:40:47:634: dwGetLineAddress: done. 0x0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------DeviceInfo for WAN Miniport (PPPOE)--------
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: WanEndPoints      =1
+[3336] 05-06 01:40:47:634: RasEnabled        =0
+[3336] 05-06 01:40:47:634: RasEnabledRouter  =0
+[3336] 05-06 01:40:47:634: MinWanEndPoints   =0x0
+[3336] 05-06 01:40:47:634: MaxWanEndPoints   =0x3
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------------------------------------
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for DialIn
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for Routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for outbound routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 1
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Creating line=5
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = PPPoE4-0
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for PPPoE4-0 = 2
+[3336] 05-06 01:40:47:634: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: line 6...
+[3336] 05-06 01:40:47:634: dwGetLineAddress:...
+[3336] 05-06 01:40:47:634: Media type for index 9
+[3336] 05-06 01:40:47:634: MediaType being returned as VPN
+[3336] 05-06 01:40:47:634: dwGetLineAddress: done. 0x0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------DeviceInfo for WAN Miniport (L2TP)--------
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: WanEndPoints      =2
+[3336] 05-06 01:40:47:634: RasEnabled        =0
+[3336] 05-06 01:40:47:634: RasEnabledRouter  =0
+[3336] 05-06 01:40:47:634: MinWanEndPoints   =0x0
+[3336] 05-06 01:40:47:634: MaxWanEndPoints   =0x3
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------------------------------------
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for DialIn
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for Routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for outbound routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Creating line=6
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = VPN2-0
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for VPN2-0 = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: line=6 already present
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = VPN2-1
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for VPN2-1 = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[3336] 05-06 01:40:47:634: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: line 7...
+[3336] 05-06 01:40:47:634: dwGetLineAddress:...
+[3336] 05-06 01:40:47:634: Media type for index 14
+[3336] 05-06 01:40:47:634: MediaType being returned as VPN
+[3336] 05-06 01:40:47:634: dwGetLineAddress: done. 0x0
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------DeviceInfo for WAN Miniport (IKEv2)--------
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: WanEndPoints      =2
+[3336] 05-06 01:40:47:634: RasEnabled        =0
+[3336] 05-06 01:40:47:634: RasEnabledRouter  =0
+[3336] 05-06 01:40:47:634: MinWanEndPoints   =0x0
+[3336] 05-06 01:40:47:634: MaxWanEndPoints   =0x3
+[3336] 05-06 01:40:47:634:  
+[3336] 05-06 01:40:47:634: ------------------------------------
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for DialIn
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for Routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for outbound routing
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Creating line=7
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = VPN1-0
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for VPN1-0 = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Total = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: line=7 already present
+[3336] 01:40:47:634: dwGetPorTUsage:...
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Friendly Name = VPN1-1
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: Port Usage for VPN1-1 = 2
+[3336] 05-06 01:40:47:634: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[3336] 05-06 01:40:47:634: dwGetFriendlyNameAndUsage: done. 0
+[3336] 05-06 01:40:47:634:  
+[3336] 01:40:47:634: dwGetNumberOfRings: dwRings=2. lr=0x2
+[6588] 05-06 01:40:47:634: PortEnum
+[6588] 05-06 01:40:47:634: PortEnum: Number of Ports = 12
+[6588] 05-06 01:40:47:634: PortEnum: size required = 2496, size avail = 0, returning 603
+[6588] 05-06 01:40:47:634: PortEnum
+[6588] 05-06 01:40:47:634: PortEnum: Number of Ports = 12
+[6588] 05-06 01:40:47:634: PortEnum: size required = 2496, size avail = 0, returning 603
+[6588] 05-06 01:40:47:634: PortEnum
+[6588] 05-06 01:40:47:634: PortEnum: Number of Ports = 12
+[6588] 05-06 01:40:47:666: GetZeroDeviceInfo. rc=0, cDevices=0
+[6096] 05-06 01:40:52:784: PortOpen: VPN1-1
+[6096] 05-06 01:40:52:784: Opening line in monitor mode
+[6096] 05-06 01:40:52:784: PortOpen: successfully opened VPN1-1
+[6096] 05-06 01:40:52:784:  
+[8704] 05-06 01:40:55:570: DeviceConnect: DevSpecificInfo of 32 bytes available. Allocating new memory...
+[8704] 05-06 01:40:55:570: DeviceConnect: calling lineMakeCall with size 32 and offset 193
+[8704] 05-06 01:40:55:570: DeviceConnect: calling lineMakeCall for VPN1-1, address=192.100.117.5
+[8704] 05-06 01:40:55:586: DeviceConnect: Changing state for VPN1-1 from 1 -> 4
+[3336] 05-06 01:40:55:586: RasTapicallback: msg=12 , param1=66235l , param2=0l
+[3336] 05-06 01:40:55:586: LINE_REPLY. param1=0x102bb
+[3336] 05-06 01:40:55:648: RasTapicallback: msg=2 , param1=512l , param2=0l
+[3336] 05-06 01:40:55:648: RasTapicallback: linecallstate=0x200
+[3336] 05-06 01:40:56:022: RasTapicallback: msg=2 , param1=256l , param2=0l
+[3336] 05-06 01:40:56:022: RasTapicallback: linecallstate=0x100
+[3336] 05-06 01:40:56:054: DwGetConnectInfo
+[3336] 05-06 01:40:56:054: DwGetIDInformation
+[3336] 05-06 01:40:56:054: DwGetIDInformation. 0
+[3336] 05-06 01:40:56:054: SizeRequired for CallID=0
+[3336] 05-06 01:40:56:054: CallIDSize=ConnectResponseSize=0
+[3336] 05-06 01:40:56:054: DwGetConnectInfo. 0x0
+[3336] 05-06 01:40:56:054: RasTapiCallback: DwGetConnectInforeturned 0x0
+[3336] 05-06 01:40:56:054: RasTapiCallback: Connected on VPN1-1
+[3336] 05-06 01:40:56:054: RasTapiCallback: Outgoing call
+[6588] 05-06 01:40:56:054: DeviceWork: VPN1-1. State = 4
+[6588] 05-06 01:40:56:085: DeviceWork: Changing state for VPN1-1 from 4 -> 3
+[6096] 05-06 01:40:56:490: PortConnect: VPN1-1
+[6096] 05-06 01:40:56:568:  
+[8272] 05-06 01:40:58:908: PortDisconnect: VPN1-1
+[8272] 05-06 01:40:58:908: InitiatePortDisconnection: VPN1-1
+[8272] 05-06 01:40:58:955: InitiatePortDisconnection: Changing state for VPN1-1 from 3 -> 5, id=0x10288
+[8272] 05-06 01:40:58:955:  
+[3336] 05-06 01:40:58:955: RasTapicallback: msg=2 , param1=16384l , param2=0l
+[3336] 05-06 01:40:58:955: RasTapicallback: linecallstate=0x4000
+[3336] 05-06 01:40:58:955: RasTapiCallback: LINECALLSTATE - initiating Port Disconnect
+[3336] 05-06 01:40:58:955: InitiatePortDisconnection: VPN1-1
+[8272] 05-06 01:40:58:955:  
+[3336] 05-06 01:40:58:955: InitiatePortDisconnection: Changing state for VPN1-1 from 5 -> 5, id=0x10277
+[3336] 05-06 01:40:58:955:  
+[3336] 05-06 01:40:58:955: RasTapicallback: msg=2 , param1=1l , param2=0l
+[3336] 05-06 01:40:58:955: RasTapicallback: linecallstate=0x1
+[3336] 05-06 01:40:58:955: RasTapicallback: msg=12 , param1=66184l , param2=0l
+[3336] 05-06 01:40:58:955: LINE_REPLY. param1=0x10288
+[3336] 05-06 01:40:58:955: PortByRequestId found
+[3336] 05-06 01:40:58:955: RasTapicallback: msg=12 , param1=66167l , param2=0l
+[3336] 05-06 01:40:58:955: LINE_REPLY. param1=0x10277
+[3336] 05-06 01:40:58:955: RasTapiCallback: lineDropped. port VPN1-1, id=0xffffffff
+[3336] 05-06 01:40:58:955: RasTapiCallback: Idle Received for port VPN1-1
+[3336] 05-06 01:40:58:955: RasTapiCallback: changing state of VPN1-1. 5 -> 1
+[3336] 05-06 01:40:58:955: RasTapiCallback: lineDeallocateCall for VPN1-1,hcall = 0x10299
+[6588] 05-06 01:40:58:955: PortTestSignalState: DeviceState = 0
+[5316] 05-06 01:40:58:986: PortClose: VPN1-1
+[5316] 05-06 01:40:58:986: No more ports opened for dialout on this line
+[5316] 05-06 01:40:58:986: Closing line
+[5316] 05-06 01:40:58:986: PortClose: Changing state for  VPN1-1 from 1 -> 0
+[5316] 05-06 01:40:58:986:  
+[5316] 05-06 01:40:59:111: PortOpen: VPN0-1
+[5316] 05-06 01:40:59:111: Opening line in monitor mode
+[5316] 05-06 01:40:59:111: PortOpen: successfully opened VPN0-1
+[5316] 05-06 01:40:59:111:  
+[6096] 05-06 01:41:06:943: DeviceConnect: DevSpecificInfo of 104 bytes available. Allocating new memory...
+[6096] 05-06 01:41:06:943: DeviceConnect: calling lineMakeCall with size 104 and offset 193
+[6096] 05-06 01:41:06:943: DeviceConnect: calling lineMakeCall for VPN0-1, address=portal.access.nokia.com
+[6096] 05-06 01:41:07:021: DeviceConnect: Changing state for VPN0-1 from 1 -> 4
+[3336] 05-06 01:41:07:021: RasTapicallback: msg=12 , param1=66116l , param2=0l
+[3336] 05-06 01:41:07:021: LINE_REPLY. param1=0x10244
+[3336] 05-06 01:41:07:021: RasTapicallback: msg=2 , param1=512l , param2=0l
+[3336] 05-06 01:41:07:021: RasTapicallback: linecallstate=0x200
+[3336] 05-06 01:42:00:410: RasTapicallback: msg=2 , param1=16384l , param2=2147943636l
+[3336] 05-06 01:42:00:410: RasTapicallback: linecallstate=0x4000
+[3336] 05-06 01:42:00:410: RasTapiCallback: LINECALLSTATE_DISCONNECTED for port VPN0-1. AsyncErr = -2147023660, param2=0x800704d4
+[3336] 05-06 01:42:00:410: RasTapicallback: msg=2 , param1=1l , param2=0l
+[3336] 05-06 01:42:00:410: RasTapicallback: linecallstate=0x1
+[6588] 05-06 01:42:00:410: DeviceWork: VPN0-1. State = 4
+[6096] 05-06 01:42:00:550: PortDisconnect: VPN0-1
+[6096] 05-06 01:42:00:550: InitiatePortDisconnection: VPN0-1
+[6096] 05-06 01:42:00:590: InitiatePortDisconnection: Changing state for VPN0-1 from 4 -> 5, id=0x10211
+[6096] 05-06 01:42:00:590:  
+[6096] 05-06 01:42:00:590:  
+[3336] 05-06 01:42:00:590: RasTapicallback: msg=12 , param1=66065l , param2=0l
+[3336] 05-06 01:42:00:590: LINE_REPLY. param1=0x10211
+[3336] 05-06 01:42:00:590: RasTapiCallback: lineDropped. port VPN0-1, id=0xffffffff
+[3336] 05-06 01:42:00:590: RasTapiCallback: Idle Received for port VPN0-1
+[3336] 05-06 01:42:00:590: RasTapiCallback: changing state of VPN0-1. 5 -> 1
+[3336] 05-06 01:42:00:590: RasTapiCallback: lineDeallocateCall for VPN0-1,hcall = 0x10222
+[6588] 05-06 01:42:00:590: PortTestSignalState: DeviceState = 0
+[6096] 05-06 01:42:00:590: PortClose: VPN0-1
+[6096] 05-06 01:42:00:590: No more ports opened for dialout on this line
+[6096] 05-06 01:42:00:590: Closing line
+[6096] 05-06 01:42:00:590: PortClose: Changing state for  VPN0-1 from 1 -> 0
+[6096] 05-06 01:42:00:590:  
+[8704] 05-06 01:42:00:780: PortOpen: VPN3-1
+[8704] 05-06 01:42:00:780: Opening line in monitor mode
+[8704] 05-06 01:42:00:780: PortOpen: successfully opened VPN3-1
+[8704] 05-06 01:42:00:780:  
+[8704] 05-06 01:42:02:989: DeviceConnect: DevSpecificInfo of 16 bytes available. Allocating new memory...
+[8704] 05-06 01:42:02:989: DeviceConnect: calling lineMakeCall with size 16 and offset 193
+[8704] 05-06 01:42:02:989: DeviceConnect: calling lineMakeCall for VPN3-1, address=192.100.117.5
+[8704] 05-06 01:42:03:020: DeviceConnect: Changing state for VPN3-1 from 1 -> 4
+[3336] 05-06 01:42:03:020: RasTapicallback: msg=12 , param1=66030l , param2=0l
+[3336] 05-06 01:42:03:020: LINE_REPLY. param1=0x101ee
+[3336] 05-06 01:42:03:020: RasTapicallback: msg=2 , param1=512l , param2=0l
+[3336] 05-06 01:42:03:020: RasTapicallback: linecallstate=0x200
+[3336] 05-06 01:42:24:181: RasTapicallback: msg=2 , param1=16384l , param2=2l
+[3336] 05-06 01:42:24:181: RasTapicallback: linecallstate=0x4000
+[3336] 05-06 01:42:24:181: RASDiag: Mapping to new error code: 807 (ERROR_VPN_DISCONNECT) instead of 651 (ERROR_FROM_DEVICE)
+[3336] 05-06 01:42:24:181: RasTapiCallback: LINECALLSTATE_DISCONNECTED for port VPN3-1. AsyncErr = 807, param2=0x2
+[3336] 05-06 01:42:24:181: RasTapicallback: msg=2 , param1=1l , param2=0l
+[3336] 05-06 01:42:24:181: RasTapicallback: linecallstate=0x1
+[6588] 05-06 01:42:24:181: DeviceWork: VPN3-1. State = 4
+[5316] 05-06 01:42:24:519: PortDisconnect: VPN3-1
+[5316] 05-06 01:42:24:519: InitiatePortDisconnection: VPN3-1
+[5316] 05-06 01:42:24:519: InitiatePortDisconnection: Changing state for VPN3-1 from 4 -> 5, id=0x101bb
+[5316] 05-06 01:42:24:519:  
+[5316] 05-06 01:42:24:519:  
+[3336] 05-06 01:42:24:519: RasTapicallback: msg=12 , param1=65979l , param2=0l
+[3336] 05-06 01:42:24:519: LINE_REPLY. param1=0x101bb
+[3336] 05-06 01:42:24:519: RasTapiCallback: lineDropped. port VPN3-1, id=0xffffffff
+[3336] 05-06 01:42:24:519: RasTapiCallback: Idle Received for port VPN3-1
+[3336] 05-06 01:42:24:519: RasTapiCallback: changing state of VPN3-1. 5 -> 1
+[3336] 05-06 01:42:24:519: RasTapiCallback: lineDeallocateCall for VPN3-1,hcall = 0x101cc
+[6588] 05-06 01:42:24:519: PortTestSignalState: DeviceState = 0
+[5316] 05-06 01:42:24:519: PortClose: VPN3-1
+[5316] 05-06 01:42:24:519: No more ports opened for dialout on this line
+[5316] 05-06 01:42:24:519: Closing line
+[5316] 05-06 01:42:24:519: PortClose: Changing state for  VPN3-1 from 1 -> 0
+[5316] 05-06 01:42:24:519:  
+[8704] 05-06 01:42:24:708: PortOpen: VPN2-1
+[8704] 05-06 01:42:24:708: Opening line in owner mode
+[8704] 05-06 01:42:24:708: PortOpen: successfully opened VPN2-1
+[8704] 05-06 01:42:24:708:  
+[5316] 05-06 01:42:27:993: PortClose: VPN2-1
+[5316] 05-06 01:42:27:993: Closing line
+[5316] 05-06 01:42:28:039: PortClose: Changing state for  VPN2-1 from 1 -> 0
+[5316] 05-06 01:42:28:039:  
+[6552] 05-06 01:54:29:724: PortOpen: VPN1-1
+[6552] 05-06 01:54:29:754: Opening line in monitor mode
+[6552] 05-06 01:54:29:814: PortOpen: successfully opened VPN1-1
+[6552] 05-06 01:54:29:814:  
+[6552] 05-06 01:54:33:340: DeviceConnect: DevSpecificInfo of 32 bytes available. Allocating new memory...
+[6552] 05-06 01:54:33:340: DeviceConnect: calling lineMakeCall with size 32 and offset 193
+[6552] 05-06 01:54:33:340: DeviceConnect: calling lineMakeCall for VPN1-1, address=192.100.117.5
+[6552] 05-06 01:54:33:350: DeviceConnect: Changing state for VPN1-1 from 1 -> 4
+[3336] 05-06 01:54:33:350: RasTapicallback: msg=12 , param1=65894l , param2=0l
+[3336] 05-06 01:54:33:350: LINE_REPLY. param1=0x10166
+[3336] 05-06 01:54:33:350: RasTapicallback: msg=2 , param1=512l , param2=0l
+[3336] 05-06 01:54:33:350: RasTapicallback: linecallstate=0x200
+[3336] 05-06 01:54:33:350: RasTapicallback: msg=2 , param1=256l , param2=0l
+[3336] 05-06 01:54:33:350: RasTapicallback: linecallstate=0x100
+[3336] 05-06 01:54:33:350: DwGetConnectInfo
+[3336] 05-06 01:54:33:350: DwGetIDInformation
+[3336] 05-06 01:54:33:350: DwGetIDInformation. 0
+[3336] 05-06 01:54:33:350: SizeRequired for CallID=0
+[3336] 05-06 01:54:33:350: CallIDSize=ConnectResponseSize=0
+[3336] 05-06 01:54:33:350: DwGetConnectInfo. 0x0
+[3336] 05-06 01:54:33:350: RasTapiCallback: DwGetConnectInforeturned 0x0
+[3336] 05-06 01:54:33:350: RasTapiCallback: Connected on VPN1-1
+[3336] 05-06 01:54:33:350: RasTapiCallback: Outgoing call
+[6588] 05-06 01:54:33:550: DeviceWork: VPN1-1. State = 4
+[6588] 05-06 01:54:33:550: DeviceWork: Changing state for VPN1-1 from 4 -> 3
+[6552] 05-06 01:54:33:760: PortConnect: VPN1-1
+[6552] 05-06 01:54:33:760:  
+[9868] 05-06 01:54:35:290: PortDisconnect: VPN1-1
+[9868] 05-06 01:54:35:290: InitiatePortDisconnection: VPN1-1
+[9868] 05-06 01:54:35:300: InitiatePortDisconnection: Changing state for VPN1-1 from 3 -> 5, id=0x10133
+[9868] 05-06 01:54:35:300:  
+[9868] 05-06 01:54:35:300:  
+[3336] 05-06 01:54:35:300: RasTapicallback: msg=2 , param1=16384l , param2=0l
+[3336] 05-06 01:54:35:300: RasTapicallback: linecallstate=0x4000
+[3336] 05-06 01:54:35:300: RasTapiCallback: LINECALLSTATE - initiating Port Disconnect
+[3336] 05-06 01:54:35:300: InitiatePortDisconnection: VPN1-1
+[3336] 05-06 01:54:35:300: InitiatePortDisconnection: Changing state for VPN1-1 from 5 -> 5, id=0x10122
+[3336] 05-06 01:54:35:300:  
+[3336] 05-06 01:54:35:300: RasTapicallback: msg=2 , param1=1l , param2=0l
+[3336] 05-06 01:54:35:300: RasTapicallback: linecallstate=0x1
+[3336] 05-06 01:54:35:300: RasTapicallback: msg=12 , param1=65843l , param2=0l
+[3336] 05-06 01:54:35:300: LINE_REPLY. param1=0x10133
+[3336] 05-06 01:54:35:300: PortByRequestId found
+[3336] 05-06 01:54:35:300: RasTapicallback: msg=12 , param1=65826l , param2=0l
+[3336] 05-06 01:54:35:300: LINE_REPLY. param1=0x10122
+[3336] 05-06 01:54:35:300: RasTapiCallback: lineDropped. port VPN1-1, id=0xffffffff
+[3336] 05-06 01:54:35:300: RasTapiCallback: Idle Received for port VPN1-1
+[3336] 05-06 01:54:35:300: RasTapiCallback: changing state of VPN1-1. 5 -> 1
+[3336] 05-06 01:54:35:300: RasTapiCallback: lineDeallocateCall for VPN1-1,hcall = 0x10144
+[6588] 05-06 01:54:35:300: PortTestSignalState: DeviceState = 0
+[7244] 05-06 01:54:35:300: PortClose: VPN1-1
+[7244] 05-06 01:54:35:300: No more ports opened for dialout on this line
+[7244] 05-06 01:54:35:300: Closing line
+[7244] 05-06 01:54:35:300: PortClose: Changing state for  VPN1-1 from 1 -> 0
+[7244] 05-06 01:54:35:300:  
+[7244] 05-06 01:54:35:300: PortOpen: VPN0-1
+[7244] 05-06 01:54:35:300: Opening line in monitor mode
+[7244] 05-06 01:54:35:300: PortOpen: successfully opened VPN0-1
+[7244] 05-06 01:54:35:300:  
+[10232] 05-06 01:54:45:041: DeviceConnect: DevSpecificInfo of 104 bytes available. Allocating new memory...
+[10232] 05-06 01:54:45:041: DeviceConnect: calling lineMakeCall with size 104 and offset 193
+[10232] 05-06 01:54:45:041: DeviceConnect: calling lineMakeCall for VPN0-1, address=portal.access.nokia.com
+[10232] 05-06 01:54:45:041: DeviceConnect: Changing state for VPN0-1 from 1 -> 4
+[3336] 05-06 01:54:45:041: RasTapicallback: msg=12 , param1=65791l , param2=0l
+[3336] 05-06 01:54:45:041: LINE_REPLY. param1=0x100ff
+[3336] 05-06 01:54:45:041: RasTapicallback: msg=2 , param1=512l , param2=0l
+[3336] 05-06 01:54:45:041: RasTapicallback: linecallstate=0x200
+[3336] 05-06 01:55:01:146: RasTapicallback: msg=2 , param1=16384l , param2=2147943636l
+[3336] 05-06 01:55:01:146: RasTapicallback: linecallstate=0x4000
+[3336] 05-06 01:55:01:146: RasTapiCallback: LINECALLSTATE_DISCONNECTED for port VPN0-1. AsyncErr = -2147023660, param2=0x800704d4
+[3336] 05-06 01:55:01:146: RasTapicallback: msg=2 , param1=1l , param2=0l
+[3336] 05-06 01:55:01:146: RasTapicallback: linecallstate=0x1
+[6588] 05-06 01:55:01:156: DeviceWork: VPN0-1. State = 4
+[6552] 05-06 01:55:01:346: PortDisconnect: VPN0-1
+[6552] 05-06 01:55:01:346: InitiatePortDisconnection: VPN0-1
+[6552] 05-06 01:55:01:416: InitiatePortDisconnection: Changing state for VPN0-1 from 4 -> 5, id=0x100cc
+[6552] 05-06 01:55:01:416:  
+[3336] 05-06 01:55:01:416: RasTapicallback: msg=12 , param1=65740l , param2=0l
+[3336] 05-06 01:55:01:426: LINE_REPLY. param1=0x100cc
+[3336] 05-06 01:55:01:426: RasTapiCallback: lineDropped. port VPN0-1, id=0xffffffff
+[3336] 05-06 01:55:01:426: RasTapiCallback: Idle Received for port VPN0-1
+[3336] 05-06 01:55:01:426: RasTapiCallback: changing state of VPN0-1. 5 -> 1
+[3336] 05-06 01:55:01:426: RasTapiCallback: lineDeallocateCall for VPN0-1,hcall = 0x100dd
+[6552] 05-06 01:55:01:426:  
+[6588] 05-06 01:55:01:546: PortTestSignalState: DeviceState = 0
+[6552] 05-06 01:55:01:596: PortClose: VPN0-1
+[6552] 05-06 01:55:01:596: No more ports opened for dialout on this line
+[6552] 05-06 01:55:01:596: Closing line
+[6552] 05-06 01:55:01:606: PortClose: Changing state for  VPN0-1 from 1 -> 0
+[6552] 05-06 01:55:01:606:  
+[6552] 05-06 01:55:01:606: PortOpen: VPN3-1
+[6552] 05-06 01:55:01:606: Opening line in monitor mode
+[6552] 05-06 01:55:01:616: PortOpen: successfully opened VPN3-1
+[6552] 05-06 01:55:01:616:  
+[6552] 05-06 01:55:03:520: DeviceConnect: DevSpecificInfo of 16 bytes available. Allocating new memory...
+[6552] 05-06 01:55:03:520: DeviceConnect: calling lineMakeCall with size 16 and offset 193
+[6552] 05-06 01:55:03:520: DeviceConnect: calling lineMakeCall for VPN3-1, address=192.100.117.5
+[6552] 05-06 01:55:03:610: DeviceConnect: Changing state for VPN3-1 from 1 -> 4
+[3336] 05-06 01:55:03:610: RasTapicallback: msg=12 , param1=65689l , param2=0l
+[3336] 05-06 01:55:03:610: LINE_REPLY. param1=0x10099
+[3336] 05-06 01:55:03:610: RasTapicallback: msg=2 , param1=512l , param2=0l
+[3336] 05-06 01:55:03:610: RasTapicallback: linecallstate=0x200
+[3336] 05-06 01:55:24:678: RasTapicallback: msg=2 , param1=16384l , param2=2l
+[3336] 05-06 01:55:24:678: RasTapicallback: linecallstate=0x4000
+[3336] 05-06 01:55:24:678: RASDiag: Mapping to new error code: 807 (ERROR_VPN_DISCONNECT) instead of 651 (ERROR_FROM_DEVICE)
+[3336] 05-06 01:55:24:678: RasTapiCallback: LINECALLSTATE_DISCONNECTED for port VPN3-1. AsyncErr = 807, param2=0x2
+[3336] 05-06 01:55:24:678: RasTapicallback: msg=2 , param1=1l , param2=0l
+[3336] 05-06 01:55:24:678: RasTapicallback: linecallstate=0x1
+[6588] 05-06 01:55:24:678: DeviceWork: VPN3-1. State = 4
+[10232] 05-06 01:55:25:365: PortDisconnect: VPN3-1
+[10232] 05-06 01:55:25:365: InitiatePortDisconnection: VPN3-1
+[10232] 05-06 01:55:25:380: InitiatePortDisconnection: Changing state for VPN3-1 from 4 -> 5, id=0x10066
+[10232] 05-06 01:55:25:380:  
+[10232] 05-06 01:55:25:380:  
+[3336] 05-06 01:55:25:396: RasTapicallback: msg=12 , param1=65638l , param2=0l
+[3336] 05-06 01:55:25:396: LINE_REPLY. param1=0x10066
+[3336] 05-06 01:55:25:396: RasTapiCallback: lineDropped. port VPN3-1, id=0xffffffff
+[3336] 05-06 01:55:25:396: RasTapiCallback: Idle Received for port VPN3-1
+[3336] 05-06 01:55:25:396: RasTapiCallback: changing state of VPN3-1. 5 -> 1
+[3336] 05-06 01:55:25:396: RasTapiCallback: lineDeallocateCall for VPN3-1,hcall = 0x10077
+[6588] 05-06 01:55:25:396: PortTestSignalState: DeviceState = 0
+[10232] 05-06 01:55:25:396: PortClose: VPN3-1
+[10232] 05-06 01:55:25:396: No more ports opened for dialout on this line
+[10232] 05-06 01:55:25:396: Closing line
+[10232] 05-06 01:55:25:396: PortClose: Changing state for  VPN3-1 from 1 -> 0
+[10232] 05-06 01:55:25:396:  
+[6552] 05-06 01:55:25:586: PortOpen: VPN2-1
+[6552] 05-06 01:55:25:601: Opening line in owner mode
+[6552] 05-06 01:55:25:632: PortOpen: successfully opened VPN2-1
+[6552] 05-06 01:55:25:632:  
+[6552] 05-06 01:55:29:497: PortClose: VPN2-1
+[6552] 05-06 01:55:29:497: Closing line
+[6552] 05-06 01:55:29:509: PortClose: Changing state for  VPN2-1 from 1 -> 0
+[6552] 05-06 01:55:29:509:  
+[3336] 05-06 02:36:25:449: RasTapicallback: msg=25 , param1=1l , param2=0l
+[3336] 05-06 02:36:25:449: RasTapiCallback: LINE_REMOVE
+[3336] 05-06 02:36:25:449: PostNotificationRemoveLine: 1
+[3336] 05-06 02:36:25:449: PostNotificationRemovePort: Posted 0x82c9e90
+[6588] 05-06 02:36:25:449: RemovePort: COM5
+[6588] 05-06 02:36:25:449: RemovePort: removing COM5
+[6588] 05-06 02:36:25:449: dwRemovePort: COM5
+[6588] 05-06 02:36:25:449: RemovePort. dwnumEndPoints for port = 0
+[6588] 05-06 02:36:25:449:  
+[6588] 05-06 02:37:21:637: RemovePorts
+[6588] 05-06 02:37:21:637: RemoveDevices
+[6588] 05-06 02:37:21:637: RemoveLines
+[4076] 05-11 10:41:47:552: EnumerateTapiPorts
+[4076] 05-11 10:41:47:833: EnumerateTapiPorts: Number of lines = 6
+[4076] 05-11 10:41:47:833: dwCreateTapiPortsPerLine: line 0...
+[4076] 05-11 10:41:47:833: dwCreateTapiPortsPerLine: fModem = TRUE
+[4076] 05-11 10:41:47:864: ReadModemname=Agere Systems HDA Modem, strlen=1940577810
+[4076] 05-11 10:41:47:864: **rdiDeviceInfo.dwNumEndPoints=1
+[4076] 10:41:47:864: dwFindModemPortUsage: Modem is not enabled for RAS
+[4076] 10:41:47:864: dwFindModemPortUsage: Modem is not enabled for Routing
+[4076] 05-11 10:41:47:864: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for DialIn
+[4076] 05-11 10:41:47:864: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for routing
+[4076] 10:41:47:864: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:864: dwCreateTapiPortsPerLine: PortUsage for Agere Systems HDA Modem = 2
+[4076] 05-11 10:41:47:864: dwCreateTapiPortsPerLine: Creating line=0
+[4076] 05-11 10:41:47:864: dwCreateTapiPortsPerLine: Port Usage for COM3 = 2
+[4076] 05-11 10:41:47:864: dwGetFriendlyNameAndUsage: done. 0
+[4076] 05-11 10:41:47:864:  
+[4076] 05-11 10:41:47:864: dwCreateTapiPortsPerLine: line 1...
+[4076] 05-11 10:41:47:880: dwGetLineAddress:...
+[4076] 05-11 10:41:47:880: Media type for index 13
+[4076] 05-11 10:41:47:880: MediaType being returned as VPN
+[4076] 05-11 10:41:47:880: dwGetLineAddress: done. 0x0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------DeviceInfo for WAN Miniport (SSTP)--------
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: WanEndPoints      =2
+[4076] 05-11 10:41:47:880: RasEnabled        =0
+[4076] 05-11 10:41:47:880: RasEnabledRouter  =0
+[4076] 05-11 10:41:47:880: MinWanEndPoints   =0x0
+[4076] 05-11 10:41:47:880: MaxWanEndPoints   =0x3
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------------------------------------
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for DialIn
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for Routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for outbound routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Creating line=1
+[4076] 10:41:47:880: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Friendly Name = VPN0-0
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Port Usage for VPN0-0 = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: line=1 already present
+[4076] 10:41:47:880: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Friendly Name = VPN0-1
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Port Usage for VPN0-1 = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4076] 05-11 10:41:47:880: dwGetFriendlyNameAndUsage: done. 0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: line 2...
+[4076] 05-11 10:41:47:880: dwGetLineAddress:...
+[4076] 05-11 10:41:47:880: Media type for index 8
+[4076] 05-11 10:41:47:880: MediaType being returned as VPN
+[4076] 05-11 10:41:47:880: dwGetLineAddress: done. 0x0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------DeviceInfo for WAN Miniport (PPTP)--------
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: WanEndPoints      =2
+[4076] 05-11 10:41:47:880: RasEnabled        =0
+[4076] 05-11 10:41:47:880: RasEnabledRouter  =0
+[4076] 05-11 10:41:47:880: MinWanEndPoints   =0x0
+[4076] 05-11 10:41:47:880: MaxWanEndPoints   =0x3
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------------------------------------
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for DialIn
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for Routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for outbound routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Creating line=2
+[4076] 10:41:47:880: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Friendly Name = VPN3-0
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Port Usage for VPN3-0 = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: line=2 already present
+[4076] 10:41:47:880: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Friendly Name = VPN3-1
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Port Usage for VPN3-1 = 2
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4076] 05-11 10:41:47:880: dwGetFriendlyNameAndUsage: done. 0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: line 3...
+[4076] 05-11 10:41:47:880: dwGetLineAddress:...
+[4076] 05-11 10:41:47:880: Media type for index 12
+[4076] 05-11 10:41:47:880: MediaType being returned as PPPoE
+[4076] 05-11 10:41:47:880: dwGetLineAddress: done. 0x0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------DeviceInfo for WAN Miniport (PPPOE)--------
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: WanEndPoints      =1
+[4076] 05-11 10:41:47:880: RasEnabled        =0
+[4076] 05-11 10:41:47:880: RasEnabledRouter  =0
+[4076] 05-11 10:41:47:880: MinWanEndPoints   =0x0
+[4076] 05-11 10:41:47:880: MaxWanEndPoints   =0x3
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------------------------------------
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for DialIn
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for Routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for outbound routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Total = 1
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Creating line=3
+[4076] 10:41:47:880: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Friendly Name = PPPoE4-0
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Port Usage for PPPoE4-0 = 2
+[4076] 05-11 10:41:47:880: dwGetFriendlyNameAndUsage: done. 0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: line 4...
+[4076] 05-11 10:41:47:880: dwGetLineAddress:...
+[4076] 05-11 10:41:47:880: Media type for index 14
+[4076] 05-11 10:41:47:880: MediaType being returned as VPN
+[4076] 05-11 10:41:47:880: dwGetLineAddress: done. 0x0
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------DeviceInfo for WAN Miniport (IKEv2)--------
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: WanEndPoints      =2
+[4076] 05-11 10:41:47:880: RasEnabled        =0
+[4076] 05-11 10:41:47:880: RasEnabledRouter  =0
+[4076] 05-11 10:41:47:880: MinWanEndPoints   =0x0
+[4076] 05-11 10:41:47:880: MaxWanEndPoints   =0x3
+[4076] 05-11 10:41:47:880:  
+[4076] 05-11 10:41:47:880: ------------------------------------
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for DialIn
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for Routing
+[4076] 05-11 10:41:47:880: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for outbound routing
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Creating line=4
+[4076] 10:41:47:896: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Friendly Name = VPN1-0
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Port Usage for VPN1-0 = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: line=4 already present
+[4076] 10:41:47:896: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Friendly Name = VPN1-1
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Port Usage for VPN1-1 = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4076] 05-11 10:41:47:896: dwGetFriendlyNameAndUsage: done. 0
+[4076] 05-11 10:41:47:896:  
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: line 5...
+[4076] 05-11 10:41:47:896: dwGetLineAddress:...
+[4076] 05-11 10:41:47:896: Media type for index 9
+[4076] 05-11 10:41:47:896: MediaType being returned as VPN
+[4076] 05-11 10:41:47:896: dwGetLineAddress: done. 0x0
+[4076] 05-11 10:41:47:896:  
+[4076] 05-11 10:41:47:896: ------DeviceInfo for WAN Miniport (L2TP)--------
+[4076] 05-11 10:41:47:896:  
+[4076] 05-11 10:41:47:896: WanEndPoints      =2
+[4076] 05-11 10:41:47:896: RasEnabled        =0
+[4076] 05-11 10:41:47:896: RasEnabledRouter  =0
+[4076] 05-11 10:41:47:896: MinWanEndPoints   =0x0
+[4076] 05-11 10:41:47:896: MaxWanEndPoints   =0x3
+[4076] 05-11 10:41:47:896:  
+[4076] 05-11 10:41:47:896: ------------------------------------
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for DialIn
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for Routing
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for outbound routing
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Creating line=5
+[4076] 10:41:47:896: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Friendly Name = VPN2-0
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Port Usage for VPN2-0 = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Total = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: line=5 already present
+[4076] 10:41:47:896: dwGetPorTUsage:...
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Friendly Name = VPN2-1
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: Port Usage for VPN2-1 = 2
+[4076] 05-11 10:41:47:896: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4076] 05-11 10:41:47:896: dwGetFriendlyNameAndUsage: done. 0
+[4076] 05-11 10:41:47:896:  
+[4076] 10:41:47:896: dwGetNumberOfRings: dwRings=2. lr=0x2
+[4072] 05-11 10:41:47:896: PortEnum
+[4072] 05-11 10:41:47:896: PortEnum: Number of Ports = 10
+[4072] 05-11 10:41:47:896: PortEnum: size required = 2080, size avail = 0, returning 603
+[4072] 05-11 10:41:47:896: PortEnum
+[4072] 05-11 10:41:47:896: PortEnum: Number of Ports = 10
+[4072] 05-11 10:41:47:896: PortEnum: size required = 2080, size avail = 0, returning 603
+[4072] 05-11 10:41:47:896: PortEnum
+[4072] 05-11 10:41:47:896: PortEnum: Number of Ports = 10
+[4072] 05-11 10:41:47:896: GetZeroDeviceInfo. rc=0, cDevices=0
+[2860] 05-11 10:41:48:738: PortOpen: COM3
+[2860] 05-11 10:41:48:738: Opening line in owner mode
+[2860] 05-11 10:41:49:019: DwEnableModemDiagnostics
+[2860] 05-11 10:41:49:019: DwEnableModemDiagnostics. 0x0
+[2860] 05-11 10:41:49:019: DwEnableModemDiagnostics returned 0x0
+[2860] 05-11 10:41:49:019: PortOpen: successfully opened COM3
+[2860] 05-11 10:41:49:019:  
+[2860] 05-11 10:41:49:019:  
+[2936] 05-11 10:41:49:034: DeviceConnect: calling lineMakeCall
+[2936] 05-11 10:41:49:034: DeviceConnect: Changing state for COM3 from 1 -> 4
+[4076] 05-11 10:41:49:206: RasTapicallback: msg=12 , param1=66082l , param2=0l
+[4076] 05-11 10:41:49:206: LINE_REPLY. param1=0x10222
+[4076] 05-11 10:41:49:206: RasTapicallback: msg=2 , param1=16l , param2=0l
+[4076] 05-11 10:41:49:206: RasTapicallback: linecallstate=0x10
+[4076] 05-11 10:41:49:206: RasTapicallback: msg=2 , param1=512l , param2=0l
+[4076] 05-11 10:41:49:206: RasTapicallback: linecallstate=0x200
+[4076] 05-11 10:42:22:311: RasTapicallback: msg=2 , param1=16384l , param2=32l
+[4076] 05-11 10:42:22:311: RasTapicallback: linecallstate=0x4000
+[4076] 05-11 10:42:22:311: RasTapiCallback: LINECALLSTATE_DISCONNECTED for port COM3. AsyncErr = 676, param2=0x20
+[4076] 05-11 10:42:22:311: RasTapicallback: msg=2 , param1=1l , param2=0l
+[4076] 05-11 10:42:22:311: RasTapicallback: linecallstate=0x1
+[4072] 05-11 10:42:22:311: DeviceWork: COM3. State = 4
+[3504] 05-11 10:42:22:311: PortDisconnect: COM3
+[3504] 05-11 10:42:22:311: InitiatePortDisconnection: COM3
+[3504] 05-11 10:42:22:311: InitiatePortDisconnection: Changing state for COM3 from 4 -> 5, id=0x101ff
+[3504] 05-11 10:42:22:311:  
+[3504] 05-11 10:42:22:311:  
+[4076] 05-11 10:42:22:311: RasTapicallback: msg=12 , param1=66047l , param2=0l
+[4076] 05-11 10:42:22:311: LINE_REPLY. param1=0x101ff
+[4076] 05-11 10:42:22:311: RasTapiCallback: lineDropped. port COM3, id=0xffffffff
+[4076] 05-11 10:42:22:311: RasTapiCallback: Idle Received for port COM3
+[4076] 05-11 10:42:22:311: RasTapiCallback: changing state of COM3. 5 -> 1
+[4076] 05-11 10:42:22:311: RasTapiCallback: lineDeallocateCall for COM3,hcall = 0x10200
+[4072] 05-11 10:42:22:311: PortTestSignalState: DeviceState = 0
+[3504] 05-11 10:42:22:311: PortClose: COM3
+[3504] 05-11 10:42:22:311: Closing line
+[3504] 05-11 10:42:22:326: PortClose: Changing state for  COM3 from 1 -> 0
+[3504] 05-11 10:42:22:326:  
+[4076] 05-11 10:44:32:200: RasTapicallback: msg=8 , param1=4194304l , param2=0l
+[4076] 05-11 10:44:32:200: LINE_LINEDEVSTATE. param1=0x400000, line=0x0
+[4076] 05-11 10:44:33:338: RasTapicallback: msg=8 , param1=4194304l , param2=0l
+[4076] 05-11 10:44:33:338: LINE_LINEDEVSTATE. param1=0x400000, line=0x0
+[4960] 05-11 10:44:48:107: PortOpen: COM3
+[4960] 05-11 10:44:48:108: Opening line in owner mode
+[4960] 05-11 10:44:48:263: DwEnableModemDiagnostics
+[4960] 05-11 10:44:48:264: DwEnableModemDiagnostics. 0x0
+[4960] 05-11 10:44:48:264: DwEnableModemDiagnostics returned 0x0
+[4960] 05-11 10:44:48:264: PortOpen: successfully opened COM3
+[4960] 05-11 10:44:48:264:  
+[4960] 05-11 10:44:48:266:  
+[4976] 05-11 10:44:48:288: DeviceConnect: calling lineMakeCall
+[4976] 05-11 10:44:48:289: DeviceConnect: Changing state for COM3 from 1 -> 4
+[4076] 05-11 10:44:48:427: RasTapicallback: msg=12 , param1=65604l , param2=0l
+[4076] 05-11 10:44:48:427: LINE_REPLY. param1=0x10044
+[4076] 05-11 10:44:48:428: RasTapicallback: msg=2 , param1=16l , param2=0l
+[4076] 05-11 10:44:48:428: RasTapicallback: linecallstate=0x10
+[4076] 05-11 10:44:48:428: RasTapicallback: msg=2 , param1=512l , param2=0l
+[4076] 05-11 10:44:48:428: RasTapicallback: linecallstate=0x200
+[4076] 05-11 10:45:11:411: RasTapicallback: msg=2 , param1=16384l , param2=32l
+[4076] 05-11 10:45:11:411: RasTapicallback: linecallstate=0x4000
+[4076] 05-11 10:45:11:411: RasTapiCallback: LINECALLSTATE_DISCONNECTED for port COM3. AsyncErr = 676, param2=0x20
+[4072] 05-11 10:45:11:411: DeviceWork: COM3. State = 4
+[4076] 05-11 10:45:11:411: RasTapicallback: msg=2 , param1=1l , param2=0l
+[4076] 05-11 10:45:11:411: RasTapicallback: linecallstate=0x1
+[5004] 05-11 10:45:11:417: PortDisconnect: COM3
+[5004] 05-11 10:45:11:417: InitiatePortDisconnection: COM3
+[5004] 05-11 10:45:11:418: InitiatePortDisconnection: Changing state for COM3 from 4 -> 5, id=0x10011
+[5004] 05-11 10:45:11:419:  
+[5004] 05-11 10:45:11:419:  
+[4076] 05-11 10:45:11:419: RasTapicallback: msg=12 , param1=65553l , param2=0l
+[4076] 05-11 10:45:11:419: LINE_REPLY. param1=0x10011
+[4076] 05-11 10:45:11:419: RasTapiCallback: lineDropped. port COM3, id=0xffffffff
+[4076] 05-11 10:45:11:419: RasTapiCallback: Idle Received for port COM3
+[4076] 05-11 10:45:11:419: RasTapiCallback: changing state of COM3. 5 -> 1
+[4076] 05-11 10:45:11:419: RasTapiCallback: lineDeallocateCall for COM3,hcall = 0x10022
+[4072] 05-11 10:45:11:420: PortTestSignalState: DeviceState = 0
+[5004] 05-11 10:45:11:420: PortClose: COM3
+[5004] 05-11 10:45:11:421: Closing line
+[5004] 05-11 10:45:11:430: PortClose: Changing state for  COM3 from 1 -> 0
+[5004] 05-11 10:45:11:430:  
+[4568] 05-14 04:00:36:750: EnumerateTapiPorts
+[4568] 05-14 04:00:37:433: EnumerateTapiPorts: Number of lines = 7
+[4568] 05-14 04:00:37:433: dwCreateTapiPortsPerLine: line 0...
+[4568] 05-14 04:00:37:441: dwCreateTapiPortsPerLine: fModem = TRUE
+[4568] 05-14 04:00:37:454: ReadModemname=Agere Systems HDA Modem, strlen=1940381202
+[4568] 05-14 04:00:37:454: **rdiDeviceInfo.dwNumEndPoints=1
+[4568] 04:00:37:454: dwFindModemPortUsage: Modem is not enabled for RAS
+[4568] 04:00:37:454: dwFindModemPortUsage: Modem is not enabled for Routing
+[4568] 05-14 04:00:37:454: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for DialIn
+[4568] 05-14 04:00:37:454: dwCreateTapiPortsPerLine: device Agere Systems HDA Modem is notenabled for routing
+[4568] 04:00:37:455: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:455: dwCreateTapiPortsPerLine: PortUsage for Agere Systems HDA Modem = 2
+[4568] 05-14 04:00:37:455: dwCreateTapiPortsPerLine: Creating line=0
+[4568] 05-14 04:00:37:455: dwCreateTapiPortsPerLine: Port Usage for COM3 = 2
+[4568] 05-14 04:00:37:455: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:455:  
+[4568] 05-14 04:00:37:455: dwCreateTapiPortsPerLine: line 1...
+[4568] 05-14 04:00:37:456: dwCreateTapiPortsPerLine: fModem = TRUE
+[4568] 05-14 04:00:37:459: ReadModemname=Standard Modem over Bluetooth link, strlen=1940381202
+[4568] 05-14 04:00:37:459: **rdiDeviceInfo.dwNumEndPoints=1
+[4568] 04:00:37:459: dwFindModemPortUsage: Modem is not enabled for RAS
+[4568] 04:00:37:459: dwFindModemPortUsage: Modem is not enabled for Routing
+[4568] 05-14 04:00:37:459: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for DialIn
+[4568] 05-14 04:00:37:459: dwCreateTapiPortsPerLine: device Standard Modem over Bluetooth link is notenabled for routing
+[4568] 04:00:37:459: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:459: dwCreateTapiPortsPerLine: PortUsage for Standard Modem over Bluetooth link = 2
+[4568] 05-14 04:00:37:459: dwCreateTapiPortsPerLine: Creating line=1
+[4568] 05-14 04:00:37:459: dwCreateTapiPortsPerLine: Port Usage for COM6 = 2
+[4568] 05-14 04:00:37:459: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:459:  
+[4568] 05-14 04:00:37:460: dwCreateTapiPortsPerLine: line 2...
+[4568] 05-14 04:00:37:461: dwGetLineAddress:...
+[4568] 05-14 04:00:37:462: Media type for index 13
+[4568] 05-14 04:00:37:462: MediaType being returned as VPN
+[4568] 05-14 04:00:37:462: dwGetLineAddress: done. 0x0
+[4568] 05-14 04:00:37:462:  
+[4568] 05-14 04:00:37:462: ------DeviceInfo for WAN Miniport (SSTP)--------
+[4568] 05-14 04:00:37:462:  
+[4568] 05-14 04:00:37:462: WanEndPoints      =2
+[4568] 05-14 04:00:37:462: RasEnabled        =0
+[4568] 05-14 04:00:37:462: RasEnabledRouter  =0
+[4568] 05-14 04:00:37:462: MinWanEndPoints   =0x0
+[4568] 05-14 04:00:37:462: MaxWanEndPoints   =0x3
+[4568] 05-14 04:00:37:462:  
+[4568] 05-14 04:00:37:462: ------------------------------------
+[4568] 05-14 04:00:37:462: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for DialIn
+[4568] 05-14 04:00:37:462: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for Routing
+[4568] 05-14 04:00:37:462: dwCreateTapiPortsPerLine: Device WAN Miniport (SSTP) not enabled for outbound routing
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Creating line=2
+[4568] 04:00:37:463: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Friendly Name = VPN0-0
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Port Usage for VPN0-0 = 2
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: line=2 already present
+[4568] 04:00:37:463: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Friendly Name = VPN0-1
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: Port Usage for VPN0-1 = 2
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4568] 05-14 04:00:37:463: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:463:  
+[4568] 05-14 04:00:37:463: dwCreateTapiPortsPerLine: line 3...
+[4568] 05-14 04:00:37:465: dwGetLineAddress:...
+[4568] 05-14 04:00:37:467: Media type for index 8
+[4568] 05-14 04:00:37:467: MediaType being returned as VPN
+[4568] 05-14 04:00:37:467: dwGetLineAddress: done. 0x0
+[4568] 05-14 04:00:37:467:  
+[4568] 05-14 04:00:37:467: ------DeviceInfo for WAN Miniport (PPTP)--------
+[4568] 05-14 04:00:37:467:  
+[4568] 05-14 04:00:37:467: WanEndPoints      =2
+[4568] 05-14 04:00:37:467: RasEnabled        =0
+[4568] 05-14 04:00:37:467: RasEnabledRouter  =0
+[4568] 05-14 04:00:37:467: MinWanEndPoints   =0x0
+[4568] 05-14 04:00:37:467: MaxWanEndPoints   =0x3
+[4568] 05-14 04:00:37:467:  
+[4568] 05-14 04:00:37:467: ------------------------------------
+[4568] 05-14 04:00:37:467: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for DialIn
+[4568] 05-14 04:00:37:467: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for Routing
+[4568] 05-14 04:00:37:467: dwCreateTapiPortsPerLine: Device WAN Miniport (PPTP) not enabled for outbound routing
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Creating line=3
+[4568] 04:00:37:468: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Friendly Name = VPN3-0
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Port Usage for VPN3-0 = 2
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: line=3 already present
+[4568] 04:00:37:468: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Friendly Name = VPN3-1
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: Port Usage for VPN3-1 = 2
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4568] 05-14 04:00:37:468: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:468:  
+[4568] 05-14 04:00:37:468: dwCreateTapiPortsPerLine: line 4...
+[4568] 05-14 04:00:37:469: dwGetLineAddress:...
+[4568] 05-14 04:00:37:471: Media type for index 12
+[4568] 05-14 04:00:37:471: MediaType being returned as PPPoE
+[4568] 05-14 04:00:37:471: dwGetLineAddress: done. 0x0
+[4568] 05-14 04:00:37:471:  
+[4568] 05-14 04:00:37:472: ------DeviceInfo for WAN Miniport (PPPOE)--------
+[4568] 05-14 04:00:37:472:  
+[4568] 05-14 04:00:37:472: WanEndPoints      =1
+[4568] 05-14 04:00:37:472: RasEnabled        =0
+[4568] 05-14 04:00:37:472: RasEnabledRouter  =0
+[4568] 05-14 04:00:37:472: MinWanEndPoints   =0x0
+[4568] 05-14 04:00:37:472: MaxWanEndPoints   =0x3
+[4568] 05-14 04:00:37:472:  
+[4568] 05-14 04:00:37:472: ------------------------------------
+[4568] 05-14 04:00:37:472: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for DialIn
+[4568] 05-14 04:00:37:472: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for Routing
+[4568] 05-14 04:00:37:472: dwCreateTapiPortsPerLine: Device WAN Miniport (PPPOE) not enabled for outbound routing
+[4568] 05-14 04:00:37:473: dwCreateTapiPortsPerLine: Total = 1
+[4568] 05-14 04:00:37:473: dwCreateTapiPortsPerLine: Creating line=4
+[4568] 04:00:37:474: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:474: dwCreateTapiPortsPerLine: Friendly Name = PPPoE4-0
+[4568] 05-14 04:00:37:474: dwCreateTapiPortsPerLine: Port Usage for PPPoE4-0 = 2
+[4568] 05-14 04:00:37:474: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:474:  
+[4568] 05-14 04:00:37:474: dwCreateTapiPortsPerLine: line 5...
+[4568] 05-14 04:00:37:476: dwGetLineAddress:...
+[4568] 05-14 04:00:37:484: Media type for index 9
+[4568] 05-14 04:00:37:484: MediaType being returned as VPN
+[4568] 05-14 04:00:37:484: dwGetLineAddress: done. 0x0
+[4568] 05-14 04:00:37:484:  
+[4568] 05-14 04:00:37:484: ------DeviceInfo for WAN Miniport (L2TP)--------
+[4568] 05-14 04:00:37:484:  
+[4568] 05-14 04:00:37:484: WanEndPoints      =2
+[4568] 05-14 04:00:37:484: RasEnabled        =0
+[4568] 05-14 04:00:37:484: RasEnabledRouter  =0
+[4568] 05-14 04:00:37:484: MinWanEndPoints   =0x0
+[4568] 05-14 04:00:37:484: MaxWanEndPoints   =0x3
+[4568] 05-14 04:00:37:484:  
+[4568] 05-14 04:00:37:484: ------------------------------------
+[4568] 05-14 04:00:37:484: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for DialIn
+[4568] 05-14 04:00:37:484: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for Routing
+[4568] 05-14 04:00:37:484: dwCreateTapiPortsPerLine: Device WAN Miniport (L2TP) not enabled for outbound routing
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Creating line=5
+[4568] 04:00:37:485: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Friendly Name = VPN2-0
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Port Usage for VPN2-0 = 2
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: line=5 already present
+[4568] 04:00:37:485: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Friendly Name = VPN2-1
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: Port Usage for VPN2-1 = 2
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4568] 05-14 04:00:37:485: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:485:  
+[4568] 05-14 04:00:37:485: dwCreateTapiPortsPerLine: line 6...
+[4568] 05-14 04:00:37:486: dwGetLineAddress:...
+[4568] 05-14 04:00:37:487: Media type for index 14
+[4568] 05-14 04:00:37:487: MediaType being returned as VPN
+[4568] 05-14 04:00:37:487: dwGetLineAddress: done. 0x0
+[4568] 05-14 04:00:37:487:  
+[4568] 05-14 04:00:37:487: ------DeviceInfo for WAN Miniport (IKEv2)--------
+[4568] 05-14 04:00:37:487:  
+[4568] 05-14 04:00:37:487: WanEndPoints      =2
+[4568] 05-14 04:00:37:487: RasEnabled        =0
+[4568] 05-14 04:00:37:487: RasEnabledRouter  =0
+[4568] 05-14 04:00:37:487: MinWanEndPoints   =0x0
+[4568] 05-14 04:00:37:487: MaxWanEndPoints   =0x3
+[4568] 05-14 04:00:37:487:  
+[4568] 05-14 04:00:37:487: ------------------------------------
+[4568] 05-14 04:00:37:487: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for DialIn
+[4568] 05-14 04:00:37:487: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for Routing
+[4568] 05-14 04:00:37:487: dwCreateTapiPortsPerLine: Device WAN Miniport (IKEv2) not enabled for outbound routing
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Creating line=6
+[4568] 04:00:37:488: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Friendly Name = VPN1-0
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Port Usage for VPN1-0 = 2
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Total = 2
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: line=6 already present
+[4568] 04:00:37:488: dwGetPorTUsage:...
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Friendly Name = VPN1-1
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: Port Usage for VPN1-1 = 2
+[4568] 05-14 04:00:37:488: dwCreateTapiPortsPerLine: CurrentEndPoints=NumEndPoints=2
+[4568] 05-14 04:00:37:488: dwGetFriendlyNameAndUsage: done. 0
+[4568] 05-14 04:00:37:488:  
+[4568] 04:00:37:488: dwGetNumberOfRings: dwRings=2. lr=0x2
+[8076] 05-14 04:00:37:488: PortEnum
+[8076] 05-14 04:00:37:488: PortEnum: Number of Ports = 11
+[8076] 05-14 04:00:37:488: PortEnum: size required = 2288, size avail = 0, returning 603
+[8076] 05-14 04:00:37:488: PortEnum
+[8076] 05-14 04:00:37:488: PortEnum: Number of Ports = 11
+[8076] 05-14 04:00:37:488: PortEnum: size required = 2288, size avail = 0, returning 603
+[8076] 05-14 04:00:37:488: PortEnum
+[8076] 05-14 04:00:37:488: PortEnum: Number of Ports = 11
+[8076] 05-14 04:00:37:489: GetZeroDeviceInfo. rc=0, cDevices=0
+[4568] 05-13 22:35:08:246: RasTapicallback: msg=25 , param1=1l , param2=0l
+[4568] 05-13 22:35:08:246: RasTapiCallback: LINE_REMOVE
+[4568] 05-13 22:35:08:246: PostNotificationRemoveLine: 1
+[4568] 05-13 22:35:08:246: PostNotificationRemovePort: Posted 0xb72a758
+[8076] 05-13 22:35:08:496: RemovePort: COM6
+[8076] 05-13 22:35:08:496: RemovePort: removing COM6
+[8076] 05-13 22:35:08:496: dwRemovePort: COM6
+[8076] 05-13 22:35:08:496: RemovePort. dwnumEndPoints for port = 0
+[8076] 05-13 22:35:08:496:  

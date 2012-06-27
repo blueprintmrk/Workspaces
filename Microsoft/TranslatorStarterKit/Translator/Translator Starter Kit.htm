@@ -1,0 +1,1000 @@
+﻿<html xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <head>
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8" />
+    <META NAME="save" CONTENT="history" />
+    <title>Translator Starter Kit</title>
+    <style type="text/css">
+ body
+{
+	color: #000000;
+	font-family:	Verdana;
+	font-size: medium;
+	font-style: normal;
+	font-weight: normal;
+	margin-top:	0;
+	margin-bottom:	0;
+	margin-left:	0;
+	margin-right:	0;
+	width:	100%;
+}
+dl
+{
+	margin-top:	15;
+	margin-bottom:5;
+	padding-left:	1;
+}
+
+dl.authored dt {
+	font-style:	bold;
+	margin-top: 2;
+}
+
+dd {
+	margin-left:	20px;
+}
+
+ul
+{
+	margin-top:0;
+	margin-bottom:0;
+	margin-left: 17;
+	list-style-type: disc;
+}
+
+ul ul
+{
+	margin-bottom: 4;
+	margin-left: 17;
+	margin-top: 3;
+	list-style-type: disc;
+}
+
+ol {
+	margin-top:0;
+	margin-bottom:0;
+	margin-left: 28;
+	list-style-type: decimal;
+}
+
+ol ol {
+	margin-bottom: 4;
+	margin-left: 28;
+	margin-top: 3;
+	list-style-type: lower-alpha;
+}
+
+li {
+	margin-top: 5;
+	margin-bottom: 5;
+}
+
+p {
+	margin-top: 10;
+	margin-bottom: 5;
+}
+
+a:link {
+	color:	#0000FF;
+}
+
+a:visited {
+	color: #DD7C3B;
+}
+
+a:hover {
+	color:	#3366FF;
+}
+
+code
+{
+	font-family:	Monospace, Courier New, Courier;
+	font-size: 105%;
+	color:	#000066;
+}
+
+span.parameter {
+	font-style: italic;
+}
+
+span.italic {
+	font-style: italic;
+}
+
+span.selflink {
+	font-weight: bold;
+}
+
+span.nolink {
+	font-weight: bold;
+}
+
+div.breadCrumbs {
+	font-size: 8pt;
+	margin-bottom: 5;
+	border-bottom-color: #C8CDDE;
+	border-bottom-style: solid;
+	border-bottom-width: 1;
+	padding-bottom: 5;
+}
+
+div#mainSection
+{
+	font-size: 62.5%;
+	width: 100%;
+}
+html&gt;body #mainSection
+{
+	font-size:73%;
+	width: 100%;
+}
+
+div#mainBody
+{
+	font-size: 100%;
+	margin-left: 15;
+	margin-top: 10;
+}
+
+html&gt;body #mainBody
+{
+	font-size: 93%;
+	margin-left: 15;
+	margin-top: 10;
+	padding-bottom: 20;
+}
+
+div#mainBody p, div#mainBody ol, div#mainBody ul, div#mainBody dl
+{
+	padding-right: 5;
+}
+
+div#header
+{
+	padding-top:	0;
+	padding-bottom:	0;
+	padding-left:	0;
+	padding-right:	0;
+	width:	100%;
+}
+
+div#header table
+{
+	width:	100%;
+}
+
+div#header table td
+{
+	color: #0000FF;
+	font-size: 70%;
+	margin-top:	0;
+	margin-bottom:	0;
+	padding-right: 20;
+}
+
+div#header table tr#headerTableRow2 td
+{
+	padding-left: 13px;
+}
+
+div#header table tr#headerTableRow3 td
+{
+	padding-top: 2px;
+	padding-left: 15;
+}
+
+div#header table#bottomTable
+{
+	border-top-color: #FFFFFF;
+	border-top-style: solid;
+	border-top-width: 1;
+	text-align: left;
+	padding-left: 15;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div#mainSection table td.imageCell
+{
+	white-space: nowrap;
+}
+
+div#mainBody div.alert, div#mainBody div.code, div#mainBody div.tableSection
+{
+	width:98.9%;
+}
+
+div#mainBody div.section div.alert, div#mainBody div.section div.code,
+div#mainBody div.section div.tableSection
+{
+	width:100%;
+}
+
+div#mainBody div.section ul div.alert, div#mainBody div.section ul div.code,
+div#mainBody div.section ul div.tableSection, div#mainBody div.section ol div.alert, 
+div#mainBody div.section ol div.code, div#mainBody div.section ol div.tableSection
+{
+	width:100%;
+}
+
+div.alert p, div.code p
+{
+	margin-top:5;
+	margin-bottom:8;
+}
+dd p
+{
+	margin-top:2;
+	margin-bottom:8;
+}
+div.tableSection p
+{
+	margin-top:1;
+	margin-bottom:4;
+}	
+li p
+{
+	margin-top:2;
+	margin-bottom:2;
+}
+div.seeAlsoNoToggleSection dl
+{
+	margin-top:8;
+	margin-bottom:1;
+	padding-left:1;
+}
+div.seeAlsoNoToggleSection dd p
+{
+	margin-top:2;
+	margin-bottom:8;
+}
+div.section dl
+{
+	margin-top:8;
+	margin-bottom:1;
+	padding-left:1;
+}
+div.section dd p
+{
+	margin-top:2;
+	margin-bottom:8;
+}
+
+div.code table
+{
+	border: 0;
+	font-size: 95%;
+	margin-bottom: 5;
+	margin-top:-.4em;
+	width: 100%
+}
+
+div.code table th
+{	
+	background:	#EFEFF7;
+	border-bottom-color: #C8CDDE;
+	border-bottom-style: solid;
+	border-bottom-width: 1;
+	color: #000066;
+	font-weight: bold;
+	padding-left: 5;
+	padding-right: 5;
+}
+
+div.code table td
+{
+	background:	#F7F7FF;
+	border-top-color: #FFFFFF;
+	border-top-style: solid;
+	border-top-width: 1;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+}
+
+span#runningHeaderText
+{
+	color: #8C8C8C;
+	font-size: 90%;
+	padding-left: 13;
+}
+
+span#nsrTitle
+{
+	color: #000000;
+	font-size: 160%;
+	font-weight: 400;
+	font-family: arial;
+}
+
+div#footer
+{
+	font-size: 80%;
+	margin-top:	0;
+	margin-bottom:	0;
+	margin-left:	0;
+	margin-right:	0;
+	padding-top:	8;
+	padding-bottom:	6;
+	padding-left:	1;
+	padding-right:	1;
+	width:	100%;
+}
+
+html&gt;body div#footer
+{
+	font-size: 80%;
+	margin-top:	0;
+	margin-bottom:	0;
+	margin-left:	0;
+	margin-right:	0;
+	padding-top:	2;
+	padding-bottom:	6;
+	padding-left:	1;
+	padding-right:	1;
+	width:	98%;
+}
+
+div.seeAlsoNoToggleSection
+{
+	margin-left:0;
+	padding-top:	2;
+	padding-bottom:	2;
+	padding-left:	0;
+	padding-right:	15;
+	width:	100%;
+}
+
+div.section
+{
+	margin-left:0;
+	padding-top:	0;
+	padding-bottom:	0;
+	padding-left:	16;
+	padding-right:	15;
+	width:	100%;
+}
+html&gt;body div.section
+{
+	margin-left:0;
+	padding-top:	2;
+	padding-bottom:	2;
+	padding-left:	16;
+	padding-right:	15;
+	width:	97%;
+}
+div.seeSection
+{
+	margin-left:0;
+	padding-top:	0;
+	padding-bottom:	2;
+	padding-left:	16;
+	padding-right:	15;
+	width:	100%;
+}
+
+.heading
+{
+	font-weight:	bold;
+	margin-top:		18;
+	margin-bottom:	8;
+}
+
+h1.heading
+{
+	color: #000000;
+	font-size:	130%;
+}
+
+.subHeading
+{
+	font-weight:	bold;
+	margin-bottom:	4;
+}
+.procedureSubHeading
+{
+	font-weight: bold;
+	margin-bottom: 4;
+}
+
+h3.subHeading
+{
+	color:  #000000;
+	font-size: 120%;
+    font-weight:800;
+}
+
+h3.procedureSubHeading
+{
+	color: #000000;
+	font-size: 120%;
+}
+
+h4.subHeading
+{
+	color: #000000;
+	font-size: 110%;
+	font-weight:800;
+}
+span.labelheading, div.labelheading
+{
+	font-size:100%;
+	color:#003399;
+}
+
+img.note
+{
+	border: 0;
+	margin-right: 3;
+}
+
+div#mainSection table
+{
+	border: 0;
+	font-size: 100%;
+	width:	98.9%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div#mainSection table tr
+{
+	vertical-align: top;
+}
+
+div#mainSection table th
+{
+	background-color: #EFEFF7;
+	border-bottom: 1px solid #C8CDDE;
+	border-left: 1px none #D5D5D3;
+	color: #000066;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: left;
+}
+
+div#mainSection table td
+{
+	background-color: #F7F7FF;
+	border-bottom: 1px solid #D5D5D3;
+	border-left: 1px none #D5D5D3;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+div#mainSection table td.imageCell
+{
+	white-space: nowrap;
+}
+
+div.code table
+{
+	border: 0;
+	font-size: 95%;
+	margin-bottom: 5;
+	width: 100%
+}
+
+div.code table th
+{	
+	background:	#EFEFF7;
+	border-bottom-color: #C8CDDE;
+	border-bottom-style: solid;
+	border-bottom-width: 1;
+	color: #000066;
+	font-weight: bold;
+	padding-left: 5;
+	padding-right: 5;
+}
+
+div.code table td
+{
+	background:	#F7F7FF;
+	border-top-color: #FFFFFF;
+	border-top-style: solid;
+	border-top-width: 1;
+	padding-left: 5;
+	padding-right: 5;
+	padding-top: 5;
+}
+
+div.alert table
+{
+	border: 0;
+	font-size: 100%;
+	width:	100%;
+}
+
+div.alert table th
+{
+	background:	#EFEFF7;
+	border-bottom-width: 0;
+	color: #000066;
+	padding-left: 5;
+	padding-right: 5;
+}
+
+div.alert table td
+{
+	background:	#F7F7FF;
+	border-top-color: #FFFFFF;
+	border-top-style: solid;
+	border-top-width: 1;
+	padding-left: 5;
+	padding-right: 5;
+}
+
+div.code pre
+{
+	font-family:	Monospace, Courier New, Courier;
+	font-size: 105%;
+	color:	#000066;
+	word-wrap:	break-word;
+	background: #F7F7FF;
+}
+
+.tip
+{
+	color:	#0000FF;
+	font-style: italic;
+	cursor: pointer;
+	text-decoration:underline;
+}
+
+.math
+{
+	font-family: Times New Roman;
+	font-size: 125%
+}
+
+div.footerLine {
+	margin: 0;
+	width: 100%;
+	padding-top:	8;
+	padding-bottom:	6;
+	/*padding-left:	5;
+	padding-right:	2;*/
+
+}
+
+div.hr1 {
+	margin: 0;
+	width: 100%;
+	height: 1px;
+	padding: 0;
+	background: #C8CDDE;
+	font-size: 1px;
+}
+
+div.hr2 {
+	margin: 0;
+	width: 100%;
+	height: 1px;
+	padding: 0;
+	background: #D4DFFF;
+	font-size: 1px;
+}
+
+div.hr3 {
+	margin: 0;
+	width: 100%;
+	height: 1px;
+	padding: 0;
+	background: #EEEEFF;
+	font-size: 1px;
+}
+
+span.cs {
+	display: none;
+}
+
+span.vb {
+	display: none;
+}
+
+span.cpp {
+	display: none;
+}
+
+span.nu {
+	display: inline;
+}
+
+span.fs 
+{
+	display: none;
+}
+
+span.code {
+	font-family:	Monospace, Courier New, Courier;
+	font-size: 105%;
+	color:	#000066; 
+}
+span.ui {
+	font-weight: bold;
+}
+span.math {
+	font-style: italic;
+}
+span.input {
+	font-weight: bold;
+}
+span.term {
+	font-style: italic;
+}
+span.label 
+{
+	font-weight: bold;
+}
+span.foreignPhrase {
+	font-style: italic;
+}
+span.placeholder {
+	font-style: italic;
+}
+span.keyword 
+{
+	font-weight: bold;
+}
+span.typeparameter
+{
+	font-style:italic;
+}
+
+div.caption
+{
+	font-weight: bold;
+	font-size:100%;
+	color:#003399;
+}
+
+
+div.code span.keyword 
+{
+	color: #871F78;
+}
+
+div.code span.parameter 
+{
+	font-style: italic;
+}
+
+div.code span.literal 
+{
+	color:#8B0000;
+}
+
+div.code span.comment 
+{
+	color: #006400;
+}
+
+span.syntaxLabel
+{
+	color:#0481DA;
+	font-weight:bold;
+}
+span.introStyle
+{
+	color:DarkGray;
+}
+
+div.seeAlsoStyle
+{
+	padding-top:5px;
+
+}
+
+td.nsrBottom
+{
+	height: 0.6em;
+	width: 100%;
+}
+  </style>
+  </head>
+  <body>
+    <div id="header">
+      <table id="bottomTable" cellpadding="0" cellspacing="0">
+        <tr id="headerTableRow1">
+          <td align="left">
+            <span id="runningHeaderText" />
+          </td>
+        </tr>
+        <tr id="headerTableRow2">
+          <td align="left">
+            <span id="nsrTitle">Translator Starter Kit</span>
+          </td>
+        </tr>
+        <tr id="headerTableRow3">
+          <td align="left">
+            <a href="#seeAlsoToggle">See Also</a>  </td>
+        </tr>
+      </table>
+      <table id="gradientTable">
+        <tr>
+          <td class="nsrBottom" background="../icons/gradient.gif" />
+        </tr>
+      </table>
+    </div>
+    <div id="mainSection">
+      <div id="mainBody">
+        <font color="DarkGray"></font>
+        <p /> <p><font color="DarkGray">12/9/2010</font></p><div class="introduction"><p /></div><a name="Top" /><div id="sectionSection0" class="seeAlsoNoToggleSection"><p>This Windows Phone 7 Starter Kit is a complete translator application written in C#. The program provides the user with the ability to enter a word or phrase in one language and have it translated to another language.  The program can also play an audio clip of the translated text.  As a convenience, the program also provides a list of commonly used phrases. The supported languages are English, French, Italian, Spanish, and German.</p><div class="alert"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left"><b>Note:</b></th></tr><tr><td><p>To make a successful call to the Microsoft Translator service, you must obtain a <span class="label">Bing API AppID</span>.  For information about obtaining a <span class="label">Bing API AppID</span>, see <a href="http://go.microsoft.com/fwlink/?LinkID=207245">Getting Your AppID</a>.  Once you have a <span class="label">Bing API AppID</span>, you should store it in the <span class="label">TextToSpeechID</span> and <span class="label">TextTranslateID</span> value fields of the <span class="label">Strings.resx</span> file found in the Localization folder of the project.</p></td></tr></table></div><p><span sdata="link"><a href="#Goals">Goals</a></span></p><p><span sdata="link"><a href="#Getting_Started">Getting Started</a></span></p><p><span sdata="link"><a href="#Program_Files">Program Files</a></span></p><p><span sdata="link"><a href="#Web_Service">Calling the Web Service</a></span></p><p><span sdata="link"><a href="#Play_Audio">Using the XNA Framework To Play Audio</a></span></p><p><span sdata="link"><a href="#History_List">Storing a History List In Isolated Storage</a></span></p><p><span sdata="link"><a href="#Speech_Button">Animating the Text To Speech Button</a></span></p><p><span sdata="link"><a href="#Extending_App">Extending the Translator Application</a></span></p><div class="alert"><table width="100%" cellspacing="0" cellpadding="0"><tr><th align="left"><b>Note:</b></th></tr><tr><td><p>This documentation assumes that you have a basic knowledge of C# programming concepts and the Windows Phone Developer Tools. You can download the Windows Phone Developer Tools <a href="http://go.microsoft.com/fwlink/?linkid=189554">here</a>. The code for this Translator Starter Kit can be downloaded <a href="http://go.microsoft.com/fwlink/?LinkID=207165">here</a>.  </p></td></tr></table></div><a name="Goals" /><h3 class="subHeading">Goals</h3><div class="subsection"><p>After reading through this topic, you will understand how the Translator program works.  You will also understand a few ways in which you can customize it using the Windows Phone Developer Tools. This starter kit demonstrates how to:</p><ul><li><p>Call a web service.</p></li><li><p>Use an XNA Framework API from within a Silverlight application to play a sound.</p></li><li><p>Maintain a history list in isolated storage.</p></li><li><p>Animate an image in a <span class="label">ToggleButton</span>. </p></li></ul><p><span sdata="link"><a href="#Top">Top</a></span></p></div><a name="Getting_Started" /><h3 class="subHeading">Getting Started</h3><div class="subsection"><p>To compile and run the Translator Starter Kit: </p><ul><li><p>Download and unzip the Translator Starter Kit. </p></li><li><p>Open the <span class="label">Translator.sln</span> solution file in Visual Studio.</p></li><li><p>Build the Translator application.</p></li><li><p>At this point, you can run the program in the emulator or on a device.  You can translate any phrase in the history list.   To do additional translations, see <a href="http://go.microsoft.com/fwlink/?LinkID=207245">Getting Your AppID</a>  for information about obtaining a <span class="label">Bing API AppID</span>.  Once you have a <span class="label">Bing API AppID</span>, you should store it in the <span class="label">TextToSpeechID</span> and <span class="label">TextTranslateID</span> value fields of the <span class="label">Strings.resx</span> file found in the Localization folder of the project.</p></li></ul><p><span sdata="link"><a href="#Top">Top</a></span></p></div></div><a name="Program_Files" /><h1 class="heading"><span>Program Files</span></h1><div id="sectionSection1" class="section" name="collapseableSection" style=""><p>The Translator application uses the <span class="label">Microsoft Translator</span> web service to translate text from one language to another.  Users first set the language they want to translate from and the language the program should translate the text into.  After the user enters text into a <span class="label">TextBox</span> and presses the <span class="label">translate</span> button, the program calls the <span class="label">Microsoft Translator</span> web service to translate the text and display the results in another <span class="label">TextBox</span>.  A second call to the <span class="label">Microsoft Translator</span> web service converts the translated text to an audio file, which the user can then listen to by pressing the speaker button.</p><p>The program also maintains a history of translated phrases.  This history list is initially seeded with about 50 commonly used phrases and their translations.  When a new phrase has been successfully translated, it is added to the history list.  This list is stored in isolated storage.</p><h3 class="subHeading">Main Program</h3><div class="subsection"><ul><li><p><span class="label">App.xaml.cs</span> - Contains the <span class="ui">App()</span> method – the location where the program begins execution and where event handlers are initialized.</p></li></ul></div><h3 class="subHeading">AppSettings</h3><div class="subsection"><ul><li><p><span class="label">IsoStoreAppSettings.cs</span> - Base class to manage saving and restoring settings in the isolated storage.</p></li></ul></div><h3 class="subHeading">Content</h3><div class="subsection"><ul><li><p>This folder contains the default phrases and translations supplied for the history list.  It also includes .wav file translations for all the phrases in each supported language.</p></li></ul></div><h3 class="subHeading">ContextMenu</h3><div class="subsection"><ul><li><p><span class="label">ContextMenu.cs</span> - Implements a context menu.</p></li><li><p><span class="label">ContextMenu.generic.xaml</span> - Contains styles and templates for the context menu.</p></li><li><p><span class="label">ContextMenuService.cs</span> - Helps to attach a context menu onto a control.</p></li></ul></div><h3 class="subHeading">HistoryList</h3><div class="subsection"><ul><li><p><span class="label">HistoryList.cs</span> - Maintains the history list of translated phrases.</p></li><li><p><span class="label">Phrases.cs</span> - The history list is a collection of phrases.</p></li><li><p><span class="label">Translation.cs</span> - Each phrase contains a list of translations for each language.</p></li></ul></div><h3 class="subHeading">HistoryPage</h3><div class="subsection"><ul><li><p><span class="label">HistoryPage.xaml.cs</span> - Displays the history list of translated phrases.</p></li></ul></div><h3 class="subHeading">LanguagePickerPage</h3><div class="subsection"><ul><li><p><span class="label">LanguagePickerPage.xaml.cs</span> - Displays a list of languages to translate to or from.</p></li></ul></div><h3 class="subHeading">MainPage</h3><div class="subsection"><ul><li><p><span class="label">MainPage.xaml.cs</span> - Displays the main page for entering phrases and getting them translated.</p></li></ul></div><h3 class="subHeading">Model</h3><div class="subsection"><ul><li><p><span class="label">Model.cs</span> - Contains the data model for the application.  It consists of the application settings, the history list, and the available languages list.</p></li></ul></div><h3 class="subHeading">Settings</h3><div class="subsection"><ul><li><p><span class="label">AppSettings.cs</span> - Contains information about the applications settings, in this case the languages to translate from and to.</p></li><li><p><span class="label">LanguageInfo.cs</span> - Contains information about a particular language. </p></li><li><p><span class="label">SoundFilenameGenerator.cs</span> - Generates a unique filename for a language sound file.</p></li></ul></div><h3 class="subHeading">Speech</h3><div class="subsection"><ul><li><p><span class="label">Speech.cs</span> - Class to use the cloud to get a wave file of text translated to speech, and play it back.</p></li></ul></div><h3 class="subHeading">Themes</h3><div class="subsection"><ul><li><p><span class="label">Generic.xaml</span> - Helps to bring in the ContextMenu.generic.xaml.</p></li></ul></div><h3 class="subHeading">Tilt</h3><div class="subsection"><ul><li><p><span class="label">TiltEffect.cs</span> - Provides attached properties for adding a 'tilt' effect to all controls within a container.  To learn more about implementing the ‘tilt’ effect, see <a href="http://go.microsoft.com/fwlink/?LinkID=206261">Control Tilt Effect for Windows Phone</a>.</p></li></ul></div><h3 class="subHeading">Tool</h3><div class="subsection"><ul><li><p><span class="label">PhoneUtils.cs</span> - Contains some utility functions for reading state information.</p></li></ul></div><h3 class="subHeading">Translator</h3><div class="subsection"><ul><li><p><span class="label">Translator.cs</span> - Class to use the cloud services to translate text from one language to another.</p></li></ul></div><h3 class="subHeading">WebRequestHelper</h3><div class="subsection"><ul><li><p><span class="label">WebRequestHelper.cs</span> - Stateless Helper class to handle an asynchronous web request.</p></li></ul><p><span sdata="link"><a href="#Top">Top</a></span></p></div></div><a name="Key_Concepts" /><h1 class="heading"><span>Key Concepts</span></h1><div id="sectionSection2" class="section" name="collapseableSection" style=""><p /><a name="Web_Service" /><h3 class="subHeading">Calling the Web Service</h3><div class="subsection"><p><span class="label">Translator.cs</span> contains the code for calling the translation web service.  When a translation has been requested, the history list is checked first.  If the phrase does not exist in the history list, then an async call to the web service is made.  <span class="label">CallWebApi</span> sets up a URI and sends it to be called in <span class="label">InitiateRequest</span>.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// Calls async web api to get the text translation.
+        /// &lt;/summary&gt;
+        /// &lt;param name="fromString"&gt;From text&lt;/param&gt;
+        /// &lt;param name="fromLang"&gt;From language&lt;/param&gt;
+        /// &lt;param name="toLang"&gt;To langauge&lt;/param&gt;
+        /// &lt;returns&gt;True if a web call was made, false if the translator already had this phrase cached away.&lt;/returns&gt;
+        protected bool CallWebApi(
+            string fromString,
+            string fromLang,
+            string toLang
+            )
+        {
+            bool callMade = false;
+
+            if (
+                (String.Compare(fromString, _lastPhraseString, StringComparison.CurrentCultureIgnoreCase) != 0)
+                ||
+                (fromLang != _lastFromLanguage) || (toLang != _lastToLanguage)
+                ||
+                (App.Model.TestingParameterForceAllWebCalls == true)
+                )
+            {
+                _lastPhraseString = fromString;
+                _lastFromLanguage = fromLang;
+                _lastToLanguage = toLang;
+                callMade = true;
+
+                //
+                // If there was already a translate request out on the wire, do not bother listening to it any more.
+                //
+                if (_currentRequest != null)
+                {
+                    _currentRequest.Cancelled = true;
+                }
+
+                _currentRequest = InitiateRequest(GetUriRequest(fromString, fromLang, toLang), fromString, fromLang, toLang);
+            }
+
+            return callMade;
+        }
+</pre></td></tr></table></span></div><p><span class="label">GetUriRequest</span> builds the URI based on the given phrase and the languages to translate from and to.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// Builds the URI for the Web call.
+        /// &lt;/summary&gt;
+        /// &lt;param name="phrase"&gt;&lt;/param&gt;
+        /// &lt;param name="fromLang"&gt;&lt;/param&gt;
+        /// &lt;param name="toLang"&gt;&lt;/param&gt;
+        /// &lt;returns&gt;The URI&lt;/returns&gt;
+        private string GetUriRequest(string phrase, string fromLang, string toLang)
+        {
+            string apiFormat = LocalizationStrings.Strings.TextTranslateURI;
+            string uriRequest =
+                  String.Format(
+                    apiFormat,
+                    LocalizationStrings.Strings.TextTranslateID,
+                    Uri.EscapeDataString(phrase),
+                    fromLang,
+                    toLang
+                    );
+            return uriRequest;
+        }
+</pre></td></tr></table></span></div><p><span class="label">InitiateRequest</span> takes the passed in URI and makes the web service call to translate the text.  If the translation is successful, the phrase is added to the history list and <span class="label">GetTextToSpeech</span> will initiate a second web service call to translate the text to speech.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// Makes actual call to cloud to get translation. When the result is retrieved,
+        /// the HistoryList is updated, and the Speech object is set into motion to
+        /// get the text translated to speech.
+        /// &lt;/summary&gt;
+        /// &lt;param name="uriRequest"&gt;URI&lt;/param&gt;
+        /// &lt;param name="fromString"&gt;From text&lt;/param&gt;
+        /// &lt;param name="fromLang"&gt;From langauge&lt;/param&gt;
+        /// &lt;param name="toLang"&gt;To language&lt;/param&gt;
+        /// &lt;returns&gt;A WebRequestHelper.RequestInfo which contains information about the current request in the cloud.&lt;/returns&gt;
+        private WebRequestHelper.RequestInfo InitiateRequest(
+            string uriRequest,
+            string fromString,
+            string fromLang,
+            string toLang
+            )
+        {
+            // The signature for SendStringRequest looks like this:
+            //
+            //  public static RequestInfo 
+            //      SendStringRequest(
+            //          string uriString,
+            //          Action sent,
+            //          Action&lt;string&gt; received,
+            //          Action&lt;string&gt; failed );
+            //
+            WebRequestHelper.RequestInfo returnValue =
+                    WebRequestHelper.SendStringRequest(
+                        uriRequest,
+                        () =&gt; // Sent()
+                        {
+                            // Update the UI to let the user know the request is out on the wire.
+                            ToPhrase = LocalizationStrings.Strings.Sending;
+                            ResultValid = false;
+                            App.Speech.ResultValid = false;
+                        },
+                        (resultXML) =&gt; // Received(string resultXML)
+                        {
+                            // This code is called from the WebRequest's thread, so anything that touches the UI
+                            // will need to be marshalled.
+                            string translatedText = ParseResult(resultXML);
+
+                            if (string.IsNullOrEmpty(translatedText))
+                            {
+                                ReportWebError();
+                            }
+                            else
+                            {
+                                // There are going to be cases where the translator service does not
+                                // translate a word, and it returns the source text. In these cases,
+                                // we do not want to save away the translation. That way, if the translator
+                                // service is updated in the future to correctly translate that word,
+                                // the correct translation will be stored in the history list. Otherwise,
+                                // the incorrect translation will be cached away and the user will never
+                                // get to benefit.
+                                if (String.Compare(fromString, translatedText, StringComparison.CurrentCultureIgnoreCase) != 0)
+                                {
+                                    App.Model.AddTranslatedText(fromString, fromLang, translatedText, toLang);
+                                }
+                                else
+                                {
+                                    // And, if the phrase was not cached, reset the last phrase so that each subsequent call
+                                    // will hit the web again (this value is used to optimize web calls at the CallApi method)
+                                    _lastPhraseString = string.Empty;
+                                }
+                                // Get the result and update the UI.
+                                // Since both of these properties use the NotifyPropertyChanged
+                                // method, which uses BeginInvoke to ensure the call is made on the
+                                // UI thread, we do not need to marshall code here.
+                                ToPhrase = translatedText;
+                                ResultValid = true;
+
+                                // Send the Speech object on its way to get the text to speech.
+                                App.Speech.GetTextToSpeech(
+                                    fromString,
+                                    translatedText,
+                                    fromLang,
+                                    toLang
+                                    );
+                            }
+
+                        },
+                        (errorMsg) =&gt; // Failed(string errorMsg)
+                        {
+                            ReportWebError();
+                        }
+                    );
+
+            return returnValue;
+        }
+</pre></td></tr></table></span></div><p><span sdata="link"><a href="#Top">Top</a></span></p></div><a name="Play_Audio" /><h3 class="subHeading">Using the XNA Framework To Play Audio</h3><div class="subsection"><p>The method <span class="label">SpeakResult</span> in <span class="label">Speech.cs</span> plays the wave file of the translation.  The <span class="label">_player</span> object of type <span class="label">DynamicSoundEffectInstance</span> is used to play the audio buffer. </p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// Converts the wave into a format playable by the XNA player and plays it.
+        /// &lt;/summary&gt;
+        /// &lt;param name="soundBytes"&gt;&lt;/param&gt;
+        private void SpeakResult(byte[] soundBytes)
+        {
+            byte[] upscaled = ConvertTo16BitAudio(soundBytes, cHeaderSize, soundBytes.Length - cHeaderSize);
+
+            if (upscaled.Length &gt; 0)
+            {
+                if (_xnaUpdateTimer == null)
+                {
+                    //
+                    // The XNA framework has some code that assumes a game loop is running.
+                    // Playback of wave files is one of them, and without calls to FrameworkDispatcher.Update(),
+                    // the wave files could get garbled, and the BufferNeeded event will not fire. Since this class
+                    // needs the BufferNeeded event, and since the user wants a clean wave file playback, this
+                    // snippet of code will call the FrameworkDispatcher.Update() method at a high frequency.
+                    // The timer is turned on when the _player starts to play, and it is turned off when the
+                    // BufferNeeded is called. This preserves battery life.
+                    //
+                    _xnaUpdateTimer = new DispatcherTimer();
+                    _xnaUpdateTimer.Interval = new TimeSpan(0, 0, 0, 0, 25);
+                    _xnaUpdateTimer.Tick += (s, e) =&gt;
+                    {
+                        FrameworkDispatcher.Update();
+                    };
+                }
+
+                // Initialize the player.
+                if (_player == null)
+                {
+                    _player = new DynamicSoundEffectInstance(8000, AudioChannels.Mono);
+                    _player.BufferNeeded += OnPlayerBufferNeeded;
+                }
+                // Need to send the first Update immediately, as the timer  will not send one for a period.
+                FrameworkDispatcher.Update();
+                _ignoreNextBufferNeeded = true;
+                _player.SubmitBuffer(upscaled);
+                _player.Play();
+                FrameworkDispatcher.Update();
+                // Turn on the XNA timer to ensure the wave file is ungarbled.
+                _xnaUpdateTimer.Start();
+
+                IsSpeaking = true;
+            }
+        }
+</pre></td></tr></table></span></div><p><span sdata="link"><a href="#Top">Top</a></span></p></div><a name="History_List" /><h3 class="subHeading">Storing a History List in Isolated Storage</h3><div class="subsection"><p>The <span class="label">HistoryList</span> contains the previously translated phrases.  It consists of a collection of phrases, with each phrase containing a list of translations for that phrase into various languages.  An initial set of phrases for the <span class="label">HistoryList</span> is provided by the application.</p><p>The <span class="label">Load</span> method in <span class="label">HistoryList.cs</span> loads the <span class="label">HistoryList</span> from isolated storage.  If the <span class="label">HistoryList</span> file does not exist in isolated storage, then the application provided list of phrases is loaded.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// Loads the HistoryList from Isolated Storage. If there is no file in isolated storage,
+        /// then the list if prepopulated with canned phrases.
+        /// &lt;/summary&gt;
+        /// &lt;returns&gt;A HistoryList that's ready to use&lt;/returns&gt;
+        public static HistoryList Load()
+        {
+            HistoryList returnValue = null;
+
+            using (var store = IsolatedStorageFile.GetUserStoreForApplication())
+            {
+                if (store.FileExists(Filename))
+                {
+                    IsolatedStorageFileStream stream = store.OpenFile(Filename, System.IO.FileMode.Open);
+                    XmlSerializer serializer = new XmlSerializer(typeof(HistoryList));
+                    try
+                    {
+                        returnValue = (HistoryList)serializer.Deserialize(stream);
+                        stream.Close();
+                    }
+                    catch (SerializationException se)
+                    {
+#if DEBUG
+                        Debug.WriteLine(se.ToString());
+#endif
+                    }
+                }
+            }
+
+            if (returnValue == null)
+            {
+                returnValue = GetDefaultHistoryList();
+            }
+
+            return returnValue;
+        }
+</pre></td></tr></table></span></div><p>Saving the <span class="label">HistoryList</span> to isolated storage is just a matter of serializing the <span class="label">HistoryList</span> object.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// Saves the HistoryList to isolated storage.
+        /// &lt;/summary&gt;
+        public void Save()
+        {
+            using (var store = IsolatedStorageFile.GetUserStoreForApplication())
+            {
+                if (store.FileExists(Filename))
+                {
+                    store.DeleteFile(Filename);
+                }
+
+                IsolatedStorageFileStream stream = store.CreateFile(Filename);
+                XmlSerializer serializer = new XmlSerializer(typeof(HistoryList));
+                serializer.Serialize(stream, this);
+                stream.Close();
+            }
+        }
+</pre></td></tr></table></span></div><p><span sdata="link"><a href="#Top">Top</a></span></p></div><a name="Speech_Button" /><h3 class="subHeading">Animating the Text To Speech Button</h3><div class="subsection"><p>After a phrase has been translated and a wave file of the translation has been successfully retrieved, the Speech button is enabled.  If the user presses this button, the wave file will play and the button will show an animated speaker for as long as the wave file is playing</p><p>The Speech <span class="label">ToggleButton</span> and its storyboarded animation are defined in <span class="label">MainPage.xaml</span>.  A <span class="label">DependancyProperty</span> <span class="label">IsSpeaking</span> is defined in <span class="label">MainPage.xaml.cs</span> to maintain the state information.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        // Using a DependencyProperty as the backing store for IsSpeaking.  This enables animation, styling, binding, etc...
+        public static readonly DependencyProperty IsSpeakingProperty =
+            DependencyProperty.Register(
+                "IsSpeaking", // Name of the property in this class
+                typeof(bool),   // Property type
+                typeof(MainPage), // Owner of the property (i.e. MainPage.IsSpeaking)
+                new PropertyMetadata(false, IsSpeaking_PropertyChangedCallback)  // Defaults to false, and the IsSpeaking_PropertyChangedCallback is called when the prop changes
+                );
+
+</pre></td></tr></table></span></div><p>The value of <span class="label">IsSpeaking</span> is set to true in the <span class="label">SpeakResult</span> method in <span class="label">Speech.cs</span> when a wave file starts playing.  <span class="label">IsSpeaking</span> is set to false when the wave file has finished playing in <span class="label">OnPlayerBufferNeeded</span> or when the Speech object is disposed of in <span class="label">Dispose</span>.</p><p>When the value of <span class="label">IsSpeaking</span> changes, the state of the button and its animation is updated.</p><div class="code"><span codeLanguage="other"><table width="100%" cellspacing="0" cellpadding="0"><tr><th> </th><th /></tr><tr><td colspan="2"><pre>        /// &lt;summary&gt;
+        /// When the speaking changes, update the visuals
+        /// &lt;/summary&gt;
+        /// &lt;param name="dependancyObject"&gt;&lt;/param&gt;
+        /// &lt;param name="e"&gt;&lt;/param&gt;
+        static void IsSpeaking_PropertyChangedCallback(DependencyObject dependancyObject, DependencyPropertyChangedEventArgs e)
+        {
+            MainPage mainPage = dependancyObject as MainPage;
+            mainPage._btnToSpeech.IsChecked = (bool)e.NewValue;
+            mainPage._btnToSpeech.IsEnabled = !(bool)e.NewValue;
+        }
+</pre></td></tr></table></span></div><p><span sdata="link"><a href="#Top">Top</a></span></p></div><a name="Extending_App" /><h3 class="subHeading">Extending the Translator Application</h3><div class="subsection"><p>Here are some suggested ideas to extend the functionality of the Translator application.</p><ul><li><p>Add support for landscape mode.</p></li><li><p>Add support for additional languages.</p></li></ul><p><span sdata="link"><a href="#Top">Top</a></span></p></div></div><h1 class="heading"><span><a name="seeAlsoToggle" />See Also</span></h1><div id="seeAlsoSection" class="section" name="collapseableSection" style=""><h4 class="subHeading">Other Resources</h4><div class="seeAlsoStyle" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp"><a href="http://go.microsoft.com/fwlink/?LinkID=185196">Windows Phone Development</a></div><div class="seeAlsoStyle" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:mshelp="http://msdn.microsoft.com/mshelp"><a href="http://go.microsoft.com/fwlink/?LinkId=203433">The Windows Phone Developer Blog</a></div></div></div>
+      <div id="footer">
+        <div class="footerLine" />
+      </div>
+      <p />
+    </div>
+  </body>
+</html>

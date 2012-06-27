@@ -1,0 +1,79 @@
+
+[4568] 05-09 17:41:39:436: RasEnumConnectionsW
+[4568] 05-09 17:41:39:437: IsRasmanServiceRunning=0
+[4568] 05-09 17:41:39:897: RasEnumEntriesW
+[4568] 05-09 17:41:39:897: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[4568] 05-09 17:41:39:897: IsPublicPhonebook=1
+[4568] 05-09 17:41:39:897: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4568] 05-09 17:41:39:897: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4568] 05-09 17:41:39:897:  IsVirtualizationNeeded: return value = 0
+
+[4568] 05-09 17:41:39:898: ENTRY: Reading "Nokia VPN"
+[4568] 05-09 17:41:39:898: Reading media group "rastapi"
+[4568] 05-09 17:41:39:898: New link format
+[4568] 05-09 17:41:39:898: 
+DUPTEST:Port in this media
+[4568] 05-09 17:41:39:898: Port=VPN1-0
+[4568] 05-09 17:41:39:898: TESTDU:port is still not configured by matching in the system ports
+[4568] 05-09 17:41:39:898: 	TESTDU: port Not configured from NT4 conversion
+
+[4568] 05-09 17:41:39:898: TESTDU:port is still not configured, set the default in ppblink
+[4568] 05-09 17:41:39:898: SetDefaultModemSettings(bps=0)=1
+[4568] 05-09 17:41:39:898: TESTDU:port is still not configured
+[4568] 05-09 17:41:39:898: Reading device group "vpn"
+[4568] 05-09 17:41:39:899: Device List after deleting dupe
+[4568] 05-09 17:41:39:899: Device List after deleting dupe
+[4568] 05-09 17:41:39:899: ReadRasFile: ReadEntryList returned 0
+[4568] 05-09 17:41:39:899: RASSQM: In ReadPhonebookFile Number of alluser profiles set 1
+[4568] 05-09 17:41:39:899: ReadPhonebookFile returns 0
+[4568] 05-09 17:41:39:899: ReadPhonebookFileEx: called for pbk C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[4568] 05-09 17:41:39:899: IsPublicPhonebook=0
+[4568] 05-09 17:41:39:899: path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4568] 05-09 17:41:39:899: full path=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4568] 05-09 17:41:39:899:  IsVirtualizationNeeded: return value = 0
+
+[4568] 05-09 17:41:39:900: FindFirstFile failed with 0x2
+[4568] 05-09 17:41:39:900: ReadRasFile: File C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[4568] 05-09 17:41:39:900: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[4568] 05-09 17:41:39:900: ReadPhonebookFile returns 0
+[4568] 05-09 17:41:39:900: RasEnumConnectionsW
+[4568] 05-09 17:41:39:900: IsRasmanServiceRunning=0
+[4196] 05-09 21:41:33:568: RasEnumConnectionsW
+[4196] 05-09 21:41:33:604: IsRasmanServiceRunning=0
+[4196] 05-09 21:41:33:870: RasEnumEntriesW
+[4196] 05-09 21:41:33:870: ReadPhonebookFileEx: called for pbk C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[4196] 05-09 21:41:33:870: IsPublicPhonebook=1
+[4196] 05-09 21:41:33:870: path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4196] 05-09 21:41:33:870: full path=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4196] 05-09 21:41:33:870:  IsVirtualizationNeeded: return value = 0
+
+[4196] 05-09 21:41:33:871: ENTRY: Reading "Nokia VPN"
+[4196] 05-09 21:41:33:871: Reading media group "rastapi"
+[4196] 05-09 21:41:33:871: New link format
+[4196] 05-09 21:41:33:871: 
+DUPTEST:Port in this media
+[4196] 05-09 21:41:33:871: Port=VPN1-0
+[4196] 05-09 21:41:33:871: TESTDU:port is still not configured by matching in the system ports
+[4196] 05-09 21:41:33:871: 	TESTDU: port Not configured from NT4 conversion
+
+[4196] 05-09 21:41:33:871: TESTDU:port is still not configured, set the default in ppblink
+[4196] 05-09 21:41:33:871: SetDefaultModemSettings(bps=0)=1
+[4196] 05-09 21:41:33:871: TESTDU:port is still not configured
+[4196] 05-09 21:41:33:871: Reading device group "vpn"
+[4196] 05-09 21:41:33:871: Device List after deleting dupe
+[4196] 05-09 21:41:33:871: Device List after deleting dupe
+[4196] 05-09 21:41:33:871: ReadRasFile: ReadEntryList returned 0
+[4196] 05-09 21:41:33:871: RASSQM: In ReadPhonebookFile Number of alluser profiles set 1
+[4196] 05-09 21:41:33:871: ReadPhonebookFile returns 0
+[4196] 05-09 21:41:33:872: ReadPhonebookFileEx: called for pbk C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk, flags 1032
+[4196] 05-09 21:41:33:872: IsPublicPhonebook=0
+[4196] 05-09 21:41:33:872: path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4196] 05-09 21:41:33:872: full path=C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4196] 05-09 21:41:33:872:  IsVirtualizationNeeded: return value = 0
+
+[4196] 05-09 21:41:33:872: FindFirstFile failed with 0x3
+[4196] 05-09 21:41:33:872: ReadRasFile: File C:\Users\Administrator\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk does not exist
+[4196] 05-09 21:41:33:872: RASSQM: In ReadPhonebookFile Number of myuse profiles set 0
+[4196] 05-09 21:41:33:872: ReadPhonebookFile returns 0
+[4196] 05-09 21:41:33:872: RasEnumConnectionsW
+[4196] 05-09 21:41:33:873: IsRasmanServiceRunning=0

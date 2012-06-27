@@ -1,0 +1,339 @@
+[03/11/2012 23:11:12] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:12] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/applicationPools
+[03/11/2012 23:11:12] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/applicationPools
+[03/11/2012 23:11:13] LaunchCommand Succeeded
+[03/11/2012 23:11:13] Success!
+[03/11/2012 23:11:13] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:13] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:13] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/listenerAdapters
+[03/11/2012 23:11:13] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/listenerAdapters
+[03/11/2012 23:11:13] LaunchCommand Succeeded
+[03/11/2012 23:11:13] Success!
+[03/11/2012 23:11:13] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:14] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:14] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/log
+[03/11/2012 23:11:14] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/log
+[03/11/2012 23:11:14] LaunchCommand Succeeded
+[03/11/2012 23:11:14] Success!
+[03/11/2012 23:11:14] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:14] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:14] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/sites
+[03/11/2012 23:11:14] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/sites
+[03/11/2012 23:11:14] LaunchCommand Succeeded
+[03/11/2012 23:11:14] Success!
+[03/11/2012 23:11:14] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:14] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:14] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/webLimits
+[03/11/2012 23:11:14] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/webLimits
+[03/11/2012 23:11:15] LaunchCommand Succeeded
+[03/11/2012 23:11:15] Success!
+[03/11/2012 23:11:15] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:15] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:15] "C:\Windows\System32\inetsrv\iissetup.exe" /install SharedLibraries
+[03/11/2012 23:11:15] Successfully added IIS_IUSRS ACE to DACL at %ProgramData%\Microsoft\Windows\WER\ReportQueue.
+[03/11/2012 23:11:16] Created NetFrameworkConfigurationKey key containter
+[03/11/2012 23:11:16] Created NetFrameworkConfigurationKey user key
+[03/11/2012 23:11:16] Set ACLs on NetFrameworkConfigurationKey
+[03/11/2012 23:11:16] Created iisWasKey key container
+[03/11/2012 23:11:16] Created iisWasKey user key
+[03/11/2012 23:11:16] Created iisConfigurationKey key container
+[03/11/2012 23:11:16] Created iisConfigurationKey user key
+[03/11/2012 23:11:16] Set ACLs on iisConfigurationKey
+[03/11/2012 23:11:16] iisConfigurationKey already exists
+[03/11/2012 23:11:16] Created AesProvider
+[03/11/2012 23:11:16] Created IISWASOnlyAesProvider
+[03/11/2012 23:11:16] Install of component SharedLibraries succeeded!
+[03/11/2012 23:11:16] Success!
+[03/11/2012 23:11:16] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:20] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:20] "C:\Windows\System32\inetsrv\iissetup.exe" /install ProcessModelLibraries
+[03/11/2012 23:11:21] Successfully updated IIS_IUSRS rights.
+[03/11/2012 23:11:21] Successfully created and populated IIS_IUSRS.
+[03/11/2012 23:11:21] Install of component ProcessModelLibraries succeeded!
+[03/11/2012 23:11:21] Success!
+[03/11/2012 23:11:21] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:21] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:21] "C:\Windows\System32\inetsrv\iissetup.exe" /install ProcessModel
+[03/11/2012 23:11:21] Successfully started APPHOSTSVC.
+[03/11/2012 23:11:21] Install of component ProcessModel succeeded!
+[03/11/2012 23:11:21] Success!
+[03/11/2012 23:11:21] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:21] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:21] "C:\Windows\System32\inetsrv\iissetup.exe" /install CoreWebEngine
+[03/11/2012 23:11:21] Install of component CoreWebEngine succeeded!
+[03/11/2012 23:11:21] Success!
+[03/11/2012 23:11:21] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:21] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:21] "C:\Windows\System32\inetsrv\iissetup.exe" /install W3SVC
+[03/11/2012 23:11:21] Successfully started W3SVC.
+[03/11/2012 23:11:21] Install of component W3SVC succeeded!
+[03/11/2012 23:11:21] Success!
+[03/11/2012 23:11:21] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:21] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:21] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/security/access
+[03/11/2012 23:11:21] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/security/access
+[03/11/2012 23:11:21] LaunchCommand Succeeded
+[03/11/2012 23:11:21] Success!
+[03/11/2012 23:11:21] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:21] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:21] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/handlers
+[03/11/2012 23:11:21] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/handlers
+[03/11/2012 23:11:22] LaunchCommand Succeeded
+[03/11/2012 23:11:22] Success!
+[03/11/2012 23:11:22] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:22] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:22] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/httpCompression
+[03/11/2012 23:11:22] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/httpCompression
+[03/11/2012 23:11:22] LaunchCommand Succeeded
+[03/11/2012 23:11:22] Success!
+[03/11/2012 23:11:22] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:22] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:22] "C:\Windows\System32\inetsrv\iissetup.exe" /install CachingBaseBinaries
+[03/11/2012 23:11:22] Install of component CachingBaseBinaries succeeded!
+[03/11/2012 23:11:22] Success!
+[03/11/2012 23:11:22] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:22] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:22] "C:\Windows\System32\inetsrv\iissetup.exe" /install CachingBase
+[03/11/2012 23:11:22] Install of component CachingBase succeeded!
+[03/11/2012 23:11:22] Success!
+[03/11/2012 23:11:22] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:22] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:22] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:UriCacheModule -image:C:\Windows\System32\inetsrv\cachuri.dll -add:false -lock:true
+[03/11/2012 23:11:22] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:UriCacheModule -image:%windir%\System32\inetsrv\cachuri.dll -add:false -lock:true
+[03/11/2012 23:11:22] LaunchCommand Succeeded
+[03/11/2012 23:11:22] Success!
+[03/11/2012 23:11:22] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:22] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:22] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:FileCacheModule -image:C:\Windows\System32\inetsrv\cachfile.dll -add:false -lock:true
+[03/11/2012 23:11:22] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:FileCacheModule -image:%windir%\System32\inetsrv\cachfile.dll -add:false -lock:true
+[03/11/2012 23:11:23] LaunchCommand Succeeded
+[03/11/2012 23:11:23] Success!
+[03/11/2012 23:11:23] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:23] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:23] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:TokenCacheModule -image:C:\Windows\System32\inetsrv\cachtokn.dll -add:false -lock:true
+[03/11/2012 23:11:23] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:TokenCacheModule -image:%windir%\System32\inetsrv\cachtokn.dll -add:false -lock:true
+[03/11/2012 23:11:23] LaunchCommand Succeeded
+[03/11/2012 23:11:23] Success!
+[03/11/2012 23:11:23] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:23] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:23] "C:\Windows\System32\inetsrv\iissetup.exe" /install Caching
+[03/11/2012 23:11:23] Install of component Caching succeeded!
+[03/11/2012 23:11:23] Success!
+[03/11/2012 23:11:23] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:23] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:23] "C:\Windows\System32\inetsrv\iissetup.exe" /install HttpCacheBinaries
+[03/11/2012 23:11:23] Install of component HttpCacheBinaries succeeded!
+[03/11/2012 23:11:23] Success!
+[03/11/2012 23:11:23] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:23] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:23] "C:\Windows\System32\inetsrv\iissetup.exe" /install HttpCache
+[03/11/2012 23:11:23] Install of component HttpCache succeeded!
+[03/11/2012 23:11:23] Success!
+[03/11/2012 23:11:23] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:23] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:23] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/caching
+[03/11/2012 23:11:23] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/caching
+[03/11/2012 23:11:24] LaunchCommand Succeeded
+[03/11/2012 23:11:24] Success!
+[03/11/2012 23:11:24] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:24] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:24] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:HttpCacheModule -image:C:\Windows\System32\inetsrv\cachhttp.dll -lock:true
+[03/11/2012 23:11:24] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:HttpCacheModule -image:%windir%\System32\inetsrv\cachhttp.dll -lock:true
+[03/11/2012 23:11:24] LaunchCommand Succeeded
+[03/11/2012 23:11:24] Success!
+[03/11/2012 23:11:24] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:24] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:24] "C:\Windows\System32\inetsrv\iissetup.exe" /install HttpProtocolBinaries
+[03/11/2012 23:11:24] Install of component HttpProtocolBinaries succeeded!
+[03/11/2012 23:11:24] Success!
+[03/11/2012 23:11:24] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:24] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:24] "C:\Windows\System32\inetsrv\iissetup.exe" /install HttpProtocol
+[03/11/2012 23:11:24] Install of component HttpProtocol succeeded!
+[03/11/2012 23:11:24] Success!
+[03/11/2012 23:11:24] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:24] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:24] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/httpProtocol
+[03/11/2012 23:11:24] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/httpProtocol
+[03/11/2012 23:11:24] LaunchCommand Succeeded
+[03/11/2012 23:11:24] Success!
+[03/11/2012 23:11:24] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:24] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:24] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:ProtocolSupportModule -image:C:\Windows\System32\inetsrv\protsup.dll -lock:true
+[03/11/2012 23:11:25] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:ProtocolSupportModule -image:%windir%\System32\inetsrv\protsup.dll -lock:true
+[03/11/2012 23:11:25] LaunchCommand Succeeded
+[03/11/2012 23:11:25] Success!
+[03/11/2012 23:11:25] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:25] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:25] "C:\Windows\System32\inetsrv\iissetup.exe" /install AnonymousAuthenticationBinaries
+[03/11/2012 23:11:25] Install of component AnonymousAuthenticationBinaries succeeded!
+[03/11/2012 23:11:25] Success!
+[03/11/2012 23:11:25] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:25] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:25] "C:\Windows\System32\inetsrv\iissetup.exe" /install AnonymousAuthentication
+[03/11/2012 23:11:25] Install of component AnonymousAuthentication succeeded!
+[03/11/2012 23:11:25] Success!
+[03/11/2012 23:11:25] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:25] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:25] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/security/authentication/anonymousAuthentication
+[03/11/2012 23:11:25] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/security/authentication/anonymousAuthentication
+[03/11/2012 23:11:25] LaunchCommand Succeeded
+[03/11/2012 23:11:25] Success!
+[03/11/2012 23:11:25] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:25] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:25] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:AnonymousAuthenticationModule -image:C:\Windows\System32\inetsrv\authanon.dll -lock:true
+[03/11/2012 23:11:25] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:AnonymousAuthenticationModule -image:%windir%\System32\inetsrv\authanon.dll -lock:true
+[03/11/2012 23:11:25] LaunchCommand Succeeded
+[03/11/2012 23:11:25] Success!
+[03/11/2012 23:11:25] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:25] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:25] "C:\Windows\System32\inetsrv\iissetup.exe" /install RequestFilteringBinaries
+[03/11/2012 23:11:25] Install of component RequestFilteringBinaries succeeded!
+[03/11/2012 23:11:25] Success!
+[03/11/2012 23:11:25] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:26] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:26] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:RequestFilteringModule -image:C:\Windows\System32\inetsrv\modrqflt.dll -lock:true
+[03/11/2012 23:11:26] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:RequestFilteringModule -image:%windir%\System32\inetsrv\modrqflt.dll -lock:true
+[03/11/2012 23:11:26] LaunchCommand Succeeded
+[03/11/2012 23:11:26] Success!
+[03/11/2012 23:11:26] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:26] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:26] "C:\Windows\System32\inetsrv\iissetup.exe" /install RequestFiltering
+[03/11/2012 23:11:26] Install of component RequestFiltering succeeded!
+[03/11/2012 23:11:26] Success!
+[03/11/2012 23:11:26] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:26] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:26] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/security/requestFiltering
+[03/11/2012 23:11:26] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.webServer/security/requestFiltering
+[03/11/2012 23:11:26] LaunchCommand Succeeded
+[03/11/2012 23:11:26] Success!
+[03/11/2012 23:11:26] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:26] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:26] "C:\Windows\System32\inetsrv\aspnetca.exe" /install /basic 2.0.50727.0
+[03/11/2012 23:11:27] Installation success
+[03/11/2012 23:11:27] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:37] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:37] "C:\Windows\System32\inetsrv\iissetup.exe" /install NetFxEnvironment
+[03/11/2012 23:11:37] Install of component NetFxEnvironment succeeded!
+[03/11/2012 23:11:37] Success!
+[03/11/2012 23:11:37] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:37] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:37] "C:\Windows\System32\inetsrv\aspnetca.exe" /install /basic 2.0.50727.0
+[03/11/2012 23:11:38] Installation success
+[03/11/2012 23:11:38] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:38] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:38] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe install module -name:ConfigurationValidationModule -image:C:\Windows\System32\inetsrv\validcfg.dll -lock:true
+[03/11/2012 23:11:38] Launching command C:\Windows\System32\inetsrv\appcmd.exe, with params C:\Windows\System32\inetsrv\appcmd.exe install module -name:ConfigurationValidationModule -image:%windir%\System32\inetsrv\validcfg.dll -lock:true
+[03/11/2012 23:11:38] LaunchCommand Succeeded
+[03/11/2012 23:11:38] Success!
+[03/11/2012 23:11:38] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:38] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:38] "C:\Windows\System32\inetsrv\aspnetca.exe" /install /managedextensibility 2.0.50727.0
+[03/11/2012 23:11:38] Installation success
+[03/11/2012 23:11:38] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:38] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:38] "C:\Windows\System32\inetsrv\iissetup.exe" /install NetFxExtensibility
+[03/11/2012 23:11:38] Install of component NetFxExtensibility succeeded!
+[03/11/2012 23:11:38] Success!
+[03/11/2012 23:11:38] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:38] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:38] "C:\Windows\System32\inetsrv\aspnetca.exe" /install /managedextensibility 2.0.50727.0
+[03/11/2012 23:11:38] Installation success
+[03/11/2012 23:11:38] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:48] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:48] "C:\Windows\System32\inetsrv\iissetup.exe" /install WASConfigurationAPI
+[03/11/2012 23:11:48] Install of component WASConfigurationAPI succeeded!
+[03/11/2012 23:11:48] Success!
+[03/11/2012 23:11:48] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:49] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:49] "C:\Windows\System32\inetsrv\iissetup.exe" /install PowerShellProvider
+[03/11/2012 23:11:49] Install of component PowerShellProvider succeeded!
+[03/11/2012 23:11:49] Success!
+[03/11/2012 23:11:49] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:11:49] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:11:49] "C:\Windows\System32\inetsrv\iissetup.exe" /firewall W3SVC
+[03/11/2012 23:11:49] Install firewall rules of component W3SVC succeeded!
+[03/11/2012 23:11:49] Success!
+[03/11/2012 23:11:49] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:25:17] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:25:17] "C:\Windows\WinSxS\x86_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.1.7601.17514_none_12f0dcb013147057\iissetup.exe" /uninstall AnonymousAuthenticationBinaries
+[03/11/2012 23:25:17] Servicing Uninstall of component AnonymousAuthenticationBinaries succeeded!
+[03/11/2012 23:25:17] Success!
+[03/11/2012 23:25:17] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:25:17] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:25:17] "C:\Windows\WinSxS\x86_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.1.7601.17514_none_12f0dcb013147057\iissetup.exe" /uninstall CoreWebEngine
+[03/11/2012 23:25:17] Servicing Uninstall of component CoreWebEngine succeeded!
+[03/11/2012 23:25:17] Success!
+[03/11/2012 23:25:17] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:25:17] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:25:17] "C:\Windows\WinSxS\x86_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.1.7601.17514_none_12f0dcb013147057\iissetup.exe" /uninstall ProcessModel
+[03/11/2012 23:25:18] Servicing Uninstall of component ProcessModel succeeded!
+[03/11/2012 23:25:18] Success!
+[03/11/2012 23:25:18] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:25:18] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:25:18] "C:\Windows\WinSxS\x86_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.1.7601.17514_none_12f0dcb013147057\iissetup.exe" /uninstall ProcessModelLibraries
+[03/11/2012 23:25:18] Servicing Uninstall of component ProcessModelLibraries succeeded!
+[03/11/2012 23:25:18] Success!
+[03/11/2012 23:25:18] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:25:18] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:25:18] "C:\Windows\WinSxS\x86_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.1.7601.17514_none_12f0dcb013147057\iissetup.exe" /uninstall SharedLibraries
+[03/11/2012 23:25:18] Servicing Uninstall of component SharedLibraries succeeded!
+[03/11/2012 23:25:18] Success!
+[03/11/2012 23:25:18] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:55] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:55] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/applicationPools
+[03/11/2012 23:26:55] Launch command does not execute during servicing path
+[03/11/2012 23:26:55] Success!
+[03/11/2012 23:26:55] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:55] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:55] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/listenerAdapters
+[03/11/2012 23:26:55] Launch command does not execute during servicing path
+[03/11/2012 23:26:55] Success!
+[03/11/2012 23:26:55] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:55] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:55] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/log
+[03/11/2012 23:26:55] Launch command does not execute during servicing path
+[03/11/2012 23:26:55] Success!
+[03/11/2012 23:26:55] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:55] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:55] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/sites
+[03/11/2012 23:26:55] Launch command does not execute during servicing path
+[03/11/2012 23:26:55] Success!
+[03/11/2012 23:26:55] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:55] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:55] "C:\Windows\System32\inetsrv\iissetup.exe" /launch C:\Windows\System32\inetsrv\appcmd.exe reset config -section:system.applicationHost/webLimits
+[03/11/2012 23:26:55] Launch command does not execute during servicing path
+[03/11/2012 23:26:55] Success!
+[03/11/2012 23:26:55] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:55] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:55] "C:\Windows\System32\inetsrv\iissetup.exe" /install SharedLibraries
+[03/11/2012 23:26:56] NetFrameworkConfigurationKey key container already exists
+[03/11/2012 23:26:56] Set ACLs on NetFrameworkConfigurationKey
+[03/11/2012 23:26:56] iisWasKey key container already exists
+[03/11/2012 23:26:56] iisWasKey user key already exists
+[03/11/2012 23:26:56] iisConfigurationKey already exists
+[03/11/2012 23:26:56] Found AesProvider and skipping creation
+[03/11/2012 23:26:56] Found IISWASOnlyAesProvider and skipping creation
+[03/11/2012 23:26:56] Servicing Install of component SharedLibraries succeeded!
+[03/11/2012 23:26:56] Success!
+[03/11/2012 23:26:56] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:56] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:56] "C:\Windows\System32\inetsrv\iissetup.exe" /install ProcessModelLibraries
+[03/11/2012 23:26:56] Servicing Install of component ProcessModelLibraries succeeded!
+[03/11/2012 23:26:56] Success!
+[03/11/2012 23:26:56] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:56] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:56] "C:\Windows\System32\inetsrv\iissetup.exe" /install ProcessModel
+[03/11/2012 23:26:56] Servicing Install of component ProcessModel succeeded!
+[03/11/2012 23:26:56] Success!
+[03/11/2012 23:26:56] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:56] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:56] "C:\Windows\System32\inetsrv\iissetup.exe" /install CoreWebEngine
+[03/11/2012 23:26:56] Servicing Install of component CoreWebEngine succeeded!
+[03/11/2012 23:26:56] Success!
+[03/11/2012 23:26:56] [ End of IIS 7.0 Component Based Setup ]
+[03/11/2012 23:26:56] [ ***** IIS 7.0 Component Based Setup ***** ]
+[03/11/2012 23:26:56] "C:\Windows\System32\inetsrv\iissetup.exe" /install AnonymousAuthenticationBinaries
+[03/11/2012 23:26:56] Servicing Install of component AnonymousAuthenticationBinaries succeeded!
+[03/11/2012 23:26:56] Success!
+[03/11/2012 23:26:56] [ End of IIS 7.0 Component Based Setup ]

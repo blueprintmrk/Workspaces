@@ -1,0 +1,229 @@
+
+[5720] 03-15 07:59:20:957: RasCpEnumProtocolIds
+[5720] 03-15 07:59:20:958: Protocol 8021
+[5720] 03-15 07:59:20:958: Protocol c029
+[5720] 03-15 07:59:20:958: Protocol 80fd
+[5720] 03-15 07:59:20:958: Protocol c227
+[5720] 03-15 07:59:20:958: Protocol c023
+[5720] 03-15 07:59:20:958: Protocol 8057
+[5720] 03-15 07:59:20:987: RasCpEnumProtocolIds
+[5720] 03-15 07:59:20:987: Protocol 8021
+[5720] 03-15 07:59:20:987: Protocol c029
+[5720] 03-15 07:59:20:987: Protocol 80fd
+[5720] 03-15 07:59:20:987: Protocol c227
+[5720] 03-15 07:59:20:987: Protocol c023
+[5720] 03-15 07:59:20:987: Protocol 8057
+[5720] 03-15 07:59:20:987: RasCpGetInfo 8057
+[5720] 03-15 07:59:20:988: RasCpGetInfo c023
+[5720] 03-15 07:59:20:988: RasCpInit(c023, TRUE)
+[5720] 03-15 07:59:20:989: RasCpGetInfo c227
+[5720] 03-15 07:59:20:989: RasCpInit(c227, TRUE)
+[5720] 03-15 07:59:20:989: RasCpGetInfo 80fd
+[5720] 03-15 07:59:20:989: RasCpInit(80fd, TRUE)
+[5720] 03-15 07:59:20:990: RasCpGetInfo c029
+[5720] 03-15 07:59:20:990: RasCpGetInfo 8021
+[5720] 03-15 07:59:20:990: RasCpInit(c223, TRUE)
+[5720] 03-15 07:59:20:993: PPP Initialized successfully.
+[1016] 03-15 07:59:20:998: Processing protocol event
+[1016] 03-15 07:59:20:998: Processing protocol event
+[1016] 03-15 07:59:20:998: Adding IP
+[1016] 03-15 07:59:20:999: RasCpInit(8021, TRUE)
+[1016] 03-15 07:59:21:000: Processing protocol event
+[1016] 03-15 07:59:21:000: Adding IPv6
+[1016] 03-15 07:59:21:000: RasCpInit(8057, TRUE)
+[5720] 03-15 09:46:57:239: UninitializeProtocolEngine called
+[5720] 03-15 09:46:57:239: UninitializeProtocolEngine: Waiting For Worker Thread to exit.
+[1016] 03-15 09:46:57:239: All clients disconnected PPP-Stopped
+[1016] 03-15 09:46:57:239: RasCpInit(8057, FALSE)
+[1016] 03-15 09:46:57:239: RasCpInit(80fd, FALSE)
+[1016] 03-15 09:46:57:239: RasCpInit(8021, FALSE)
+[1016] 03-15 09:46:57:239: RasCpInit(c223, FALSE)
+[1016] 03-15 09:46:57:239: RasCpInit(c227, FALSE)
+[1016] 03-15 09:46:57:239: RasCpInit(c023, FALSE)
+[4912] 04-08 19:47:53:883: RasCpEnumProtocolIds
+[4912] 04-08 19:47:53:931: Protocol 8021
+[4912] 04-08 19:47:53:931: Protocol c029
+[4912] 04-08 19:47:53:931: Protocol 80fd
+[4912] 04-08 19:47:53:931: Protocol c227
+[4912] 04-08 19:47:53:931: Protocol c023
+[4912] 04-08 19:47:53:931: Protocol 8057
+[4912] 04-08 19:47:54:208: RasCpEnumProtocolIds
+[4912] 04-08 19:47:54:208: Protocol 8021
+[4912] 04-08 19:47:54:208: Protocol c029
+[4912] 04-08 19:47:54:208: Protocol 80fd
+[4912] 04-08 19:47:54:209: Protocol c227
+[4912] 04-08 19:47:54:209: Protocol c023
+[4912] 04-08 19:47:54:209: Protocol 8057
+[4912] 04-08 19:47:54:209: RasCpGetInfo 8057
+[4912] 04-08 19:47:54:249: RasCpGetInfo c023
+[4912] 04-08 19:47:54:249: RasCpInit(c023, TRUE)
+[4912] 04-08 19:47:54:249: RasCpGetInfo c227
+[4912] 04-08 19:47:54:249: RasCpInit(c227, TRUE)
+[4912] 04-08 19:47:54:295: RasCpGetInfo 80fd
+[4912] 04-08 19:47:54:295: RasCpInit(80fd, TRUE)
+[4912] 04-08 19:47:54:295: RasCpGetInfo c029
+[4912] 04-08 19:47:54:295: RasCpGetInfo 8021
+[4912] 04-08 19:47:54:296: RasCpInit(c223, TRUE)
+[4912] 04-08 19:47:54:297: PPP Initialized successfully.
+[2412] 04-08 19:47:54:382: Processing protocol event
+[2412] 04-08 19:47:54:382: Processing protocol event
+[2412] 04-08 19:47:54:382: Adding IP
+[2412] 04-08 19:47:54:382: RasCpInit(8021, TRUE)
+[2412] 04-08 19:47:54:382: Processing protocol event
+[2412] 04-08 19:47:54:382: Adding IPv6
+[2412] 04-08 19:47:54:382: RasCpInit(8057, TRUE)
+[4912] 04-08 19:58:05:583: UninitializeProtocolEngine called
+[4912] 04-08 19:58:05:583: UninitializeProtocolEngine: Waiting For Worker Thread to exit.
+[2412] 04-08 19:58:05:583: All clients disconnected PPP-Stopped
+[2412] 04-08 19:58:05:583: RasCpInit(8057, FALSE)
+[2412] 04-08 19:58:05:583: RasCpInit(80fd, FALSE)
+[2412] 04-08 19:58:05:583: RasCpInit(8021, FALSE)
+[2412] 04-08 19:58:05:583: RasCpInit(c223, FALSE)
+[2412] 04-08 19:58:05:583: RasCpInit(c227, FALSE)
+[2412] 04-08 19:58:05:583: RasCpInit(c023, FALSE)
+[6376] 04-22 14:49:10:935: RasCpEnumProtocolIds
+[6376] 04-22 14:49:10:945: Protocol 8021
+[6376] 04-22 14:49:10:945: Protocol c029
+[6376] 04-22 14:49:10:946: Protocol 80fd
+[6376] 04-22 14:49:10:946: Protocol c227
+[6376] 04-22 14:49:10:946: Protocol c023
+[6376] 04-22 14:49:10:946: Protocol 8057
+[6376] 04-22 14:49:11:021: RasCpEnumProtocolIds
+[6376] 04-22 14:49:11:021: Protocol 8021
+[6376] 04-22 14:49:11:021: Protocol c029
+[6376] 04-22 14:49:11:021: Protocol 80fd
+[6376] 04-22 14:49:11:021: Protocol c227
+[6376] 04-22 14:49:11:021: Protocol c023
+[6376] 04-22 14:49:11:022: Protocol 8057
+[6376] 04-22 14:49:11:022: RasCpGetInfo 8057
+[6376] 04-22 14:49:11:022: RasCpGetInfo c023
+[6376] 04-22 14:49:11:022: RasCpInit(c023, TRUE)
+[6376] 04-22 14:49:11:023: RasCpGetInfo c227
+[6376] 04-22 14:49:11:023: RasCpInit(c227, TRUE)
+[6376] 04-22 14:49:11:023: RasCpGetInfo 80fd
+[6376] 04-22 14:49:11:023: RasCpInit(80fd, TRUE)
+[6376] 04-22 14:49:11:024: RasCpGetInfo c029
+[6376] 04-22 14:49:11:024: RasCpGetInfo 8021
+[6376] 04-22 14:49:11:024: RasCpInit(c223, TRUE)
+[6376] 04-22 14:49:11:090: PPP Initialized successfully.
+[13052] 04-22 14:49:11:287: Processing protocol event
+[13052] 04-22 14:49:11:287: Processing protocol event
+[13052] 04-22 14:49:11:287: Adding IP
+[13052] 04-22 14:49:11:287: RasCpInit(8021, TRUE)
+[13052] 04-22 14:49:11:288: Processing protocol event
+[13052] 04-22 14:49:11:288: Adding IPv6
+[13052] 04-22 14:49:11:288: RasCpInit(8057, TRUE)
+[6376] 04-22 15:04:26:276: UninitializeProtocolEngine called
+[6376] 04-22 15:04:26:276: UninitializeProtocolEngine: Waiting For Worker Thread to exit.
+[13052] 04-22 15:04:26:276: All clients disconnected PPP-Stopped
+[13052] 04-22 15:04:26:276: RasCpInit(8057, FALSE)
+[13052] 04-22 15:04:26:276: RasCpInit(80fd, FALSE)
+[13052] 04-22 15:04:26:276: RasCpInit(8021, FALSE)
+[13052] 04-22 15:04:26:276: RasCpInit(c223, FALSE)
+[13052] 04-22 15:04:26:276: RasCpInit(c227, FALSE)
+[13052] 04-22 15:04:26:276: RasCpInit(c023, FALSE)
+[6588] 05-06 01:40:48:040: RasCpEnumProtocolIds
+[6588] 05-06 01:40:48:056: Protocol 8021
+[6588] 05-06 01:40:48:056: Protocol c029
+[6588] 05-06 01:40:48:056: Protocol 80fd
+[6588] 05-06 01:40:48:056: Protocol c227
+[6588] 05-06 01:40:48:056: Protocol c023
+[6588] 05-06 01:40:48:056: Protocol 8057
+[6588] 05-06 01:40:48:102: RasCpEnumProtocolIds
+[6588] 05-06 01:40:48:102: Protocol 8021
+[6588] 05-06 01:40:48:102: Protocol c029
+[6588] 05-06 01:40:48:102: Protocol 80fd
+[6588] 05-06 01:40:48:102: Protocol c227
+[6588] 05-06 01:40:48:102: Protocol c023
+[6588] 05-06 01:40:48:102: Protocol 8057
+[6588] 05-06 01:40:48:102: RasCpGetInfo 8057
+[6588] 05-06 01:40:48:118: RasCpGetInfo c023
+[6588] 05-06 01:40:48:118: RasCpInit(c023, TRUE)
+[6588] 05-06 01:40:48:118: RasCpGetInfo c227
+[6588] 05-06 01:40:48:118: RasCpInit(c227, TRUE)
+[6588] 05-06 01:40:48:134: RasCpGetInfo 80fd
+[6588] 05-06 01:40:48:134: RasCpInit(80fd, TRUE)
+[6588] 05-06 01:40:48:134: RasCpGetInfo c029
+[6588] 05-06 01:40:48:134: RasCpGetInfo 8021
+[6588] 05-06 01:40:48:134: RasCpInit(c223, TRUE)
+[6588] 05-06 01:40:48:227: PPP Initialized successfully.
+[9680] 05-06 01:40:48:477: Processing protocol event
+[9680] 05-06 01:40:48:477: Processing protocol event
+[9680] 05-06 01:40:48:477: Adding IP
+[9680] 05-06 01:40:48:477: RasCpInit(8021, TRUE)
+[9680] 05-06 01:40:48:477: Processing protocol event
+[9680] 05-06 01:40:48:477: Adding IPv6
+[9680] 05-06 01:40:48:477: RasCpInit(8057, TRUE)
+[6588] 05-06 02:37:12:527: UninitializeProtocolEngine called
+[6588] 05-06 02:37:12:527: UninitializeProtocolEngine: Waiting For Worker Thread to exit.
+[9680] 05-06 02:37:12:558: All clients disconnected PPP-Stopped
+[9680] 05-06 02:37:12:558: RasCpInit(8057, FALSE)
+[9680] 05-06 02:37:20:904: RasCpInit(80fd, FALSE)
+[9680] 05-06 02:37:20:904: RasCpInit(8021, FALSE)
+[9680] 05-06 02:37:21:076: RasCpInit(c223, FALSE)
+[9680] 05-06 02:37:21:076: RasCpInit(c227, FALSE)
+[9680] 05-06 02:37:21:076: RasCpInit(c023, FALSE)
+[4072] 05-11 10:41:47:974: RasCpEnumProtocolIds
+[4072] 05-11 10:41:47:989: Protocol 8021
+[4072] 05-11 10:41:47:989: Protocol c029
+[4072] 05-11 10:41:47:989: Protocol 80fd
+[4072] 05-11 10:41:47:989: Protocol c227
+[4072] 05-11 10:41:47:989: Protocol c023
+[4072] 05-11 10:41:47:989: Protocol 8057
+[4072] 05-11 10:41:48:005: RasCpEnumProtocolIds
+[4072] 05-11 10:41:48:005: Protocol 8021
+[4072] 05-11 10:41:48:005: Protocol c029
+[4072] 05-11 10:41:48:005: Protocol 80fd
+[4072] 05-11 10:41:48:005: Protocol c227
+[4072] 05-11 10:41:48:005: Protocol c023
+[4072] 05-11 10:41:48:005: Protocol 8057
+[4072] 05-11 10:41:48:005: RasCpGetInfo 8057
+[4072] 05-11 10:41:48:005: RasCpGetInfo c023
+[4072] 05-11 10:41:48:005: RasCpInit(c023, TRUE)
+[4072] 05-11 10:41:48:005: RasCpGetInfo c227
+[4072] 05-11 10:41:48:005: RasCpInit(c227, TRUE)
+[4072] 05-11 10:41:48:020: RasCpGetInfo 80fd
+[4072] 05-11 10:41:48:020: RasCpInit(80fd, TRUE)
+[4072] 05-11 10:41:48:020: RasCpGetInfo c029
+[4072] 05-11 10:41:48:020: RasCpGetInfo 8021
+[4072] 05-11 10:41:48:020: RasCpInit(c223, TRUE)
+[4072] 05-11 10:41:48:020: PPP Initialized successfully.
+[1440] 05-11 10:41:48:036: Processing protocol event
+[1440] 05-11 10:41:48:036: Processing protocol event
+[1440] 05-11 10:41:48:036: Adding IP
+[1440] 05-11 10:41:48:036: RasCpInit(8021, TRUE)
+[1440] 05-11 10:41:48:036: Processing protocol event
+[1440] 05-11 10:41:48:036: Adding IPv6
+[1440] 05-11 10:41:48:036: RasCpInit(8057, TRUE)
+[8076] 05-14 04:00:37:642: RasCpEnumProtocolIds
+[8076] 05-14 04:00:37:651: Protocol 8021
+[8076] 05-14 04:00:37:651: Protocol c029
+[8076] 05-14 04:00:37:651: Protocol 80fd
+[8076] 05-14 04:00:37:651: Protocol c227
+[8076] 05-14 04:00:37:651: Protocol c023
+[8076] 05-14 04:00:37:651: Protocol 8057
+[8076] 05-14 04:00:37:701: RasCpEnumProtocolIds
+[8076] 05-14 04:00:37:701: Protocol 8021
+[8076] 05-14 04:00:37:701: Protocol c029
+[8076] 05-14 04:00:37:701: Protocol 80fd
+[8076] 05-14 04:00:37:701: Protocol c227
+[8076] 05-14 04:00:37:701: Protocol c023
+[8076] 05-14 04:00:37:701: Protocol 8057
+[8076] 05-14 04:00:37:701: RasCpGetInfo 8057
+[8076] 05-14 04:00:37:702: RasCpGetInfo c023
+[8076] 05-14 04:00:37:702: RasCpInit(c023, TRUE)
+[8076] 05-14 04:00:37:702: RasCpGetInfo c227
+[8076] 05-14 04:00:37:702: RasCpInit(c227, TRUE)
+[8076] 05-14 04:00:37:702: RasCpGetInfo 80fd
+[8076] 05-14 04:00:37:702: RasCpInit(80fd, TRUE)
+[8076] 05-14 04:00:37:703: RasCpGetInfo c029
+[8076] 05-14 04:00:37:703: RasCpGetInfo 8021
+[8076] 05-14 04:00:37:703: RasCpInit(c223, TRUE)
+[8076] 05-14 04:00:37:771: PPP Initialized successfully.
+[2964] 05-14 04:00:37:873: Processing protocol event
+[2964] 05-14 04:00:37:873: Processing protocol event
+[2964] 05-14 04:00:37:873: Adding IP
+[2964] 05-14 04:00:37:873: RasCpInit(8021, TRUE)
+[2964] 05-14 04:00:37:874: Processing protocol event
+[2964] 05-14 04:00:37:874: Adding IPv6
+[2964] 05-14 04:00:37:874: RasCpInit(8057, TRUE)

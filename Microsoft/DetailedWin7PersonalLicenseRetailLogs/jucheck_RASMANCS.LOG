@@ -1,0 +1,15 @@
+
+[3472] 04-13 00:36:11:229: RasAddNotification called, hconn= -1, hevent= 0x1a8, dwfFlags= 0x3, ProcessId= 3884
+[3472] 04-13 00:36:11:229: InitializeRasmanMonitorThread Entered ...
+[3472] 04-13 00:36:11:229: InitializeRasmanMonitorThread exiting ... 0
+[4556] 04-13 00:36:11:229: RasmanServiceMonitor thread Entered ...
+[3472] 04-13 00:36:11:231: Rasman Service Status when ProcessAddNotification called for first time: 0
+[3472] 04-13 00:36:11:231: ProcessAddNotification exiting ... 0
+[3472] 04-13 00:36:11:231: RasAddNotification exiting ... 0
+[4852] 04-13 08:42:23:086: RasAddNotification called, hconn= -1, hevent= 0x208, dwfFlags= 0x3, ProcessId= 1428
+[4852] 04-13 08:42:23:086: InitializeRasmanMonitorThread Entered ...
+[4852] 04-13 08:42:23:087: InitializeRasmanMonitorThread exiting ... 0
+[5196] 04-13 08:42:23:087: RasmanServiceMonitor thread Entered ...
+[4852] 04-13 08:42:23:091: Rasman Service Status when ProcessAddNotification called for first time: 0
+[4852] 04-13 08:42:23:092: ProcessAddNotification exiting ... 0
+[4852] 04-13 08:42:23:092: RasAddNotification exiting ... 0

@@ -1,0 +1,124 @@
+
+[5952] 02:22:01:818:     providerShutdown: perfProvID(2)
+[5952] 02:22:01:818: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[4932] 02:22:01:818: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[5952] 02:22:01:818:     UninitAllocator: exited(0, 0, 0)
+[5952] 02:22:01:818:     UninitializeMapper: exited
+[5952] 02:22:01:818:     DLL_PROCESS_DETACH
+[1496] 07:59:20:782:     DLL_PROCESS_ATTACH
+[1496] 07:59:20:783:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[1496] 07:59:20:783:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[1496] 07:59:20:783: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[1496] 07:59:20:783:     providerEnumDevices: permProvID(2)
+[1496] 07:59:20:783:     providerInit: perfProvID(2), lineDevIDBase(2)
+[1496] 07:59:20:783:     InitializeMapper: entering...
+[1496] 07:59:20:783:     InitAllocator: entering...
+[1496] 07:59:20:783: !   providerInit: lRes(0)
+[1496] 09:46:58:175:     providerShutdown: perfProvID(2)
+[1496] 09:46:58:175: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[5272] 09:46:58:175: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[1496] 09:46:58:175:     UninitAllocator: exited(0, 0, 0)
+[1496] 09:46:58:191:     UninitializeMapper: exited
+[1496] 09:46:58:191:     DLL_PROCESS_DETACH
+[2076] 00:45:11:875:     DLL_PROCESS_ATTACH
+[2076] 00:45:11:880:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[2076] 00:45:11:880:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[2076] 00:45:11:880: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[2076] 00:45:11:880:     providerEnumDevices: permProvID(2)
+[2076] 00:45:11:880:     providerInit: perfProvID(2), lineDevIDBase(3)
+[2076] 00:45:11:881:     InitializeMapper: entering...
+[2076] 00:45:11:881:     InitAllocator: entering...
+[2076] 00:45:11:881: !   providerInit: lRes(0)
+[8184] 00:45:32:401:     providerShutdown: perfProvID(2)
+[8184] 00:45:32:401: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[5568] 00:45:32:401: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[8184] 00:45:32:401:     UninitAllocator: exited(0, 0, 0)
+[8184] 00:45:32:401:     UninitializeMapper: exited
+[8184] 00:45:32:401:     DLL_PROCESS_DETACH
+[4640] 19:47:53:202:     DLL_PROCESS_ATTACH
+[4640] 19:47:53:213:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[4640] 19:47:53:213:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[4640] 19:47:53:213: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[4640] 19:47:53:213:     providerEnumDevices: permProvID(2)
+[4640] 19:47:53:213:     providerInit: perfProvID(2), lineDevIDBase(1)
+[4640] 19:47:53:213:     InitializeMapper: entering...
+[4640] 19:47:53:213:     InitAllocator: entering...
+[4640] 19:47:53:213: !   providerInit: lRes(0)
+[3100] 19:58:05:926:     providerShutdown: perfProvID(2)
+[3100] 19:58:05:926: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[816] 19:58:05:926: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[3100] 19:58:05:926:     UninitAllocator: exited(0, 0, 0)
+[3100] 19:58:05:926:     UninitializeMapper: exited
+[3100] 19:58:05:926:     DLL_PROCESS_DETACH
+[7708] 23:52:44:456:     DLL_PROCESS_ATTACH
+[7708] 23:52:44:466:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[7708] 23:52:44:466:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[7708] 23:52:44:466: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[7708] 23:52:44:466:     providerEnumDevices: permProvID(2)
+[7708] 23:52:44:466:     providerInit: perfProvID(2), lineDevIDBase(1)
+[7708] 23:52:44:466:     InitializeMapper: entering...
+[7708] 23:52:44:466:     InitAllocator: entering...
+[7708] 23:52:44:466: !   providerInit: lRes(0)
+[7660] 23:56:09:971:     providerShutdown: perfProvID(2)
+[7660] 23:56:09:971: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[6788] 23:56:09:971: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[7660] 23:56:09:971:     UninitAllocator: exited(0, 0, 0)
+[7660] 23:56:09:971:     UninitializeMapper: exited
+[7660] 23:56:09:971:     DLL_PROCESS_DETACH
+[14100] 14:49:10:556:     DLL_PROCESS_ATTACH
+[14100] 14:49:10:557:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[14100] 14:49:10:557:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[14100] 14:49:10:557: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[14100] 14:49:10:557:     providerEnumDevices: permProvID(2)
+[14100] 14:49:10:557:     providerInit: perfProvID(2), lineDevIDBase(2)
+[14100] 14:49:10:557:     InitializeMapper: entering...
+[14100] 14:49:10:558:     InitAllocator: entering...
+[14100] 14:49:10:558: !   providerInit: lRes(0)
+[9040] 01:40:47:166:     DLL_PROCESS_ATTACH
+[9040] 01:40:47:198:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[9040] 01:40:47:198:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[9040] 01:40:47:198: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[9040] 01:40:47:198:     providerEnumDevices: permProvID(2)
+[9040] 01:40:47:198:     providerInit: perfProvID(2), lineDevIDBase(3)
+[9040] 01:40:47:213:     InitializeMapper: entering...
+[9040] 01:40:47:213:     InitAllocator: entering...
+[9040] 01:40:47:213: !   providerInit: lRes(0)
+[9264] 02:37:21:232:     providerShutdown: perfProvID(2)
+[9264] 02:37:21:232: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[6164] 02:37:21:232: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[9264] 02:37:21:232:     UninitAllocator: exited(0, 0, 0)
+[9264] 02:37:21:232:     UninitializeMapper: exited
+[9264] 02:37:21:232:     DLL_PROCESS_DETACH
+[4964] 22:19:19:078:     DLL_PROCESS_ATTACH
+[4964] 22:19:19:095:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[4964] 22:19:19:095:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[4964] 22:19:19:095: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[4964] 22:19:19:095:     providerEnumDevices: permProvID(2)
+[4964] 22:19:19:095:     providerInit: perfProvID(2), lineDevIDBase(1)
+[4964] 22:19:19:101:     InitializeMapper: entering...
+[4964] 22:19:19:101:     InitAllocator: entering...
+[4964] 22:19:19:101: !   providerInit: lRes(0)
+[7128] 23:49:03:612:     providerShutdown: perfProvID(2)
+[7128] 23:49:03:612: !!  providerShutdown: Calling PostQueuedCompletionStatus
+[6948] 23:49:03:612: !!  AsyncEventsThread: Got exit message from TSPI_providerShutdown
+[7128] 23:49:03:612:     UninitAllocator: exited(0, 0, 0)
+[7128] 23:49:03:612:     UninitializeMapper: exited
+[7128] 23:49:03:612:     DLL_PROCESS_DETACH
+[3740] 10:41:47:740:     DLL_PROCESS_ATTACH
+[3740] 10:41:47:755:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[3740] 10:41:47:755:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[3740] 10:41:47:755: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[3740] 10:41:47:755:     providerEnumDevices: permProvID(2)
+[3740] 10:41:47:755:     providerInit: perfProvID(2), lineDevIDBase(1)
+[3740] 10:41:47:755:     InitializeMapper: entering...
+[3740] 10:41:47:755:     InitAllocator: entering...
+[3740] 10:41:47:755: !   providerInit: lRes(0)
+[5952] 04:00:37:276:     DLL_PROCESS_ATTACH
+[5952] 04:00:37:292:     lineNegotiateTSPIVersion(1): deviceID(ffffffff)
+[5952] 04:00:37:292:     SetNegotiatedTSPIVersion: deviceID(ffffffff), TSPIV(10003)
+[5952] 04:00:37:292: !   lineNegotiateTSPIVersion: TSPIVersion(10003)
+[5952] 04:00:37:292:     providerEnumDevices: permProvID(2)
+[5952] 04:00:37:292:     providerInit: perfProvID(2), lineDevIDBase(2)
+[5952] 04:00:37:298:     InitializeMapper: entering...
+[5952] 04:00:37:298:     InitAllocator: entering...
+[5952] 04:00:37:298: !   providerInit: lRes(0)

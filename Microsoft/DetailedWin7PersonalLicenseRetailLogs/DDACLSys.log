@@ -1,0 +1,34 @@
+03/11 00:56:01	Info	
+
+03/11 00:56:01	Info	Volume name is \\?\Volume{4980b412-6ae5-11e1-844b-806e6f6e6963}\
+03/11 00:56:01	Info	Mount Point are :
+03/11 00:56:01	Info	
+03/11 00:56:01	Info	Volume is Fixed Drive
+03/11 00:56:01	Info	Volume is ntfs
+03/11 00:56:01	Info	Volume is system
+03/11 00:56:01	Info	
+
+03/11 00:56:01	Info	Volume name is \\?\Volume{4980b414-6ae5-11e1-844b-806e6f6e6963}\
+03/11 00:56:01	Info	Mount Point are :
+03/11 00:56:01	Info	D:\	
+03/11 00:56:01	Info	Volume is Fixed Drive
+03/11 00:56:01	Info	Volume is ntfs
+03/11 00:56:01	Info	Volume is not system
+03/11 00:56:01	Info	Volume \\?\Volume{4980b414-6ae5-11e1-844b-806e6f6e6963}\ has other OS 0 
+03/11 00:56:01	Info	
+03/11 00:56:01	Info	Volume \\?\Volume{4980b414-6ae5-11e1-844b-806e6f6e6963}\ has Default XP DACL 0
+03/11 00:56:01	Info	
+
+03/11 00:56:01	Info	Volume name is \\?\Volume{4980b413-6ae5-11e1-844b-806e6f6e6963}\
+03/11 00:56:01	Info	Mount Point are :
+03/11 00:56:01	Info	C:\	
+03/11 00:56:01	Info	Volume is Fixed Drive
+03/11 00:56:01	Info	Volume is ntfs
+03/11 00:56:01	Info	Volume is not system
+03/11 00:56:01	Info	Volume \\?\Volume{4980b413-6ae5-11e1-844b-806e6f6e6963}\ has other OS 1 
+03/11 00:56:01	Info	
+
+03/11 00:56:01	Info	Volume name is \\?\Volume{4980b417-6ae5-11e1-844b-806e6f6e6963}\
+03/11 00:56:01	Info	Mount Point are :
+03/11 00:56:01	Info	E:\	
+03/11 00:56:01	Info	Volume is not Fixed or removable. DriveType is 5

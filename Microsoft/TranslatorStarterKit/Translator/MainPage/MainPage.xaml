@@ -1,0 +1,454 @@
+<!--
+// Copyright (c) 2010 Microsoft Corporation.  All rights reserved.
+//
+//
+// Use of this source code is subject to the terms of the Microsoft
+// license agreement under which you licensed this source code.
+// If you did not accept the terms of the license agreement,
+// you are not authorized to use this source code.
+// For the terms of the license, please see the license agreement
+// signed by you and Microsoft.
+// THE SOURCE CODE IS PROVIDED "AS IS", WITH NO WARRANTIES OR INDEMNITIES.
+//
+
+-->
+<phoneNavigation:PhoneApplicationPage 
+    x:Class="Microsoft.Phone.Applications.Translator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:System="clr-namespace:System;assembly=mscorlib"
+    xmlns:phoneNavigation="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    BackKeyPress="OnBackKeyPress"
+    IsTabStop="true"
+    >
+
+    <phoneNavigation:PhoneApplicationPage.Resources>
+
+        <System:Double x:Key="MinHitTargetSize">100</System:Double>        
+        
+        <!-- TextBox styles -->
+        <Style x:Key="PhoneTextPageTitle1Style" TargetType="TextBlock" 
+               BasedOn="{StaticResource PhoneTextNormalStyle}">
+            <Setter Property="Margin" Value="20,20,0,0" />
+        </Style>
+
+        <Style x:Key="PhoneTextPageTitle2Style" TargetType="TextBlock" 
+               BasedOn="{StaticResource PhoneTextTitle1Style}">
+            <Setter Property="Margin" Value="20,43,0,0" />
+        </Style>
+    </phoneNavigation:PhoneApplicationPage.Resources>
+
+
+    <Grid x:Name="LayoutRoot" Background="{StaticResource PhoneBackgroundBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!--TitleGrid is the name of the application and page title-->
+        <Grid x:Name="TitleGrid" Grid.Row="0">
+            <TextBlock Text="{Binding Path=Strings.Translator, Source={StaticResource Resources}}" 
+                       x:Name="textBlockPageTitle" 
+                       Style="{StaticResource PhoneTextPageTitle1Style}"/>
+        </Grid>
+
+        <!--ContentGrid is empty. Place new content here-->
+        <StackPanel x:Name="ContentGrid" Grid.Row="1">
+            <StackPanel 
+                Name="_fromPanel"                 
+                HorizontalAlignment="Left" 
+                VerticalAlignment="Top" 
+                Width="480" >
+                <StackPanel.RenderTransform>
+                    <TranslateTransform />
+                </StackPanel.RenderTransform>
+
+                <Button                                                 
+                        Name="_btnFromLanguage"                         
+                        Click="OnFromLanguageBtnClick" 
+                        Style="{StaticResource LanguageSelectionButton}"
+                        Margin="0,5,0,0">
+
+                    <TextBlock 
+                            x:Name="_textBlockFromLanguage" 
+                            Style="{StaticResource LanguageText}" 
+                            />
+                </Button>
+                
+                <TextBox                     
+                    Name="_txtBoxFrom"                     
+                    GotFocus="OnFromTextGotFocus"
+                    TextChanged="OnFromTextChanged"
+                    Text="{Binding FromPhrase, Mode=TwoWay}"
+                    InputScope="Text"
+                    MaxLength="150"
+                    KeyUp="OnFromTextKeyUp"
+                    Style="{StaticResource SourceDestinationStringTextBox}" >
+                    <TextBox.RenderTransform>
+                        <TranslateTransform />
+                    </TextBox.RenderTransform>
+                </TextBox>
+
+                <Button Name="_btnTranslate" 
+                            Content="{Binding Path=Strings.Translate, Source={StaticResource Resources}}" 
+                            Width="456" Height="72"
+                            VerticalAlignment="Stretch"
+                            IsEnabled="False"
+                            Click="OnTranslateBtnClick" 
+                            Style="{StaticResource PhoneAccentButton}"
+                            />
+            </StackPanel>
+
+            <StackPanel Name="_toPanel" 
+                        HorizontalAlignment="Left" 
+                        VerticalAlignment="Top" 
+                        Width="480"
+                        >
+                <StackPanel.RenderTransform>
+                    <TranslateTransform />
+                </StackPanel.RenderTransform>
+                
+                <Button Name="_btnToLanguage"                         
+                        HorizontalContentAlignment="Center" 
+                        HorizontalAlignment="Left" 
+                        Click="OnToLanguageBtnClick"
+                        Style="{StaticResource LanguageSelectionButton}"
+                        Margin="0,5,0,0"
+                        >
+                    <Button.RenderTransform>
+                        <TranslateTransform />
+                    </Button.RenderTransform>
+
+                    <TextBlock 
+                        x:Name="_textBlockToLanguage" 
+                        Style="{StaticResource LanguageText}" 
+                        HorizontalAlignment="Left"
+                        />
+                </Button>        
+                    
+                <!-- MaxLength set to 2x of the From box's MaxLength -->
+                <TextBox                     
+                    Name="_txtBoxTo"                                                                         
+                    Text="{Binding ToPhrase}"  
+                    TextWrapping="Wrap"
+                    IsReadOnly="True"
+                    MaxLength="300"
+                    Style="{StaticResource ContrastReadOnlyTextBox}">
+                    <TextBox.RenderTransform>
+                        <TranslateTransform />
+                    </TextBox.RenderTransform>
+                </TextBox>
+
+                <ToggleButton Name="_btnToSpeech"                         
+                        Checked="OnToSpeechBtnClick" 
+                        Height="{StaticResource MinHitTargetSize}" 
+                        Width="{StaticResource MinHitTargetSize}"
+                        IsEnabled="{Binding ResultValid, Mode=TwoWay}"
+                        HorizontalAlignment="Right"
+                        Margin="0,-29,0,0"
+                        >
+                    <ToggleButton.Resources>
+
+                        <System:String x:Key="IconGeometry_Complete">
+                            M 255.592,336.509L 248.592,341.887C 248.514,341.947 248.452,342.04 248.374,
+                            342.108L 240.689,342.108C 240.428,342.108 240.217,342.324 240.217,342.585L 240.217,
+                            355.405C 240.217,355.668 240.428,355.884 240.689,355.884L 248.303,355.884C 248.4,
+                            355.978 248.486,356.095 248.584,356.171L 255.545,361.496C 256.46,362.194 257.204,
+                            361.824 257.21,360.676L 257.246,337.324C 257.249,336.176 256.506,335.809 255.592,
+                            336.509
+                            
+                            M 261.017,343.811C 260.574,
+                            343.366 259.855,343.369 259.413,343.811C 258.97,344.254 258.97,344.975 259.413,
+                            345.418C 260.371,346.374 260.897,347.647 260.897,349.001C 260.897,350.356 260.371,
+                            351.629 259.413,352.587C 258.97,353.03 258.97,353.749 259.413,354.192C 259.634,
+                            354.413 259.926,354.525 260.215,354.525C 260.509,354.525 260.798,354.413 261.017,
+                            354.192C 262.402,352.806 263.168,350.962 263.168,349.001C 263.168,347.04 262.402,
+                            345.197 261.017,343.811 
+                            
+                            M 264.895,340.876C 264.449,340.434 263.73,340.434 263.288,340.876C 262.845,341.322 262.845,
+                            342.038 263.288,342.483C 266.882,346.077 266.882,351.926 263.288,355.522C 262.845,
+                            355.965 262.845,356.684 263.288,357.126C 263.509,357.35 263.801,
+                            357.46 264.09,357.46C 264.382,357.46 264.673,357.348 264.895,
+                            357.126C 269.374,352.647 269.371,345.356 264.895,340.876 
+                            
+                            M 268.668,338.038C 268.228,337.595 267.509,337.595 267.064,
+                            338.038C 266.624,338.483 266.624,339.202 267.066,339.645C 269.566,
+                            342.145 270.944,345.465 270.944,348.999C 270.944,352.535 269.566,355.858 267.066,
+                            358.358C 266.624,358.798 266.624,359.52 267.066,359.962C 267.288,360.184 267.574,
+                            360.296 267.868,360.296C 268.16,360.296 268.449,360.184 268.668,359.962C 271.598,
+                            357.033 273.212,353.142 273.212,348.999C 273.212,344.861 271.598,340.965 268.668,
+                            338.038 
+                            
+                            M 255.999,320.999C 271.439,320.999 284.001,333.561 284.001,349.001C 284.001,
+                            364.44 271.439,377.001 255.999,377.001C 240.56,377.001 227.999,364.44 227.999,
+                            349.001C 227.999,333.561 240.56,320.999 255.999,320.999
+                            
+                            M 255.999,316.999C 238.327,
+                            316.999 223.999,331.327 223.999,349.001C 223.999,366.673 238.327,381.001 255.999,
+                            381.001C 273.673,381.001 288.001,366.673 288.001,349.001C 288.001,331.327 273.673,
+                            316.999 255.999,316.999 Z
+                        </System:String>
+
+                        <System:String x:Key="IconGeometry_Speaker">
+                            M 255.592,336.509L 248.592,341.887C 248.514,341.947 248.452,342.04 248.374,
+                            342.108L 240.689,342.108C 240.428,342.108 240.217,342.324 240.217,342.585L 240.217,
+                            355.405C 240.217,355.668 240.428,355.884 240.689,355.884L 248.303,355.884C 248.4,
+                            355.978 248.486,356.095 248.584,356.171L 255.545,361.496C 256.46,362.194 257.204,
+                            361.824 257.21,360.676L 257.246,337.324C 257.249,336.176 256.506,335.809 255.592,
+                            336.509
+                            
+                            M 255.999,320.999C 271.439,320.999 284.001,333.561 284.001,349.001C 284.001,
+                            364.44 271.439,377.001 255.999,377.001C 240.56,377.001 227.999,364.44 227.999,
+                            349.001C 227.999,333.561 240.56,320.999 255.999,320.999
+                            
+                            M 255.999,316.999C 238.327,
+                            316.999 223.999,331.327 223.999,349.001C 223.999,366.673 238.327,381.001 255.999,
+                            381.001C 273.673,381.001 288.001,366.673 288.001,349.001C 288.001,331.327 273.673,
+                            316.999 255.999,316.999 Z                            
+                        </System:String>
+
+                        <System:String x:Key="IconGeometry_SoundWave1">
+                            M 261.017,343.811C 260.574,
+                            343.366 259.855,343.369 259.413,343.811C 258.97,344.254 258.97,344.975 259.413,
+                            345.418C 260.371,346.374 260.897,347.647 260.897,349.001C 260.897,350.356 260.371,
+                            351.629 259.413,352.587C 258.97,353.03 258.97,353.749 259.413,354.192C 259.634,
+                            354.413 259.926,354.525 260.215,354.525C 260.509,354.525 260.798,354.413 261.017,
+                            354.192C 262.402,352.806 263.168,350.962 263.168,349.001C 263.168,347.04 262.402,
+                            345.197 261.017,343.811 
+                            
+                            M 255.999,320.999C 271.439,320.999 284.001,333.561 284.001,349.001C 284.001,
+                            364.44 271.439,377.001 255.999,377.001C 240.56,377.001 227.999,364.44 227.999,
+                            349.001C 227.999,333.561 240.56,320.999 255.999,320.999
+                            
+                            M 255.999,316.999C 238.327,
+                            316.999 223.999,331.327 223.999,349.001C 223.999,366.673 238.327,381.001 255.999,
+                            381.001C 273.673,381.001 288.001,366.673 288.001,349.001C 288.001,331.327 273.673,
+                            316.999 255.999,316.999 Z
+                        </System:String>
+
+                        <System:String x:Key="IconGeometry_SoundWave2">
+                            M 264.895,340.876C 264.449,340.434 263.73,340.434 263.288,340.876C 262.845,341.322 262.845,
+                            342.038 263.288,342.483C 266.882,346.077 266.882,351.926 263.288,355.522C 262.845,
+                            355.965 262.845,356.684 263.288,357.126C 263.509,357.35 263.801,
+                            357.46 264.09,357.46C 264.382,357.46 264.673,357.348 264.895,
+                            357.126C 269.374,352.647 269.371,345.356 264.895,340.876 
+                            
+                            M 255.999,320.999C 271.439,320.999 284.001,333.561 284.001,349.001C 284.001,
+                            364.44 271.439,377.001 255.999,377.001C 240.56,377.001 227.999,364.44 227.999,
+                            349.001C 227.999,333.561 240.56,320.999 255.999,320.999
+                            
+                            M 255.999,316.999C 238.327,
+                            316.999 223.999,331.327 223.999,349.001C 223.999,366.673 238.327,381.001 255.999,
+                            381.001C 273.673,381.001 288.001,366.673 288.001,349.001C 288.001,331.327 273.673,
+                            316.999 255.999,316.999 Z
+                        </System:String>
+
+                        <System:String x:Key="IconGeometry_SoundWave3">
+                            M 268.668,338.038C 268.228,337.595 267.509,337.595 267.064,
+                            338.038C 266.624,338.483 266.624,339.202 267.066,339.645C 269.566,
+                            342.145 270.944,345.465 270.944,348.999C 270.944,352.535 269.566,355.858 267.066,
+                            358.358C 266.624,358.798 266.624,359.52 267.066,359.962C 267.288,360.184 267.574,
+                            360.296 267.868,360.296C 268.16,360.296 268.449,360.184 268.668,359.962C 271.598,
+                            357.033 273.212,353.142 273.212,348.999C 273.212,344.861 271.598,340.965 268.668,
+                            338.038 
+                            
+                            M 255.999,320.999C 271.439,320.999 284.001,333.561 284.001,349.001C 284.001,
+                            364.44 271.439,377.001 255.999,377.001C 240.56,377.001 227.999,364.44 227.999,
+                            349.001C 227.999,333.561 240.56,320.999 255.999,320.999
+                            
+                            M 255.999,316.999C 238.327,
+                            316.999 223.999,331.327 223.999,349.001C 223.999,366.673 238.327,381.001 255.999,
+                            381.001C 273.673,381.001 288.001,366.673 288.001,349.001C 288.001,331.327 273.673,
+                            316.999 255.999,316.999 Z
+                        </System:String>
+
+                    </ToggleButton.Resources>
+
+                    <ToggleButton.Template>
+                        <ControlTemplate TargetType="ToggleButton">
+                            <Grid Background="{TemplateBinding Background}">
+                                <VisualStateManager.VisualStateGroups>
+                                    <VisualStateGroup x:Name="CommonStates">
+                                        <VisualState x:Name="Normal">
+                                            <Storyboard>
+                                                <DoubleAnimation Duration="0" To="1.0" 
+                                                                 Storyboard.TargetProperty="Opacity" 
+                                                                 Storyboard.TargetName="_ImageSpeechToTextIconComplete"/>
+                                            </Storyboard>
+                                        </VisualState>
+                                        <VisualState x:Name="MouseOver"/>
+                                        <VisualState x:Name="Pressed">
+                                            <Storyboard>
+                                                <DoubleAnimation Duration="0" To="1.0" 
+                                                                 Storyboard.TargetProperty="Opacity" 
+                                                                 Storyboard.TargetName="_ImageSpeechToTextIcon_Pressed"/>
+                                            </Storyboard>
+                                        </VisualState>
+                                        <VisualState x:Name="Disabled">
+                                            <Storyboard>
+                                                <DoubleAnimation Duration="0" To="1.0" 
+                                                                 Storyboard.TargetProperty="Opacity" 
+                                                                 Storyboard.TargetName="_ImageSpeechToTextIcon_Disabled"/>
+                                            </Storyboard>
+                                        </VisualState>
+                                    </VisualStateGroup>
+                                    <VisualStateGroup x:Name="CheckStates">
+                                        <VisualState x:Name="Checked">
+                                            <Storyboard>
+                                                <DoubleAnimationUsingKeyFrames
+                                                    Storyboard.TargetName="_ImageSpeechToTextIcon_SoundWave1"
+                                                    Storyboard.TargetProperty="Opacity"
+                                                    Duration="0:00:1.0"
+                                                    RepeatBehavior="Forever"
+                                                    FillBehavior="Stop">
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.0">
+                                                        <DiscreteDoubleKeyFrame.Value>1.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.75">
+                                                        <DiscreteDoubleKeyFrame.Value>0.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                </DoubleAnimationUsingKeyFrames>
+
+                                                <DoubleAnimationUsingKeyFrames
+                                                    Storyboard.TargetName="_ImageSpeechToTextIcon_SoundWave2"
+                                                    Storyboard.TargetProperty="Opacity"
+                                                    Duration="0:00:1.0"
+                                                    RepeatBehavior="Forever"
+                                                    FillBehavior="Stop">
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.0">
+                                                        <DiscreteDoubleKeyFrame.Value>0.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.25">
+                                                        <DiscreteDoubleKeyFrame.Value>1.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.75">
+                                                        <DiscreteDoubleKeyFrame.Value>0.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>                                                    
+                                                </DoubleAnimationUsingKeyFrames>
+                                                
+                                                <DoubleAnimationUsingKeyFrames
+                                                    Storyboard.TargetName="_ImageSpeechToTextIcon_SoundWave3"
+                                                    Storyboard.TargetProperty="Opacity"
+                                                    Duration="0:00:1.0"
+                                                    RepeatBehavior="Forever"
+                                                    FillBehavior="Stop">
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.0">
+                                                        <DiscreteDoubleKeyFrame.Value>0.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.50">
+                                                        <DiscreteDoubleKeyFrame.Value>1.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                    <DiscreteDoubleKeyFrame KeyTime="0:00:0.75">
+                                                        <DiscreteDoubleKeyFrame.Value>0.0</DiscreteDoubleKeyFrame.Value>
+                                                    </DiscreteDoubleKeyFrame>
+                                                </DoubleAnimationUsingKeyFrames>
+                                                
+                                                <DoubleAnimation Duration="0" To="1.0" 
+                                                                 Storyboard.TargetProperty="Opacity" 
+                                                                 Storyboard.TargetName="_ImageSpeechToTextIconSpeaker"/>
+                                            </Storyboard>
+                                        </VisualState>
+                                        <VisualState x:Name="Unchecked"/>
+                                    </VisualStateGroup>
+                                    <VisualStateGroup x:Name="FocusStates">
+                                        <VisualState x:Name="Focused"/>
+                                        <VisualState x:Name="Unfocused"/>
+                                    </VisualStateGroup>
+                                </VisualStateManager.VisualStateGroups>
+                                <ContentPresenter x:Name="contentPresenter" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                <Path x:Name="_ImageSpeechToTextIconComplete" 
+                                      Fill="{StaticResource PhoneForegroundBrush}" 
+                                      Width="43" Height="43" 
+                                      Stretch="Fill" 
+                                      Opacity="0"                                       
+                                      Data="{StaticResource IconGeometry_Complete}"
+                                      />                                
+                                <Path x:Name="_ImageSpeechToTextIconSpeaker" 
+                                      Fill="{StaticResource PhoneForegroundBrush}" 
+                                      Width="43" Height="43" 
+                                      Stretch="Fill" 
+                                      Opacity="0"                                       
+                                      Data="{StaticResource IconGeometry_Speaker}"
+                                      />
+                                <Path x:Name="_ImageSpeechToTextIcon_SoundWave1" 
+                                      Fill="{StaticResource PhoneForegroundBrush}" 
+                                      Width="43" Height="43" 
+                                      Stretch="Fill" 
+                                      Opacity="0"                                                                             
+                                      Data="{StaticResource IconGeometry_SoundWave1}"
+                                      />
+                                <Path x:Name="_ImageSpeechToTextIcon_SoundWave2" 
+                                      Fill="{StaticResource PhoneForegroundBrush}" 
+                                      Width="43" Height="43" 
+                                      Stretch="Fill" 
+                                      Opacity="0"                                                                             
+                                      Data="{StaticResource IconGeometry_SoundWave2}"
+                                      />
+                                <Path x:Name="_ImageSpeechToTextIcon_SoundWave3" 
+                                      Fill="{StaticResource PhoneForegroundBrush}" 
+                                      Width="43" Height="43" 
+                                      Stretch="Fill" 
+                                      Opacity="0"                                                                             
+                                      Data="{StaticResource IconGeometry_SoundWave3}"
+                                      />
+                                <Border x:Name="_ImageSpeechToTextIcon_Pressed"
+                                        Background="{StaticResource PhoneForegroundBrush}"
+                                        Width="45" Height="45" 
+                                        Opacity="0" 
+                                        CornerRadius="22"
+                                        >
+                                    <Path Fill="{StaticResource PhoneContrastForegroundBrush}" 
+                                          Width="47" Height="47" 
+                                          Margin="-1"
+                                          Stretch="Fill" 
+                                          Data="{StaticResource IconGeometry_Complete}"
+                                          />
+                                </Border>
+
+                                <Path x:Name="_ImageSpeechToTextIcon_Disabled"
+                                      Width="43" Height="43" 
+                                      Fill="{StaticResource PhoneSubtleBrush}" 
+                                      Stretch="Fill" 
+                                      Opacity="0" 
+                                      Data="{StaticResource IconGeometry_Complete}"
+                                      />
+                            </Grid>
+                        </ControlTemplate>
+                    </ToggleButton.Template>
+                </ToggleButton>
+            </StackPanel>
+
+        </StackPanel>
+        <StackPanel Name="_buttonsPanel"                             
+                    Orientation="Horizontal" HorizontalAlignment="Left"
+                    Grid.Row="2"
+                    Margin="12"
+                            >
+            <Button Name="_btnSwap" 
+                    Click="OnSwapBtnClick"
+                    Content="{Binding Path=Strings.Swap, Source={StaticResource Resources}}" 
+                    Height="72"
+                    Width="228"
+                    >
+                    <Button.RenderTransform>
+                        <TranslateTransform />
+                    </Button.RenderTransform>
+            </Button>
+            <Button 
+                    Content="{Binding Path=Strings.History, Source={StaticResource Resources}}" 
+                    Name="_btnHistory" 
+                    Width="228" 
+                    Height="72"
+                    Click="OnHistoryBtnClick" />
+
+        </StackPanel>
+    </Grid>
+    
+</phoneNavigation:PhoneApplicationPage>

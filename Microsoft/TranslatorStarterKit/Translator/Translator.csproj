@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A628A189-04CA-42E2-BB89-B7ED851E711B}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Microsoft.Phone.Applications.Translator</RootNamespace>
+    <AssemblyName>Translator</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>en-US;en-GB;fr-FR;it-IT;de-DE;es-ES</SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>Translator.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>Microsoft.Phone.Applications.Translator.App</SilverlightAppEntry>
+    <ValidateXaml>false</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <TokenBackgroundImageFilePath>Z:\SevenAppHA\private\AppPlatform\HeroApps\translator2\Translator\Background.png</TokenBackgroundImageFilePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="microsoft.phone" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows" />
+    <Reference Include="mscorlib" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppSettings\IsoStoreAppSettings.cs" />
+    <Compile Include="ContextMenu\ContextMenu.cs" />
+    <Compile Include="ContextMenu\ContextMenuService.cs" />
+    <Compile Include="HistoryList\Phrase.cs" />
+    <Compile Include="HistoryList\HistoryList.cs" />
+    <Compile Include="HistoryList\Translation.cs" />
+    <Compile Include="HistoryPage\HistoryPage.xaml.cs">
+      <DependentUpon>HistoryPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Model.cs" />
+    <Compile Include="Settings\SoundFilenameGenerator.cs" />
+    <Compile Include="Tilt\TiltEffect.cs" />
+    <Compile Include="Tool\PhoneUtils.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LanguagePickerPage\LanguagePickerPage.xaml.cs">
+      <DependentUpon>LanguagePickerPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizationStrings\Resources.cs" />
+    <Compile Include="LocalizationStrings\Strings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Strings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings\AppSettings.cs" />
+    <Compile Include="Settings\LanguageInfo.cs" />
+    <Compile Include="Speech\Speech.cs" />
+    <Compile Include="Translator\Translator.cs" />
+    <Compile Include="WebRequestHelper\WebRequestHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="ContextMenu\ContextMenu.generic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="HistoryPage\HistoryPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LanguagePickerPage\LanguagePickerPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage\MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Themes\Generic.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppResLib.dll.0407.mui" />
+    <Content Include="AppResLib.dll.0409.mui" />
+    <Content Include="AppResLib.dll.040c.mui" />
+    <Content Include="AppResLib.dll.0410.mui" />
+    <Content Include="AppResLib.dll.0809.mui" />
+    <Content Include="AppResLib.dll.0c0a.mui" />
+    <Content Include="Content\de_phr1.wav" />
+    <Content Include="Content\de_phr10.wav" />
+    <Content Include="Content\de_phr11.wav" />
+    <Content Include="Content\de_phr12.wav" />
+    <Content Include="Content\de_phr13.wav" />
+    <Content Include="Content\de_phr14.wav" />
+    <Content Include="Content\de_phr15.wav" />
+    <Content Include="Content\de_phr16.wav" />
+    <Content Include="Content\de_phr17.wav" />
+    <Content Include="Content\de_phr18.wav" />
+    <Content Include="Content\de_phr19.wav" />
+    <Content Include="Content\de_phr2.wav" />
+    <Content Include="Content\de_phr20.wav" />
+    <Content Include="Content\de_phr21.wav" />
+    <Content Include="Content\de_phr22.wav" />
+    <Content Include="Content\de_phr23.wav" />
+    <Content Include="Content\de_phr24.wav" />
+    <Content Include="Content\de_phr25.wav" />
+    <Content Include="Content\de_phr26.wav" />
+    <Content Include="Content\de_phr27.wav" />
+    <Content Include="Content\de_phr28.wav" />
+    <Content Include="Content\de_phr29.wav" />
+    <Content Include="Content\de_phr3.wav" />
+    <Content Include="Content\de_phr30.wav" />
+    <Content Include="Content\de_phr31.wav" />
+    <Content Include="Content\de_phr32.wav" />
+    <Content Include="Content\de_phr33.wav" />
+    <Content Include="Content\de_phr34.wav" />
+    <Content Include="Content\de_phr35.wav" />
+    <Content Include="Content\de_phr36.wav" />
+    <Content Include="Content\de_phr37.wav" />
+    <Content Include="Content\de_phr38.wav" />
+    <Content Include="Content\de_phr39.wav" />
+    <Content Include="Content\de_phr4.wav" />
+    <Content Include="Content\de_phr40.wav" />
+    <Content Include="Content\de_phr41.wav" />
+    <Content Include="Content\de_phr42.wav" />
+    <Content Include="Content\de_phr43.wav" />
+    <Content Include="Content\de_phr44.wav" />
+    <Content Include="Content\de_phr45.wav" />
+    <Content Include="Content\de_phr46.wav" />
+    <Content Include="Content\de_phr47.wav" />
+    <Content Include="Content\de_phr48.wav" />
+    <Content Include="Content\de_phr49.wav" />
+    <Content Include="Content\de_phr5.wav" />
+    <Content Include="Content\de_phr50.wav" />
+    <Content Include="Content\de_phr51.wav" />
+    <Content Include="Content\de_phr52.wav" />
+    <Content Include="Content\de_phr53.wav" />
+    <Content Include="Content\de_phr54.wav" />
+    <Content Include="Content\de_phr55.wav" />
+    <Content Include="Content\de_phr56.wav" />
+    <Content Include="Content\de_phr6.wav" />
+    <Content Include="Content\de_phr7.wav" />
+    <Content Include="Content\de_phr8.wav" />
+    <Content Include="Content\de_phr9.wav" />
+    <Content Include="Content\en_phr1.wav" />
+    <Content Include="Content\en_phr10.wav" />
+    <Content Include="Content\en_phr11.wav" />
+    <Content Include="Content\en_phr12.wav" />
+    <Content Include="Content\en_phr13.wav" />
+    <Content Include="Content\en_phr14.wav" />
+    <Content Include="Content\en_phr15.wav" />
+    <Content Include="Content\en_phr16.wav" />
+    <Content Include="Content\en_phr17.wav" />
+    <Content Include="Content\en_phr18.wav" />
+    <Content Include="Content\en_phr19.wav" />
+    <Content Include="Content\en_phr2.wav" />
+    <Content Include="Content\en_phr20.wav" />
+    <Content Include="Content\en_phr21.wav" />
+    <Content Include="Content\en_phr22.wav" />
+    <Content Include="Content\en_phr23.wav" />
+    <Content Include="Content\en_phr24.wav" />
+    <Content Include="Content\en_phr25.wav" />
+    <Content Include="Content\en_phr26.wav" />
+    <Content Include="Content\en_phr27.wav" />
+    <Content Include="Content\en_phr28.wav" />
+    <Content Include="Content\en_phr29.wav" />
+    <Content Include="Content\en_phr3.wav" />
+    <Content Include="Content\en_phr30.wav" />
+    <Content Include="Content\en_phr31.wav" />
+    <Content Include="Content\en_phr32.wav" />
+    <Content Include="Content\en_phr33.wav" />
+    <Content Include="Content\en_phr34.wav" />
+    <Content Include="Content\en_phr35.wav" />
+    <Content Include="Content\en_phr36.wav" />
+    <Content Include="Content\en_phr37.wav" />
+    <Content Include="Content\en_phr38.wav" />
+    <Content Include="Content\en_phr39.wav" />
+    <Content Include="Content\en_phr4.wav" />
+    <Content Include="Content\en_phr40.wav" />
+    <Content Include="Content\en_phr41.wav" />
+    <Content Include="Content\en_phr42.wav" />
+    <Content Include="Content\en_phr43.wav" />
+    <Content Include="Content\en_phr44.wav" />
+    <Content Include="Content\en_phr45.wav" />
+    <Content Include="Content\en_phr46.wav" />
+    <Content Include="Content\en_phr47.wav" />
+    <Content Include="Content\en_phr48.wav" />
+    <Content Include="Content\en_phr49.wav" />
+    <Content Include="Content\en_phr5.wav" />
+    <Content Include="Content\en_phr50.wav" />
+    <Content Include="Content\en_phr51.wav" />
+    <Content Include="Content\en_phr52.wav" />
+    <Content Include="Content\en_phr53.wav" />
+    <Content Include="Content\en_phr54.wav" />
+    <Content Include="Content\en_phr55.wav" />
+    <Content Include="Content\en_phr56.wav" />
+    <Content Include="Content\en_phr6.wav" />
+    <Content Include="Content\en_phr7.wav" />
+    <Content Include="Content\en_phr8.wav" />
+    <Content Include="Content\en_phr9.wav" />
+    <Content Include="Content\es_phr1.wav" />
+    <Content Include="Content\es_phr10.wav" />
+    <Content Include="Content\es_phr11.wav" />
+    <Content Include="Content\es_phr12.wav" />
+    <Content Include="Content\es_phr13.wav" />
+    <Content Include="Content\es_phr14.wav" />
+    <Content Include="Content\es_phr15.wav" />
+    <Content Include="Content\es_phr16.wav" />
+    <Content Include="Content\es_phr17.wav" />
+    <Content Include="Content\es_phr18.wav" />
+    <Content Include="Content\es_phr19.wav" />
+    <Content Include="Content\es_phr2.wav" />
+    <Content Include="Content\es_phr20.wav" />
+    <Content Include="Content\es_phr21.wav" />
+    <Content Include="Content\es_phr22.wav" />
+    <Content Include="Content\es_phr23.wav" />
+    <Content Include="Content\es_phr24.wav" />
+    <Content Include="Content\es_phr25.wav" />
+    <Content Include="Content\es_phr26.wav" />
+    <Content Include="Content\es_phr27.wav" />
+    <Content Include="Content\es_phr28.wav" />
+    <Content Include="Content\es_phr29.wav" />
+    <Content Include="Content\es_phr3.wav" />
+    <Content Include="Content\es_phr30.wav" />
+    <Content Include="Content\es_phr31.wav" />
+    <Content Include="Content\es_phr32.wav" />
+    <Content Include="Content\es_phr33.wav" />
+    <Content Include="Content\es_phr34.wav" />
+    <Content Include="Content\es_phr35.wav" />
+    <Content Include="Content\es_phr36.wav" />
+    <Content Include="Content\es_phr37.wav" />
+    <Content Include="Content\es_phr38.wav" />
+    <Content Include="Content\es_phr39.wav" />
+    <Content Include="Content\es_phr4.wav" />
+    <Content Include="Content\es_phr40.wav" />
+    <Content Include="Content\es_phr41.wav" />
+    <Content Include="Content\es_phr42.wav" />
+    <Content Include="Content\es_phr43.wav" />
+    <Content Include="Content\es_phr44.wav" />
+    <Content Include="Content\es_phr45.wav" />
+    <Content Include="Content\es_phr46.wav" />
+    <Content Include="Content\es_phr47.wav" />
+    <Content Include="Content\es_phr48.wav" />
+    <Content Include="Content\es_phr49.wav" />
+    <Content Include="Content\es_phr5.wav" />
+    <Content Include="Content\es_phr50.wav" />
+    <Content Include="Content\es_phr51.wav" />
+    <Content Include="Content\es_phr52.wav" />
+    <Content Include="Content\es_phr53.wav" />
+    <Content Include="Content\es_phr54.wav" />
+    <Content Include="Content\es_phr55.wav" />
+    <Content Include="Content\es_phr56.wav" />
+    <Content Include="Content\es_phr6.wav" />
+    <Content Include="Content\es_phr7.wav" />
+    <Content Include="Content\es_phr8.wav" />
+    <Content Include="Content\es_phr9.wav" />
+    <Content Include="Content\fr_phr1.wav" />
+    <Content Include="Content\fr_phr10.wav" />
+    <Content Include="Content\fr_phr11.wav" />
+    <Content Include="Content\fr_phr12.wav" />
+    <Content Include="Content\fr_phr13.wav" />
+    <Content Include="Content\fr_phr14.wav" />
+    <Content Include="Content\fr_phr15.wav" />
+    <Content Include="Content\fr_phr16.wav" />
+    <Content Include="Content\fr_phr17.wav" />
+    <Content Include="Content\fr_phr18.wav" />
+    <Content Include="Content\fr_phr19.wav" />
+    <Content Include="Content\fr_phr2.wav" />
+    <Content Include="Content\fr_phr20.wav" />
+    <Content Include="Content\fr_phr21.wav" />
+    <Content Include="Content\fr_phr22.wav" />
+    <Content Include="Content\fr_phr23.wav" />
+    <Content Include="Content\fr_phr24.wav" />
+    <Content Include="Content\fr_phr25.wav" />
+    <Content Include="Content\fr_phr26.wav" />
+    <Content Include="Content\fr_phr27.wav" />
+    <Content Include="Content\fr_phr28.wav" />
+    <Content Include="Content\fr_phr29.wav" />
+    <Content Include="Content\fr_phr3.wav" />
+    <Content Include="Content\fr_phr30.wav" />
+    <Content Include="Content\fr_phr31.wav" />
+    <Content Include="Content\fr_phr32.wav" />
+    <Content Include="Content\fr_phr33.wav" />
+    <Content Include="Content\fr_phr34.wav" />
+    <Content Include="Content\fr_phr35.wav" />
+    <Content Include="Content\fr_phr36.wav" />
+    <Content Include="Content\fr_phr37.wav" />
+    <Content Include="Content\fr_phr38.wav" />
+    <Content Include="Content\fr_phr39.wav" />
+    <Content Include="Content\fr_phr4.wav" />
+    <Content Include="Content\fr_phr40.wav" />
+    <Content Include="Content\fr_phr41.wav" />
+    <Content Include="Content\fr_phr42.wav" />
+    <Content Include="Content\fr_phr43.wav" />
+    <Content Include="Content\fr_phr44.wav" />
+    <Content Include="Content\fr_phr45.wav" />
+    <Content Include="Content\fr_phr46.wav" />
+    <Content Include="Content\fr_phr47.wav" />
+    <Content Include="Content\fr_phr48.wav" />
+    <Content Include="Content\fr_phr49.wav" />
+    <Content Include="Content\fr_phr5.wav" />
+    <Content Include="Content\fr_phr50.wav" />
+    <Content Include="Content\fr_phr51.wav" />
+    <Content Include="Content\fr_phr52.wav" />
+    <Content Include="Content\fr_phr53.wav" />
+    <Content Include="Content\fr_phr54.wav" />
+    <Content Include="Content\fr_phr55.wav" />
+    <Content Include="Content\fr_phr56.wav" />
+    <Content Include="Content\fr_phr6.wav" />
+    <Content Include="Content\fr_phr7.wav" />
+    <Content Include="Content\fr_phr8.wav" />
+    <Content Include="Content\fr_phr9.wav" />
+    <Content Include="Content\it_phr1.wav" />
+    <Content Include="Content\it_phr10.wav" />
+    <Content Include="Content\it_phr11.wav" />
+    <Content Include="Content\it_phr12.wav" />
+    <Content Include="Content\it_phr13.wav" />
+    <Content Include="Content\it_phr14.wav" />
+    <Content Include="Content\it_phr15.wav" />
+    <Content Include="Content\it_phr16.wav" />
+    <Content Include="Content\it_phr17.wav" />
+    <Content Include="Content\it_phr18.wav" />
+    <Content Include="Content\it_phr19.wav" />
+    <Content Include="Content\it_phr2.wav" />
+    <Content Include="Content\it_phr20.wav" />
+    <Content Include="Content\it_phr21.wav" />
+    <Content Include="Content\it_phr22.wav" />
+    <Content Include="Content\it_phr23.wav" />
+    <Content Include="Content\it_phr24.wav" />
+    <Content Include="Content\it_phr25.wav" />
+    <Content Include="Content\it_phr26.wav" />
+    <Content Include="Content\it_phr27.wav" />
+    <Content Include="Content\it_phr28.wav" />
+    <Content Include="Content\it_phr29.wav" />
+    <Content Include="Content\it_phr3.wav" />
+    <Content Include="Content\it_phr30.wav" />
+    <Content Include="Content\it_phr31.wav" />
+    <Content Include="Content\it_phr32.wav" />
+    <Content Include="Content\it_phr33.wav" />
+    <Content Include="Content\it_phr34.wav" />
+    <Content Include="Content\it_phr35.wav" />
+    <Content Include="Content\it_phr36.wav" />
+    <Content Include="Content\it_phr37.wav" />
+    <Content Include="Content\it_phr38.wav" />
+    <Content Include="Content\it_phr39.wav" />
+    <Content Include="Content\it_phr4.wav" />
+    <Content Include="Content\it_phr40.wav" />
+    <Content Include="Content\it_phr41.wav" />
+    <Content Include="Content\it_phr42.wav" />
+    <Content Include="Content\it_phr43.wav" />
+    <Content Include="Content\it_phr44.wav" />
+    <Content Include="Content\it_phr45.wav" />
+    <Content Include="Content\it_phr46.wav" />
+    <Content Include="Content\it_phr47.wav" />
+    <Content Include="Content\it_phr48.wav" />
+    <Content Include="Content\it_phr49.wav" />
+    <Content Include="Content\it_phr5.wav" />
+    <Content Include="Content\it_phr50.wav" />
+    <Content Include="Content\it_phr51.wav" />
+    <Content Include="Content\it_phr52.wav" />
+    <Content Include="Content\it_phr53.wav" />
+    <Content Include="Content\it_phr54.wav" />
+    <Content Include="Content\it_phr55.wav" />
+    <Content Include="Content\it_phr56.wav" />
+    <Content Include="Content\it_phr6.wav" />
+    <Content Include="Content\it_phr7.wav" />
+    <Content Include="Content\it_phr8.wav" />
+    <Content Include="Content\it_phr9.wav" />
+    <Content Include="icon.translator.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Readme.txt" />
+    <Content Include="tile.translator.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Translator Starter Kit.htm" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppResLib.dll" />
+    <Content Include="Content\DefaultPhrases.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="LocalizationStrings\Strings.de-DE.resx" />
+    <EmbeddedResource Include="LocalizationStrings\Strings.en-GB.resx" />
+    <EmbeddedResource Include="LocalizationStrings\Strings.es-ES.resx" />
+    <EmbeddedResource Include="LocalizationStrings\Strings.fr-FR.resx" />
+    <EmbeddedResource Include="LocalizationStrings\Strings.it-IT.resx" />
+    <EmbeddedResource Include="LocalizationStrings\Strings.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

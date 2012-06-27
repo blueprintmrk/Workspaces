@@ -1,0 +1,201 @@
+﻿2012-03-11 00:43:43, Info                  DISM   PID=1384 Scratch directory set to 'X:\windows\TEMP\'. - CDISMManager::put_ScratchDir
+2012-03-11 00:43:43, Info                  DISM   PID=1384 Scratch directory set to 'F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e'. - CDISMManager::put_ScratchDir
+2012-03-11 00:43:43, Info                  DISM   PID=1384 Successfully loaded the ImageSession at "X:\Sources" - CDISMManager::LoadImageSession
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Getting Provider DISMLogger - CDISMProviderStore::GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Getting Provider DISMLogger - CDISMProviderStore::GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Manager: PID=1384 Successfully created the local image session and provider store. - CDISMManager::CreateLocalImageSession
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Getting Provider DISMLogger - CDISMProviderStore::GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: 
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: <----- Starting Dism.exe session ----->
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: 
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Host machine information: OS Version=6.1.7600, Running architecture=x86, Number of processors=2
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Executing command line: X:\Sources\dism.exe  /logpath:F:\$WINDOWS.~BT\Sources\Panther\cbs.log /scratchdir:F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e /image:F:\ /is-serviceable
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Getting the collection of providers from a local provider store type. - CDISMProviderStore::GetProviderCollection
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Loading Provider from location X:\Sources\WimProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Warning               DISM   DISM Provider Store: PID=1384 Failed to Load the provider: X:\Sources\WimProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Loading Provider from location X:\Sources\FolderProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Connecting to the provider located at X:\Sources\FolderProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Loading Provider from location X:\Sources\CompatProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Connecting to the provider located at X:\Sources\CompatProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Got the collection of providers. Now enumerating them to build the command table.
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: FolderManager
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Log Provider
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: Compatibility Manager
+2012-03-11 00:43:43, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: Compatibility Manager.
+2012-03-11 00:43:43, Warning               DISM   DISM.EXE: Failed to load WimManager. Try running from the Deployment Tools Command Prompt. If the issue persists, ensure that wimgapi.dll and wimserv.exe are up to date.
+2012-03-11 00:43:43, Warning               DISM   DISM.EXE: Failed to add any commands.
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Getting the collection of providers from a local provider store type. - CDISMProviderStore::GetProviderCollection
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1384 Getting the collection of providers from a local provider store type. - CDISMProviderStore::GetProviderCollection
+2012-03-11 00:43:43, Info                  DISM   DISM Manager: PID=1384 Successfully loaded the ImageSession at "F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851" - CDISMManager::LoadImageSession
+2012-03-11 00:43:43, Info                  DISM   DISM Image Session: PID=1728 Instantiating the Provider Store. - CDISMImageSession::get_ProviderStore
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1728 Initializing a provider store for the IMAGE session type. - CDISMProviderStore::Final_OnConnect
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\OSProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:43, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\OSProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:43, Info                  DISM   DISM OS Provider: PID=1728 Defaulting SystemPath to F:\ - CDISMOSServiceManager::Final_OnConnect
+2012-03-11 00:43:43, Info                  DISM   DISM OS Provider: PID=1728 msxml6.dll was successfully copied to F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\msxml6.dll - CDISMOSServiceManager::RunASICompatibilityShim
+2012-03-11 00:43:43, Info                  DISM   DISM OS Provider: PID=1728 msxml6r.dll was successfully copied to F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\msxml6r.dll - CDISMOSServiceManager::RunASICompatibilityShim
+2012-03-11 00:43:43, Info                  DISM   DISM OS Provider: PID=1728 Defaulting Windows folder to F:\Windows - CDISMOSServiceManager::Final_OnConnect
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Attempting to initialize the logger from the Image Session. - CDISMProviderStore::Final_OnConnect
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\LogProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\LogProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Getting Provider OSServices - CDISMProviderStore::GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Found and Initialized the DISM Logger. - CDISMProviderStore::Internal_InitializeLogger
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\PEProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Warning               DISM   DISM Provider Store: PID=1728 Failed to Load the provider: F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\PEProvider.dll. - CDISMProviderStore::Internal_GetProvider(hr:0x8007007e)
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Failed to get and initialize the PE Provider.  Continuing by assuming that it is not a WinPE image. - CDISMProviderStore::Final_OnConnect
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Finished initializing the Provider Map. - CDISMProviderStore::Final_OnConnect
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Getting Provider DISMLogger - CDISMProviderStore::GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Manager: PID=1384 Image session successfully loaded from the temporary location: F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851 - CDISMManager::CreateImageSession
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Getting Provider OSServices - CDISMProviderStore::GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM OS Provider: PID=1728 Setting SystemPath to F:\ - CDISMOSServiceManager::SetSystemPath
+2012-03-11 00:43:45, Info                  CSI    00000001 Shim considered [l:252{126}]"\??\F:\Windows\Servicing\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_OBJECT_PATH_NOT_FOUND
+2012-03-11 00:43:45, Info                  CSI    00000002 Shim considered [l:246{123}]"\??\F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_SUCCESS
+2012-03-11 00:43:45, Info                  DISM   DISM.EXE: Target image information: OS Version=6.1.7600.16385, Image architecture=x86
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Getting the collection of providers from an image provider store type. - CDISMProviderStore::GetProviderCollection
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\CbsProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\CbsProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:45, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:45, Info                  CSI    00000001 Shim considered [l:252{126}]"\??\F:\Windows\Servicing\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_OBJECT_PATH_NOT_FOUND
+2012-03-11 00:43:45, Info                  CSI    00000002 Shim considered [l:246{123}]"\??\F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_SUCCESS
+2012-03-11 00:43:45, Info                  DISM   DISM Package Manager: PID=1728 Finished initializing the CbsConUI Handler. - CCbsConUIHandler::Initialize
+2012-03-11 00:43:45, Info                  CSI    00000001 Shim considered [l:252{126}]"\??\F:\Windows\Servicing\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_OBJECT_PATH_NOT_FOUND
+2012-03-11 00:43:45, Info                  CSI    00000002 Shim considered [l:246{123}]"\??\F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_SUCCESS
+2012-03-11 00:43:45, Info                  CBS    Transactions disabled in registry, continuing without transaction support.
+2012-03-11 00:43:45, Info                  CBS    Kernel transactions are disabled, continuing without transaction support.
+2012-03-11 00:43:45, Info                  CBS    Failed to find a matching version for servicing stack: F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\ [HRESULT = 0x80070490 - ERROR_NOT_FOUND]
+2012-03-11 00:43:45, Info                  CBS    Failed to find servicing stack directory in online store. [HRESULT = 0x80070490 - ERROR_NOT_FOUND]
+2012-03-11 00:43:45, Info                  CBS    Must be doing offline servicing, using stack version from: F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\cbscore.dll
+2012-03-11 00:43:45, Info                  CBS    Loaded Servicing Stack v6.1.7600.16385 with Core: F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\cbscore.dll
+2012-03-11 00:43:45, Info                  CSI    00000001@2012/3/11:08:43:45.807 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x71b3d85e @0x71d750a4 @0x71d51695 @0x71e215fd @0x71e217c4 @0x71e0331b)
+2012-03-11 00:43:45, Info                  CSI    00000002@2012/3/11:08:43:45.870 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x71b3d85e @0x71db5d11 @0x71db2b9e @0x71e215fd @0x71e217c4 @0x71e0331b)
+2012-03-11 00:43:45, Info                  DISM   DISM Package Manager: PID=1728 Loaded servicing stack for offline use only. - CDISMPackageManager::RefreshInstanceAndLock
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SOFTWARE' from path '\\?\F:\Windows\System32\config\SOFTWARE'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: SYSTEM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SYSTEM' from path '\\?\F:\Windows\System32\config\SYSTEM'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: SECURITY, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SECURITY' from path '\\?\F:\Windows\System32\config\SECURITY'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: SAM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SAM' from path '\\?\F:\Windows\System32\config\SAM'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: COMPONENTS, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/COMPONENTS' from path '\\?\F:\Windows\System32\config\COMPONENTS'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: DEFAULT, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/DEFAULT' from path '\\?\F:\Windows\System32\config\DEFAULT'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: ntuser.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Users/default/ntuser.dat' from path '\\?\F:\Users\default\ntuser.dat'.
+2012-03-11 00:43:45, Info                  CBS    Loading offline registry hive: schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\F:\Windows\system32\smi\store\Machine\schema.dat'.
+2012-03-11 00:43:46, Info                  CBS    Offline image is: writeable
+2012-03-11 00:43:46, Info                  CSI    00000003 CSI Store 3462888 (0x0034d6e8) initialized
+2012-03-11 00:43:46, Info                  CBS    Session: 1728_3742822 initialized by client DISM Package Manager Provider.
+2012-03-11 00:43:46, Info                  DISM   DISM Package Manager: PID=1728 Loaded servicing stack for offline use only. - CDISMPackageManager::RefreshInstanceAndLock
+2012-03-11 00:43:46, Info                  DISM   DISM Package Manager: PID=1728 Loaded servicing stack for online use only. - CDISMPackageManager::RefreshInstanceAndLock
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\MsiProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\MsiProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\IntlProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\IntlProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\DmiProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\DmiProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  CSI    00000001 Shim considered [l:252{126}]"\??\F:\Windows\Servicing\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_OBJECT_PATH_NOT_FOUND
+2012-03-11 00:43:46, Info                  CSI    00000002 Shim considered [l:246{123}]"\??\F:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7600.16385_none_0935b76c289e0fd5\pkgmgr.exe" : got STATUS_SUCCESS
+2012-03-11 00:43:46, Info                  DISM   DISM OS Provider: PID=1728 Get the registry path to the SOFTWARE hive located at F:\Windows\system32\config\SOFTWARE and determine if it is loaded. - CDISMOSServiceManager::DetermineBootDrive
+2012-03-11 00:43:46, Info                  DISM   DISM Driver Manager: PID=1728 Further logs for driver related operations can be found in the target operating system at %WINDIR%\inf\setupapi.offline.log - CDriverManager::Initialize
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\UnattendProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\UnattendProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\SmiProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\SmiProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has not previously been encountered.  Attempting to initialize the provider. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Loading Provider from location F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\TransmogProvider.dll - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Connecting to the provider located at F:\$WINDOWS.~LS\PackageTemp\ed58eb34-3c46-416f-b732-1a7bc9d98d0e\01060347-722D-4807-A026-9B39A4C56851\TransmogProvider.dll. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Encountered a servicing provider, performing additional servicing initializations. - CDISMProviderStore::Internal_LoadProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Getting Provider DISM Package Manager - CDISMProviderStore::GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Getting Provider DISM Unattend Manager - CDISMProviderStore::GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Got the collection of providers. Now enumerating them to build the command table.
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Package Manager
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DISM Package Manager.
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: OSServices
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: MsiManager
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: MsiManager.
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: IntlManager
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: IntlManager.
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DriverManager
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DriverManager.
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Unattend Manager
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DISM Unattend Manager.
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Log Provider
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SmiManager
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: Edition Manager
+2012-03-11 00:43:46, Info                  DISM   DISM Transmog Provider: PID=1728 Current image session is [OFFLINE] - CTransmogManager::GetMode
+2012-03-11 00:43:46, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: Edition Manager.
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Getting Provider DISM Package Manager - CDISMProviderStore::GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Provider has previously been initialized.  Returning the existing instance. - CDISMProviderStore::Internal_GetProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Package Manager: PID=1728 Processing the top level command token(is-serviceable). - CPackageManagerCLIHandler::Private_ValidateCmdLine
+2012-03-11 00:43:46, Info                  DISM   DISM Package Manager: PID=1728 Attempting to route to appropriate command handler. - CPackageManagerCLIHandler::ExecuteCmdLine
+2012-03-11 00:43:46, Info                  DISM   DISM Package Manager: PID=1728 Routing the command... - CPackageManagerCLIHandler::ExecuteCmdLine
+2012-03-11 00:43:46, Info                  DISM   DISM Image Session: PID=1728 Disconnecting the provider store - CDISMImageSession::Final_OnDisconnect
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(DISM Package Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SOFTWARE
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SOFTWARE, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SYSTEM
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SYSTEM, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SECURITY
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SECURITY, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SAM
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/SAM, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/COMPONENTS
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/COMPONENTS, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/DEFAULT
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/System32/config/DEFAULT, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Users/default/ntuser.dat
+2012-03-11 00:43:46, Info                  CBS    Failed to unload offline registry: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Users/default/ntuser.dat, the client may still need it open. [HRESULT = 0x80070005 - E_ACCESSDENIED]
+2012-03-11 00:43:46, Info                  CBS    Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}F:/Windows/system32/smi/store/Machine/schema.dat
+2012-03-11 00:43:46, Info                  DISM   DISM Package Manager: PID=1728 Finalizing CBS core. - CDISMPackageManager::Finalize
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: DISM Package Manager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(MsiManager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: MsiManager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(IntlManager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: IntlManager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Found the PE Provider.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(DriverManager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: DriverManager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(DISM Unattend Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: DISM Unattend Manager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(SmiManager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: SmiManager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Finalizing the servicing provider(Edition Manager) - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: Edition Manager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Releasing the local reference to OSServices. - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Disconnecting Provider: OSServices - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:46, Info                  DISM   DISM OS Provider: PID=1728 Successfully unloaded all registry hives. - CDISMOSServiceManager::Final_OnDisconnect
+2012-03-11 00:43:46, Info                  DISM   DISM Provider Store: PID=1728 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:47, Info                  DISM   DISM.EXE: Image session has been closed. Reboot required=no.
+2012-03-11 00:43:47, Info                  DISM   DISM.EXE: 
+2012-03-11 00:43:47, Info                  DISM   DISM.EXE: <----- Ending Dism.exe session ----->
+2012-03-11 00:43:47, Info                  DISM   DISM.EXE: 
+2012-03-11 00:43:47, Info                  DISM   DISM Image Session: PID=1384 Disconnecting the provider store - CDISMImageSession::Final_OnDisconnect
+2012-03-11 00:43:47, Info                  DISM   DISM Provider Store: PID=1384 Disconnecting Provider: FolderManager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:47, Info                  DISM   DISM Provider Store: PID=1384 Found the OSServices.  Waiting to finalize it until all other providers are unloaded. - CDISMProviderStore::Final_OnDisconnect
+2012-03-11 00:43:47, Info                  DISM   DISM Provider Store: PID=1384 Disconnecting Provider: Compatibility Manager - CDISMProviderStore::Internal_DisconnectProvider
+2012-03-11 00:43:47, Info                  DISM   DISM Provider Store: PID=1384 Releasing the local reference to DISMLogger.  Stop logging. - CDISMProviderStore::Internal_DisconnectProvider

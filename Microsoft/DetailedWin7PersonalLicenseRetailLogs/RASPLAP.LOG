@@ -1,0 +1,1020 @@
+
+[4676] 03-15 02:21:49:830: CRasProvider::CRasProvider
+[4676] 03-15 02:21:50:173: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4676] 03-15 02:21:50:173: CRasProvider::UnAdvise
+[4676] 03-15 02:21:50:174: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4676] 03-15 02:21:50:175: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4676] 03-15 02:21:50:175: CRasProvider::UnAdvise
+[1364] 03-15 07:41:44:764: CRasProvider::CRasProvider
+[1364] 03-15 07:41:45:968: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1364] 03-15 07:41:45:968: CRasProvider::UnAdvise
+[1364] 03-15 07:41:45:968: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1364] 03-15 07:41:45:968: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1364] 03-15 07:41:45:968: CRasProvider::UnAdvise
+[1364] 03-15 07:42:10:313: CRasProvider::~CRasProvider
+[1364] 03-15 07:42:10:313: CRasProvider::_Cleanup
+[4532] 03-15 09:41:11:511: CRasProvider::CRasProvider
+[1180] 03-15 11:37:37:823: CRasProvider::CRasProvider
+[1180] 03-15 11:37:38:993: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1180] 03-15 11:37:38:993: CRasProvider::UnAdvise
+[1180] 03-15 11:37:38:993: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1180] 03-15 11:37:38:993: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1180] 03-15 11:37:38:993: CRasProvider::UnAdvise
+[1180] 03-15 11:38:12:414: CRasProvider::~CRasProvider
+[1180] 03-15 11:38:12:414: CRasProvider::_Cleanup
+[3164] 03-15 12:54:13:869: CRasProvider::CRasProvider
+[1160] 03-15 23:18:53:213: CRasProvider::CRasProvider
+[1160] 03-15 23:18:54:654: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1160] 03-15 23:18:54:654: CRasProvider::UnAdvise
+[1160] 03-15 23:18:54:654: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1160] 03-15 23:18:54:654: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1160] 03-15 23:18:54:654: CRasProvider::UnAdvise
+[1160] 03-15 23:19:32:384: CRasProvider::~CRasProvider
+[1160] 03-15 23:19:32:384: CRasProvider::_Cleanup
+[5400] 03-15 23:52:02:069: CRasProvider::CRasProvider
+[1176] 03-16 20:19:05:326: CRasProvider::CRasProvider
+[1176] 03-16 20:19:06:242: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1176] 03-16 20:19:06:242: CRasProvider::UnAdvise
+[1176] 03-16 20:19:06:252: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1176] 03-16 20:19:06:252: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1176] 03-16 20:19:06:252: CRasProvider::UnAdvise
+[1176] 03-16 20:20:32:456: CRasProvider::~CRasProvider
+[1176] 03-16 20:20:32:456: CRasProvider::_Cleanup
+[2808] 03-16 20:41:22:751: CRasProvider::CRasProvider
+[980] 03-16 20:42:43:978: CRasProvider::CRasProvider
+[980] 03-16 20:42:48:754: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[980] 03-16 20:42:48:754: CRasProvider::UnAdvise
+[980] 03-16 20:42:48:754: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[980] 03-16 20:42:48:754: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[980] 03-16 20:42:48:764: CRasProvider::UnAdvise
+[980] 03-16 20:43:34:815: CRasProvider::~CRasProvider
+[980] 03-16 20:43:34:815: CRasProvider::_Cleanup
+[1028] 03-17 14:38:17:494: CRasProvider::CRasProvider
+[1028] 03-17 14:38:19:663: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1028] 03-17 14:38:19:663: CRasProvider::UnAdvise
+[1028] 03-17 14:38:19:664: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1028] 03-17 14:38:19:665: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1028] 03-17 14:38:19:665: CRasProvider::UnAdvise
+[1028] 03-17 14:38:39:851: CRasProvider::~CRasProvider
+[1028] 03-17 14:38:39:851: CRasProvider::_Cleanup
+[4404] 03-17 16:35:50:334: CRasProvider::CRasProvider
+[1204] 03-17 16:54:42:922: CRasProvider::CRasProvider
+[1204] 03-17 16:54:48:163: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1204] 03-17 16:54:48:164: CRasProvider::UnAdvise
+[1204] 03-17 16:54:48:164: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1204] 03-17 16:54:48:167: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1204] 03-17 16:54:48:167: CRasProvider::UnAdvise
+[1204] 03-17 16:55:24:527: CRasProvider::~CRasProvider
+[1204] 03-17 16:55:24:527: CRasProvider::_Cleanup
+[4488] 03-17 17:30:19:834: CRasProvider::CRasProvider
+[1244] 03-17 18:50:31:890: CRasProvider::CRasProvider
+[1244] 03-17 18:50:33:511: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1244] 03-17 18:50:33:511: CRasProvider::UnAdvise
+[1244] 03-17 18:50:33:512: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1244] 03-17 18:50:33:514: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1244] 03-17 18:50:33:514: CRasProvider::UnAdvise
+[1244] 03-17 18:50:50:374: CRasProvider::~CRasProvider
+[1244] 03-17 18:50:50:374: CRasProvider::_Cleanup
+[11028] 03-18 00:18:01:441: CRasProvider::CRasProvider
+[11028] 03-18 00:18:05:408: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[11028] 03-18 00:18:05:408: CRasProvider::UnAdvise
+[11028] 03-18 00:18:05:408: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[11028] 03-18 00:18:05:409: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[11028] 03-18 00:18:05:409: CRasProvider::UnAdvise
+[1228] 03-18 16:16:46:598: CRasProvider::CRasProvider
+[1228] 03-18 16:17:08:009: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1228] 03-18 16:17:08:009: CRasProvider::UnAdvise
+[1228] 03-18 16:17:08:009: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1228] 03-18 16:17:08:009: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1228] 03-18 16:17:08:009: CRasProvider::UnAdvise
+[1228] 03-18 16:17:22:841: CRasProvider::~CRasProvider
+[1228] 03-18 16:17:22:841: CRasProvider::_Cleanup
+[2280] 03-18 17:26:30:451: CRasProvider::CRasProvider
+[2280] 03-18 17:26:30:576: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[2280] 03-18 17:26:30:576: CRasProvider::UnAdvise
+[2280] 03-18 18:48:47:903: CRasProvider::~CRasProvider
+[2280] 03-18 18:48:47:903: CRasProvider::_Cleanup
+[6308] 03-18 21:33:14:806: CRasProvider::CRasProvider
+[1268] 03-18 21:37:19:060: CRasProvider::CRasProvider
+[1268] 03-18 21:37:20:480: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1268] 03-18 21:37:20:480: CRasProvider::UnAdvise
+[1268] 03-18 21:37:20:480: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1268] 03-18 21:37:20:480: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1268] 03-18 21:37:20:480: CRasProvider::UnAdvise
+[1268] 03-18 21:38:06:799: CRasProvider::~CRasProvider
+[1268] 03-18 21:38:06:799: CRasProvider::_Cleanup
+[10012] 03-19 00:12:23:859: CRasProvider::CRasProvider
+[1264] 03-19 23:42:17:907: CRasProvider::CRasProvider
+[1264] 03-19 23:42:19:293: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1264] 03-19 23:42:19:293: CRasProvider::UnAdvise
+[1264] 03-19 23:42:19:294: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1264] 03-19 23:42:19:298: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1264] 03-19 23:42:19:298: CRasProvider::UnAdvise
+[1264] 03-19 23:42:49:879: CRasProvider::~CRasProvider
+[1264] 03-19 23:42:49:879: CRasProvider::_Cleanup
+[3056] 03-20 01:11:34:186: CRasProvider::CRasProvider
+[1076] 03-20 10:43:34:505: CRasProvider::CRasProvider
+[1076] 03-20 10:43:38:218: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1076] 03-20 10:43:38:218: CRasProvider::UnAdvise
+[1076] 03-20 10:43:38:218: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1076] 03-20 10:43:38:228: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1076] 03-20 10:43:38:228: CRasProvider::UnAdvise
+[1076] 03-20 10:43:57:176: CRasProvider::~CRasProvider
+[1076] 03-20 10:43:57:176: CRasProvider::_Cleanup
+[5868] 03-20 12:06:38:486: CRasProvider::CRasProvider
+[1240] 03-20 23:31:55:311: CRasProvider::CRasProvider
+[1240] 03-20 23:31:57:261: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1240] 03-20 23:31:57:308: CRasProvider::UnAdvise
+[1240] 03-20 23:31:57:308: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1240] 03-20 23:31:57:308: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1240] 03-20 23:31:57:308: CRasProvider::UnAdvise
+[1240] 03-20 23:32:20:726: CRasProvider::~CRasProvider
+[1240] 03-20 23:32:20:726: CRasProvider::_Cleanup
+[6796] 03-21 04:42:30:013: CRasProvider::CRasProvider
+[6796] 03-21 04:42:31:021: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[6796] 03-21 04:42:31:021: CRasProvider::UnAdvise
+[6796] 03-21 04:42:31:021: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[6796] 03-21 04:42:31:022: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[6796] 03-21 04:42:31:022: CRasProvider::UnAdvise
+[1092] 03-21 23:25:32:630: CRasProvider::CRasProvider
+[1092] 03-21 23:25:33:612: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1092] 03-21 23:25:33:612: CRasProvider::UnAdvise
+[1092] 03-21 23:25:33:612: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1092] 03-21 23:25:33:612: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1092] 03-21 23:25:33:612: CRasProvider::UnAdvise
+[1092] 03-21 23:26:16:353: CRasProvider::~CRasProvider
+[1092] 03-21 23:26:16:353: CRasProvider::_Cleanup
+[2824] 03-22 03:11:53:584: CRasProvider::CRasProvider
+[1112] 03-22 09:48:06:951: CRasProvider::CRasProvider
+[1112] 03-22 09:48:08:324: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1112] 03-22 09:48:08:324: CRasProvider::UnAdvise
+[1112] 03-22 09:48:08:324: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1112] 03-22 09:48:08:324: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1112] 03-22 09:48:08:324: CRasProvider::UnAdvise
+[1112] 03-22 09:48:48:661: CRasProvider::~CRasProvider
+[1112] 03-22 09:48:48:661: CRasProvider::_Cleanup
+[2816] 03-22 09:52:28:353: CRasProvider::CRasProvider
+[1216] 03-22 22:11:11:076: CRasProvider::CRasProvider
+[1216] 03-22 22:11:12:170: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1216] 03-22 22:11:12:170: CRasProvider::UnAdvise
+[1216] 03-22 22:11:12:170: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1216] 03-22 22:11:12:170: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1216] 03-22 22:11:12:170: CRasProvider::UnAdvise
+[1216] 03-22 22:11:52:340: CRasProvider::~CRasProvider
+[1216] 03-22 22:11:52:340: CRasProvider::_Cleanup
+[5724] 03-23 02:18:42:322: CRasProvider::CRasProvider
+[1160] 03-23 19:43:04:801: CRasProvider::CRasProvider
+[1160] 03-23 19:43:05:394: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1160] 03-23 19:43:05:394: CRasProvider::UnAdvise
+[1160] 03-23 19:43:05:394: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1160] 03-23 19:43:05:410: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1160] 03-23 19:43:05:410: CRasProvider::UnAdvise
+[1160] 03-23 19:44:58:370: CRasProvider::~CRasProvider
+[1160] 03-23 19:44:58:370: CRasProvider::_Cleanup
+[5692] 03-23 19:53:59:105: CRasProvider::CRasProvider
+[1080] 03-24 17:39:55:984: CRasProvider::CRasProvider
+[1080] 03-24 17:39:57:138: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1080] 03-24 17:39:57:138: CRasProvider::UnAdvise
+[1080] 03-24 17:39:57:138: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1080] 03-24 17:39:57:138: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1080] 03-24 17:39:57:138: CRasProvider::UnAdvise
+[1080] 03-24 17:40:17:796: CRasProvider::~CRasProvider
+[1080] 03-24 17:40:17:796: CRasProvider::_Cleanup
+[2408] 03-24 22:38:02:277: CRasProvider::CRasProvider
+[2408] 03-24 22:38:02:795: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[2408] 03-24 22:38:02:795: CRasProvider::UnAdvise
+[2408] 03-24 22:41:16:357: CRasProvider::~CRasProvider
+[2408] 03-24 22:41:16:357: CRasProvider::_Cleanup
+[5604] 03-24 22:47:41:200: CRasProvider::CRasProvider
+[1100] 03-24 23:26:07:251: CRasProvider::CRasProvider
+[1100] 03-24 23:26:07:904: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1100] 03-24 23:26:07:904: CRasProvider::UnAdvise
+[1100] 03-24 23:26:07:904: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1100] 03-24 23:26:07:906: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1100] 03-24 23:26:07:906: CRasProvider::UnAdvise
+[1100] 03-24 23:26:26:966: CRasProvider::~CRasProvider
+[1100] 03-24 23:26:26:966: CRasProvider::_Cleanup
+[2388] 03-25 00:38:22:809: CRasProvider::CRasProvider
+[1148] 03-25 13:55:27:135: CRasProvider::CRasProvider
+[1148] 03-25 13:55:29:182: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1148] 03-25 13:55:29:182: CRasProvider::UnAdvise
+[1148] 03-25 13:55:29:182: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1148] 03-25 13:55:29:182: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1148] 03-25 13:55:29:182: CRasProvider::UnAdvise
+[1148] 03-25 13:55:51:016: CRasProvider::~CRasProvider
+[1148] 03-25 13:55:51:016: CRasProvider::_Cleanup
+[6664] 03-25 18:27:29:694: CRasProvider::CRasProvider
+[1096] 03-25 18:38:16:989: CRasProvider::CRasProvider
+[1096] 03-25 18:38:17:697: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1096] 03-25 18:38:17:697: CRasProvider::UnAdvise
+[1096] 03-25 18:38:17:698: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1096] 03-25 18:38:17:700: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1096] 03-25 18:38:17:700: CRasProvider::UnAdvise
+[1096] 03-25 18:46:35:327: CRasProvider::~CRasProvider
+[1096] 03-25 18:46:35:327: CRasProvider::_Cleanup
+[5652] 03-25 19:44:52:935: CRasProvider::CRasProvider
+[5652] 03-25 19:44:52:993: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5652] 03-25 19:44:52:993: CRasProvider::UnAdvise
+[5652] 03-25 19:45:38:005: CRasProvider::~CRasProvider
+[5652] 03-25 19:45:38:005: CRasProvider::_Cleanup
+[7404] 03-26 00:20:48:868: CRasProvider::CRasProvider
+[1332] 03-26 18:32:43:947: CRasProvider::CRasProvider
+[1332] 03-26 18:32:45:425: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1332] 03-26 18:32:45:425: CRasProvider::UnAdvise
+[1332] 03-26 18:32:45:425: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1332] 03-26 18:32:45:435: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1332] 03-26 18:32:45:435: CRasProvider::UnAdvise
+[1332] 03-26 18:33:28:102: CRasProvider::~CRasProvider
+[1332] 03-26 18:33:28:102: CRasProvider::_Cleanup
+[4184] 03-26 20:10:58:805: CRasProvider::CRasProvider
+[1080] 03-28 16:19:15:773: CRasProvider::CRasProvider
+[1080] 03-28 16:19:16:550: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1080] 03-28 16:19:16:550: CRasProvider::UnAdvise
+[1080] 03-28 16:19:16:550: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1080] 03-28 16:19:16:551: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1080] 03-28 16:19:16:551: CRasProvider::UnAdvise
+[1080] 03-28 16:19:39:977: CRasProvider::~CRasProvider
+[1080] 03-28 16:19:39:977: CRasProvider::_Cleanup
+[1064] 03-28 17:54:58:196: CRasProvider::CRasProvider
+[1064] 03-28 17:55:01:040: CRasProvider::~CRasProvider
+[1064] 03-28 17:55:01:040: CRasProvider::_Cleanup
+[1256] 03-28 18:23:10:051: CRasProvider::CRasProvider
+[1156] 03-28 18:47:24:499: CRasProvider::CRasProvider
+[1156] 03-28 18:47:26:903: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1156] 03-28 18:47:26:903: CRasProvider::UnAdvise
+[1156] 03-28 18:47:26:903: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1156] 03-28 18:47:26:903: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1156] 03-28 18:47:26:903: CRasProvider::UnAdvise
+[1156] 03-28 18:47:59:908: CRasProvider::~CRasProvider
+[1156] 03-28 18:47:59:908: CRasProvider::_Cleanup
+[3852] 03-28 19:22:56:236: CRasProvider::CRasProvider
+[1160] 03-28 19:33:23:797: CRasProvider::CRasProvider
+[1160] 03-28 19:33:25:936: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1160] 03-28 19:33:25:936: CRasProvider::UnAdvise
+[1160] 03-28 19:33:25:936: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1160] 03-28 19:33:25:936: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1160] 03-28 19:33:25:936: CRasProvider::UnAdvise
+[1160] 03-28 19:33:58:160: CRasProvider::~CRasProvider
+[1160] 03-28 19:33:58:160: CRasProvider::_Cleanup
+[4364] 03-28 19:42:00:267: CRasProvider::CRasProvider
+[4364] 03-28 20:44:08:535: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[4364] 03-28 20:44:08:729: CRasProvider::UnAdvise
+[4364] 03-28 20:44:14:058: CRasProvider::~CRasProvider
+[4364] 03-28 20:44:14:058: CRasProvider::_Cleanup
+[2624] 03-28 22:23:10:855: CRasProvider::CRasProvider
+[2624] 03-28 22:23:12:469: CRasProvider::~CRasProvider
+[2624] 03-28 22:23:12:469: CRasProvider::_Cleanup
+[5796] 03-28 22:40:36:691: CRasProvider::CRasProvider
+[1176] 03-31 11:05:05:560: CRasProvider::CRasProvider
+[1176] 03-31 11:05:07:200: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1176] 03-31 11:05:07:200: CRasProvider::UnAdvise
+[1176] 03-31 11:05:07:200: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1176] 03-31 11:05:07:200: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1176] 03-31 11:05:07:200: CRasProvider::UnAdvise
+[1176] 03-31 11:05:22:698: CRasProvider::~CRasProvider
+[1176] 03-31 11:05:22:698: CRasProvider::_Cleanup
+[3768] 03-31 14:10:08:689: CRasProvider::CRasProvider
+[1324] 03-31 21:38:59:471: CRasProvider::CRasProvider
+[1324] 03-31 21:39:01:051: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1324] 03-31 21:39:01:051: CRasProvider::UnAdvise
+[1324] 03-31 21:39:01:051: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1324] 03-31 21:39:01:051: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1324] 03-31 21:39:01:051: CRasProvider::UnAdvise
+[1324] 03-31 21:39:18:745: CRasProvider::~CRasProvider
+[1324] 03-31 21:39:18:745: CRasProvider::_Cleanup
+[6216] 03-31 23:31:00:810: CRasProvider::CRasProvider
+[6216] 03-31 23:31:01:206: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[6216] 03-31 23:31:01:206: CRasProvider::UnAdvise
+[6216] 03-31 23:31:01:206: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[6216] 03-31 23:31:01:207: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[6216] 03-31 23:31:01:207: CRasProvider::UnAdvise
+[1104] 04-02 09:57:05:280: CRasProvider::CRasProvider
+[1104] 04-02 09:57:06:434: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1104] 04-02 09:57:06:434: CRasProvider::UnAdvise
+[1104] 04-02 09:57:06:434: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1104] 04-02 09:57:06:434: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1104] 04-02 09:57:06:434: CRasProvider::UnAdvise
+[1104] 04-02 09:57:45:672: CRasProvider::~CRasProvider
+[1104] 04-02 09:57:45:672: CRasProvider::_Cleanup
+[7348] 04-02 10:43:58:676: CRasProvider::CRasProvider
+[1088] 04-02 20:31:43:868: CRasProvider::CRasProvider
+[1088] 04-02 20:31:45:881: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1088] 04-02 20:31:45:881: CRasProvider::UnAdvise
+[1088] 04-02 20:31:45:881: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1088] 04-02 20:31:45:896: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1088] 04-02 20:31:45:896: CRasProvider::UnAdvise
+[1088] 04-02 20:32:14:812: CRasProvider::~CRasProvider
+[1088] 04-02 20:32:14:812: CRasProvider::_Cleanup
+[7608] 04-03 01:42:31:843: CRasProvider::CRasProvider
+[1092] 04-04 22:20:39:771: CRasProvider::CRasProvider
+[1092] 04-04 22:20:40:473: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1092] 04-04 22:20:40:473: CRasProvider::UnAdvise
+[1092] 04-04 22:20:40:473: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1092] 04-04 22:20:40:473: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1092] 04-04 22:20:40:473: CRasProvider::UnAdvise
+[1092] 04-04 22:21:13:368: CRasProvider::~CRasProvider
+[1092] 04-04 22:21:13:368: CRasProvider::_Cleanup
+[6400] 04-05 02:24:08:205: CRasProvider::CRasProvider
+[6400] 04-05 02:24:08:619: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[6400] 04-05 02:24:08:619: CRasProvider::UnAdvise
+[6400] 04-05 02:24:08:619: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[6400] 04-05 02:24:08:620: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[6400] 04-05 02:24:08:620: CRasProvider::UnAdvise
+[1092] 04-05 21:49:49:122: CRasProvider::CRasProvider
+[1092] 04-05 21:49:49:849: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1092] 04-05 21:49:49:849: CRasProvider::UnAdvise
+[1092] 04-05 21:49:49:849: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1092] 04-05 21:49:49:850: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1092] 04-05 21:49:49:850: CRasProvider::UnAdvise
+[1092] 04-05 21:50:23:844: CRasProvider::~CRasProvider
+[1092] 04-05 21:50:23:844: CRasProvider::_Cleanup
+[6344] 04-06 04:14:06:003: CRasProvider::CRasProvider
+[1096] 04-06 22:09:50:506: CRasProvider::CRasProvider
+[1096] 04-06 22:09:51:327: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1096] 04-06 22:09:51:327: CRasProvider::UnAdvise
+[1096] 04-06 22:09:51:327: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1096] 04-06 22:09:51:337: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1096] 04-06 22:09:51:337: CRasProvider::UnAdvise
+[1096] 04-06 22:10:24:364: CRasProvider::~CRasProvider
+[1096] 04-06 22:10:24:364: CRasProvider::_Cleanup
+[3684] 04-06 22:52:18:130: CRasProvider::CRasProvider
+[3684] 04-06 22:52:18:214: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[3684] 04-06 22:52:18:214: CRasProvider::UnAdvise
+[3684] 04-06 23:55:53:901: CRasProvider::~CRasProvider
+[3684] 04-06 23:55:53:901: CRasProvider::_Cleanup
+[6328] 04-07 00:35:33:177: CRasProvider::CRasProvider
+[1092] 04-07 08:45:00:766: CRasProvider::CRasProvider
+[1092] 04-07 08:45:01:154: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1092] 04-07 08:45:01:154: CRasProvider::UnAdvise
+[1092] 04-07 08:45:01:154: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1092] 04-07 08:45:01:154: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1092] 04-07 08:45:01:154: CRasProvider::UnAdvise
+[1092] 04-07 08:45:20:825: CRasProvider::~CRasProvider
+[1092] 04-07 08:45:20:825: CRasProvider::_Cleanup
+[2680] 04-07 09:39:45:673: CRasProvider::CRasProvider
+[1132] 04-07 13:28:19:393: CRasProvider::CRasProvider
+[1132] 04-07 13:28:20:804: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1132] 04-07 13:28:20:804: CRasProvider::UnAdvise
+[1132] 04-07 13:28:20:804: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1132] 04-07 13:28:20:814: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1132] 04-07 13:28:20:814: CRasProvider::UnAdvise
+[1132] 04-07 13:29:04:770: CRasProvider::~CRasProvider
+[1132] 04-07 13:29:04:770: CRasProvider::_Cleanup
+[4112] 04-07 14:51:02:096: CRasProvider::CRasProvider
+[4112] 04-07 14:51:02:388: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4112] 04-07 14:51:02:389: CRasProvider::UnAdvise
+[4112] 04-07 14:51:02:389: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4112] 04-07 14:51:02:390: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4112] 04-07 14:51:02:390: CRasProvider::UnAdvise
+[1076] 04-08 09:42:12:519: CRasProvider::CRasProvider
+[1076] 04-08 09:42:13:875: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1076] 04-08 09:42:13:875: CRasProvider::UnAdvise
+[1076] 04-08 09:42:13:875: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1076] 04-08 09:42:13:885: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1076] 04-08 09:42:13:885: CRasProvider::UnAdvise
+[1076] 04-08 09:42:52:693: CRasProvider::~CRasProvider
+[1076] 04-08 09:42:52:693: CRasProvider::_Cleanup
+[4848] 04-08 10:33:30:085: CRasProvider::CRasProvider
+[4848] 04-08 10:33:30:379: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4848] 04-08 10:33:30:379: CRasProvider::UnAdvise
+[4848] 04-08 10:33:30:380: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4848] 04-08 10:33:30:381: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4848] 04-08 10:33:30:381: CRasProvider::UnAdvise
+[1084] 04-08 19:39:32:212: CRasProvider::CRasProvider
+[1084] 04-08 19:39:32:953: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 04-08 19:39:32:963: CRasProvider::UnAdvise
+[1084] 04-08 19:39:32:963: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 04-08 19:39:32:963: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 04-08 19:39:32:963: CRasProvider::UnAdvise
+[1084] 04-08 19:40:08:101: CRasProvider::~CRasProvider
+[1084] 04-08 19:40:08:101: CRasProvider::_Cleanup
+[7664] 04-08 19:56:08:042: CRasProvider::CRasProvider
+[7664] 04-08 19:56:10:938: CRasProvider::~CRasProvider
+[7664] 04-08 19:56:10:938: CRasProvider::_Cleanup
+[6128] 04-08 19:57:54:756: CRasProvider::CRasProvider
+[6128] 04-08 19:57:55:059: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[6128] 04-08 19:57:55:059: CRasProvider::UnAdvise
+[6128] 04-08 19:57:55:059: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[6128] 04-08 19:57:55:060: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[6128] 04-08 19:57:55:060: CRasProvider::UnAdvise
+[1092] 04-08 20:04:27:221: CRasProvider::CRasProvider
+[1092] 04-08 20:04:28:772: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1092] 04-08 20:04:28:772: CRasProvider::UnAdvise
+[1092] 04-08 20:04:28:772: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1092] 04-08 20:04:28:772: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1092] 04-08 20:04:28:772: CRasProvider::UnAdvise
+[1092] 04-08 20:05:05:455: CRasProvider::~CRasProvider
+[1092] 04-08 20:05:05:455: CRasProvider::_Cleanup
+[5384] 04-08 22:16:26:430: CRasProvider::CRasProvider
+[1116] 04-08 22:18:21:003: CRasProvider::CRasProvider
+[1116] 04-08 22:18:22:440: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1116] 04-08 22:18:22:440: CRasProvider::UnAdvise
+[1116] 04-08 22:18:22:440: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1116] 04-08 22:18:22:440: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1116] 04-08 22:18:22:440: CRasProvider::UnAdvise
+[1116] 04-08 22:19:50:080: CRasProvider::~CRasProvider
+[1116] 04-08 22:19:50:080: CRasProvider::_Cleanup
+[3560] 04-09 00:49:46:202: CRasProvider::CRasProvider
+[1124] 04-10 09:23:25:157: CRasProvider::CRasProvider
+[1124] 04-10 09:23:26:562: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1124] 04-10 09:23:26:562: CRasProvider::UnAdvise
+[1124] 04-10 09:23:26:562: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1124] 04-10 09:23:26:572: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1124] 04-10 09:23:26:572: CRasProvider::UnAdvise
+[1124] 04-10 09:23:41:018: CRasProvider::~CRasProvider
+[1124] 04-10 09:23:41:018: CRasProvider::_Cleanup
+[5640] 04-10 10:01:23:980: CRasProvider::CRasProvider
+[1096] 04-10 22:55:17:739: CRasProvider::CRasProvider
+[1096] 04-10 22:55:18:967: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1096] 04-10 22:55:18:967: CRasProvider::UnAdvise
+[1096] 04-10 22:55:18:968: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1096] 04-10 22:55:18:971: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1096] 04-10 22:55:18:971: CRasProvider::UnAdvise
+[1096] 04-10 22:56:06:160: CRasProvider::~CRasProvider
+[1096] 04-10 22:56:06:160: CRasProvider::_Cleanup
+[3640] 04-10 23:56:03:328: CRasProvider::CRasProvider
+[3640] 04-10 23:56:03:659: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[3640] 04-10 23:56:03:659: CRasProvider::UnAdvise
+[3640] 04-10 23:56:03:659: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[3640] 04-10 23:56:03:660: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[3640] 04-10 23:56:03:660: CRasProvider::UnAdvise
+[1104] 04-11 21:08:18:079: CRasProvider::CRasProvider
+[1104] 04-11 21:08:19:206: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1104] 04-11 21:08:19:206: CRasProvider::UnAdvise
+[1104] 04-11 21:08:19:206: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1104] 04-11 21:08:19:206: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1104] 04-11 21:08:19:206: CRasProvider::UnAdvise
+[1104] 04-11 21:09:06:880: CRasProvider::~CRasProvider
+[1104] 04-11 21:09:06:880: CRasProvider::_Cleanup
+[7440] 04-12 00:54:23:312: CRasProvider::CRasProvider
+[1088] 04-12 22:17:36:308: CRasProvider::CRasProvider
+[1088] 04-12 22:17:36:995: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1088] 04-12 22:17:36:995: CRasProvider::UnAdvise
+[1088] 04-12 22:17:36:995: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1088] 04-12 22:17:37:005: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1088] 04-12 22:17:37:005: CRasProvider::UnAdvise
+[1088] 04-12 22:17:49:428: CRasProvider::~CRasProvider
+[1088] 04-12 22:17:49:428: CRasProvider::_Cleanup
+[2776] 04-12 22:18:40:249: CRasProvider::CRasProvider
+[1084] 04-12 22:28:06:703: CRasProvider::CRasProvider
+[1084] 04-12 22:28:07:401: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 04-12 22:28:07:401: CRasProvider::UnAdvise
+[1084] 04-12 22:28:07:401: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 04-12 22:28:07:406: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 04-12 22:28:07:406: CRasProvider::UnAdvise
+[1084] 04-12 22:28:22:031: CRasProvider::~CRasProvider
+[1084] 04-12 22:28:22:031: CRasProvider::_Cleanup
+[10944] 04-13 03:04:45:185: CRasProvider::CRasProvider
+[1256] 04-13 08:30:21:673: CRasProvider::CRasProvider
+[1256] 04-13 08:30:22:656: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1256] 04-13 08:30:22:656: CRasProvider::UnAdvise
+[1256] 04-13 08:30:22:657: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1256] 04-13 08:30:22:664: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1256] 04-13 08:30:22:664: CRasProvider::UnAdvise
+[1256] 04-13 08:30:39:252: CRasProvider::~CRasProvider
+[1256] 04-13 08:30:39:252: CRasProvider::_Cleanup
+[6092] 04-13 08:52:39:701: CRasProvider::CRasProvider
+[1192] 04-13 09:31:05:100: CRasProvider::CRasProvider
+[1192] 04-13 09:31:34:398: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1192] 04-13 09:31:34:398: CRasProvider::UnAdvise
+[1192] 04-13 09:31:34:398: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1192] 04-13 09:31:34:414: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1192] 04-13 09:31:34:414: CRasProvider::UnAdvise
+[1192] 04-13 09:31:44:070: CRasProvider::~CRasProvider
+[1192] 04-13 09:31:44:070: CRasProvider::_Cleanup
+[1128] 04-13 09:42:40:813: CRasProvider::CRasProvider
+[1172] 04-14 11:12:59:912: CRasProvider::CRasProvider
+[1172] 04-14 11:13:02:450: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1172] 04-14 11:13:02:450: CRasProvider::UnAdvise
+[1172] 04-14 11:13:02:450: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1172] 04-14 11:13:02:450: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1172] 04-14 11:13:02:450: CRasProvider::UnAdvise
+[1172] 04-14 11:13:18:954: CRasProvider::~CRasProvider
+[1172] 04-14 11:13:18:954: CRasProvider::_Cleanup
+[5872] 04-14 11:38:30:978: CRasProvider::CRasProvider
+[1216] 04-14 14:48:44:366: CRasProvider::CRasProvider
+[1216] 04-14 14:48:46:270: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1216] 04-14 14:48:46:270: CRasProvider::UnAdvise
+[1216] 04-14 14:48:46:270: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1216] 04-14 14:48:46:280: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1216] 04-14 14:48:46:280: CRasProvider::UnAdvise
+[1216] 04-14 14:49:02:451: CRasProvider::~CRasProvider
+[1216] 04-14 14:49:02:451: CRasProvider::_Cleanup
+[10036] 04-15 02:48:40:449: CRasProvider::CRasProvider
+[1088] 04-15 11:41:14:077: CRasProvider::CRasProvider
+[1088] 04-15 11:41:14:925: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1088] 04-15 11:41:14:925: CRasProvider::UnAdvise
+[1088] 04-15 11:41:14:925: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1088] 04-15 11:41:14:925: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1088] 04-15 11:41:14:925: CRasProvider::UnAdvise
+[1088] 04-15 12:26:00:181: CRasProvider::~CRasProvider
+[1088] 04-15 12:26:00:181: CRasProvider::_Cleanup
+[3556] 04-15 15:02:27:743: CRasProvider::CRasProvider
+[3556] 04-15 15:02:27:870: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[3556] 04-15 15:02:27:870: CRasProvider::UnAdvise
+[3556] 04-15 15:12:40:255: CRasProvider::~CRasProvider
+[3556] 04-15 15:12:40:255: CRasProvider::_Cleanup
+[396] 04-15 15:44:10:929: CRasProvider::CRasProvider
+[396] 04-15 15:44:10:982: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[396] 04-15 15:44:10:982: CRasProvider::UnAdvise
+[396] 04-15 22:32:07:952: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[396] 04-15 22:32:07:953: CRasProvider::UnAdvise
+[396] 04-15 22:34:10:443: CRasProvider::~CRasProvider
+[396] 04-15 22:34:10:444: CRasProvider::_Cleanup
+[5192] 04-15 23:23:41:579: CRasProvider::CRasProvider
+[1188] 04-16 21:42:40:538: CRasProvider::CRasProvider
+[1188] 04-16 21:42:41:910: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1188] 04-16 21:42:41:910: CRasProvider::UnAdvise
+[1188] 04-16 21:42:41:910: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1188] 04-16 21:42:41:910: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1188] 04-16 21:42:41:910: CRasProvider::UnAdvise
+[1188] 04-16 21:42:57:243: CRasProvider::~CRasProvider
+[1188] 04-16 21:42:57:243: CRasProvider::_Cleanup
+[5484] 04-16 23:08:29:057: CRasProvider::CRasProvider
+[1132] 04-17 07:37:12:710: CRasProvider::CRasProvider
+[1132] 04-17 07:37:13:970: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1132] 04-17 07:37:13:970: CRasProvider::UnAdvise
+[1132] 04-17 07:37:13:970: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1132] 04-17 07:37:13:971: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1132] 04-17 07:37:13:971: CRasProvider::UnAdvise
+[1132] 04-17 07:37:42:701: CRasProvider::~CRasProvider
+[1132] 04-17 07:37:42:701: CRasProvider::_Cleanup
+[4976] 04-17 08:40:23:136: CRasProvider::CRasProvider
+[1164] 04-17 10:05:11:616: CRasProvider::CRasProvider
+[1164] 04-17 10:05:12:809: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1164] 04-17 10:05:12:810: CRasProvider::UnAdvise
+[1164] 04-17 10:05:12:810: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1164] 04-17 10:05:12:811: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1164] 04-17 10:05:12:811: CRasProvider::UnAdvise
+[1164] 04-17 10:05:28:065: CRasProvider::~CRasProvider
+[1164] 04-17 10:05:28:065: CRasProvider::_Cleanup
+[5156] 04-17 14:28:06:729: CRasProvider::CRasProvider
+[5156] 04-17 14:28:06:779: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5156] 04-17 14:28:06:779: CRasProvider::UnAdvise
+[5156] 04-17 16:09:32:906: CRasProvider::~CRasProvider
+[5156] 04-17 16:09:32:906: CRasProvider::_Cleanup
+[5516] 04-17 20:24:21:438: CRasProvider::CRasProvider
+[5516] 04-17 20:24:21:474: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5516] 04-17 20:24:21:474: CRasProvider::UnAdvise
+[5516] 04-17 20:30:26:445: CRasProvider::~CRasProvider
+[5516] 04-17 20:30:26:445: CRasProvider::_Cleanup
+[5448] 04-17 21:00:49:928: CRasProvider::CRasProvider
+[5448] 04-17 21:00:49:964: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5448] 04-17 21:00:49:964: CRasProvider::UnAdvise
+[5448] 04-17 21:44:18:462: CRasProvider::~CRasProvider
+[5448] 04-17 21:44:18:462: CRasProvider::_Cleanup
+[644] 04-17 23:26:16:148: CRasProvider::CRasProvider
+[1084] 04-18 22:15:26:976: CRasProvider::CRasProvider
+[1084] 04-18 22:15:27:785: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 04-18 22:15:27:785: CRasProvider::UnAdvise
+[1084] 04-18 22:15:27:785: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 04-18 22:15:27:786: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 04-18 22:15:27:786: CRasProvider::UnAdvise
+[1084] 04-18 22:15:41:604: CRasProvider::~CRasProvider
+[1084] 04-18 22:15:41:604: CRasProvider::_Cleanup
+[5448] 04-18 22:40:25:835: CRasProvider::CRasProvider
+[1176] 04-19 01:01:30:508: CRasProvider::CRasProvider
+[1176] 04-19 01:01:31:521: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1176] 04-19 01:01:31:521: CRasProvider::UnAdvise
+[1176] 04-19 01:01:31:522: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1176] 04-19 01:01:31:523: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1176] 04-19 01:01:31:523: CRasProvider::UnAdvise
+[1176] 04-19 01:04:47:790: CRasProvider::~CRasProvider
+[1176] 04-19 01:04:47:790: CRasProvider::_Cleanup
+[8588] 04-19 03:25:42:410: CRasProvider::CRasProvider
+[1112] 04-19 11:23:55:859: CRasProvider::CRasProvider
+[1112] 04-19 11:23:56:530: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1112] 04-19 11:23:56:530: CRasProvider::UnAdvise
+[1112] 04-19 11:23:56:530: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1112] 04-19 11:23:56:546: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1112] 04-19 11:23:56:546: CRasProvider::UnAdvise
+[1112] 04-19 11:24:11:952: CRasProvider::~CRasProvider
+[1112] 04-19 11:24:11:952: CRasProvider::_Cleanup
+[4524] 04-19 11:31:01:415: CRasProvider::CRasProvider
+[1216] 04-21 18:42:20:822: CRasProvider::CRasProvider
+[1216] 04-21 18:42:22:093: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1216] 04-21 18:42:22:093: CRasProvider::UnAdvise
+[1216] 04-21 18:42:22:103: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1216] 04-21 18:42:22:103: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1216] 04-21 18:42:22:103: CRasProvider::UnAdvise
+[1216] 04-21 18:42:38:480: CRasProvider::~CRasProvider
+[1216] 04-21 18:42:38:480: CRasProvider::_Cleanup
+[1328] 04-22 00:30:52:944: CRasProvider::CRasProvider
+[1328] 04-22 13:49:57:201: CRasProvider::~CRasProvider
+[1328] 04-22 13:49:57:213: CRasProvider::_Cleanup
+[11160] 04-22 13:50:52:868: CRasProvider::CRasProvider
+[11160] 04-22 13:50:53:527: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[11160] 04-22 13:50:53:527: CRasProvider::UnAdvise
+[11160] 04-22 13:50:53:527: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[11160] 04-22 13:50:53:528: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[11160] 04-22 13:50:53:528: CRasProvider::UnAdvise
+[11160] 04-22 13:51:03:420: CRasProvider::~CRasProvider
+[11160] 04-22 13:51:03:420: CRasProvider::_Cleanup
+[11856] 04-22 15:02:38:401: CRasProvider::CRasProvider
+[1084] 04-22 16:32:57:977: CRasProvider::CRasProvider
+[1084] 04-22 16:32:58:866: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 04-22 16:32:58:866: CRasProvider::UnAdvise
+[1084] 04-22 16:32:58:866: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 04-22 16:32:58:867: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 04-22 16:32:58:867: CRasProvider::UnAdvise
+[1084] 04-22 16:33:12:985: CRasProvider::~CRasProvider
+[1084] 04-22 16:33:12:985: CRasProvider::_Cleanup
+[4040] 04-22 19:16:36:707: CRasProvider::CRasProvider
+[1084] 04-23 04:57:16:402: CRasProvider::CRasProvider
+[1084] 04-23 04:57:17:072: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 04-23 04:57:17:072: CRasProvider::UnAdvise
+[1084] 04-23 04:57:17:072: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 04-23 04:57:17:088: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 04-23 04:57:17:088: CRasProvider::UnAdvise
+[1084] 04-23 04:57:26:232: CRasProvider::~CRasProvider
+[1084] 04-23 04:57:26:232: CRasProvider::_Cleanup
+[4808] 04-23 00:14:00:780: CRasProvider::CRasProvider
+[1344] 04-23 21:17:27:803: CRasProvider::CRasProvider
+[1344] 04-23 21:17:28:428: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1344] 04-23 21:17:28:428: CRasProvider::UnAdvise
+[1344] 04-23 21:17:28:428: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1344] 04-23 21:17:28:428: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1344] 04-23 21:17:28:428: CRasProvider::UnAdvise
+[1344] 04-23 21:17:49:726: CRasProvider::~CRasProvider
+[1344] 04-23 21:17:49:726: CRasProvider::_Cleanup
+[5084] 04-23 23:03:53:194: CRasProvider::CRasProvider
+[5084] 04-23 23:03:53:257: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5084] 04-23 23:03:53:257: CRasProvider::UnAdvise
+[5084] 04-23 23:21:06:746: CRasProvider::~CRasProvider
+[5084] 04-23 23:21:06:746: CRasProvider::_Cleanup
+[3360] 04-23 23:25:07:169: CRasProvider::CRasProvider
+[1084] 04-24 23:25:29:160: CRasProvider::CRasProvider
+[1084] 04-24 23:25:29:928: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 04-24 23:25:29:929: CRasProvider::UnAdvise
+[1084] 04-24 23:25:29:929: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 04-24 23:25:29:934: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 04-24 23:25:29:934: CRasProvider::UnAdvise
+[1084] 04-24 23:25:42:389: CRasProvider::~CRasProvider
+[1084] 04-24 23:25:42:389: CRasProvider::_Cleanup
+[1380] 04-24 23:27:41:604: CRasProvider::CRasProvider
+[1380] 04-24 23:27:46:829: CRasProvider::~CRasProvider
+[1380] 04-24 23:27:46:829: CRasProvider::_Cleanup
+[8912] 04-25 01:51:55:099: CRasProvider::CRasProvider
+[1108] 04-25 11:55:47:654: CRasProvider::CRasProvider
+[1108] 04-25 11:55:48:184: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1108] 04-25 11:55:48:184: CRasProvider::UnAdvise
+[1108] 04-25 11:55:48:184: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1108] 04-25 11:55:48:200: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1108] 04-25 11:55:48:200: CRasProvider::UnAdvise
+[1108] 04-25 11:56:03:154: CRasProvider::~CRasProvider
+[1108] 04-25 11:56:03:154: CRasProvider::_Cleanup
+[4292] 04-25 12:06:56:663: CRasProvider::CRasProvider
+[4292] 04-25 12:06:56:965: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4292] 04-25 12:06:56:965: CRasProvider::UnAdvise
+[4292] 04-25 12:06:56:965: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4292] 04-25 12:06:56:967: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4292] 04-25 12:06:56:967: CRasProvider::UnAdvise
+[4292] 04-25 18:07:24:535: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4292] 04-25 18:07:24:535: CRasProvider::UnAdvise
+[4292] 04-25 18:07:24:536: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4292] 04-25 18:07:24:536: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4292] 04-25 18:07:24:536: CRasProvider::UnAdvise
+[4292] 04-25 23:35:13:660: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4292] 04-25 23:35:13:660: CRasProvider::UnAdvise
+[4292] 04-25 23:35:13:661: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4292] 04-25 23:35:13:662: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4292] 04-25 23:35:13:662: CRasProvider::UnAdvise
+[4292] 04-25 23:35:30:210: CRasProvider::~CRasProvider
+[4292] 04-25 23:35:30:210: CRasProvider::_Cleanup
+[6136] 04-26 00:27:09:262: CRasProvider::CRasProvider
+[6136] 04-26 00:27:16:313: CRasProvider::~CRasProvider
+[6136] 04-26 00:27:16:314: CRasProvider::_Cleanup
+[5472] 04-26 00:27:16:553: CRasProvider::CRasProvider
+[5472] 04-26 00:27:16:837: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[5472] 04-26 00:27:16:837: CRasProvider::UnAdvise
+[5472] 04-26 00:27:16:838: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[5472] 04-26 00:27:16:838: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[5472] 04-26 00:27:16:838: CRasProvider::UnAdvise
+[1296] 04-27 12:52:42:618: CRasProvider::CRasProvider
+[1296] 04-27 12:52:43:258: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1296] 04-27 12:52:43:258: CRasProvider::UnAdvise
+[1296] 04-27 12:52:43:258: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1296] 04-27 12:52:43:258: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1296] 04-27 12:52:43:258: CRasProvider::UnAdvise
+[1296] 04-27 12:53:02:798: CRasProvider::~CRasProvider
+[1296] 04-27 12:53:02:798: CRasProvider::_Cleanup
+[5348] 04-27 17:14:34:337: CRasProvider::CRasProvider
+[1312] 04-27 19:32:15:679: CRasProvider::CRasProvider
+[1312] 04-27 19:32:16:277: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1312] 04-27 19:32:16:277: CRasProvider::UnAdvise
+[1312] 04-27 19:32:16:277: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1312] 04-27 19:32:16:300: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1312] 04-27 19:32:16:300: CRasProvider::UnAdvise
+[1312] 04-27 19:32:34:980: CRasProvider::~CRasProvider
+[1312] 04-27 19:32:34:980: CRasProvider::_Cleanup
+[5412] 04-27 20:10:26:512: CRasProvider::CRasProvider
+[5412] 04-27 20:10:26:624: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5412] 04-27 20:10:26:624: CRasProvider::UnAdvise
+[5412] 04-27 20:11:27:477: CRasProvider::~CRasProvider
+[5412] 04-27 20:11:27:477: CRasProvider::_Cleanup
+[4212] 04-27 20:11:41:075: CRasProvider::CRasProvider
+[1280] 04-28 07:50:03:396: CRasProvider::CRasProvider
+[1280] 04-28 07:50:04:114: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1280] 04-28 07:50:04:114: CRasProvider::UnAdvise
+[1280] 04-28 07:50:04:114: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1280] 04-28 07:50:04:135: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1280] 04-28 07:50:04:135: CRasProvider::UnAdvise
+[1280] 04-28 07:50:23:378: CRasProvider::~CRasProvider
+[1280] 04-28 07:50:23:378: CRasProvider::_Cleanup
+[5576] 04-28 07:51:00:437: CRasProvider::CRasProvider
+[5576] 04-28 07:51:12:435: CRasProvider::~CRasProvider
+[5576] 04-28 07:51:12:435: CRasProvider::_Cleanup
+[4724] 04-28 07:51:12:684: CRasProvider::CRasProvider
+[4724] 04-28 07:51:12:981: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4724] 04-28 07:51:12:981: CRasProvider::UnAdvise
+[4724] 04-28 07:51:12:981: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4724] 04-28 07:51:12:981: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4724] 04-28 07:51:12:981: CRasProvider::UnAdvise
+[4724] 04-28 07:51:40:998: CRasProvider::~CRasProvider
+[4724] 04-28 07:51:40:998: CRasProvider::_Cleanup
+[1272] 04-28 09:17:47:359: CRasProvider::CRasProvider
+[1272] 04-28 09:17:47:508: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[1272] 04-28 09:17:47:508: CRasProvider::UnAdvise
+[1272] 04-28 09:52:43:953: CRasProvider::~CRasProvider
+[1272] 04-28 09:52:43:953: CRasProvider::_Cleanup
+[4592] 04-28 10:03:44:238: CRasProvider::CRasProvider
+[1088] 04-28 14:16:59:150: CRasProvider::CRasProvider
+[1088] 04-28 14:17:00:006: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1088] 04-28 14:17:00:006: CRasProvider::UnAdvise
+[1088] 04-28 14:17:00:006: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1088] 04-28 14:17:00:006: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1088] 04-28 14:17:00:006: CRasProvider::UnAdvise
+[1088] 04-28 14:17:33:036: CRasProvider::~CRasProvider
+[1088] 04-28 14:17:33:036: CRasProvider::_Cleanup
+[4896] 04-28 14:29:50:506: CRasProvider::CRasProvider
+[1340] 04-28 15:03:02:572: CRasProvider::CRasProvider
+[1340] 04-28 15:03:02:970: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1340] 04-28 15:03:02:970: CRasProvider::UnAdvise
+[1340] 04-28 15:03:02:970: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1340] 04-28 15:03:02:970: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1340] 04-28 15:03:02:970: CRasProvider::UnAdvise
+[1340] 04-28 15:03:18:283: CRasProvider::~CRasProvider
+[1340] 04-28 15:03:18:283: CRasProvider::_Cleanup
+[1108] 04-28 20:03:28:082: CRasProvider::CRasProvider
+[1108] 04-28 20:03:28:995: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1108] 04-28 20:03:28:995: CRasProvider::UnAdvise
+[1108] 04-28 20:03:28:995: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1108] 04-28 20:03:28:995: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1108] 04-28 20:03:28:995: CRasProvider::UnAdvise
+[1108] 04-28 20:03:45:643: CRasProvider::~CRasProvider
+[1108] 04-28 20:03:45:643: CRasProvider::_Cleanup
+[3744] 04-29 00:30:13:213: CRasProvider::CRasProvider
+[1048] 04-29 09:10:49:300: CRasProvider::CRasProvider
+[1048] 04-29 09:10:50:228: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1048] 04-29 09:10:50:228: CRasProvider::UnAdvise
+[1048] 04-29 09:10:50:228: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1048] 04-29 09:10:50:238: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1048] 04-29 09:10:50:238: CRasProvider::UnAdvise
+[1048] 04-29 09:11:02:528: CRasProvider::~CRasProvider
+[1048] 04-29 09:11:02:528: CRasProvider::_Cleanup
+[4508] 04-29 11:35:43:189: CRasProvider::CRasProvider
+[1320] 04-29 13:55:14:760: CRasProvider::CRasProvider
+[1320] 04-29 13:55:15:565: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1320] 04-29 13:55:15:565: CRasProvider::UnAdvise
+[1320] 04-29 13:55:15:565: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1320] 04-29 13:55:15:579: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1320] 04-29 13:55:15:579: CRasProvider::UnAdvise
+[1320] 04-29 13:55:39:261: CRasProvider::~CRasProvider
+[1320] 04-29 13:55:39:261: CRasProvider::_Cleanup
+[3616] 04-29 14:55:02:453: CRasProvider::CRasProvider
+[1308] 04-30 07:43:16:727: CRasProvider::CRasProvider
+[1308] 04-30 07:43:17:571: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1308] 04-30 07:43:17:572: CRasProvider::UnAdvise
+[1308] 04-30 07:43:17:572: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1308] 04-30 07:43:17:577: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1308] 04-30 07:43:17:577: CRasProvider::UnAdvise
+[1308] 04-30 07:43:36:467: CRasProvider::~CRasProvider
+[1308] 04-30 07:43:36:467: CRasProvider::_Cleanup
+[5424] 04-30 08:19:43:612: CRasProvider::CRasProvider
+[5424] 04-30 08:19:43:687: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5424] 04-30 08:19:43:687: CRasProvider::UnAdvise
+[5424] 04-30 08:35:56:091: CRasProvider::~CRasProvider
+[5424] 04-30 08:35:56:091: CRasProvider::_Cleanup
+[3144] 04-30 08:46:49:824: CRasProvider::CRasProvider
+[1468] 04-30 20:23:18:614: CRasProvider::CRasProvider
+[1468] 04-30 20:23:18:994: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1468] 04-30 20:23:18:994: CRasProvider::UnAdvise
+[1468] 04-30 20:23:18:994: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1468] 04-30 20:23:18:994: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1468] 04-30 20:23:18:994: CRasProvider::UnAdvise
+[1468] 04-30 20:24:47:654: CRasProvider::~CRasProvider
+[1468] 04-30 20:24:47:654: CRasProvider::_Cleanup
+[5164] 04-30 21:13:37:768: CRasProvider::CRasProvider
+[5164] 04-30 21:13:37:816: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[5164] 04-30 21:13:37:816: CRasProvider::UnAdvise
+[5164] 04-30 21:28:49:362: CRasProvider::~CRasProvider
+[5164] 04-30 21:28:49:362: CRasProvider::_Cleanup
+[3728] 04-30 21:34:53:900: CRasProvider::CRasProvider
+[1356] 04-30 21:55:18:617: CRasProvider::CRasProvider
+[1356] 04-30 21:55:18:991: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1356] 04-30 21:55:18:991: CRasProvider::UnAdvise
+[1356] 04-30 21:55:18:991: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1356] 04-30 21:55:18:991: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1356] 04-30 21:55:18:991: CRasProvider::UnAdvise
+[1356] 04-30 21:55:39:365: CRasProvider::~CRasProvider
+[1356] 04-30 21:55:39:365: CRasProvider::_Cleanup
+[1944] 05-01 00:48:23:376: CRasProvider::CRasProvider
+[1072] 05-01 09:34:23:103: CRasProvider::CRasProvider
+[1072] 05-01 09:34:24:028: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1072] 05-01 09:34:24:028: CRasProvider::UnAdvise
+[1072] 05-01 09:34:24:028: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1072] 05-01 09:34:24:029: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1072] 05-01 09:34:24:029: CRasProvider::UnAdvise
+[1072] 05-01 09:34:42:791: CRasProvider::~CRasProvider
+[1072] 05-01 09:34:42:791: CRasProvider::_Cleanup
+[3440] 05-01 11:41:06:157: CRasProvider::CRasProvider
+[3440] 05-01 11:41:06:229: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[3440] 05-01 11:41:06:229: CRasProvider::UnAdvise
+[3440] 05-01 12:26:39:590: CRasProvider::~CRasProvider
+[3440] 05-01 12:26:39:590: CRasProvider::_Cleanup
+[4040] 05-01 12:28:12:697: CRasProvider::CRasProvider
+[1316] 05-01 14:04:45:916: CRasProvider::CRasProvider
+[1316] 05-01 14:04:46:821: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1316] 05-01 14:04:46:821: CRasProvider::UnAdvise
+[1316] 05-01 14:04:46:855: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1316] 05-01 14:04:46:860: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1316] 05-01 14:04:46:860: CRasProvider::UnAdvise
+[1316] 05-01 14:05:03:429: CRasProvider::~CRasProvider
+[1316] 05-01 14:05:03:429: CRasProvider::_Cleanup
+[4384] 05-01 14:37:55:038: CRasProvider::CRasProvider
+[1288] 05-01 16:45:55:633: CRasProvider::CRasProvider
+[1288] 05-01 16:45:56:018: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1288] 05-01 16:45:56:018: CRasProvider::UnAdvise
+[1288] 05-01 16:45:56:018: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1288] 05-01 16:45:56:018: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1288] 05-01 16:45:56:018: CRasProvider::UnAdvise
+[1288] 05-01 16:46:13:173: CRasProvider::~CRasProvider
+[1288] 05-01 16:46:13:173: CRasProvider::_Cleanup
+[4516] 05-01 22:30:59:201: CRasProvider::CRasProvider
+[2908] 05-01 22:31:29:980: CRasProvider::CRasProvider
+[1008] 05-03 21:55:43:446: CRasProvider::CRasProvider
+[1008] 05-03 21:55:44:343: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1008] 05-03 21:55:44:343: CRasProvider::UnAdvise
+[1008] 05-03 21:55:44:343: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1008] 05-03 21:55:44:343: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1008] 05-03 21:55:44:343: CRasProvider::UnAdvise
+[1008] 05-03 21:56:01:340: CRasProvider::~CRasProvider
+[1008] 05-03 21:56:01:340: CRasProvider::_Cleanup
+[3316] 05-04 00:20:06:933: CRasProvider::CRasProvider
+[1028] 05-04 05:55:37:804: CRasProvider::CRasProvider
+[1028] 05-04 05:55:38:666: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1028] 05-04 05:55:38:666: CRasProvider::UnAdvise
+[1028] 05-04 05:55:38:666: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1028] 05-04 05:55:38:666: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1028] 05-04 05:55:38:666: CRasProvider::UnAdvise
+[1028] 05-04 05:55:50:082: CRasProvider::~CRasProvider
+[1028] 05-04 05:55:50:082: CRasProvider::_Cleanup
+[5972] 05-04 07:28:30:971: CRasProvider::CRasProvider
+[1088] 05-05 18:58:20:088: CRasProvider::CRasProvider
+[1088] 05-05 18:58:20:690: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1088] 05-05 18:58:20:690: CRasProvider::UnAdvise
+[1088] 05-05 18:58:20:690: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1088] 05-05 18:58:20:690: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1088] 05-05 18:58:20:690: CRasProvider::UnAdvise
+[1088] 05-05 18:58:35:976: CRasProvider::~CRasProvider
+[1088] 05-05 18:58:35:976: CRasProvider::_Cleanup
+[6848] 05-06 02:36:07:181: CRasProvider::CRasProvider
+[1088] 05-06 15:51:38:116: CRasProvider::CRasProvider
+[1088] 05-06 15:51:38:897: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1088] 05-06 15:51:38:897: CRasProvider::UnAdvise
+[1088] 05-06 15:51:38:897: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1088] 05-06 15:51:38:898: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1088] 05-06 15:51:38:898: CRasProvider::UnAdvise
+[1088] 05-06 15:51:52:816: CRasProvider::~CRasProvider
+[1088] 05-06 15:51:52:816: CRasProvider::_Cleanup
+[172] 05-06 18:14:02:439: CRasProvider::CRasProvider
+[1336] 05-06 18:25:46:696: CRasProvider::CRasProvider
+[1336] 05-06 18:25:47:527: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1336] 05-06 18:25:47:527: CRasProvider::UnAdvise
+[1336] 05-06 18:25:47:527: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1336] 05-06 18:25:47:543: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1336] 05-06 18:25:47:543: CRasProvider::UnAdvise
+[1336] 05-06 18:26:07:175: CRasProvider::~CRasProvider
+[1336] 05-06 18:26:07:175: CRasProvider::_Cleanup
+[5052] 05-06 19:04:06:216: CRasProvider::CRasProvider
+[1308] 05-06 19:38:26:900: CRasProvider::CRasProvider
+[1308] 05-06 19:38:27:376: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1308] 05-06 19:38:27:376: CRasProvider::UnAdvise
+[1308] 05-06 19:38:27:376: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1308] 05-06 19:38:27:376: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1308] 05-06 19:38:27:376: CRasProvider::UnAdvise
+[1308] 05-06 19:38:50:129: CRasProvider::~CRasProvider
+[1308] 05-06 19:38:50:129: CRasProvider::_Cleanup
+[3292] 05-06 19:49:42:466: CRasProvider::CRasProvider
+[1348] 05-06 21:46:27:963: CRasProvider::CRasProvider
+[1348] 05-06 21:46:28:938: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1348] 05-06 21:46:28:938: CRasProvider::UnAdvise
+[1348] 05-06 21:46:28:938: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1348] 05-06 21:46:28:938: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1348] 05-06 21:46:28:938: CRasProvider::UnAdvise
+[1348] 05-06 21:46:47:380: CRasProvider::~CRasProvider
+[1348] 05-06 21:46:47:380: CRasProvider::_Cleanup
+[3384] 05-06 22:18:39:601: CRasProvider::CRasProvider
+[1060] 05-08 16:48:35:282: CRasProvider::CRasProvider
+[1060] 05-08 16:48:36:054: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1060] 05-08 16:48:36:054: CRasProvider::UnAdvise
+[1060] 05-08 16:48:36:070: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1060] 05-08 16:48:36:070: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1060] 05-08 16:48:36:070: CRasProvider::UnAdvise
+[1060] 05-08 16:48:45:387: CRasProvider::~CRasProvider
+[1060] 05-08 16:48:45:387: CRasProvider::_Cleanup
+[4500] 05-08 16:54:59:870: CRasProvider::CRasProvider
+[1328] 05-08 18:47:05:401: CRasProvider::CRasProvider
+[1328] 05-08 18:47:06:290: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1328] 05-08 18:47:06:290: CRasProvider::UnAdvise
+[1328] 05-08 18:47:06:290: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1328] 05-08 18:47:06:290: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1328] 05-08 18:47:06:290: CRasProvider::UnAdvise
+[1328] 05-08 18:47:25:106: CRasProvider::~CRasProvider
+[1328] 05-08 18:47:25:106: CRasProvider::_Cleanup
+[8188] 05-08 19:17:33:680: CRasProvider::CRasProvider
+[8188] 05-08 19:37:47:427: CRasProvider::SetUsageScenario: Scenario: 0x00000002, flags: 0x00000000
+[8188] 05-08 19:37:47:455: CRasProvider::UnAdvise
+[8188] 05-08 19:37:53:540: CRasProvider::~CRasProvider
+[8188] 05-08 19:37:53:540: CRasProvider::_Cleanup
+[4696] 05-08 23:49:16:783: CRasProvider::CRasProvider
+[4696] 05-08 23:49:17:772: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[4696] 05-08 23:49:17:772: CRasProvider::UnAdvise
+[4696] 05-08 23:49:17:772: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[4696] 05-08 23:49:17:773: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[4696] 05-08 23:49:17:773: CRasProvider::UnAdvise
+[4696] 05-08 23:49:29:053: CRasProvider::~CRasProvider
+[4696] 05-08 23:49:29:053: CRasProvider::_Cleanup
+[3552] 05-09 00:00:47:172: CRasProvider::CRasProvider
+[3552] 05-09 00:00:47:551: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[3552] 05-09 00:00:47:551: CRasProvider::UnAdvise
+[3552] 05-09 00:00:47:551: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[3552] 05-09 00:00:47:552: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[3552] 05-09 00:00:47:552: CRasProvider::UnAdvise
+[3552] 05-09 17:20:23:094: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[3552] 05-09 17:20:23:094: CRasProvider::UnAdvise
+[3552] 05-09 17:20:23:095: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[3552] 05-09 17:20:23:095: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[3552] 05-09 17:20:23:095: CRasProvider::UnAdvise
+[3552] 05-09 17:20:42:106: CRasProvider::~CRasProvider
+[3552] 05-09 17:20:42:106: CRasProvider::_Cleanup
+[11784] 05-09 19:39:32:632: CRasProvider::CRasProvider
+[1104] 05-09 19:41:48:743: CRasProvider::CRasProvider
+[1104] 05-09 19:41:49:470: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1104] 05-09 19:41:49:470: CRasProvider::UnAdvise
+[1104] 05-09 19:41:49:470: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1104] 05-09 19:41:49:470: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1104] 05-09 19:41:49:470: CRasProvider::UnAdvise
+[1104] 05-09 19:42:07:859: CRasProvider::~CRasProvider
+[1104] 05-09 19:42:07:859: CRasProvider::_Cleanup
+[3500] 05-10 00:08:10:055: CRasProvider::CRasProvider
+[3500] 05-10 00:08:17:077: CRasProvider::~CRasProvider
+[3500] 05-10 00:08:17:077: CRasProvider::_Cleanup
+[1104] 05-10 00:08:17:358: CRasProvider::CRasProvider
+[1104] 05-10 00:08:17:732: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1104] 05-10 00:08:17:732: CRasProvider::UnAdvise
+[1104] 05-10 00:08:17:732: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1104] 05-10 00:08:17:748: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1104] 05-10 00:08:17:748: CRasProvider::UnAdvise
+[1104] 05-10 00:08:23:599: CRasProvider::~CRasProvider
+[1104] 05-10 00:08:23:599: CRasProvider::_Cleanup
+[4952] 05-10 01:49:53:136: CRasProvider::CRasProvider
+[984] 05-11 10:40:04:838: CRasProvider::CRasProvider
+[984] 05-11 10:40:05:777: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[984] 05-11 10:40:05:777: CRasProvider::UnAdvise
+[984] 05-11 10:40:05:777: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[984] 05-11 10:40:05:777: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[984] 05-11 10:40:05:777: CRasProvider::UnAdvise
+[984] 05-11 10:40:20:412: CRasProvider::~CRasProvider
+[984] 05-11 10:40:20:412: CRasProvider::_Cleanup
+[1084] 05-11 11:01:23:724: CRasProvider::CRasProvider
+[1084] 05-11 11:01:24:411: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1084] 05-11 11:01:24:411: CRasProvider::UnAdvise
+[1084] 05-11 11:01:24:411: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1084] 05-11 11:01:24:411: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1084] 05-11 11:01:24:411: CRasProvider::UnAdvise
+[1084] 05-11 11:01:35:500: CRasProvider::~CRasProvider
+[1084] 05-11 11:01:35:500: CRasProvider::_Cleanup
+[6044] 05-11 11:11:38:275: CRasProvider::CRasProvider
+[6044] 05-11 11:11:38:565: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[6044] 05-11 11:11:38:565: CRasProvider::UnAdvise
+[6044] 05-11 11:11:38:565: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[6044] 05-11 11:11:38:566: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[6044] 05-11 11:11:38:566: CRasProvider::UnAdvise
+[1176] 05-11 22:32:04:685: CRasProvider::CRasProvider
+[1176] 05-11 22:32:05:608: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1176] 05-11 22:32:05:608: CRasProvider::UnAdvise
+[1176] 05-11 22:32:05:608: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1176] 05-11 22:32:05:608: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1176] 05-11 22:32:05:608: CRasProvider::UnAdvise
+[1176] 05-11 22:32:32:018: CRasProvider::~CRasProvider
+[1176] 05-11 22:32:32:018: CRasProvider::_Cleanup
+[4144] 05-12 00:17:22:969: CRasProvider::CRasProvider
+[1384] 05-14 02:30:37:692: CRasProvider::CRasProvider
+[1384] 05-14 02:31:03:630: CRasProvider::SetUsageScenario: Scenario: 0x00000001, flags: 0x00000000
+[1384] 05-14 02:31:03:630: CRasProvider::UnAdvise
+[1384] 05-14 02:31:03:630: CRasProvider::SetUsageScenario: Scenario: 0x00000005, flags: 0x00000000
+[1384] 05-14 02:31:03:630: CRasProvider::SetUsageScenario: Skipping RasPLAP as this machine is not joined to a domain
+[1384] 05-14 02:31:03:630: CRasProvider::UnAdvise
+[1384] 05-14 02:33:22:159: CRasProvider::~CRasProvider
+[1384] 05-14 02:33:22:159: CRasProvider::_Cleanup

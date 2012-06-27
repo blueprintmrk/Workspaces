@@ -1,0 +1,1826 @@
+
+[5720] 03-15 07:59:20:637: InitRasmanService: Rasman service initializing
+[5720] 03-15 07:59:20:638: InitRasmanService: Calling InitializeMediaControlBlocks
+[5720] 03-15 07:59:20:894: InitRasmanService: Calling InitializePortControlBlocks
+[5720] 03-15 07:59:20:894: Created Port Name[VPN2-1], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN2-0], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[5720] 03-15 07:59:20:894: Created Port Name[PPPoE4-0], Device Name[WAN Miniport (PPPOE)], Type[PPPoE](0008000D)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN1-1], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN1-0], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN3-1], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN3-0], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN0-1], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[5720] 03-15 07:59:20:894: Created Port Name[VPN0-0], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[5720] 03-15 07:59:20:894: Created Port Name[COM6], Device Name[Standard Modem over Bluetooth link], Type[MODEM](00000000)
+
+[5720] 03-15 07:59:20:894: Created Port Name[COM3], Device Name[Agere Systems HDA Modem], Type[MODEM](00000000)
+
+[5720] 03-15 07:59:20:895: InitRasmanService: Calling RegisterLSA
+[5720] 03-15 07:59:20:895: InitRasmanService: Max number of ports (all engines): 11
+
+[5720] 03-15 07:59:20:906: InitRasmanService: Protocol Engine [PPP] load complete
+[5720] 03-15 07:59:20:929: InitRasmanService: Protocol Engine [IKEv2] load complete
+[5720] 03-15 07:59:20:943: InitRasmanService: RasInterfaceMgmtInit returned= 0
+[5720] 03-15 07:59:20:955: InitRasmanService: InitializeRasRpc returned= 0
+[5720] 03-15 07:59:20:955: DwCleanupLuids: RegDeleteValue failed with error 2
+[5720] 03-15 07:59:20:956: InitRasmanService: EapHost initialized.
+[5720] 03-15 07:59:20:956: Rasman Service Start: HandleBindingEngineRegChanges thread creation successfull
+[5720] 03-15 07:59:20:956: InitRasmanService: Rasman initialized successfully
+[5720] 03-15 07:59:20:956: ServiceMain:Initializing Protocol Engine 'PPP' with [9] ports
+
+[5208] 03-15 07:59:20:956: Entered HandleBindingEngineRegChanges
+[5208] 03-15 07:59:20:956: HandleBindingEngineRegChanges: Initialization Successful -- Calling WaitForMultipleObjectsEx
+[5720] 03-15 07:59:20:993: ServiceMain: Protocol Engine 'PPP' Initialization returned= 0
+[5720] 03-15 07:59:20:993: ServiceMain:Initializing Protocol Engine 'IKEv2' with [2] ports
+
+[5720] 03-15 07:59:20:996: ServiceMain: Protocol Engine 'IKEv2' Initialization returned= 0
+[5720] 03-15 07:59:20:997: ServiceMain: Rasman service entered RUNNING state
+[5720] 03-15 07:59:20:998: DwSetProtocolEvent
+[5720] 03-15 07:59:20:998: DwSetProtocolEvent. rc=0x0
+[5720] 03-15 07:59:20:998: DwSetHibernateEvent
+[5720] 03-15 07:59:20:998: DwSetHibernateEvent. rc=0x0
+[5720] 03-15 07:59:20:998: RequestThread: DwSetEvents returnd 0x0
+[5720] 03-15 07:59:20:998: OVEVT_RASMAN_PROTOCOL_EVENT. pOverlapped = 0x60175720
+[5720] 03-15 07:59:20:998: DwProcessProtocolEvent: Protocol 0xab00 was REMOVED
+[5720] 03-15 07:59:20:998: Notifying Protocol of IP protocol change. 0xab00 was REMOVED
+[5720] 03-15 07:59:20:998: DwProcessProtocolEvent: Protocol 0x800 was ADDED
+[5720] 03-15 07:59:20:998: Notifying Protocol of IP protocol change. 0x800 was ADDED
+[5720] 03-15 07:59:20:998: DwProcessProtocolEvent: Protocol 0x86dd was ADDED
+[5720] 03-15 07:59:20:998: Notifying Protocol of IP protocol change. 0x86dd was ADDED
+[5720] 03-15 07:59:20:998: DwSetProtocolEvent
+[5720] 03-15 07:59:20:998: DwSetProtocolEvent. rc=0x0
+[2164] 03-15 07:59:20:999: ReferenceRasman: process 5268
+[2164] 03-15 07:59:20:999: Rasman RefCount = 1
+[3160] 03-15 07:59:20:999: ReferenceRasman: process 4436
+[3160] 03-15 07:59:21:000: Rasman RefCount = 2
+[5288] 03-15 07:59:21:001: ReferenceRasman: process 3376
+[5288] 03-15 07:59:21:001: Rasman RefCount = 3
+[5288] 03-15 07:59:21:133: SetEntrydialParams: No info for uid=4401349 in lsa
+[5288] 03-15 07:59:21:133: SetEntryDialParams: Writing to fDefault=0
+[5072] 03-15 07:59:21:135: DwDeleteInterface: Failed to delete System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{16DCE1D0-EAA9-41C9-9FEC-1039F43038F5}, 0x2
+[5072] 03-15 07:59:21:135: DwDeleteInterface: Failed to delete System\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces\{16DCE1D0-EAA9-41C9-9FEC-1039F43038F5}, 0x2
+[5072] 03-15 07:59:21:136: DwDeleteInterface: Failed to delete System\CurrentControlSet\Services\NetBT\Parameters\Interfaces\Tcpip_{16DCE1D0-EAA9-41C9-9FEC-1039F43038F5}, 0x2
+[5072] 03-15 07:59:21:138: SendNotificationRequest
+[5072] 03-15 07:59:21:155: DwSendNotification returned 0x0
+[3160] 03-15 07:59:26:474: ReferenceRasman: process 5296
+[3160] 03-15 07:59:26:474: Rasman RefCount = 4
+[3160] 03-15 07:59:26:476: ReferenceRasman: process 5296
+[3160] 03-15 07:59:26:476: Cleaning up process 5296
+[3160] 03-15 07:59:26:476: CleanUpEventQueue:
+[3160] 03-15 07:59:26:476: Freeing handle for 5296
+[3160] 03-15 07:59:26:476: Rasman RefCount = 3
+[3160] 03-15 08:01:05:638: ReferenceRasman: process 5812
+[3160] 03-15 08:01:05:638: Rasman RefCount = 4
+[3160] 03-15 08:01:05:645: ReferenceRasman: process 5812
+[3160] 03-15 08:01:05:645: Cleaning up process 5812
+[3160] 03-15 08:01:05:645: CleanUpEventQueue:
+[3160] 03-15 08:01:05:645: Freeing handle for 5812
+[3160] 03-15 08:01:05:645: Rasman RefCount = 3
+[3160] 03-15 08:01:06:915: ReferenceRasman: process 5344
+[3160] 03-15 08:01:06:915: Rasman RefCount = 4
+[5960] 03-15 08:01:06:918: ReferenceRasman: process 5344
+[5960] 03-15 08:01:06:918: Cleaning up process 5344
+[5960] 03-15 08:01:06:918: CleanUpEventQueue:
+[5960] 03-15 08:01:06:918: Freeing handle for 5344
+[5960] 03-15 08:01:06:918: Rasman RefCount = 3
+[5960] 03-15 08:01:09:740: ReferenceRasman: process 5524
+[5960] 03-15 08:01:09:740: Rasman RefCount = 4
+[5072] 03-15 08:01:09:742: ReferenceRasman: process 5524
+[5072] 03-15 08:01:09:742: Cleaning up process 5524
+[5072] 03-15 08:01:09:742: CleanUpEventQueue:
+[5072] 03-15 08:01:09:742: Freeing handle for 5524
+[5072] 03-15 08:01:09:742: Rasman RefCount = 3
+[5960] 03-15 08:01:11:926: ReferenceRasman: process 5780
+[5960] 03-15 08:01:11:926: Rasman RefCount = 4
+[5960] 03-15 08:01:11:928: ReferenceRasman: process 5780
+[5960] 03-15 08:01:11:928: Cleaning up process 5780
+[5960] 03-15 08:01:11:928: CleanUpEventQueue:
+[5960] 03-15 08:01:11:928: Freeing handle for 5780
+[5960] 03-15 08:01:11:928: Rasman RefCount = 3
+[5960] 03-15 08:01:14:917: ReferenceRasman: process 5552
+[5960] 03-15 08:01:14:917: Rasman RefCount = 4
+[3160] 03-15 08:01:14:919: ReferenceRasman: process 5552
+[3160] 03-15 08:01:14:919: Cleaning up process 5552
+[3160] 03-15 08:01:14:919: CleanUpEventQueue:
+[3160] 03-15 08:01:14:919: Freeing handle for 5552
+[3160] 03-15 08:01:14:919: Rasman RefCount = 3
+[3160] 03-15 08:01:14:959: ReferenceRasman: process 5532
+[3160] 03-15 08:01:14:959: Rasman RefCount = 4
+[3160] 03-15 08:01:14:961: ReferenceRasman: process 5532
+[3160] 03-15 08:01:14:961: Cleaning up process 5532
+[3160] 03-15 08:01:14:961: CleanUpEventQueue:
+[3160] 03-15 08:01:14:961: Freeing handle for 5532
+[3160] 03-15 08:01:14:961: Rasman RefCount = 3
+[5960] 03-15 08:01:16:944: ReferenceRasman: process 6040
+[5960] 03-15 08:01:16:944: Rasman RefCount = 4
+[5960] 03-15 08:01:16:945: ReferenceRasman: process 6040
+[5960] 03-15 08:01:16:945: Cleaning up process 6040
+[5960] 03-15 08:01:16:945: CleanUpEventQueue:
+[5960] 03-15 08:01:16:945: Freeing handle for 6040
+[5960] 03-15 08:01:16:945: Rasman RefCount = 3
+[5720] 03-15 08:02:22:086: RasmanWorker: OVEVT_DEV_REMOVE. pnpn=0x01835070
+[5720] 03-15 08:02:22:094: DwSendNotificationInternal(DEVICE_REMOVED) rc=0x00000000, device=0x0
+[5720] 03-15 08:02:22:094: DwRemovePort: Removing port COM6, 9
+[5720] 03-15 08:02:22:094: RasmanWorker: DwProcessLineRemoveNotificationreturned 0
+[3708] 03-15 08:05:27:710: ReferenceRasman: process 2348
+[3708] 03-15 08:05:27:710: Rasman RefCount = 4
+[2916] 03-15 08:05:34:882: ReferenceRasman: process 5428
+[2916] 03-15 08:05:34:882: Rasman RefCount = 5
+[5916] 03-15 08:27:43:280: ReferenceRasman: process 5428
+[5916] 03-15 08:27:43:281: Cleaning up process 5428
+[5916] 03-15 08:27:43:281: CleanUpEventQueue:
+[5916] 03-15 08:27:43:281: Freeing handle for 5428
+[5916] 03-15 08:27:43:281: Rasman RefCount = 4
+[4476] 03-15 08:27:43:282: ReferenceRasman: process 2348
+[4476] 03-15 08:27:43:282: Cleaning up process 2348
+[4476] 03-15 08:27:43:282: CleanUpEventQueue:
+[4476] 03-15 08:27:43:282: Freeing handle for 2348
+[4476] 03-15 08:27:43:282: Rasman RefCount = 3
+[4476] 03-15 08:27:43:332: ReferenceRasman: process 4436
+[4476] 03-15 08:27:43:332: Cleaning up process 4436
+[4476] 03-15 08:27:43:332: CleanUpEventQueue:
+[4476] 03-15 08:27:43:332: Freeing handle for 4436
+[4476] 03-15 08:27:43:332: Rasman RefCount = 2
+[4476] 03-15 08:27:43:399: ReferenceRasman: process 5268
+[4476] 03-15 08:27:43:400: Cleaning up process 5268
+[4476] 03-15 08:27:43:400: CleanUpEventQueue:
+[4476] 03-15 08:27:43:400: Freeing handle for 5268
+[4476] 03-15 08:27:43:400: Rasman RefCount = 1
+[976] 03-15 09:41:14:210: HandleSessionChange: Got LogOff notification for session-id 1
+[4364] 03-15 09:41:14:210: ManageConnectionsOnLogoffEvent - SessionId is 1
+[5720] 03-15 09:41:21:652: fIsProcessAlive: hProcess==NULL
+[5720] 03-15 09:41:21:652: BackGroundCleanUp: Process 3376 is not alive. 
+[5720] 03-15 09:41:21:652: BackGroundCleanUp: Cleaningup process 3376
+[5720] 03-15 09:41:21:652: ReferenceRasman: process 3376
+[5720] 03-15 09:41:21:652: Cleaning up process 3376
+[5720] 03-15 09:41:21:652: CleanUpEventQueue:
+[5720] 03-15 09:41:21:652: Freeing handle for 3376
+[5720] 03-15 09:41:21:652: Rasman RefCount = 0
+[976] 03-15 09:46:57:239: Dropping All ActiveConnections. Reason: ERROR_RASMAN_SERVICE_STOPPED
+[976] 03-15 09:46:57:239: StopRasmanService: Stopping service
+[5720] 03-15 09:46:57:239: OVEVT_RASMAN_CLOSE. pOverlapped = 0x60174460
+[5720] 03-15 09:46:57:286: UninitializeProtocolEngines: Protocol Engine [PPP] returned : 0
+
+[5720] 03-15 09:46:57:286: UninitializeProtocolEngines: Protocol Engine [IKEv2] returned : 0
+
+[5720] 03-15 09:46:57:286: SENS_NOTIFY_RAS_STOPPED returns 0x00000000
+[5208] 03-15 09:46:57:286: HandleBindingEngineRegChanges: Rasman is shutting down
+[5208] 03-15 09:46:57:286: HandleBindingEngineRegChanges thread returning with Error=0
+[5720] 03-15 09:46:58:331: RasmanCleanup: EapHost uninitialized.
+[4912] 04-08 19:47:53:050: InitRasmanService: Rasman service initializing
+[4912] 04-08 19:47:53:062: InitRasmanService: Calling InitializeMediaControlBlocks
+[4912] 04-08 19:47:53:330: InitRasmanService: Calling InitializePortControlBlocks
+[4912] 04-08 19:47:53:330: Created Port Name[VPN0-1], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN0-0], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN3-1], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN3-0], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[4912] 04-08 19:47:53:330: Created Port Name[PPPoE4-0], Device Name[WAN Miniport (PPPOE)], Type[PPPoE](0008000D)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN2-1], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN2-0], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN1-1], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[4912] 04-08 19:47:53:330: Created Port Name[VPN1-0], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[4912] 04-08 19:47:53:330: Created Port Name[COM3], Device Name[Agere Systems HDA Modem], Type[MODEM](00000000)
+
+[4912] 04-08 19:47:53:330: InitRasmanService: Calling RegisterLSA
+[4912] 04-08 19:47:53:330: InitRasmanService: Max number of ports (all engines): 10
+
+[4912] 04-08 19:47:53:353: InitRasmanService: Protocol Engine [PPP] load complete
+[4912] 04-08 19:47:53:376: InitRasmanService: Protocol Engine [IKEv2] load complete
+[4912] 04-08 19:47:53:380: InitRasmanService: RasInterfaceMgmtInit returned= 0
+[4912] 04-08 19:47:53:424: InitRasmanService: InitializeRasRpc returned= 0
+[4912] 04-08 19:47:53:424: DwCleanupLuids: RegDeleteValue failed with error 2
+[4912] 04-08 19:47:53:424: InitRasmanService: EapHost initialized.
+[4912] 04-08 19:47:53:424: Rasman Service Start: HandleBindingEngineRegChanges thread creation successfull
+[4912] 04-08 19:47:53:424: InitRasmanService: Rasman initialized successfully
+[4912] 04-08 19:47:53:424: ServiceMain:Initializing Protocol Engine 'PPP' with [8] ports
+
+[1320] 04-08 19:47:53:425: Entered HandleBindingEngineRegChanges
+[1320] 04-08 19:47:53:425: HandleBindingEngineRegChanges: Initialization Successful -- Calling WaitForMultipleObjectsEx
+[4912] 04-08 19:47:54:297: ServiceMain: Protocol Engine 'PPP' Initialization returned= 0
+[4912] 04-08 19:47:54:307: ServiceMain:Initializing Protocol Engine 'IKEv2' with [2] ports
+
+[4912] 04-08 19:47:54:352: ServiceMain: Protocol Engine 'IKEv2' Initialization returned= 0
+[4912] 04-08 19:47:54:368: ServiceMain: Rasman service entered RUNNING state
+[4912] 04-08 19:47:54:378: DwSetProtocolEvent
+[4912] 04-08 19:47:54:378: DwSetProtocolEvent. rc=0x0
+[4912] 04-08 19:47:54:378: DwSetHibernateEvent
+[4912] 04-08 19:47:54:378: DwSetHibernateEvent. rc=0x0
+[4912] 04-08 19:47:54:378: RequestThread: DwSetEvents returnd 0x0
+[4912] 04-08 19:47:54:378: OVEVT_RASMAN_PROTOCOL_EVENT. pOverlapped = 0x531d5720
+[4912] 04-08 19:47:54:379: DwProcessProtocolEvent: Protocol 0xab00 was REMOVED
+[4912] 04-08 19:47:54:379: Notifying Protocol of IP protocol change. 0xab00 was REMOVED
+[4912] 04-08 19:47:54:379: DwProcessProtocolEvent: Protocol 0x800 was ADDED
+[4912] 04-08 19:47:54:379: Notifying Protocol of IP protocol change. 0x800 was ADDED
+[4912] 04-08 19:47:54:379: DwProcessProtocolEvent: Protocol 0x86dd was ADDED
+[4912] 04-08 19:47:54:379: Notifying Protocol of IP protocol change. 0x86dd was ADDED
+[4912] 04-08 19:47:54:379: DwSetProtocolEvent
+[4912] 04-08 19:47:54:379: DwSetProtocolEvent. rc=0x0
+[5724] 04-08 19:47:54:392: ReferenceRasman: process 4312
+[5724] 04-08 19:47:54:392: Rasman RefCount = 1
+[5724] 04-08 19:47:54:392: ReferenceRasman: process 3296
+[5724] 04-08 19:47:54:392: Rasman RefCount = 2
+[5724] 04-08 19:47:54:392: ReferenceRasman: process 3276
+[5724] 04-08 19:47:54:392: Rasman RefCount = 3
+[5724] 04-08 19:47:54:393: ReferenceRasman: process 1252
+[5724] 04-08 19:47:54:393: Rasman RefCount = 4
+[5724] 04-08 19:47:54:401: ReferenceRasman: process 2000
+[5724] 04-08 19:47:54:401: Rasman RefCount = 5
+[5724] 04-08 19:47:54:401: ReferenceRasman: process 3576
+[5724] 04-08 19:47:54:401: Rasman RefCount = 6
+[1516] 04-08 19:48:02:412: ReferenceRasman: process 2852
+[1516] 04-08 19:48:02:412: Rasman RefCount = 7
+[1516] 04-08 19:48:03:114: ReferenceRasman: process 5276
+[1516] 04-08 19:48:03:115: Rasman RefCount = 8
+[4076] 04-08 19:50:20:833: ReferenceRasman: process 3296
+[4076] 04-08 19:50:20:833: Cleaning up process 3296
+[4076] 04-08 19:50:20:833: CleanUpEventQueue:
+[4076] 04-08 19:50:20:833: Freeing handle for 3296
+[4076] 04-08 19:50:20:833: Freeing handle for 3296
+[4076] 04-08 19:50:20:833: Rasman RefCount = 7
+[7372] 04-08 19:51:51:716: ReferenceRasman: process 6152
+[7372] 04-08 19:51:51:716: Rasman RefCount = 8
+[4076] 04-08 19:51:56:596: ReferenceRasman: process 7948
+[4076] 04-08 19:51:56:596: Rasman RefCount = 9
+[7360] 04-08 19:53:43:356: ReferenceRasman: process 7948
+[7360] 04-08 19:53:43:356: Cleaning up process 7948
+[7360] 04-08 19:53:43:356: CleanUpEventQueue:
+[7360] 04-08 19:53:43:356: Freeing handle for 7948
+[7360] 04-08 19:53:43:356: Rasman RefCount = 8
+[7380] 04-08 19:53:43:613: ReferenceRasman: process 6152
+[7380] 04-08 19:53:43:613: Cleaning up process 6152
+[7380] 04-08 19:53:43:613: CleanUpEventQueue:
+[7380] 04-08 19:53:43:613: Freeing handle for 6152
+[7380] 04-08 19:53:43:613: Rasman RefCount = 7
+[7380] 04-08 19:53:51:531: ReferenceRasman: process 4312
+[7380] 04-08 19:53:51:531: Cleaning up process 4312
+[7380] 04-08 19:53:51:531: CleanUpEventQueue:
+[7380] 04-08 19:53:51:531: Freeing handle for 4312
+[7380] 04-08 19:53:51:531: Rasman RefCount = 6
+[7360] 04-08 19:54:07:956: ReferenceRasman: process 5276
+[7360] 04-08 19:54:07:956: Cleaning up process 5276
+[7360] 04-08 19:54:07:956: CleanUpEventQueue:
+[7360] 04-08 19:54:07:956: Freeing handle for 5276
+[7360] 04-08 19:54:07:956: Rasman RefCount = 5
+[7360] 04-08 19:54:08:135: ReferenceRasman: process 2852
+[7360] 04-08 19:54:08:135: Cleaning up process 2852
+[7360] 04-08 19:54:08:135: CleanUpEventQueue:
+[7360] 04-08 19:54:08:135: Freeing handle for 2852
+[7360] 04-08 19:54:08:135: Rasman RefCount = 4
+[1024] 04-08 19:57:13:802: HandleSessionChange: lpEventData (WTSSESSION_NOTIFICATION) is NULL
+[1024] 04-08 19:58:01:980: HandleSessionChange: Got LogOff notification for session-id 1
+[6548] 04-08 19:58:01:980: ManageConnectionsOnLogoffEvent - SessionId is 1
+[4912] 04-08 19:58:04:632: fIsProcessAlive: hProcess==NULL
+[4912] 04-08 19:58:04:632: BackGroundCleanUp: Process 3276 is not alive. 
+[4912] 04-08 19:58:04:632: fIsProcessAlive: hProcess==NULL
+[4912] 04-08 19:58:04:632: BackGroundCleanUp: Process 3576 is not alive. 
+[4912] 04-08 19:58:04:632: BackGroundCleanUp: Cleaningup process 3276
+[4912] 04-08 19:58:04:632: ReferenceRasman: process 3276
+[4912] 04-08 19:58:04:632: Cleaning up process 3276
+[4912] 04-08 19:58:04:632: CleanUpEventQueue:
+[4912] 04-08 19:58:04:632: Freeing handle for 3276
+[4912] 04-08 19:58:04:632: Rasman RefCount = 3
+[4912] 04-08 19:58:04:632: BackGroundCleanUp: Cleaningup process 3576
+[4912] 04-08 19:58:04:632: ReferenceRasman: process 3576
+[4912] 04-08 19:58:04:632: Cleaning up process 3576
+[4912] 04-08 19:58:04:632: CleanUpEventQueue:
+[4912] 04-08 19:58:04:632: Freeing handle for 3576
+[4912] 04-08 19:58:04:632: Rasman RefCount = 2
+[1024] 04-08 19:58:05:583: Dropping All ActiveConnections. Reason: ERROR_RASMAN_SERVICE_STOPPED
+[1024] 04-08 19:58:05:583: StopRasmanService: Stopping service
+[4912] 04-08 19:58:05:583: OVEVT_RASMAN_CLOSE. pOverlapped = 0x531d4460
+[4912] 04-08 19:58:05:926: UninitializeProtocolEngines: Protocol Engine [PPP] returned : 0
+
+[4912] 04-08 19:58:05:926: UninitializeProtocolEngines: Protocol Engine [IKEv2] returned : 0
+
+[4912] 04-08 19:58:05:926: SENS_NOTIFY_RAS_STOPPED returns 0x00000000
+[1320] 04-08 19:58:05:926: HandleBindingEngineRegChanges: Rasman is shutting down
+[1320] 04-08 19:58:05:926: HandleBindingEngineRegChanges thread returning with Error=0
+[4912] 04-08 19:58:05:926: RasmanCleanup: EapHost uninitialized.
+[6376] 04-22 14:49:10:232: InitRasmanService: Rasman service initializing
+[6376] 04-22 14:49:10:262: InitRasmanService: Calling InitializeMediaControlBlocks
+[6376] 04-22 14:49:10:697: InitRasmanService: Calling InitializePortControlBlocks
+[6376] 04-22 14:49:10:697: Created Port Name[VPN1-1], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN1-0], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN2-1], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN2-0], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[6376] 04-22 14:49:10:697: Created Port Name[PPPoE4-0], Device Name[WAN Miniport (PPPOE)], Type[PPPoE](0008000D)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN3-1], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN3-0], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN0-1], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[6376] 04-22 14:49:10:697: Created Port Name[VPN0-0], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[6376] 04-22 14:49:10:697: Created Port Name[COM6], Device Name[Standard Modem over Bluetooth link], Type[MODEM](00000000)
+
+[6376] 04-22 14:49:10:697: Created Port Name[COM3], Device Name[Agere Systems HDA Modem], Type[MODEM](00000000)
+
+[6376] 04-22 14:49:10:697: InitRasmanService: Calling RegisterLSA
+[6376] 04-22 14:49:10:698: InitRasmanService: Max number of ports (all engines): 11
+
+[6376] 04-22 14:49:10:765: InitRasmanService: Protocol Engine [PPP] load complete
+[6376] 04-22 14:49:10:797: InitRasmanService: Protocol Engine [IKEv2] load complete
+[6376] 04-22 14:49:10:805: InitRasmanService: RasInterfaceMgmtInit returned= 0
+[6376] 04-22 14:49:10:884: InitRasmanService: InitializeRasRpc returned= 0
+[6376] 04-22 14:49:10:912: DwCleanupLuids: RegDeleteValue failed with error 2
+[6376] 04-22 14:49:10:934: InitRasmanService: EapHost initialized.
+[6376] 04-22 14:49:10:934: Rasman Service Start: HandleBindingEngineRegChanges thread creation successfull
+[6376] 04-22 14:49:10:934: InitRasmanService: Rasman initialized successfully
+[6376] 04-22 14:49:10:934: ServiceMain:Initializing Protocol Engine 'PPP' with [9] ports
+
+[16152] 04-22 14:49:10:934: Entered HandleBindingEngineRegChanges
+[16152] 04-22 14:49:10:934: HandleBindingEngineRegChanges: Initialization Successful -- Calling WaitForMultipleObjectsEx
+[6376] 04-22 14:49:11:090: ServiceMain: Protocol Engine 'PPP' Initialization returned= 0
+[6376] 04-22 14:49:11:090: ServiceMain:Initializing Protocol Engine 'IKEv2' with [2] ports
+
+[6376] 04-22 14:49:11:149: ServiceMain: Protocol Engine 'IKEv2' Initialization returned= 0
+[6376] 04-22 14:49:11:150: ServiceMain: Rasman service entered RUNNING state
+[6376] 04-22 14:49:11:159: DwSetProtocolEvent
+[984] 04-22 14:49:11:250: ReferenceRasman: process 4572
+[984] 04-22 14:49:11:250: Rasman RefCount = 1
+[8980] 04-22 14:49:11:250: ReferenceRasman: process 5080
+[8980] 04-22 14:49:11:250: Rasman RefCount = 2
+[4000] 04-22 14:49:11:250: ReferenceRasman: process 2472
+[4000] 04-22 14:49:11:250: Rasman RefCount = 3
+[984] 04-22 14:49:11:283: ReferenceRasman: process 12572
+[984] 04-22 14:49:11:283: Rasman RefCount = 4
+[6376] 04-22 14:49:11:287: DwSetProtocolEvent. rc=0x0
+[6376] 04-22 14:49:11:287: DwSetHibernateEvent
+[6376] 04-22 14:49:11:287: DwSetHibernateEvent. rc=0x0
+[6376] 04-22 14:49:11:287: RequestThread: DwSetEvents returnd 0x0
+[6376] 04-22 14:49:11:287: OVEVT_RASMAN_PROTOCOL_EVENT. pOverlapped = 0x529d5720
+[6376] 04-22 14:49:11:287: DwProcessProtocolEvent: Protocol 0xab00 was REMOVED
+[6376] 04-22 14:49:11:287: Notifying Protocol of IP protocol change. 0xab00 was REMOVED
+[6376] 04-22 14:49:11:287: DwProcessProtocolEvent: Protocol 0x800 was ADDED
+[6376] 04-22 14:49:11:287: Notifying Protocol of IP protocol change. 0x800 was ADDED
+[6376] 04-22 14:49:11:287: DwProcessProtocolEvent: Protocol 0x86dd was ADDED
+[6376] 04-22 14:49:11:288: Notifying Protocol of IP protocol change. 0x86dd was ADDED
+[6376] 04-22 14:49:11:288: DwSetProtocolEvent
+[6376] 04-22 14:49:11:288: DwSetProtocolEvent. rc=0x0
+[4000] 04-22 14:49:11:588: ReferenceRasman: process 4808
+[4000] 04-22 14:49:11:588: Rasman RefCount = 5
+[4000] 04-22 14:49:11:603: ReferenceRasman: process 1264
+[4000] 04-22 14:49:11:603: Rasman RefCount = 6
+[4000] 04-22 14:49:11:994: ReferenceRasman: process 3616
+[4000] 04-22 14:49:11:994: Rasman RefCount = 7
+[4000] 04-22 14:49:12:108: ReferenceRasman: process 1192
+[4000] 04-22 14:49:12:108: Rasman RefCount = 8
+[4000] 04-22 14:49:12:256: ReferenceRasman: process 2024
+[4000] 04-22 14:49:12:256: Rasman RefCount = 9
+[8980] 04-22 14:52:04:977: ReferenceRasman: process 4572
+[8980] 04-22 14:52:04:977: Cleaning up process 4572
+[8980] 04-22 14:52:04:977: CleanUpEventQueue:
+[8980] 04-22 14:52:04:977: Freeing handle for 4572
+[8980] 04-22 14:52:04:977: Rasman RefCount = 8
+[14096] 04-22 14:52:27:603: ReferenceRasman: process 14804
+[14096] 04-22 14:52:27:603: Rasman RefCount = 9
+[984] 04-22 14:54:47:072: ReferenceRasman: process 14804
+[984] 04-22 14:54:47:072: Cleaning up process 14804
+[984] 04-22 14:54:47:072: CleanUpEventQueue:
+[984] 04-22 14:54:47:072: Freeing handle for 14804
+[984] 04-22 14:54:47:072: Rasman RefCount = 8
+[14096] 04-22 14:57:25:173: ReferenceRasman: process 15884
+[14096] 04-22 14:57:25:173: Rasman RefCount = 9
+[7680] 04-22 15:02:39:635: ReferenceRasman: process 15884
+[7680] 04-22 15:02:39:635: Cleaning up process 15884
+[7680] 04-22 15:02:39:635: CleanUpEventQueue:
+[7680] 04-22 15:02:39:635: Freeing handle for 15884
+[7680] 04-22 15:02:39:635: Rasman RefCount = 8
+[972] 04-22 15:03:51:432: HandleSessionChange: Got LogOff notification for session-id 2
+[5188] 04-22 15:03:51:467: ManageConnectionsOnLogoffEvent - SessionId is 2
+[6376] 04-22 15:03:51:604: fIsProcessAlive: hProcess==NULL
+[6376] 04-22 15:03:51:604: BackGroundCleanUp: Process 5080 is not alive. 
+[6376] 04-22 15:03:51:604: BackGroundCleanUp: Cleaningup process 5080
+[6376] 04-22 15:03:51:604: ReferenceRasman: process 5080
+[6376] 04-22 15:03:51:604: Cleaning up process 5080
+[6376] 04-22 15:03:51:604: CleanUpEventQueue:
+[6376] 04-22 15:03:51:604: Freeing handle for 5080
+[6376] 04-22 15:03:51:604: Rasman RefCount = 7
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Process 2472 is not alive. 
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Process 12572 is not alive. 
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Process 4808 is not alive. 
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Process 3616 is not alive. 
+[6376] 04-22 15:04:01:659: fIsProcessAlive: hProcess==NULL
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Process 1192 is not alive. 
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Cleaningup process 2472
+[6376] 04-22 15:04:01:659: ReferenceRasman: process 2472
+[6376] 04-22 15:04:01:659: Cleaning up process 2472
+[6376] 04-22 15:04:01:659: CleanUpEventQueue:
+[6376] 04-22 15:04:01:659: Freeing handle for 2472
+[6376] 04-22 15:04:01:659: Freeing handle for 2472
+[6376] 04-22 15:04:01:659: Rasman RefCount = 6
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Cleaningup process 12572
+[6376] 04-22 15:04:01:659: ReferenceRasman: process 12572
+[6376] 04-22 15:04:01:659: Cleaning up process 12572
+[6376] 04-22 15:04:01:659: CleanUpEventQueue:
+[6376] 04-22 15:04:01:659: Freeing handle for 12572
+[6376] 04-22 15:04:01:659: Rasman RefCount = 5
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Cleaningup process 4808
+[6376] 04-22 15:04:01:659: ReferenceRasman: process 4808
+[6376] 04-22 15:04:01:659: Cleaning up process 4808
+[6376] 04-22 15:04:01:659: CleanUpEventQueue:
+[6376] 04-22 15:04:01:659: Freeing handle for 4808
+[6376] 04-22 15:04:01:659: Rasman RefCount = 4
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Cleaningup process 3616
+[6376] 04-22 15:04:01:659: ReferenceRasman: process 3616
+[6376] 04-22 15:04:01:659: Cleaning up process 3616
+[6376] 04-22 15:04:01:659: CleanUpEventQueue:
+[6376] 04-22 15:04:01:659: Freeing handle for 3616
+[6376] 04-22 15:04:01:659: Rasman RefCount = 3
+[6376] 04-22 15:04:01:659: BackGroundCleanUp: Cleaningup process 1192
+[6376] 04-22 15:04:01:659: ReferenceRasman: process 1192
+[6376] 04-22 15:04:01:659: Cleaning up process 1192
+[6376] 04-22 15:04:01:659: CleanUpEventQueue:
+[6376] 04-22 15:04:01:659: Freeing handle for 1192
+[6376] 04-22 15:04:01:659: Rasman RefCount = 2
+[972] 04-22 15:04:04:373: HandleSessionChange: Got LogOff notification for session-id 1
+[12300] 04-22 15:04:04:373: ManageConnectionsOnLogoffEvent - SessionId is 1
+[972] 04-22 15:04:26:276: Dropping All ActiveConnections. Reason: ERROR_RASMAN_SERVICE_STOPPED
+[972] 04-22 15:04:26:276: StopRasmanService: Stopping service
+[6376] 04-22 15:04:26:276: OVEVT_RASMAN_CLOSE. pOverlapped = 0x529d4460
+[6376] 04-22 15:04:26:307: UninitializeProtocolEngines: Protocol Engine [PPP] returned : 0
+
+[6376] 04-22 15:04:26:307: UninitializeProtocolEngines: Protocol Engine [IKEv2] returned : 0
+
+[6376] 04-22 15:04:26:307: SENS_NOTIFY_RAS_STOPPED returns 0x00000000
+[16152] 04-22 15:04:26:307: HandleBindingEngineRegChanges: Rasman is shutting down
+[16152] 04-22 15:04:26:307: HandleBindingEngineRegChanges thread returning with Error=0
+[6376] 04-22 15:04:26:463: RasmanCleanup: EapHost uninitialized.
+[6588] 05-06 01:40:45:388: InitRasmanService: Rasman service initializing
+[6588] 05-06 01:40:45:497: InitRasmanService: Calling InitializeMediaControlBlocks
+[6588] 05-06 01:40:47:634: InitRasmanService: Calling InitializePortControlBlocks
+[6588] 05-06 01:40:47:634: Created Port Name[VPN1-1], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[6588] 05-06 01:40:47:634: Created Port Name[VPN1-0], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[6588] 05-06 01:40:47:650: Created Port Name[VPN2-1], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[6588] 05-06 01:40:47:650: Created Port Name[VPN2-0], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[6588] 05-06 01:40:47:650: Created Port Name[PPPoE4-0], Device Name[WAN Miniport (PPPOE)], Type[PPPoE](0008000D)
+
+[6588] 05-06 01:40:47:650: Created Port Name[VPN3-1], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[6588] 05-06 01:40:47:666: Created Port Name[VPN3-0], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[6588] 05-06 01:40:47:666: Created Port Name[VPN0-1], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[6588] 05-06 01:40:47:666: Created Port Name[VPN0-0], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[6588] 05-06 01:40:47:666: Created Port Name[COM6], Device Name[Standard Modem over Bluetooth link], Type[MODEM](00000000)
+
+[6588] 05-06 01:40:47:666: Created Port Name[COM5], Device Name[Nokia C6-00 USB Modem], Type[MODEM](00000000)
+
+[6588] 05-06 01:40:47:666: Created Port Name[COM3], Device Name[Agere Systems HDA Modem], Type[MODEM](00000000)
+
+[6588] 05-06 01:40:47:666: InitRasmanService: Calling RegisterLSA
+[6588] 05-06 01:40:47:666: InitRasmanService: Max number of ports (all engines): 12
+
+[6588] 05-06 01:40:47:759: InitRasmanService: Protocol Engine [PPP] load complete
+[6588] 05-06 01:40:47:790: InitRasmanService: Protocol Engine [IKEv2] load complete
+[6588] 05-06 01:40:47:790: InitRasmanService: RasInterfaceMgmtInit returned= 0
+[6588] 05-06 01:40:47:915: InitRasmanService: InitializeRasRpc returned= 0
+[6588] 05-06 01:40:47:931: DwCleanupLuids: RegDeleteValue failed with error 2
+[6588] 05-06 01:40:47:978: InitRasmanService: EapHost initialized.
+[6588] 05-06 01:40:47:978: Rasman Service Start: HandleBindingEngineRegChanges thread creation successfull
+[6588] 05-06 01:40:47:978: InitRasmanService: Rasman initialized successfully
+[6588] 05-06 01:40:47:978: ServiceMain:Initializing Protocol Engine 'PPP' with [10] ports
+
+[6668] 05-06 01:40:48:009: Entered HandleBindingEngineRegChanges
+[6668] 05-06 01:40:48:009: HandleBindingEngineRegChanges: Initialization Successful -- Calling WaitForMultipleObjectsEx
+[6588] 05-06 01:40:48:227: ServiceMain: Protocol Engine 'PPP' Initialization returned= 0
+[6588] 05-06 01:40:48:227: ServiceMain:Initializing Protocol Engine 'IKEv2' with [2] ports
+
+[6588] 05-06 01:40:48:383: ServiceMain: Protocol Engine 'IKEv2' Initialization returned= 0
+[6588] 05-06 01:40:48:399: ServiceMain: Rasman service entered RUNNING state
+[6588] 05-06 01:40:48:399: DwSetProtocolEvent
+[6588] 05-06 01:40:48:430: DwSetProtocolEvent. rc=0x0
+[6588] 05-06 01:40:48:430: DwSetHibernateEvent
+[6588] 05-06 01:40:48:430: DwSetHibernateEvent. rc=0x0
+[6588] 05-06 01:40:48:430: RequestThread: DwSetEvents returnd 0x0
+[6588] 05-06 01:40:48:430: OVEVT_RASMAN_PROTOCOL_EVENT. pOverlapped = 0x74755720
+[6588] 05-06 01:40:48:477: DwProcessProtocolEvent: Protocol 0xab00 was REMOVED
+[6588] 05-06 01:40:48:477: Notifying Protocol of IP protocol change. 0xab00 was REMOVED
+[6588] 05-06 01:40:48:477: DwProcessProtocolEvent: Protocol 0x800 was ADDED
+[6588] 05-06 01:40:48:477: Notifying Protocol of IP protocol change. 0x800 was ADDED
+[6588] 05-06 01:40:48:477: DwProcessProtocolEvent: Protocol 0x86dd was ADDED
+[6588] 05-06 01:40:48:477: Notifying Protocol of IP protocol change. 0x86dd was ADDED
+[6588] 05-06 01:40:48:477: DwSetProtocolEvent
+[6588] 05-06 01:40:48:477: DwSetProtocolEvent. rc=0x0
+[6096] 05-06 01:40:48:726: ReferenceRasman: process 3092
+[6096] 05-06 01:40:48:726: Rasman RefCount = 1
+[6096] 05-06 01:40:48:789: ReferenceRasman: process 6248
+[6096] 05-06 01:40:48:789: Rasman RefCount = 2
+[6096] 05-06 01:40:48:945: ReferenceRasman: process 4936
+[6096] 05-06 01:40:48:945: Rasman RefCount = 3
+[5316] 05-06 01:40:49:054: ReferenceRasman: process 3912
+[5316] 05-06 01:40:49:054: Rasman RefCount = 4
+[5316] 05-06 01:40:49:054: ReferenceRasman: process 2600
+[5316] 05-06 01:40:49:054: Rasman RefCount = 5
+[5316] 05-06 01:40:49:132: ReferenceRasman: process 2024
+[5316] 05-06 01:40:49:132: Rasman RefCount = 6
+[9324] 05-06 01:40:49:627: SendNotificationRequest
+[9324] 05-06 01:40:49:957: DwSendNotification returned 0x0
+[5316] 05-06 01:40:49:957: ReferenceRasman: process 4084
+[5316] 05-06 01:40:49:957: Rasman RefCount = 7
+[6096] 05-06 01:40:49:957: ReferenceRasman: process 8200
+[6096] 05-06 01:40:49:957: Rasman RefCount = 8
+[5316] 05-06 01:40:50:717: ReferenceRasman: process 300
+[5316] 05-06 01:40:50:717: Rasman RefCount = 9
+[5316] 05-06 01:40:51:329: ReferenceRasman: process 1556
+[5316] 05-06 01:40:51:329: Rasman RefCount = 10
+[8704] 05-06 01:40:52:404: GetParamsListFromLsa Default=0
+[8704] 05-06 01:40:52:444: GetParamsListFromLsa. 0x2
+[8704] 05-06 01:40:52:444: GetParamsListFromLsa Default=1
+[8704] 05-06 01:40:52:454: GetParamsListFromLsa. 0x0
+[8704] 05-06 01:40:52:454: CreateConnection: entry=Nokia VPN, pbk=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[8704] 05-06 01:40:52:454: CreateConnection: fSecureRoutingCompartment: 0 and dwConSessionId 1  old Compartment ID 1:
+[8704] 05-06 01:40:52:454: SetRasmanServiceStopControl: Enabled 0
+[8704] 05-06 01:40:52:464: CreateConnection: Created new connection. hconn=0x10000, ref=1, pConn=0x3977cf0
+[8704] 05-06 01:40:52:664: IsTrustedCustomDll: pwsz=, fTrusted=0, rc=0
+[6096] 05-06 01:40:52:784: PortOpenEx: WAN Miniport (IKEv2)
+[6096] 05-06 01:40:52:784: SetRasmanServiceStopControl: Enabled 0
+[6096] 05-06 01:40:52:784: PortOpen (0, VPN1-1) OpenInstances = (0)
+[6096] 05-06 01:40:52:784: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 0 state chg: prev=0, new=4
+[6096] 05-06 01:40:52:784: PortOpenEx (0) : OpenInstances = 1
+[6096] 05-06 01:40:52:784: PortOpenEx: rc=0x0. DeviceFound=1
+[6096] 05-06 01:40:52:934: CleanUpDeadClientProcessBlock
+[6096] 05-06 01:40:52:934: SetDialMachineEventHandleCommon:
+[6096] 05-06 01:40:52:934: SetDialMachineEventHandleCommon:The process is never added, something wrong in the Ras Initialization
+[6096] 05-06 01:40:53:014: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=0, dwSubEntry=1
+[8704] 05-06 01:40:54:603: SetTunnelEndPoints: Port=0,SourceAddr=123.237.140.18,DestinationAddr=192.100.117.5,IfIndex=10
+[8704] 05-06 01:40:55:586: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 0 state chg: prev=4, new=0
+[8704] 05-06 01:40:55:586: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 0 async reqtype chg: prev=0, new=15
+[8704] 05-06 01:40:55:586: Adding timeout of 120 for listen
+[8704] 05-06 01:40:55:617: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[8704] 05-06 01:40:55:617: Connect request on port: VPN1-1, error code 600
+[6588] 05-06 01:40:56:054: WorkerThread: Async work event signaled on port: VPN1-1
+[6588] 05-06 01:40:56:054: OVEVT_DEV_ASYNCOP. pOverlapped = 0x39250f0
+[6588] 05-06 01:40:56:085: CompleteAsyncRequest: pOverlapped=0x48b36c
+[6588] 05-06 01:40:56:085: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b36c, type=2
+[6588] 05-06 01:40:56:085: AppendNewMsgToQueue:Set client Event:0x418
+[6588] 05-06 01:40:56:085: Inside DeviceListenRequest NumParams 3
+[6588] 05-06 01:40:56:085: Found DEV_SPECIFIC_INFO_KEY: Size:32 Offset:132
+[6588] 05-06 01:40:56:085: Correlation Guid is {DFE105DF-D063-4695-B218-54ECD0E4B7FF}
+[6588] 05-06 01:40:56:085: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 0 async reqtype chg: prev=15, new=0
+[6588] 05-06 01:40:56:085: ServiceWorkRequest: Async op event 15 for port VPN1-1 returned 0
+[6096] 05-06 01:40:56:132: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[6096] 05-06 01:40:56:132: PickOneMsgFromQueueList:
+[6096] 05-06 01:40:56:490: ConnectCompleteRequest: entered for port 0
+[6096] 05-06 01:40:56:568: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 7905: port 0 state chg: prev=0, new=2
+[6096] 05-06 01:40:56:568: AllocBundle: pBundle=0x37f8738
+
+[6096] 05-06 01:40:56:568: d:\w7rtm\net\rras\ras\rasman\rasman\request.c 9172: Mapping Cookie to handle. port = VPN1-1(0x8b95ac8), Bundlehandle = 0x1, linkhandle = 0x1
+[6096] 05-06 01:40:56:568: Connection Completed on port: VPN1-1, error code: 0
+[6588] 05-06 01:40:56:568: OVEVT_RASMAN_POST_RECV_PKT
+[6588] 05-06 01:40:56:568: PostReceivePacket returned 0x3e5
+[6096] 05-06 01:40:56:912: SetEapInfo: port VPN1-1
+[6096] 05-06 01:40:56:912: SetEapInfo: EapMethodId=26.
+[6096] 05-06 01:40:56:912: SetEapInfo: ConfigDataSize=8. pData=0x1b5d318
+[6096] 05-06 01:40:56:912: SetEapInfo: user data is NULL.
+[6096] 05-06 01:40:56:912: SetEapInfo: done 0
+[6096] 05-06 01:40:56:990: ProtocolStart: PbkPath: C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6096] 05-06 01:40:56:990: ProtocolStart: EntryName: Nokia VPN
+[6096] 05-06 01:40:56:990: ProtocolStart: PhoneNum: 192.100.117.5
+[6096] 05-06 01:40:56:990: GetParamsListFromLsa Default=0
+[6096] 05-06 01:40:56:990: GetParamsListFromLsa. 0x2
+[6096] 05-06 01:40:56:990: GetParamsListFromLsa Default=1
+[6096] 05-06 01:40:56:990: GetParamsListFromLsa. 0x0
+[6096] 05-06 01:40:56:990: DwGetPassword: failed to get dialparams. 0x0
+[6096] 05-06 01:40:56:990: DwGetPassword: DwGetPasswordW failed. 0x80004005
+[6096] 05-06 01:40:56:990: ProtocolStart: UserName: OCHANDRA
+[6096] 05-06 01:40:56:990: ProtocolStart: Domain: NOE
+[6096] 05-06 01:40:56:990: DwCacheCredMgrCredentials
+[6096] 05-06 01:40:57:021: DwCacheCredMgrCredentials: 0x0
+[8272] 05-06 01:40:57:645: ProtocolStarted...VPN1-1
+[5316] 05-06 01:40:58:752: SendProtocolResultToRasman: msgid=1
+[5316] 05-06 01:40:58:752: Setting last error for port VPN1-1 to ppp error 0x363d
+[5316] 05-06 01:40:58:752: SetProtocolResultAvailableEvent: pOverlapped=0x48b38c
+[5316] 05-06 01:40:58:752: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b38c, type=3
+[5316] 05-06 01:40:58:752: AppendNewMsgToQueue:Set client Event:0x418
+[5316] 05-06 01:40:58:752: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[5316] 05-06 01:40:58:752: PickOneMsgFromQueueList:
+[5316] 05-06 01:40:58:815: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[5316] 05-06 01:40:58:877: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[5316] 05-06 01:40:58:877: QueueCloseConnections: no dependent connections
+[5316] 05-06 01:40:58:877: PortDisconnectRequest on VPN1-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x24
+[5316] 05-06 01:40:58:877: PortDisconnectRequest: hEventClientDisconnect=0x1604
+[5316] 05-06 01:40:58:877: PortDisconnectRequest: SendMessageToProtocolEngine on VPN1-1 returned 0x0
+[5316] 05-06 01:40:58:877: Disconnect request on port: VPN1-1
+[8272] 05-06 01:40:58:908: SendProtocolResultToRasman: msgid=10
+[8272] 05-06 01:40:58:908: PROTOCOL_RES_Stopped. dwError=0x0
+[8272] 05-06 01:40:58:908: DwProcessProtocolFailureMessage: disconnecting VPN1-1,hEventClientDisconnect=0x1604
+[8272] 05-06 01:40:58:908: DwProcessProtocolFailureMessage: Not autoclosing VPN1-1
+[8272] 05-06 01:40:58:908: Disconnecting Port 0xVPN1-1, reason 0
+[8272] 05-06 01:40:58:908: DisconnectPort: Saving Bundle stats for port VPN1-1
+[8272] 05-06 01:40:58:908: QueueCloseConnections: no dependent connections
+[8272] 05-06 01:40:58:955: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 0, reason 0. rc=0x258
+[8272] 05-06 01:40:58:955: FreeBundle: freeing pBundle=0x37f8738
+[8272] 05-06 01:40:58:955: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 0 state chg: prev=2, new=3
+[8272] 05-06 01:40:58:955: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 0 async reqtype chg: prev=0, new=9
+[6588] 05-06 01:40:58:955: WorkerThread: Disconnect event signaled on port: VPN1-1
+[6588] 05-06 01:40:58:955: OVEVT_DEV_STATECHANGE. pOverlapped = 0x3925130
+[6588] 05-06 01:40:58:955: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 0 state chg: prev=3, new=4
+[6588] 05-06 01:40:58:955: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 0 async reqtype chg: prev=9, new=0
+[6588] 05-06 01:40:58:955: CompleteDisconnectRequest: signalling 0x1604 for VPN1-1
+[6588] 05-06 01:40:58:955: SignalPortDisconnect: pOverlapped=0x48b34c
+[6588] 05-06 01:40:58:955: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b34c, type=1
+[6588] 05-06 01:40:58:955: AppendNewMsgToQueue:Set client Event:0x418
+[6588] 05-06 01:40:58:955: Disconnect completed on port: VPN1-1
+[6588] 05-06 01:40:58:955: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 0 is not marked for autoclose
+[5316] 05-06 01:40:58:986: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[5316] 05-06 01:40:58:986: PortClose: port (0). OpenInstances = 1
+[5316] 05-06 01:40:58:986: PortClose: going to clear the rasapi32 event handle
+[5316] 05-06 01:40:58:986: SetDialMachineEventHandleCommon:
+[5316] 05-06 01:40:58:986: SetDialEventHandleCommon: posting last event for port 0
+[5316] 05-06 01:40:58:986: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b3ac, type=4
+[5316] 05-06 01:40:58:986: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[5316] 05-06 01:40:58:986: Freeing the notifier list for port 0
+[5316] 05-06 01:40:58:986: PortClose (0). OpenInstances = 0
+[5316] 05-06 01:40:58:986: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 0 async reqtype chg: prev=0, new=0
+[5316] 05-06 01:40:58:986: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 0 state chg: prev=4, new=4
+[5316] 05-06 01:40:58:986: RemoveConnectionPort: port 0, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[5316] 05-06 01:40:58:986: Connection not freed for 0x10000! CB_Ports=0, CB_Ref=1
+[5316] 05-06 01:40:58:986: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 0
+[5316] 05-06 01:40:58:986: fAnyConnectedPorts: 0
+[5316] 05-06 01:40:58:986: SetSystemIdleTimer: fDisable=0
+[5316] 05-06 01:40:58:986: SetRasmanServiceStopControl: Enabled 1
+[5316] 05-06 01:40:59:111: PortOpenEx: WAN Miniport (SSTP)
+[5316] 05-06 01:40:59:111: SetRasmanServiceStopControl: Enabled 0
+[5316] 05-06 01:40:59:111: PortOpen (7, VPN0-1) OpenInstances = (0)
+[5316] 05-06 01:40:59:111: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 7 state chg: prev=0, new=4
+[5316] 05-06 01:40:59:111: PortOpenEx (7) : OpenInstances = 1
+[5316] 05-06 01:40:59:111: PortOpenEx: rc=0x0. DeviceFound=1
+[5316] 05-06 01:40:59:252: CleanUpDeadClientProcessBlock
+[5316] 05-06 01:40:59:252: SetDialMachineEventHandleCommon:
+[5316] 05-06 01:40:59:314: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=7, dwSubEntry=1
+[6096] 05-06 01:41:07:021: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 7 state chg: prev=4, new=0
+[6096] 05-06 01:41:07:021: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 7 async reqtype chg: prev=0, new=15
+[6096] 05-06 01:41:07:021: Adding timeout of 120 for listen
+[6096] 05-06 01:41:07:162: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[6096] 05-06 01:41:07:162: Connect request on port: VPN0-1, error code 600
+[8704] 05-06 01:41:07:209: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:41:07:209: PickOneMsgFromQueueList:
+[8704] 05-06 01:41:07:209: PickOneMsgFromQueueList:Set client Event:0x418
+[8704] 05-06 01:41:07:396: CleanUpDeadClientProcessBlock
+[8704] 05-06 01:41:07:396: SetDialMachineEventHandleCommon:
+[8704] 05-06 01:41:07:396: SetDialMachineEventHandleCommon:Error: meaningless operation
+[8704] 05-06 01:41:07:474: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:41:07:474: PickOneMsgFromQueueList:
+[6588] 05-06 01:42:00:410: WorkerThread: Async work event signaled on port: VPN0-1
+[6588] 05-06 01:42:00:410: OVEVT_DEV_ASYNCOP. pOverlapped = 0x7179180
+[6588] 05-06 01:42:00:410: CompleteAsyncRequest: pOverlapped=0x495134
+[6588] 05-06 01:42:00:410: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x495134, type=2
+[6588] 05-06 01:42:00:410: AppendNewMsgToQueue:Set client Event:0x418
+[6588] 05-06 01:42:00:410: Inside DeviceListenRequest NumParams 3
+[6588] 05-06 01:42:00:410: Found DEV_SPECIFIC_INFO_KEY: Size:104 Offset:142
+[6588] 05-06 01:42:00:410: Correlation Guid is {DFE105DF-D063-4695-B218-54ECD0E4B7FF}
+[6588] 05-06 01:42:00:410: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 7 async reqtype chg: prev=15, new=0
+[6588] 05-06 01:42:00:410: ServiceWorkRequest: Async op event 15 for port VPN0-1 returned -2147023660
+[6096] 05-06 01:42:00:450: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[6096] 05-06 01:42:00:450: PickOneMsgFromQueueList:
+[6096] 05-06 01:42:00:520: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[6096] 05-06 01:42:00:550: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[6096] 05-06 01:42:00:550: QueueCloseConnections: no dependent connections
+[6096] 05-06 01:42:00:550: PortDisconnectRequest on VPN0-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x0
+[6096] 05-06 01:42:00:550: PortDisconnectRequest: Disconnecting VPN0-1
+[6096] 05-06 01:42:00:550: Disconnecting Port 0xVPN0-1, reason 0
+[6096] 05-06 01:42:00:550: QueueCloseConnections: no dependent connections
+[6096] 05-06 01:42:00:550: link handle for VPN0-1 = INVALID_HANDLE_VALUE
+[6096] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 7, reason 0. rc=0x258
+[6096] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 7 state chg: prev=0, new=3
+[6096] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 7 async reqtype chg: prev=0, new=9
+[6096] 05-06 01:42:00:590: Disconnect request on port: VPN0-1
+[6588] 05-06 01:42:00:590: WorkerThread: Disconnect event signaled on port: VPN0-1
+[6588] 05-06 01:42:00:590: OVEVT_DEV_STATECHANGE. pOverlapped = 0x71791c0
+[6588] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 7 state chg: prev=3, new=4
+[6588] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 7 async reqtype chg: prev=9, new=0
+[6588] 05-06 01:42:00:590: CompleteDisconnectRequest: signalling 0xe08 for VPN0-1
+[6588] 05-06 01:42:00:590: SignalPortDisconnect: pOverlapped=0x495114
+[6588] 05-06 01:42:00:590: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x495114, type=1
+[6588] 05-06 01:42:00:590: AppendNewMsgToQueue:Set client Event:0x418
+[6588] 05-06 01:42:00:590: Disconnect completed on port: VPN0-1
+[6588] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 7 is not marked for autoclose
+[6096] 05-06 01:42:00:590: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[6096] 05-06 01:42:00:590: PortClose: port (7). OpenInstances = 1
+[6096] 05-06 01:42:00:590: PortClose: going to clear the rasapi32 event handle
+[6096] 05-06 01:42:00:590: SetDialMachineEventHandleCommon:
+[6096] 05-06 01:42:00:590: SetDialEventHandleCommon: posting last event for port 7
+[6096] 05-06 01:42:00:590: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x495174, type=4
+[6096] 05-06 01:42:00:590: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[6096] 05-06 01:42:00:590: Freeing the notifier list for port 7
+[6096] 05-06 01:42:00:590: PortClose (7). OpenInstances = 0
+[6096] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 7 async reqtype chg: prev=0, new=0
+[6096] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 7 state chg: prev=4, new=4
+[6096] 05-06 01:42:00:590: RemoveConnectionPort: port 7, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[6096] 05-06 01:42:00:590: Connection not freed for 0x10000! CB_Ports=0, CB_Ref=1
+[6096] 05-06 01:42:00:590: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 7
+[6096] 05-06 01:42:00:590: fAnyConnectedPorts: 0
+[6096] 05-06 01:42:00:590: SetSystemIdleTimer: fDisable=0
+[6096] 05-06 01:42:00:590: SetRasmanServiceStopControl: Enabled 1
+[8704] 05-06 01:42:00:690: PortCloseRequest: Port not found (ppcb is NULL)
+[8704] 05-06 01:42:00:780: PortOpenEx: WAN Miniport (PPTP)
+[8704] 05-06 01:42:00:780: SetRasmanServiceStopControl: Enabled 0
+[8704] 05-06 01:42:00:780: PortOpen (5, VPN3-1) OpenInstances = (0)
+[8704] 05-06 01:42:00:780: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 5 state chg: prev=0, new=4
+[8704] 05-06 01:42:00:780: PortOpenEx (5) : OpenInstances = 1
+[8704] 05-06 01:42:00:780: PortOpenEx: rc=0x0. DeviceFound=1
+[8704] 05-06 01:42:00:920: CleanUpDeadClientProcessBlock
+[8704] 05-06 01:42:00:920: SetDialMachineEventHandleCommon:
+[8704] 05-06 01:42:00:990: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=5, dwSubEntry=1
+[6096] 05-06 01:42:02:224: SetTunnelEndPoints: Port=5,SourceAddr=123.237.140.18,DestinationAddr=192.100.117.5,IfIndex=10
+[6096] 05-06 01:42:02:224: SetTunnelEndPoints: Not setting source end point as Tunnel is PPTP/SSTP
+[8704] 05-06 01:42:03:020: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 5 state chg: prev=4, new=0
+[8704] 05-06 01:42:03:020: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 5 async reqtype chg: prev=0, new=15
+[8704] 05-06 01:42:03:020: Adding timeout of 120 for listen
+[8704] 05-06 01:42:03:067: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[8704] 05-06 01:42:03:067: Connect request on port: VPN3-1, error code 600
+[8704] 05-06 01:42:03:067: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:42:03:067: PickOneMsgFromQueueList:
+[8704] 05-06 01:42:03:067: PickOneMsgFromQueueList:Set client Event:0x418
+[8704] 05-06 01:42:03:067: CleanUpDeadClientProcessBlock
+[8704] 05-06 01:42:03:067: SetDialMachineEventHandleCommon:
+[8704] 05-06 01:42:03:067: SetDialMachineEventHandleCommon:Error: meaningless operation
+[8704] 05-06 01:42:03:067: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:42:03:067: PickOneMsgFromQueueList:
+[6588] 05-06 01:42:24:181: WorkerThread: Async work event signaled on port: VPN3-1
+[6588] 05-06 01:42:24:181: OVEVT_DEV_ASYNCOP. pOverlapped = 0x7179990
+[6588] 05-06 01:42:24:181: CompleteAsyncRequest: pOverlapped=0x48b36c
+[6588] 05-06 01:42:24:181: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b36c, type=2
+[6588] 05-06 01:42:24:181: AppendNewMsgToQueue:Set client Event:0x418
+[6588] 05-06 01:42:24:181: Inside DeviceListenRequest NumParams 3
+[6588] 05-06 01:42:24:181: Found DEV_SPECIFIC_INFO_KEY: Size:16 Offset:132
+[6588] 05-06 01:42:24:181: Correlation Guid is {DFE105DF-D063-4695-B218-54ECD0E4B7FF}
+[6588] 05-06 01:42:24:181: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 5 async reqtype chg: prev=15, new=0
+[6588] 05-06 01:42:24:181: ServiceWorkRequest: Async op event 15 for port VPN3-1 returned 807
+[5316] 05-06 01:42:24:197: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[5316] 05-06 01:42:24:197: PickOneMsgFromQueueList:
+[5316] 05-06 01:42:24:441: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[5316] 05-06 01:42:24:519: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[5316] 05-06 01:42:24:519: QueueCloseConnections: no dependent connections
+[5316] 05-06 01:42:24:519: PortDisconnectRequest on VPN3-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x0
+[5316] 05-06 01:42:24:519: PortDisconnectRequest: Disconnecting VPN3-1
+[5316] 05-06 01:42:24:519: Disconnecting Port 0xVPN3-1, reason 0
+[5316] 05-06 01:42:24:519: QueueCloseConnections: no dependent connections
+[5316] 05-06 01:42:24:519: link handle for VPN3-1 = INVALID_HANDLE_VALUE
+[5316] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 5, reason 0. rc=0x258
+[5316] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 5 state chg: prev=0, new=3
+[5316] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 5 async reqtype chg: prev=0, new=9
+[5316] 05-06 01:42:24:519: Disconnect request on port: VPN3-1
+[6588] 05-06 01:42:24:519: WorkerThread: Disconnect event signaled on port: VPN3-1
+[6588] 05-06 01:42:24:519: OVEVT_DEV_STATECHANGE. pOverlapped = 0x71799d0
+[6588] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 5 state chg: prev=3, new=4
+[6588] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 5 async reqtype chg: prev=9, new=0
+[6588] 05-06 01:42:24:519: CompleteDisconnectRequest: signalling 0x106c for VPN3-1
+[6588] 05-06 01:42:24:519: SignalPortDisconnect: pOverlapped=0x48b34c
+[6588] 05-06 01:42:24:519: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b34c, type=1
+[6588] 05-06 01:42:24:519: AppendNewMsgToQueue:Set client Event:0x418
+[6588] 05-06 01:42:24:519: Disconnect completed on port: VPN3-1
+[6588] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 5 is not marked for autoclose
+[5316] 05-06 01:42:24:519: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[5316] 05-06 01:42:24:519: PortClose: port (5). OpenInstances = 1
+[5316] 05-06 01:42:24:519: PortClose: going to clear the rasapi32 event handle
+[5316] 05-06 01:42:24:519: SetDialMachineEventHandleCommon:
+[5316] 05-06 01:42:24:519: SetDialEventHandleCommon: posting last event for port 5
+[5316] 05-06 01:42:24:519: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x48b3ac, type=4
+[5316] 05-06 01:42:24:519: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[5316] 05-06 01:42:24:519: Freeing the notifier list for port 5
+[5316] 05-06 01:42:24:519: PortClose (5). OpenInstances = 0
+[5316] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 5 async reqtype chg: prev=0, new=0
+[5316] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 5 state chg: prev=4, new=4
+[5316] 05-06 01:42:24:519: RemoveConnectionPort: port 5, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[5316] 05-06 01:42:24:519: Connection not freed for 0x10000! CB_Ports=0, CB_Ref=1
+[5316] 05-06 01:42:24:519: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 5
+[5316] 05-06 01:42:24:519: fAnyConnectedPorts: 0
+[5316] 05-06 01:42:24:519: SetSystemIdleTimer: fDisable=0
+[5316] 05-06 01:42:24:519: SetRasmanServiceStopControl: Enabled 1
+[8704] 05-06 01:42:24:628: PortCloseRequest: Port not found (ppcb is NULL)
+[8704] 05-06 01:42:24:708: PortOpenEx: WAN Miniport (L2TP)
+[8704] 05-06 01:42:24:708: SetRasmanServiceStopControl: Enabled 0
+[8704] 05-06 01:42:24:708: PortOpen (2, VPN2-1) OpenInstances = (0)
+[8704] 05-06 01:42:24:708: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 2 state chg: prev=0, new=4
+[8704] 05-06 01:42:24:708: PortOpenEx (2) : OpenInstances = 1
+[8704] 05-06 01:42:24:708: PortOpenEx: rc=0x0. DeviceFound=1
+[5316] 05-06 01:42:24:911: CleanUpDeadClientProcessBlock
+[5316] 05-06 01:42:24:911: SetDialMachineEventHandleCommon:
+[5316] 05-06 01:42:24:989: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=2, dwSubEntry=1
+[5316] 05-06 01:42:26:210: SetTunnelEndPoints: Port=2,SourceAddr=123.237.140.18,DestinationAddr=192.100.117.5,IfIndex=10
+[5316] 05-06 01:42:27:119: AddIpSecFilter, port=2, fServer=0, encryption=2
+[5316] 05-06 01:42:27:119: DwInitializeIpSec: fOnFailure set to 0
+[5316] 05-06 01:42:27:119: DwInitializeIpSec: FwpmEngineOpen0 returned 0
+[5316] 05-06 01:42:27:119: DwAddClientIpSecFilter, port=2
+[5316] 05-06 01:42:27:119: Failed to generate certificate list. rc=0x103, Count=0, MyStoreEmpty=1
+[5316] 05-06 01:42:27:119: DwAddClientIpSecFilter: rc=0x2fe
+[5316] 05-06 01:42:27:119: AddIpSecFilter: rc=0x2fe
+[5316] 05-06 01:42:27:119: EnableIpSec: port=VPN2-1, fServer=0, fEnable = 1, rc=0x2fe
+[5316] 05-06 01:42:27:743: ReferenceCustomCount
+[5316] 05-06 01:42:27:743: ReferenceCustomCount done. 0
+[5316] 05-06 01:42:27:915: RefConnection: 0x10000
+[5316] 05-06 01:42:27:915: refcount=0, maxports=6, ports=1
+[5316] 05-06 01:42:27:915: RefConnection: ref on 0x10000 = 0
+[5316] 05-06 01:42:27:993: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[5316] 05-06 01:42:27:993: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[5316] 05-06 01:42:27:993: QueueCloseConnections: no dependent connections
+[5316] 05-06 01:42:27:993: PortDisconnectRequest on VPN2-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x0
+[5316] 05-06 01:42:27:993: PortDisconnectRequest: Disconnecting VPN2-1
+[5316] 05-06 01:42:27:993: Disconnecting Port 0xVPN2-1, reason 0
+[5316] 05-06 01:42:27:993: QueueCloseConnections: no dependent connections
+[5316] 05-06 01:42:27:993: link handle for VPN2-1 = INVALID_HANDLE_VALUE
+[5316] 05-06 01:42:27:993: 4. Notifying of disconnect on port 2
+[5316] 05-06 01:42:27:993: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 2 state chg: prev=4, new=4
+[5316] 05-06 01:42:27:993: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 2 async reqtype chg: prev=0, new=0
+[5316] 05-06 01:42:27:993: CompleteDisconnectRequest: signalling 0x1890 for VPN2-1
+[5316] 05-06 01:42:27:993: SignalPortDisconnect: pOverlapped=0x4afa04
+[5316] 05-06 01:42:27:993: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x4afa04, type=1
+[5316] 05-06 01:42:27:993: Disconnect completed on port: VPN2-1
+[5316] 05-06 01:42:27:993: Disconnect request on port: VPN2-1
+[5316] 05-06 01:42:27:993: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[5316] 05-06 01:42:27:993: PortClose: port (2). OpenInstances = 1
+[5316] 05-06 01:42:27:993: PortClose: going to clear the rasapi32 event handle
+[5316] 05-06 01:42:27:993: SetDialMachineEventHandleCommon:
+[5316] 05-06 01:42:27:993: SetDialEventHandleCommon: posting last event for port 2
+[5316] 05-06 01:42:27:993: PostDialEventContext:  for pid:0x1bac, client Event:0x418context pointer=0x4afa64, type=4
+[5316] 05-06 01:42:27:993: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[5316] 05-06 01:42:27:993: Freeing the notifier list for port 2
+[5316] 05-06 01:42:27:993: DwInitializeIpSec: fOnFailure set to 0
+[5316] 05-06 01:42:27:993: Deleting client ipsec filter on 2
+[5316] 05-06 01:42:27:993: DwDeleteIpSecFilter for VPN2-1 returned 0x57
+[5316] 05-06 01:42:27:993: PortClose (2). OpenInstances = 0
+[5316] 05-06 01:42:28:039: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 2 async reqtype chg: prev=0, new=0
+[5316] 05-06 01:42:28:039: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 2 state chg: prev=4, new=4
+[5316] 05-06 01:42:28:039: RemoveConnectionPort: port 2, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[5316] 05-06 01:42:28:086: SendSensNotification(_RAS_DISCONNECT) for 0x00010000 returns 0x00000000
+[5316] 05-06 01:42:28:086: DwSendNotificationInternal(ENTRY_DISCONNECTED) rc=0x0
+[5316] 05-06 01:42:28:086: RemoveConnectionPort: FreeConnection hconn=0x10000, pconn=0x3977cf0, AutoClose=0
+[5316] 05-06 01:42:28:086: FreeConnection: pConn=0x3977cf0, 0
+[5316] 05-06 01:42:28:086: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 2
+[5316] 05-06 01:42:28:086: fAnyConnectedPorts: 0
+[5316] 05-06 01:42:28:086: SetSystemIdleTimer: fDisable=0
+[5316] 05-06 01:42:28:086: SetRasmanServiceStopControl: Enabled 1
+[8704] 05-06 01:42:28:117: CleanUpDeadClientProcessBlock
+[8704] 05-06 01:42:28:117: SetDialMachineEventHandleCommon:
+[8704] 05-06 01:42:28:117: SetDialMachineEventHandleCommon:Error: meaningless operation
+[8704] 05-06 01:42:28:195: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:42:28:195: PickOneMsgFromQueueList:
+[8704] 05-06 01:42:28:195: PickOneMsgFromQueueList:Set client Event:0x418
+[7832] 05-06 01:42:28:336: CleanUpDeadClientProcessBlock
+[7832] 05-06 01:42:28:336: SetDialMachineEventHandleCommon:
+[7832] 05-06 01:42:28:336: SetDialMachineEventHandleCommon:Error: meaningless operation
+[8704] 05-06 01:42:28:414: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:42:28:414: PickOneMsgFromQueueList:
+[8704] 05-06 01:42:28:414: PickOneMsgFromQueueList:Set client Event:0x418
+[7832] 05-06 01:42:28:461: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[7832] 05-06 01:42:28:461: PickOneMsgFromQueueList:
+[7832] 05-06 01:42:28:461: PickOneMsgFromQueueList:Set client Event:0x418
+[8704] 05-06 01:42:28:492: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x418
+[8704] 05-06 01:42:28:492: PickOneMsgFromQueueList:
+[8704] 05-06 01:43:29:217: ReferenceRasman: process 10096
+[8704] 05-06 01:43:29:217: Rasman RefCount = 11
+[6556] 05-06 01:46:16:535: ReferenceRasman: process 896
+[6556] 05-06 01:46:16:535: Rasman RefCount = 12
+[7024] 05-06 01:47:47:326: ReferenceRasman: process 6680
+[7024] 05-06 01:47:47:326: Rasman RefCount = 13
+[7024] 05-06 01:49:59:864: ReferenceRasman: process 10204
+[7024] 05-06 01:49:59:864: Rasman RefCount = 14
+[7980] 05-06 01:52:30:405: ReferenceRasman: process 3348
+[7980] 05-06 01:52:30:405: Rasman RefCount = 15
+[8168] 05-06 01:54:00:488: ReferenceRasman: process 3356
+[8168] 05-06 01:54:00:488: Rasman RefCount = 16
+[5652] 05-06 01:54:29:334: GetParamsListFromLsa Default=0
+[5652] 05-06 01:54:29:334: GetParamsListFromLsa. 0x2
+[5652] 05-06 01:54:29:334: GetParamsListFromLsa Default=1
+[5652] 05-06 01:54:29:344: GetParamsListFromLsa. 0x0
+[5652] 05-06 01:54:29:344: CreateConnection: entry=Nokia VPN, pbk=C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[5652] 05-06 01:54:29:344: CreateConnection: fSecureRoutingCompartment: 0 and dwConSessionId 1  old Compartment ID 1:
+[5652] 05-06 01:54:29:344: SetRasmanServiceStopControl: Enabled 0
+[5652] 05-06 01:54:29:344: CreateConnection: Created new connection. hconn=0x20000, ref=1, pConn=0x3977cf0
+[5652] 05-06 01:54:29:544: IsTrustedCustomDll: pwsz=, fTrusted=0, rc=0
+[6552] 05-06 01:54:29:724: PortOpenEx: WAN Miniport (IKEv2)
+[6552] 05-06 01:54:29:814: SetRasmanServiceStopControl: Enabled 0
+[6552] 05-06 01:54:29:814: PortOpen (0, VPN1-1) OpenInstances = (0)
+[6552] 05-06 01:54:29:814: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 0 state chg: prev=4, new=4
+[6552] 05-06 01:54:29:814: PortOpenEx (0) : OpenInstances = 1
+[6552] 05-06 01:54:29:814: PortOpenEx: rc=0x0. DeviceFound=1
+[6552] 05-06 01:54:29:814: CleanUpDeadClientProcessBlock
+[6552] 05-06 01:54:29:824: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:54:29:824: Cleaning up process 7084
+[6552] 05-06 01:54:29:824: CleanUpEventQueue:
+[6552] 05-06 01:54:29:844: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=0, dwSubEntry=1
+[5652] 05-06 01:54:33:030: SetTunnelEndPoints: Port=0,SourceAddr=123.237.140.18,DestinationAddr=192.100.117.5,IfIndex=10
+[6552] 05-06 01:54:33:350: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 0 state chg: prev=4, new=0
+[6552] 05-06 01:54:33:350: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 0 async reqtype chg: prev=0, new=15
+[6552] 05-06 01:54:33:350: Adding timeout of 120 for listen
+[6552] 05-06 01:54:33:550: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[6552] 05-06 01:54:33:550: Connect request on port: VPN1-1, error code 600
+[6588] 05-06 01:54:33:550: WorkerThread: Async work event signaled on port: VPN1-1
+[6588] 05-06 01:54:33:550: OVEVT_DEV_ASYNCOP. pOverlapped = 0x39250f0
+[6588] 05-06 01:54:33:550: CompleteAsyncRequest: pOverlapped=0x48b36c
+[6588] 05-06 01:54:33:550: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b36c, type=2
+[6588] 05-06 01:54:33:550: AppendNewMsgToQueue:Set client Event:0x4a8
+[6588] 05-06 01:54:33:550: Inside DeviceListenRequest NumParams 3
+[6588] 05-06 01:54:33:550: Found DEV_SPECIFIC_INFO_KEY: Size:32 Offset:132
+[6588] 05-06 01:54:33:550: Correlation Guid is {5432E75D-4689-4C40-B956-8CA7E66E1012}
+[6588] 05-06 01:54:33:550: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 0 async reqtype chg: prev=15, new=0
+[6588] 05-06 01:54:33:550: ServiceWorkRequest: Async op event 15 for port VPN1-1 returned 0
+[6552] 05-06 01:54:33:550: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[6552] 05-06 01:54:33:550: PickOneMsgFromQueueList:
+[6552] 05-06 01:54:33:760: ConnectCompleteRequest: entered for port 0
+[6552] 05-06 01:54:33:760: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 7905: port 0 state chg: prev=0, new=2
+[6552] 05-06 01:54:33:760: AllocBundle: pBundle=0x78ca8b0
+
+[6552] 05-06 01:54:33:760: d:\w7rtm\net\rras\ras\rasman\rasman\request.c 9172: Mapping Cookie to handle. port = VPN1-1(0x8b95ac8), Bundlehandle = 0x2, linkhandle = 0x2
+[6552] 05-06 01:54:33:760: Connection Completed on port: VPN1-1, error code: 0
+[6552] 05-06 01:54:33:830: SetEapInfo: port VPN1-1
+[6552] 05-06 01:54:33:830: SetEapInfo: EapMethodId=26.
+[6552] 05-06 01:54:33:830: SetEapInfo: ConfigDataSize=8. pData=0x82d5938
+[6552] 05-06 01:54:33:830: SetEapInfo: user data is NULL.
+[6552] 05-06 01:54:33:830: SetEapInfo: done 0
+[6552] 05-06 01:54:33:930: ProtocolStart: PbkPath: C:\ProgramData\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[6552] 05-06 01:54:33:930: ProtocolStart: EntryName: Nokia VPN
+[6552] 05-06 01:54:33:930: ProtocolStart: PhoneNum: 192.100.117.5
+[6552] 05-06 01:54:33:930: GetParamsListFromLsa Default=0
+[6552] 05-06 01:54:33:930: GetParamsListFromLsa. 0x2
+[6552] 05-06 01:54:33:930: GetParamsListFromLsa Default=1
+[6552] 05-06 01:54:33:940: GetParamsListFromLsa. 0x0
+[6552] 05-06 01:54:33:940: DwGetPassword: failed to get dialparams. 0x0
+[6552] 05-06 01:54:33:940: DwGetPassword: DwGetPasswordW failed. 0x80004005
+[6552] 05-06 01:54:33:940: ProtocolStart: UserName: OCHANDRA
+[6552] 05-06 01:54:33:940: ProtocolStart: Domain: NOE
+[6552] 05-06 01:54:33:940: DwCacheCredMgrCredentials
+[6552] 05-06 01:54:33:940: DwCacheCredMgrCredentials: 0x0
+[9868] 05-06 01:54:34:140: ProtocolStarted...VPN1-1
+[5652] 05-06 01:54:35:040: SendProtocolResultToRasman: msgid=1
+[5652] 05-06 01:54:35:040: Setting last error for port VPN1-1 to ppp error 0x363d
+[5652] 05-06 01:54:35:040: SetProtocolResultAvailableEvent: pOverlapped=0x48b38c
+[5652] 05-06 01:54:35:040: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b38c, type=3
+[5652] 05-06 01:54:35:040: AppendNewMsgToQueue:Set client Event:0x4a8
+[7244] 05-06 01:54:35:100: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[7244] 05-06 01:54:35:100: PickOneMsgFromQueueList:
+[7244] 05-06 01:54:35:100: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[7244] 05-06 01:54:35:290: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[7244] 05-06 01:54:35:290: QueueCloseConnections: no dependent connections
+[7244] 05-06 01:54:35:290: PortDisconnectRequest on VPN1-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x24
+[7244] 05-06 01:54:35:290: PortDisconnectRequest: hEventClientDisconnect=0x16cc
+[7244] 05-06 01:54:35:290: PortDisconnectRequest: SendMessageToProtocolEngine on VPN1-1 returned 0x0
+[7244] 05-06 01:54:35:290: Disconnect request on port: VPN1-1
+[9868] 05-06 01:54:35:290: SendProtocolResultToRasman: msgid=10
+[9868] 05-06 01:54:35:290: PROTOCOL_RES_Stopped. dwError=0x0
+[9868] 05-06 01:54:35:290: DwProcessProtocolFailureMessage: disconnecting VPN1-1,hEventClientDisconnect=0x16cc
+[9868] 05-06 01:54:35:290: DwProcessProtocolFailureMessage: Not autoclosing VPN1-1
+[9868] 05-06 01:54:35:290: Disconnecting Port 0xVPN1-1, reason 0
+[9868] 05-06 01:54:35:290: DisconnectPort: Saving Bundle stats for port VPN1-1
+[9868] 05-06 01:54:35:290: QueueCloseConnections: no dependent connections
+[9868] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 0, reason 0. rc=0x258
+[9868] 05-06 01:54:35:300: FreeBundle: freeing pBundle=0x78ca8b0
+[9868] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 0 state chg: prev=2, new=3
+[9868] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 0 async reqtype chg: prev=0, new=9
+[6588] 05-06 01:54:35:300: WorkerThread: Disconnect event signaled on port: VPN1-1
+[6588] 05-06 01:54:35:300: OVEVT_DEV_STATECHANGE. pOverlapped = 0x3925130
+[6588] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 0 state chg: prev=3, new=4
+[6588] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 0 async reqtype chg: prev=9, new=0
+[6588] 05-06 01:54:35:300: CompleteDisconnectRequest: signalling 0x16cc for VPN1-1
+[6588] 05-06 01:54:35:300: SignalPortDisconnect: pOverlapped=0x48b34c
+[6588] 05-06 01:54:35:300: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b34c, type=1
+[6588] 05-06 01:54:35:300: AppendNewMsgToQueue:Set client Event:0x4a8
+[6588] 05-06 01:54:35:300: Disconnect completed on port: VPN1-1
+[6588] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 0 is not marked for autoclose
+[7244] 05-06 01:54:35:300: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[7244] 05-06 01:54:35:300: PortClose: port (0). OpenInstances = 1
+[7244] 05-06 01:54:35:300: PortClose: going to clear the rasapi32 event handle
+[7244] 05-06 01:54:35:300: SetDialMachineEventHandleCommon:
+[7244] 05-06 01:54:35:300: SetDialEventHandleCommon: posting last event for port 0
+[7244] 05-06 01:54:35:300: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b3ac, type=4
+[7244] 05-06 01:54:35:300: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[7244] 05-06 01:54:35:300: Freeing the notifier list for port 0
+[7244] 05-06 01:54:35:300: PortClose (0). OpenInstances = 0
+[7244] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 0 async reqtype chg: prev=0, new=0
+[7244] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 0 state chg: prev=4, new=4
+[7244] 05-06 01:54:35:300: RemoveConnectionPort: port 0, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[7244] 05-06 01:54:35:300: Connection not freed for 0x20000! CB_Ports=0, CB_Ref=1
+[7244] 05-06 01:54:35:300: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 0
+[7244] 05-06 01:54:35:300: fAnyConnectedPorts: 0
+[7244] 05-06 01:54:35:300: SetSystemIdleTimer: fDisable=0
+[7244] 05-06 01:54:35:300: SetRasmanServiceStopControl: Enabled 1
+[7244] 05-06 01:54:35:300: PortOpenEx: WAN Miniport (SSTP)
+[7244] 05-06 01:54:35:300: SetRasmanServiceStopControl: Enabled 0
+[7244] 05-06 01:54:35:310: PortOpen (7, VPN0-1) OpenInstances = (0)
+[7244] 05-06 01:54:35:310: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 7 state chg: prev=4, new=4
+[7244] 05-06 01:54:35:310: PortOpenEx (7) : OpenInstances = 1
+[7244] 05-06 01:54:35:310: PortOpenEx: rc=0x0. DeviceFound=1
+[7244] 05-06 01:54:35:310: CleanUpDeadClientProcessBlock
+[7244] 05-06 01:54:35:310: SetDialMachineEventHandleCommon:
+[7244] 05-06 01:54:35:310: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=7, dwSubEntry=1
+[10232] 05-06 01:54:45:041: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 7 state chg: prev=4, new=0
+[10232] 05-06 01:54:45:041: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 7 async reqtype chg: prev=0, new=15
+[10232] 05-06 01:54:45:041: Adding timeout of 120 for listen
+[10232] 05-06 01:54:45:271: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[10232] 05-06 01:54:45:271: Connect request on port: VPN0-1, error code 600
+[6552] 05-06 01:54:45:311: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[6552] 05-06 01:54:45:311: PickOneMsgFromQueueList:
+[6552] 05-06 01:54:45:311: PickOneMsgFromQueueList:Set client Event:0x4a8
+[6552] 05-06 01:54:45:541: CleanUpDeadClientProcessBlock
+[6552] 05-06 01:54:45:541: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:54:45:541: SetDialMachineEventHandleCommon:Error: meaningless operation
+[6552] 05-06 01:54:45:621: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[6552] 05-06 01:54:45:621: PickOneMsgFromQueueList:
+[6588] 05-06 01:55:01:156: WorkerThread: Async work event signaled on port: VPN0-1
+[6588] 05-06 01:55:01:156: OVEVT_DEV_ASYNCOP. pOverlapped = 0x7179180
+[6588] 05-06 01:55:01:156: CompleteAsyncRequest: pOverlapped=0x4b7b04
+[6588] 05-06 01:55:01:156: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x4b7b04, type=2
+[6588] 05-06 01:55:01:156: AppendNewMsgToQueue:Set client Event:0x4a8
+[6588] 05-06 01:55:01:156: Inside DeviceListenRequest NumParams 3
+[6588] 05-06 01:55:01:156: Found DEV_SPECIFIC_INFO_KEY: Size:104 Offset:142
+[6588] 05-06 01:55:01:156: Correlation Guid is {5432E75D-4689-4C40-B956-8CA7E66E1012}
+[6588] 05-06 01:55:01:156: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 7 async reqtype chg: prev=15, new=0
+[6588] 05-06 01:55:01:156: ServiceWorkRequest: Async op event 15 for port VPN0-1 returned -2147023660
+[10232] 05-06 01:55:01:166: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[10232] 05-06 01:55:01:166: PickOneMsgFromQueueList:
+[6552] 05-06 01:55:01:226: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[6552] 05-06 01:55:01:346: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[6552] 05-06 01:55:01:346: QueueCloseConnections: no dependent connections
+[6552] 05-06 01:55:01:346: PortDisconnectRequest on VPN0-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x0
+[6552] 05-06 01:55:01:346: PortDisconnectRequest: Disconnecting VPN0-1
+[6552] 05-06 01:55:01:346: Disconnecting Port 0xVPN0-1, reason 0
+[6552] 05-06 01:55:01:346: QueueCloseConnections: no dependent connections
+[6552] 05-06 01:55:01:346: link handle for VPN0-1 = INVALID_HANDLE_VALUE
+[6552] 05-06 01:55:01:426: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 7, reason 0. rc=0x258
+[6552] 05-06 01:55:01:426: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 7 state chg: prev=0, new=3
+[6552] 05-06 01:55:01:426: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 7 async reqtype chg: prev=0, new=9
+[6552] 05-06 01:55:01:426: Disconnect request on port: VPN0-1
+[6588] 05-06 01:55:01:536: WorkerThread: Disconnect event signaled on port: VPN0-1
+[6588] 05-06 01:55:01:536: OVEVT_DEV_STATECHANGE. pOverlapped = 0x71791c0
+[6588] 05-06 01:55:01:546: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 7 state chg: prev=3, new=4
+[6588] 05-06 01:55:01:546: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 7 async reqtype chg: prev=9, new=0
+[6588] 05-06 01:55:01:546: CompleteDisconnectRequest: signalling 0x9ac for VPN0-1
+[6588] 05-06 01:55:01:546: SignalPortDisconnect: pOverlapped=0x4b7ae4
+[6588] 05-06 01:55:01:546: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x4b7ae4, type=1
+[6588] 05-06 01:55:01:546: AppendNewMsgToQueue:Set client Event:0x4a8
+[6588] 05-06 01:55:01:546: Disconnect completed on port: VPN0-1
+[6588] 05-06 01:55:01:546: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 7 is not marked for autoclose
+[6552] 05-06 01:55:01:596: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[6552] 05-06 01:55:01:596: PortClose: port (7). OpenInstances = 1
+[6552] 05-06 01:55:01:596: PortClose: going to clear the rasapi32 event handle
+[6552] 05-06 01:55:01:596: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:55:01:596: SetDialEventHandleCommon: posting last event for port 7
+[6552] 05-06 01:55:01:596: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x4b7b44, type=4
+[6552] 05-06 01:55:01:596: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[6552] 05-06 01:55:01:596: Freeing the notifier list for port 7
+[6552] 05-06 01:55:01:596: PortClose (7). OpenInstances = 0
+[6552] 05-06 01:55:01:606: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 7 async reqtype chg: prev=0, new=0
+[6552] 05-06 01:55:01:606: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 7 state chg: prev=4, new=4
+[6552] 05-06 01:55:01:606: RemoveConnectionPort: port 7, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[6552] 05-06 01:55:01:606: Connection not freed for 0x20000! CB_Ports=0, CB_Ref=1
+[6552] 05-06 01:55:01:606: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 7
+[6552] 05-06 01:55:01:606: fAnyConnectedPorts: 0
+[6552] 05-06 01:55:01:606: SetSystemIdleTimer: fDisable=0
+[6552] 05-06 01:55:01:606: SetRasmanServiceStopControl: Enabled 1
+[6552] 05-06 01:55:01:606: PortCloseRequest: Port not found (ppcb is NULL)
+[6552] 05-06 01:55:01:606: PortOpenEx: WAN Miniport (PPTP)
+[6552] 05-06 01:55:01:616: SetRasmanServiceStopControl: Enabled 0
+[6552] 05-06 01:55:01:616: PortOpen (5, VPN3-1) OpenInstances = (0)
+[6552] 05-06 01:55:01:616: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 5 state chg: prev=4, new=4
+[6552] 05-06 01:55:01:616: PortOpenEx (5) : OpenInstances = 1
+[6552] 05-06 01:55:01:616: PortOpenEx: rc=0x0. DeviceFound=1
+[6552] 05-06 01:55:01:616: CleanUpDeadClientProcessBlock
+[6552] 05-06 01:55:01:616: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:55:01:616: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=5, dwSubEntry=1
+[10232] 05-06 01:55:02:360: SetTunnelEndPoints: Port=5,SourceAddr=123.237.140.18,DestinationAddr=192.100.117.5,IfIndex=10
+[10232] 05-06 01:55:02:360: SetTunnelEndPoints: Not setting source end point as Tunnel is PPTP/SSTP
+[6552] 05-06 01:55:03:610: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 5 state chg: prev=4, new=0
+[6552] 05-06 01:55:03:610: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 5 async reqtype chg: prev=0, new=15
+[6552] 05-06 01:55:03:610: Adding timeout of 120 for listen
+[6552] 05-06 01:55:03:750: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[6552] 05-06 01:55:03:750: Connect request on port: VPN3-1, error code 600
+[6552] 05-06 01:55:03:750: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[6552] 05-06 01:55:03:750: PickOneMsgFromQueueList:
+[6552] 05-06 01:55:03:750: PickOneMsgFromQueueList:Set client Event:0x4a8
+[6552] 05-06 01:55:03:750: CleanUpDeadClientProcessBlock
+[6552] 05-06 01:55:03:750: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:55:03:750: SetDialMachineEventHandleCommon:Error: meaningless operation
+[6552] 05-06 01:55:03:750: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[6552] 05-06 01:55:03:750: PickOneMsgFromQueueList:
+[6588] 05-06 01:55:24:678: WorkerThread: Async work event signaled on port: VPN3-1
+[6588] 05-06 01:55:24:678: OVEVT_DEV_ASYNCOP. pOverlapped = 0x7179990
+[6588] 05-06 01:55:24:678: CompleteAsyncRequest: pOverlapped=0x48b36c
+[6588] 05-06 01:55:24:678: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b36c, type=2
+[6588] 05-06 01:55:24:678: AppendNewMsgToQueue:Set client Event:0x4a8
+[6588] 05-06 01:55:24:694: Inside DeviceListenRequest NumParams 3
+[6588] 05-06 01:55:24:694: Found DEV_SPECIFIC_INFO_KEY: Size:16 Offset:132
+[6588] 05-06 01:55:24:694: Correlation Guid is {5432E75D-4689-4C40-B956-8CA7E66E1012}
+[6588] 05-06 01:55:24:694: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 5 async reqtype chg: prev=15, new=0
+[6588] 05-06 01:55:24:694: ServiceWorkRequest: Async op event 15 for port VPN3-1 returned 807
+[10232] 05-06 01:55:24:694: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[10232] 05-06 01:55:24:694: PickOneMsgFromQueueList:
+[10232] 05-06 01:55:24:694: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[10232] 05-06 01:55:25:365: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[10232] 05-06 01:55:25:365: QueueCloseConnections: no dependent connections
+[10232] 05-06 01:55:25:365: PortDisconnectRequest on VPN3-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x0
+[10232] 05-06 01:55:25:365: PortDisconnectRequest: Disconnecting VPN3-1
+[10232] 05-06 01:55:25:365: Disconnecting Port 0xVPN3-1, reason 0
+[10232] 05-06 01:55:25:365: QueueCloseConnections: no dependent connections
+[10232] 05-06 01:55:25:365: link handle for VPN3-1 = INVALID_HANDLE_VALUE
+[10232] 05-06 01:55:25:380: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 5, reason 0. rc=0x258
+[10232] 05-06 01:55:25:380: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 5 state chg: prev=0, new=3
+[10232] 05-06 01:55:25:380: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 5 async reqtype chg: prev=0, new=9
+[10232] 05-06 01:55:25:380: Disconnect request on port: VPN3-1
+[6588] 05-06 01:55:25:396: WorkerThread: Disconnect event signaled on port: VPN3-1
+[6588] 05-06 01:55:25:396: OVEVT_DEV_STATECHANGE. pOverlapped = 0x71799d0
+[6588] 05-06 01:55:25:396: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 5 state chg: prev=3, new=4
+[6588] 05-06 01:55:25:396: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 5 async reqtype chg: prev=9, new=0
+[6588] 05-06 01:55:25:396: CompleteDisconnectRequest: signalling 0xfb0 for VPN3-1
+[6588] 05-06 01:55:25:396: SignalPortDisconnect: pOverlapped=0x48b34c
+[6588] 05-06 01:55:25:396: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b34c, type=1
+[6588] 05-06 01:55:25:396: AppendNewMsgToQueue:Set client Event:0x4a8
+[6588] 05-06 01:55:25:396: Disconnect completed on port: VPN3-1
+[6588] 05-06 01:55:25:396: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 5 is not marked for autoclose
+[10232] 05-06 01:55:25:396: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[10232] 05-06 01:55:25:396: PortClose: port (5). OpenInstances = 1
+[10232] 05-06 01:55:25:396: PortClose: going to clear the rasapi32 event handle
+[10232] 05-06 01:55:25:396: SetDialMachineEventHandleCommon:
+[10232] 05-06 01:55:25:396: SetDialEventHandleCommon: posting last event for port 5
+[10232] 05-06 01:55:25:396: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x48b3ac, type=4
+[10232] 05-06 01:55:25:396: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[10232] 05-06 01:55:25:396: Freeing the notifier list for port 5
+[10232] 05-06 01:55:25:396: PortClose (5). OpenInstances = 0
+[10232] 05-06 01:55:25:396: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 5 async reqtype chg: prev=0, new=0
+[10232] 05-06 01:55:25:396: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 5 state chg: prev=4, new=4
+[10232] 05-06 01:55:25:396: RemoveConnectionPort: port 5, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[10232] 05-06 01:55:25:396: Connection not freed for 0x20000! CB_Ports=0, CB_Ref=1
+[10232] 05-06 01:55:25:396: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 5
+[10232] 05-06 01:55:25:396: fAnyConnectedPorts: 0
+[10232] 05-06 01:55:25:396: SetSystemIdleTimer: fDisable=0
+[10232] 05-06 01:55:25:396: SetRasmanServiceStopControl: Enabled 1
+[6552] 05-06 01:55:25:492: PortCloseRequest: Port not found (ppcb is NULL)
+[6552] 05-06 01:55:25:586: PortOpenEx: WAN Miniport (L2TP)
+[6552] 05-06 01:55:25:632: SetRasmanServiceStopControl: Enabled 0
+[6552] 05-06 01:55:25:679: PortOpen (2, VPN2-1) OpenInstances = (0)
+[6552] 05-06 01:55:25:679: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 2 state chg: prev=4, new=4
+[6552] 05-06 01:55:25:679: PortOpenEx (2) : OpenInstances = 1
+[6552] 05-06 01:55:25:679: PortOpenEx: rc=0x0. DeviceFound=1
+[6552] 05-06 01:55:25:695: CleanUpDeadClientProcessBlock
+[6552] 05-06 01:55:25:695: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:55:25:695: AddConnectionPort: pConn=0x3977cf0, pConn->CB_Ports=1, port=2, dwSubEntry=1
+[10232] 05-06 01:55:26:794: SetTunnelEndPoints: Port=2,SourceAddr=123.237.140.18,DestinationAddr=192.100.117.5,IfIndex=10
+[6552] 05-06 01:55:27:800: AddIpSecFilter, port=2, fServer=0, encryption=2
+[6552] 05-06 01:55:27:800: DwInitializeIpSec: fOnFailure set to 0
+[6552] 05-06 01:55:27:800: DwAddClientIpSecFilter, port=2
+[6552] 05-06 01:55:27:800: Failed to generate certificate list. rc=0x103, Count=0, MyStoreEmpty=1
+[6552] 05-06 01:55:27:800: DwAddClientIpSecFilter: rc=0x2fe
+[6552] 05-06 01:55:27:800: AddIpSecFilter: rc=0x2fe
+[6552] 05-06 01:55:27:800: EnableIpSec: port=VPN2-1, fServer=0, fEnable = 1, rc=0x2fe
+[6552] 05-06 01:55:28:583: ReferenceCustomCount
+[6552] 05-06 01:55:28:583: ReferenceCustomCount done. 0
+[6552] 05-06 01:55:28:785: RefConnection: 0x20000
+[6552] 05-06 01:55:28:785: refcount=0, maxports=6, ports=1
+[6552] 05-06 01:55:28:785: RefConnection: ref on 0x20000 = 0
+[6552] 05-06 01:55:28:988: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[6552] 05-06 01:55:29:409: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[6552] 05-06 01:55:29:409: QueueCloseConnections: no dependent connections
+[6552] 05-06 01:55:29:409: PortDisconnectRequest on VPN2-1 Connection=0x3977cf0 ,RasmanReceiveFlags=0x0
+[6552] 05-06 01:55:29:409: PortDisconnectRequest: Disconnecting VPN2-1
+[6552] 05-06 01:55:29:409: Disconnecting Port 0xVPN2-1, reason 0
+[6552] 05-06 01:55:29:409: QueueCloseConnections: no dependent connections
+[6552] 05-06 01:55:29:409: link handle for VPN2-1 = INVALID_HANDLE_VALUE
+[6552] 05-06 01:55:29:409: 4. Notifying of disconnect on port 2
+[6552] 05-06 01:55:29:409: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 2 state chg: prev=4, new=4
+[6552] 05-06 01:55:29:409: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 2 async reqtype chg: prev=0, new=0
+[6552] 05-06 01:55:29:409: CompleteDisconnectRequest: signalling 0x9ac for VPN2-1
+[6552] 05-06 01:55:29:409: SignalPortDisconnect: pOverlapped=0x4ae9b4
+[6552] 05-06 01:55:29:409: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x4ae9b4, type=1
+[6552] 05-06 01:55:29:409: Disconnect completed on port: VPN2-1
+[6552] 05-06 01:55:29:409: Disconnect request on port: VPN2-1
+[6552] 05-06 01:55:29:497: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[6552] 05-06 01:55:29:497: PortClose: port (2). OpenInstances = 1
+[6552] 05-06 01:55:29:497: PortClose: going to clear the rasapi32 event handle
+[6552] 05-06 01:55:29:497: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:55:29:497: SetDialEventHandleCommon: posting last event for port 2
+[6552] 05-06 01:55:29:497: PostDialEventContext:  for pid:0x1bac, client Event:0x4a8context pointer=0x4aea14, type=4
+[6552] 05-06 01:55:29:497: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[6552] 05-06 01:55:29:497: Freeing the notifier list for port 2
+[6552] 05-06 01:55:29:497: DwInitializeIpSec: fOnFailure set to 0
+[6552] 05-06 01:55:29:497: Deleting client ipsec filter on 2
+[6552] 05-06 01:55:29:497: DwDeleteIpSecFilter for VPN2-1 returned 0x57
+[6552] 05-06 01:55:29:497: PortClose (2). OpenInstances = 0
+[6552] 05-06 01:55:29:509: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 2 async reqtype chg: prev=0, new=0
+[6552] 05-06 01:55:29:509: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 2 state chg: prev=4, new=4
+[6552] 05-06 01:55:29:509: RemoveConnectionPort: port 2, fOwnerClose=1, pConn=0x3977cf0, pConn->CB_Ports=0
+
+[6552] 05-06 01:55:29:541: SendSensNotification(_RAS_DISCONNECT) for 0x00020000 returns 0x00000000
+[6552] 05-06 01:55:29:712: DwSendNotificationInternal(ENTRY_DISCONNECTED) rc=0x0
+[6552] 05-06 01:55:29:712: RemoveConnectionPort: FreeConnection hconn=0x20000, pconn=0x3977cf0, AutoClose=0
+[6552] 05-06 01:55:29:712: FreeConnection: pConn=0x3977cf0, 0
+[6552] 05-06 01:55:29:712: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 2
+[6552] 05-06 01:55:29:712: fAnyConnectedPorts: 0
+[6552] 05-06 01:55:29:712: SetSystemIdleTimer: fDisable=0
+[6552] 05-06 01:55:29:712: SetRasmanServiceStopControl: Enabled 1
+[5652] 05-06 01:55:29:743: CleanUpDeadClientProcessBlock
+[5652] 05-06 01:55:29:743: SetDialMachineEventHandleCommon:
+[5652] 05-06 01:55:29:743: SetDialMachineEventHandleCommon:Error: meaningless operation
+[6552] 05-06 01:55:29:759: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[6552] 05-06 01:55:29:759: PickOneMsgFromQueueList:
+[6552] 05-06 01:55:29:759: PickOneMsgFromQueueList:Set client Event:0x4a8
+[6552] 05-06 01:55:29:837: CleanUpDeadClientProcessBlock
+[6552] 05-06 01:55:29:837: SetDialMachineEventHandleCommon:
+[6552] 05-06 01:55:29:837: SetDialMachineEventHandleCommon:Error: meaningless operation
+[7244] 05-06 01:55:30:165: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[7244] 05-06 01:55:30:165: PickOneMsgFromQueueList:
+[7244] 05-06 01:55:30:165: PickOneMsgFromQueueList:Set client Event:0x4a8
+[5652] 05-06 01:55:30:274: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[5652] 05-06 01:55:30:274: PickOneMsgFromQueueList:
+[5652] 05-06 01:55:30:274: PickOneMsgFromQueueList:Set client Event:0x4a8
+[7244] 05-06 01:55:30:274: PickOneMsgForAEvent:send context to Pid:0x1bac, clientEvent:0x4a8
+[7244] 05-06 01:55:30:274: PickOneMsgFromQueueList:
+[7244] 05-06 01:56:53:119: SetEntryDialParams: Adding 24187019 to lsa
+[7244] 05-06 01:56:53:119: SetEntryDialParams: Writing to fDefault=1
+[6588] 05-06 01:56:54:009: fIsProcessAlive: hProcess==NULL
+[6588] 05-06 01:56:54:009: BackGroundCleanUp: Process 7084 is not alive. 
+[6588] 05-06 01:56:54:009: BackGroundCleanUp: Cleaningup process 7084
+[6588] 05-06 01:56:54:009: ReferenceRasman: process 7084
+[6588] 05-06 01:56:54:009: Cleaning up process 7084
+[6588] 05-06 01:56:54:009: CleanUpEventQueue:
+[6588] 05-06 01:56:54:009: Rasman RefCount = 15
+[9020] 05-06 01:57:28:494: ReferenceRasman: process 8220
+[9020] 05-06 01:57:28:494: Rasman RefCount = 16
+[10196] 05-06 01:59:01:657: ReferenceRasman: process 4676
+[10196] 05-06 01:59:01:657: Rasman RefCount = 17
+[10196] 05-06 01:59:03:218: ReferenceRasman: process 7496
+[10196] 05-06 01:59:03:218: Rasman RefCount = 18
+[8336] 05-06 01:59:06:776: ReferenceRasman: process 7496
+[8336] 05-06 01:59:06:776: Cleaning up process 7496
+[8336] 05-06 01:59:06:776: CleanUpEventQueue:
+[8336] 05-06 01:59:06:776: Freeing handle for 7496
+[8336] 05-06 01:59:06:776: Rasman RefCount = 17
+[10196] 05-06 01:59:11:457: ReferenceRasman: process 4676
+[10196] 05-06 01:59:11:457: Cleaning up process 4676
+[10196] 05-06 01:59:11:457: CleanUpEventQueue:
+[10196] 05-06 01:59:11:457: Freeing handle for 4676
+[10196] 05-06 01:59:11:457: Rasman RefCount = 16
+[8428] 05-06 02:05:22:013: ReferenceRasman: process 10096
+[8428] 05-06 02:05:22:013: Cleaning up process 10096
+[8428] 05-06 02:05:22:013: CleanUpEventQueue:
+[8428] 05-06 02:05:22:013: Freeing handle for 10096
+[8428] 05-06 02:05:22:013: Rasman RefCount = 15
+[8484] 05-06 02:12:59:719: ReferenceRasman: process 6680
+[8484] 05-06 02:12:59:719: Cleaning up process 6680
+[8484] 05-06 02:12:59:719: CleanUpEventQueue:
+[8484] 05-06 02:12:59:719: Freeing handle for 6680
+[8484] 05-06 02:12:59:719: Rasman RefCount = 14
+[3200] 05-06 02:13:01:747: ReferenceRasman: process 10204
+[3200] 05-06 02:13:01:747: Cleaning up process 10204
+[3200] 05-06 02:13:01:747: CleanUpEventQueue:
+[3200] 05-06 02:13:01:747: Freeing handle for 10204
+[3200] 05-06 02:13:01:747: Rasman RefCount = 13
+[5168] 05-06 02:15:06:541: ReferenceRasman: process 3356
+[5168] 05-06 02:15:06:541: Cleaning up process 3356
+[5168] 05-06 02:15:06:541: CleanUpEventQueue:
+[5168] 05-06 02:15:06:541: Freeing handle for 3356
+[5168] 05-06 02:15:06:541: Rasman RefCount = 12
+[3200] 05-06 02:15:29:302: ReferenceRasman: process 5632
+[3200] 05-06 02:15:29:302: Rasman RefCount = 13
+[5168] 05-06 02:17:32:512: ReferenceRasman: process 3348
+[5168] 05-06 02:17:32:512: Cleaning up process 3348
+[5168] 05-06 02:17:32:512: CleanUpEventQueue:
+[5168] 05-06 02:17:32:512: Freeing handle for 3348
+[5168] 05-06 02:17:32:512: Rasman RefCount = 12
+[5168] 05-06 02:18:14:040: ReferenceRasman: process 5632
+[5168] 05-06 02:18:14:040: Cleaning up process 5632
+[5168] 05-06 02:18:14:040: CleanUpEventQueue:
+[5168] 05-06 02:18:14:040: Freeing handle for 5632
+[5168] 05-06 02:18:14:040: Rasman RefCount = 11
+[9908] 05-06 02:18:30:808: ReferenceRasman: process 3092
+[9908] 05-06 02:18:30:808: Cleaning up process 3092
+[9908] 05-06 02:18:30:808: CleanUpEventQueue:
+[9908] 05-06 02:18:30:808: Freeing handle for 3092
+[9908] 05-06 02:18:30:808: Rasman RefCount = 10
+[4196] 05-06 02:22:04:180: ReferenceRasman: process 1556
+[4196] 05-06 02:22:04:180: Cleaning up process 1556
+[4196] 05-06 02:22:04:180: CleanUpEventQueue:
+[4196] 05-06 02:22:04:180: Freeing handle for 1556
+[4196] 05-06 02:22:04:180: Rasman RefCount = 9
+[9908] 05-06 02:22:39:286: ReferenceRasman: process 4972
+[9908] 05-06 02:22:39:286: Rasman RefCount = 10
+[6588] 05-06 02:27:57:775: BackGroundCleanUp: Process 3912 is not alive. 
+[6588] 05-06 02:27:57:775: BackGroundCleanUp: Cleaningup process 3912
+[6588] 05-06 02:27:57:775: ReferenceRasman: process 3912
+[6588] 05-06 02:27:57:775: Cleaning up process 3912
+[6588] 05-06 02:27:57:775: CleanUpEventQueue:
+[6588] 05-06 02:27:57:775: Freeing handle for 3912
+[6588] 05-06 02:27:57:775: Rasman RefCount = 9
+[9852] 05-06 02:29:00:437: ReferenceRasman: process 6568
+[9852] 05-06 02:29:00:437: Rasman RefCount = 10
+[9852] 05-06 02:29:08:752: ReferenceRasman: process 6568
+[9852] 05-06 02:29:08:752: Cleaning up process 6568
+[9852] 05-06 02:29:08:752: CleanUpEventQueue:
+[9852] 05-06 02:29:08:752: Freeing handle for 6568
+[9852] 05-06 02:29:08:752: Rasman RefCount = 9
+[1196] 05-06 02:29:16:864: ReferenceRasman: process 8220
+[1196] 05-06 02:29:16:864: Cleaning up process 8220
+[1196] 05-06 02:29:16:864: CleanUpEventQueue:
+[1196] 05-06 02:29:16:864: Freeing handle for 8220
+[1196] 05-06 02:29:16:864: Rasman RefCount = 8
+[1196] 05-06 02:33:04:829: ReferenceRasman: process 7468
+[1196] 05-06 02:33:04:829: Rasman RefCount = 9
+[1196] 05-06 02:33:04:845: ReferenceRasman: process 7468
+[1196] 05-06 02:33:04:845: Cleaning up process 7468
+[1196] 05-06 02:33:04:845: CleanUpEventQueue:
+[1196] 05-06 02:33:04:845: Freeing handle for 7468
+[1196] 05-06 02:33:04:845: Rasman RefCount = 8
+[9852] 05-06 02:35:18:765: ReferenceRasman: process 7280
+[9852] 05-06 02:35:18:765: Rasman RefCount = 9
+[9852] 05-06 02:35:18:765: ReferenceRasman: process 7280
+[9852] 05-06 02:35:18:765: Cleaning up process 7280
+[9852] 05-06 02:35:18:765: CleanUpEventQueue:
+[9852] 05-06 02:35:18:765: Freeing handle for 7280
+[9852] 05-06 02:35:18:765: Rasman RefCount = 8
+[5168] 05-06 02:35:42:107: ReferenceRasman: process 8884
+[5168] 05-06 02:35:42:107: Rasman RefCount = 9
+[5168] 05-06 02:35:42:107: ReferenceRasman: process 8884
+[5168] 05-06 02:35:42:107: Cleaning up process 8884
+[5168] 05-06 02:35:42:107: CleanUpEventQueue:
+[5168] 05-06 02:35:42:107: Freeing handle for 8884
+[5168] 05-06 02:35:42:107: Rasman RefCount = 8
+[5168] 05-06 02:36:01:751: ReferenceRasman: process 896
+[5168] 05-06 02:36:01:751: Cleaning up process 896
+[5168] 05-06 02:36:01:751: CleanUpEventQueue:
+[5168] 05-06 02:36:01:751: Freeing handle for 896
+[5168] 05-06 02:36:01:751: Rasman RefCount = 7
+[9852] 05-06 02:36:01:970: ReferenceRasman: process 6248
+[9852] 05-06 02:36:01:970: Cleaning up process 6248
+[9852] 05-06 02:36:01:970: CleanUpEventQueue:
+[9852] 05-06 02:36:01:970: Freeing handle for 6248
+[9852] 05-06 02:36:01:970: Rasman RefCount = 6
+[5168] 05-06 02:36:02:250: ReferenceRasman: process 4936
+[5168] 05-06 02:36:02:250: Cleaning up process 4936
+[5168] 05-06 02:36:02:250: CleanUpEventQueue:
+[5168] 05-06 02:36:02:250: Freeing handle for 4936
+[5168] 05-06 02:36:02:250: Rasman RefCount = 5
+[9852] 05-06 02:36:03:405: ReferenceRasman: process 2024
+[9852] 05-06 02:36:03:405: Cleaning up process 2024
+[9852] 05-06 02:36:03:405: CleanUpEventQueue:
+[9852] 05-06 02:36:03:405: Freeing handle for 2024
+[9852] 05-06 02:36:03:405: Rasman RefCount = 4
+[9852] 05-06 02:36:17:773: ReferenceRasman: process 4972
+[9852] 05-06 02:36:17:773: Cleaning up process 4972
+[9852] 05-06 02:36:17:773: CleanUpEventQueue:
+[9852] 05-06 02:36:17:773: Freeing handle for 4972
+[9852] 05-06 02:36:17:773: Rasman RefCount = 3
+[6588] 05-06 02:36:24:762: fIsProcessAlive: hProcess==NULL
+[6588] 05-06 02:36:24:762: BackGroundCleanUp: Process 8200 is not alive. 
+[6588] 05-06 02:36:24:762: BackGroundCleanUp: Cleaningup process 8200
+[6588] 05-06 02:36:24:762: ReferenceRasman: process 8200
+[6588] 05-06 02:36:24:762: Cleaning up process 8200
+[6588] 05-06 02:36:24:762: CleanUpEventQueue:
+[6588] 05-06 02:36:24:762: Freeing handle for 8200
+[6588] 05-06 02:36:24:762: Rasman RefCount = 2
+[6588] 05-06 02:36:25:449: RasmanWorker: OVEVT_DEV_REMOVE. pnpn=0x084e8030
+[6588] 05-06 02:36:25:449: DwSendNotificationInternal(DEVICE_REMOVED) rc=0x00000000, device=0x0
+[6588] 05-06 02:36:25:449: DwRemovePort: Removing port COM5, 10
+[6588] 05-06 02:36:25:449: RasmanWorker: DwProcessLineRemoveNotificationreturned 0
+[6588] 05-06 02:36:34:885: BackGroundCleanUp: Process 2600 is not alive. 
+[6588] 05-06 02:36:34:885: BackGroundCleanUp: Cleaningup process 2600
+[6588] 05-06 02:36:34:885: ReferenceRasman: process 2600
+[6588] 05-06 02:36:34:885: Cleaning up process 2600
+[6588] 05-06 02:36:34:885: CleanUpEventQueue:
+[6588] 05-06 02:36:34:885: Freeing handle for 2600
+[6588] 05-06 02:36:34:885: Rasman RefCount = 1
+[6588] 05-06 02:36:45:005: fIsProcessAlive: hProcess==NULL
+[6588] 05-06 02:36:45:005: BackGroundCleanUp: Process 4084 is not alive. 
+[6588] 05-06 02:36:45:005: BackGroundCleanUp: Cleaningup process 4084
+[6588] 05-06 02:36:45:005: ReferenceRasman: process 4084
+[6588] 05-06 02:36:45:005: Cleaning up process 4084
+[6588] 05-06 02:36:45:005: CleanUpEventQueue:
+[6588] 05-06 02:36:45:005: Freeing handle for 4084
+[6588] 05-06 02:36:45:005: Rasman RefCount = 0
+[1012] 05-06 02:36:52:044: HandleSessionChange: Got LogOff notification for session-id 1
+[8580] 05-06 02:36:52:044: ManageConnectionsOnLogoffEvent - SessionId is 1
+[1012] 05-06 02:37:12:527: Dropping All ActiveConnections. Reason: ERROR_RASMAN_SERVICE_STOPPED
+[1012] 05-06 02:37:12:527: StopRasmanService: Stopping service
+[6588] 05-06 02:37:12:527: OVEVT_RASMAN_CLOSE. pOverlapped = 0x74754460
+[6588] 05-06 02:37:21:076: UninitializeProtocolEngines: Protocol Engine [PPP] returned : 0
+
+[6588] 05-06 02:37:21:076: UninitializeProtocolEngines: Protocol Engine [IKEv2] returned : 0
+
+[6588] 05-06 02:37:21:076: SENS_NOTIFY_RAS_STOPPED returns 0x00000000
+[6668] 05-06 02:37:21:232: HandleBindingEngineRegChanges: Rasman is shutting down
+[6668] 05-06 02:37:21:232: HandleBindingEngineRegChanges thread returning with Error=0
+[6588] 05-06 02:37:21:637: RasmanCleanup: EapHost uninitialized.
+[4072] 05-11 10:41:47:490: InitRasmanService: Rasman service initializing
+[4072] 05-11 10:41:47:506: InitRasmanService: Calling InitializeMediaControlBlocks
+[4072] 05-11 10:41:47:896: InitRasmanService: Calling InitializePortControlBlocks
+[4072] 05-11 10:41:47:896: Created Port Name[VPN2-1], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN2-0], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN1-1], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN1-0], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[4072] 05-11 10:41:47:896: Created Port Name[PPPoE4-0], Device Name[WAN Miniport (PPPOE)], Type[PPPoE](0008000D)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN3-1], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN3-0], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN0-1], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[4072] 05-11 10:41:47:896: Created Port Name[VPN0-0], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[4072] 05-11 10:41:47:896: Created Port Name[COM3], Device Name[Agere Systems HDA Modem], Type[MODEM](00000000)
+
+[4072] 05-11 10:41:47:896: InitRasmanService: Calling RegisterLSA
+[4072] 05-11 10:41:47:896: InitRasmanService: Max number of ports (all engines): 10
+
+[4072] 05-11 10:41:47:927: InitRasmanService: Protocol Engine [PPP] load complete
+[4072] 05-11 10:41:47:958: InitRasmanService: Protocol Engine [IKEv2] load complete
+[4072] 05-11 10:41:47:958: InitRasmanService: RasInterfaceMgmtInit returned= 0
+[4072] 05-11 10:41:47:974: InitRasmanService: InitializeRasRpc returned= 0
+[4072] 05-11 10:41:47:974: DwCleanupLuids: RegDeleteValue failed with error 2
+[4072] 05-11 10:41:47:974: InitRasmanService: EapHost initialized.
+[4072] 05-11 10:41:47:974: Rasman Service Start: HandleBindingEngineRegChanges thread creation successfull
+[4072] 05-11 10:41:47:974: InitRasmanService: Rasman initialized successfully
+[4072] 05-11 10:41:47:974: ServiceMain:Initializing Protocol Engine 'PPP' with [8] ports
+
+[2184] 05-11 10:41:47:974: Entered HandleBindingEngineRegChanges
+[2184] 05-11 10:41:47:974: HandleBindingEngineRegChanges: Initialization Successful -- Calling WaitForMultipleObjectsEx
+[4072] 05-11 10:41:48:020: ServiceMain: Protocol Engine 'PPP' Initialization returned= 0
+[4072] 05-11 10:41:48:020: ServiceMain:Initializing Protocol Engine 'IKEv2' with [2] ports
+
+[4072] 05-11 10:41:48:036: ServiceMain: Protocol Engine 'IKEv2' Initialization returned= 0
+[4072] 05-11 10:41:48:036: ServiceMain: Rasman service entered RUNNING state
+[4072] 05-11 10:41:48:036: DwSetProtocolEvent
+[4072] 05-11 10:41:48:036: DwSetProtocolEvent. rc=0x0
+[4072] 05-11 10:41:48:036: DwSetHibernateEvent
+[4072] 05-11 10:41:48:036: DwSetHibernateEvent. rc=0x0
+[4072] 05-11 10:41:48:036: RequestThread: DwSetEvents returnd 0x0
+[4072] 05-11 10:41:48:036: OVEVT_RASMAN_PROTOCOL_EVENT. pOverlapped = 0x737b5720
+[4072] 05-11 10:41:48:036: DwProcessProtocolEvent: Protocol 0xab00 was REMOVED
+[4072] 05-11 10:41:48:036: Notifying Protocol of IP protocol change. 0xab00 was REMOVED
+[4072] 05-11 10:41:48:036: DwProcessProtocolEvent: Protocol 0x800 was ADDED
+[4072] 05-11 10:41:48:036: Notifying Protocol of IP protocol change. 0x800 was ADDED
+[4072] 05-11 10:41:48:036: DwProcessProtocolEvent: Protocol 0x86dd was ADDED
+[4072] 05-11 10:41:48:036: Notifying Protocol of IP protocol change. 0x86dd was ADDED
+[4072] 05-11 10:41:48:036: DwSetProtocolEvent
+[4072] 05-11 10:41:48:036: DwSetProtocolEvent. rc=0x0
+[2936] 05-11 10:41:48:036: ReferenceRasman: process 2552
+[2936] 05-11 10:41:48:036: Rasman RefCount = 1
+[2936] 05-11 10:41:48:535: SendNotificationRequest
+[2936] 05-11 10:41:48:598: SignalNetman: IRasEventNotify::RasEvent returned S_FALSE
+[2936] 05-11 10:41:48:598: DwSendNotification returned 0x1
+[2936] 05-11 10:41:48:613: SetEntryDialParams: Adding 137296 to lsa
+[2936] 05-11 10:41:48:613: SetEntryDialParams: Writing to fDefault=0
+[2936] 05-11 10:41:48:707: GetParamsListFromLsa Default=0
+[2936] 05-11 10:41:48:707: GetParamsListFromLsa. 0x0
+[2936] 05-11 10:41:48:722: GetParamsListFromLsa Default=0
+[2936] 05-11 10:41:48:722: GetParamsListFromLsa. 0x0
+[2936] 05-11 10:41:48:722: GetParamsListFromLsa Default=0
+[2936] 05-11 10:41:48:738: GetParamsListFromLsa. 0x0
+[2936] 05-11 10:41:48:738: CreateConnection: entry=Modem dial-up, pbk=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[2936] 05-11 10:41:48:738: CreateConnection: fSecureRoutingCompartment: 0 and dwConSessionId 1  old Compartment ID 1:
+[2936] 05-11 10:41:48:738: SetRasmanServiceStopControl: Enabled 0
+[2936] 05-11 10:41:48:738: CreateConnection: Created new connection. hconn=0x10000, ref=1, pConn=0x3045178
+[2936] 05-11 10:41:48:738: IsTrustedCustomDll: pwsz=, fTrusted=0, rc=0
+[2860] 05-11 10:41:48:738: PortOpenEx: Agere Systems HDA Modem
+[2860] 05-11 10:41:49:019: SetRasmanServiceStopControl: Enabled 0
+[2860] 05-11 10:41:49:019: PortOpen (9, COM3) OpenInstances = (0)
+[2860] 05-11 10:41:49:019: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 9 state chg: prev=0, new=4
+[2860] 05-11 10:41:49:019: PortOpenEx (9) : OpenInstances = 1
+[2860] 05-11 10:41:49:019: PortOpenEx: rc=0x0. DeviceFound=1
+[2860] 05-11 10:41:49:019: CleanUpDeadClientProcessBlock
+[2860] 05-11 10:41:49:019: SetDialMachineEventHandleCommon:
+[2860] 05-11 10:41:49:019: SetDialMachineEventHandleCommon:The process is never added, something wrong in the Ras Initialization
+[2860] 05-11 10:41:49:019: AddConnectionPort: pConn=0x3045178, pConn->CB_Ports=1, port=9, dwSubEntry=1
+[2936] 05-11 10:41:49:034: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 9 state chg: prev=4, new=0
+[2936] 05-11 10:41:49:034: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 9 async reqtype chg: prev=0, new=15
+[2936] 05-11 10:41:49:034: Adding timeout of 120 for listen
+[2936] 05-11 10:41:49:034: SignalNetman: IRasEventNotify::RasEvent returned S_FALSE
+[2936] 05-11 10:41:49:034: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000001
+[2936] 05-11 10:41:49:034: Connect request on port: COM3, error code 600
+[4072] 05-11 10:42:22:311: WorkerThread: Async work event signaled on port: COM3
+[4072] 05-11 10:42:22:311: OVEVT_DEV_ASYNCOP. pOverlapped = 0x1a10278
+[4072] 05-11 10:42:22:311: CompleteAsyncRequest: pOverlapped=0x27975a4
+[4072] 05-11 10:42:22:311: PostDialEventContext:  for pid:0xdbc, client Event:0x364context pointer=0x27975a4, type=2
+[4072] 05-11 10:42:22:311: AppendNewMsgToQueue:Set client Event:0x364
+[4072] 05-11 10:42:22:311: Inside DeviceListenRequest NumParams 2
+[4072] 05-11 10:42:22:311: Failed to receive Correlation ID from Port
+[4072] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 9 async reqtype chg: prev=15, new=0
+[4072] 05-11 10:42:22:311: ServiceWorkRequest: Async op event 15 for port COM3 returned 676
+[3504] 05-11 10:42:22:311: PickOneMsgForAEvent:send context to Pid:0xdbc, clientEvent:0x364
+[3504] 05-11 10:42:22:311: PickOneMsgFromQueueList:
+[3504] 05-11 10:42:22:311: ReferenceCustomCount
+[3504] 05-11 10:42:22:311: ReferenceCustomCount done. 0
+[3504] 05-11 10:42:22:311: RefConnection: 0x10000
+[3504] 05-11 10:42:22:311: refcount=0, maxports=6, ports=1
+[3504] 05-11 10:42:22:311: RefConnection: ref on 0x10000 = 0
+[3504] 05-11 10:42:22:311: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[3504] 05-11 10:42:22:311: SignalNetman: IRasEventNotify::RasEvent returned S_FALSE
+[3504] 05-11 10:42:22:311: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x1
+[3504] 05-11 10:42:22:311: QueueCloseConnections: no dependent connections
+[3504] 05-11 10:42:22:311: PortDisconnectRequest on COM3 Connection=0x3045178 ,RasmanReceiveFlags=0x0
+[3504] 05-11 10:42:22:311: PortDisconnectRequest: Disconnecting COM3
+[3504] 05-11 10:42:22:311: Disconnecting Port 0xCOM3, reason 0
+[3504] 05-11 10:42:22:311: QueueCloseConnections: no dependent connections
+[3504] 05-11 10:42:22:311: link handle for COM3 = INVALID_HANDLE_VALUE
+[3504] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 9, reason 0. rc=0x258
+[3504] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 9 state chg: prev=0, new=3
+[3504] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 9 async reqtype chg: prev=0, new=9
+[3504] 05-11 10:42:22:311: Disconnect request on port: COM3
+[4072] 05-11 10:42:22:311: WorkerThread: Disconnect event signaled on port: COM3
+[4072] 05-11 10:42:22:311: OVEVT_DEV_STATECHANGE. pOverlapped = 0x1a102b8
+[4072] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 9 state chg: prev=3, new=4
+[4072] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 9 async reqtype chg: prev=9, new=0
+[4072] 05-11 10:42:22:311: CompleteDisconnectRequest: signalling 0xe4c for COM3
+[4072] 05-11 10:42:22:311: SignalPortDisconnect: pOverlapped=0x2797584
+[4072] 05-11 10:42:22:311: PostDialEventContext:  for pid:0xdbc, client Event:0x364context pointer=0x2797584, type=1
+[4072] 05-11 10:42:22:311: AppendNewMsgToQueue:Set client Event:0x364
+[4072] 05-11 10:42:22:311: Disconnect completed on port: COM3
+[4072] 05-11 10:42:22:311: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 9 is not marked for autoclose
+[3504] 05-11 10:42:22:311: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[3504] 05-11 10:42:22:311: PortClose: port (9). OpenInstances = 1
+[3504] 05-11 10:42:22:311: PortClose: going to clear the rasapi32 event handle
+[3504] 05-11 10:42:22:311: SetDialMachineEventHandleCommon:
+[3504] 05-11 10:42:22:311: SetDialEventHandleCommon: posting last event for port 9
+[3504] 05-11 10:42:22:311: PostDialEventContext:  for pid:0xdbc, client Event:0x364context pointer=0x27975e4, type=4
+[3504] 05-11 10:42:22:311: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[3504] 05-11 10:42:22:311: Freeing the notifier list for port 9
+[3504] 05-11 10:42:22:311: PortClose (9). OpenInstances = 0
+[3504] 05-11 10:42:22:326: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 9 async reqtype chg: prev=0, new=0
+[3504] 05-11 10:42:22:326: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 9 state chg: prev=4, new=4
+[3504] 05-11 10:42:22:326: RemoveConnectionPort: port 9, fOwnerClose=1, pConn=0x3045178, pConn->CB_Ports=0
+
+[3504] 05-11 10:42:22:326: SendSensNotification(_RAS_DISCONNECT) for 0x00010000 returns 0x00000000
+[3504] 05-11 10:42:22:342: SignalNetman: IRasEventNotify::RasEvent returned S_FALSE
+[3504] 05-11 10:42:22:342: DwSendNotificationInternal(ENTRY_DISCONNECTED) rc=0x1
+[3504] 05-11 10:42:22:342: RemoveConnectionPort: FreeConnection hconn=0x10000, pconn=0x3045178, AutoClose=0
+[3504] 05-11 10:42:22:342: FreeConnection: pConn=0x3045178, 0
+[3504] 05-11 10:42:22:342: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 9
+[3504] 05-11 10:42:22:342: fAnyConnectedPorts: 0
+[3504] 05-11 10:42:22:342: SetSystemIdleTimer: fDisable=0
+[3504] 05-11 10:42:22:342: SetRasmanServiceStopControl: Enabled 1
+[3504] 05-11 10:42:22:342: PortClose: port (9). OpenInstances = 0
+[3504] 05-11 10:42:22:342: CleanUpDeadClientProcessBlock
+[3504] 05-11 10:42:22:342: SetDialMachineEventHandleCommon:
+[3504] 05-11 10:42:22:342: SetDialMachineEventHandleCommon:Error: meaningless operation
+[3956] 05-11 10:42:22:342: PickOneMsgForAEvent:send context to Pid:0xdbc, clientEvent:0x364
+[3956] 05-11 10:42:22:342: PickOneMsgFromQueueList:
+[3956] 05-11 10:42:22:342: PickOneMsgFromQueueList:Set client Event:0x364
+[3956] 05-11 10:42:22:342: PickOneMsgForAEvent:send context to Pid:0xdbc, clientEvent:0x364
+[3956] 05-11 10:42:22:342: PickOneMsgFromQueueList:
+[4992] 05-11 10:42:45:801: ReferenceRasman: process 3616
+[4992] 05-11 10:42:45:801: Rasman RefCount = 2
+[2936] 05-11 10:43:15:535: ReferenceRasman: process 3680
+[2936] 05-11 10:43:15:535: Rasman RefCount = 3
+[5000] 05-11 10:43:20:857: ReferenceRasman: process 4536
+[5000] 05-11 10:43:20:857: Rasman RefCount = 4
+[5000] 05-11 10:43:26:931: ReferenceRasman: process 4284
+[5000] 05-11 10:43:26:931: Rasman RefCount = 5
+[1060] 05-11 10:43:33:512: ReferenceRasman: process 1332
+[1060] 05-11 10:43:33:512: Rasman RefCount = 6
+[4940] 05-11 10:43:57:071: ReferenceRasman: process 424
+[4940] 05-11 10:43:57:071: Rasman RefCount = 7
+[4976] 05-11 10:44:47:991: SetEntryDialParams: Removing uid=137296 from lsa
+[4976] 05-11 10:44:47:991: SetEntryDialParams: Writing to fDefault=0
+[4976] 05-11 10:44:48:028: DwDeleteInterface: Failed to delete System\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{150AD043-C881-4366-8CF6-953100DC9B70}, 0x2
+[4976] 05-11 10:44:48:028: DwDeleteInterface: Failed to delete System\CurrentControlSet\Services\Tcpip6\Parameters\Interfaces\{150AD043-C881-4366-8CF6-953100DC9B70}, 0x2
+[4976] 05-11 10:44:48:028: DwDeleteInterface: Failed to delete System\CurrentControlSet\Services\NetBT\Parameters\Interfaces\Tcpip_{150AD043-C881-4366-8CF6-953100DC9B70}, 0x2
+[4976] 05-11 10:44:48:029: SendNotificationRequest
+[4976] 05-11 10:44:48:030: DwSendNotification returned 0x0
+[4960] 05-11 10:44:48:048: SendNotificationRequest
+[4960] 05-11 10:44:48:049: DwSendNotification returned 0x0
+[4960] 05-11 10:44:48:056: SetEntryDialParams: Adding 316806 to lsa
+[4960] 05-11 10:44:48:056: SetEntryDialParams: Writing to fDefault=0
+[4960] 05-11 10:44:48:081: GetParamsListFromLsa Default=0
+[4960] 05-11 10:44:48:082: GetParamsListFromLsa. 0x0
+[4960] 05-11 10:44:48:091: GetParamsListFromLsa Default=0
+[4960] 05-11 10:44:48:093: GetParamsListFromLsa. 0x0
+[4960] 05-11 10:44:48:100: GetParamsListFromLsa Default=0
+[4960] 05-11 10:44:48:102: GetParamsListFromLsa. 0x0
+[4960] 05-11 10:44:48:102: CreateConnection: entry=Modem dial-up, pbk=C:\Users\kcomkar\AppData\Roaming\Microsoft\Network\Connections\Pbk\rasphone.pbk
+[4960] 05-11 10:44:48:102: CreateConnection: fSecureRoutingCompartment: 0 and dwConSessionId 1  old Compartment ID 1:
+[4960] 05-11 10:44:48:102: SetRasmanServiceStopControl: Enabled 0
+[4960] 05-11 10:44:48:103: CreateConnection: Created new connection. hconn=0x20000, ref=1, pConn=0x30679a8
+[4960] 05-11 10:44:48:106: IsTrustedCustomDll: pwsz=, fTrusted=0, rc=0
+[4960] 05-11 10:44:48:107: PortOpenEx: Agere Systems HDA Modem
+[4960] 05-11 10:44:48:264: SetRasmanServiceStopControl: Enabled 0
+[4960] 05-11 10:44:48:264: PortOpen (9, COM3) OpenInstances = (0)
+[4960] 05-11 10:44:48:264: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 2757: port 9 state chg: prev=4, new=4
+[4960] 05-11 10:44:48:264: PortOpenEx (9) : OpenInstances = 1
+[4960] 05-11 10:44:48:264: PortOpenEx: rc=0x0. DeviceFound=1
+[4960] 05-11 10:44:48:266: CleanUpDeadClientProcessBlock
+[4960] 05-11 10:44:48:266: SetDialMachineEventHandleCommon:
+[4960] 05-11 10:44:48:266: Cleaning up process 3516
+[4960] 05-11 10:44:48:266: CleanUpEventQueue:
+[4960] 05-11 10:44:48:267: AddConnectionPort: pConn=0x30679a8, pConn->CB_Ports=1, port=9, dwSubEntry=1
+[4976] 05-11 10:44:48:289: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2647: port 9 state chg: prev=4, new=0
+[4976] 05-11 10:44:48:289: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2692: port 9 async reqtype chg: prev=0, new=15
+[4976] 05-11 10:44:48:289: Adding timeout of 120 for listen
+[4976] 05-11 10:44:48:293: DwSendNotificationInternal(ENTRY_CONNECTING) rc=0x00000000
+[4976] 05-11 10:44:48:293: Connect request on port: COM3, error code 600
+[4072] 05-11 10:45:11:411: WorkerThread: Async work event signaled on port: COM3
+[4072] 05-11 10:45:11:411: OVEVT_DEV_ASYNCOP. pOverlapped = 0x1a10278
+[4072] 05-11 10:45:11:411: CompleteAsyncRequest: pOverlapped=0x281b5c4
+[4072] 05-11 10:45:11:411: PostDialEventContext:  for pid:0xdbc, client Event:0x3d4context pointer=0x281b5c4, type=2
+[4072] 05-11 10:45:11:411: AppendNewMsgToQueue:Set client Event:0x3d4
+[4072] 05-11 10:45:11:411: Inside DeviceListenRequest NumParams 2
+[4072] 05-11 10:45:11:411: Failed to receive Correlation ID from Port
+[4072] 05-11 10:45:11:411: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c: 2580: port 9 async reqtype chg: prev=15, new=0
+[4072] 05-11 10:45:11:411: ServiceWorkRequest: Async op event 15 for port COM3 returned 676
+[5004] 05-11 10:45:11:411: PickOneMsgForAEvent:send context to Pid:0xdbc, clientEvent:0x3d4
+[5004] 05-11 10:45:11:411: PickOneMsgFromQueueList:
+[5028] 05-11 10:45:11:413: ReferenceCustomCount
+[5028] 05-11 10:45:11:413: ReferenceCustomCount done. 0
+[5004] 05-11 10:45:11:414: RefConnection: 0x20000
+[5004] 05-11 10:45:11:414: refcount=0, maxports=6, ports=1
+[5004] 05-11 10:45:11:414: RefConnection: ref on 0x20000 = 0
+[5004] 05-11 10:45:11:414: PortDisconnectRequest - calling CheckIfAllowedToManageConnection
+[5004] 05-11 10:45:11:416: DwSendNotificationInternal(ENTRY_DISCONNECTING) returned 0x0
+[5004] 05-11 10:45:11:417: QueueCloseConnections: no dependent connections
+[5004] 05-11 10:45:11:417: PortDisconnectRequest on COM3 Connection=0x30679a8 ,RasmanReceiveFlags=0x0
+[5004] 05-11 10:45:11:417: PortDisconnectRequest: Disconnecting COM3
+[5004] 05-11 10:45:11:417: Disconnecting Port 0xCOM3, reason 0
+[5004] 05-11 10:45:11:417: QueueCloseConnections: no dependent connections
+[5004] 05-11 10:45:11:417: link handle for COM3 = INVALID_HANDLE_VALUE
+[5004] 05-11 10:45:11:419: d:\w7rtm\net\rras\ras\rasman\rasman\util.c 2214: Disconnected Port 9, reason 0. rc=0x258
+[5004] 05-11 10:45:11:419: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2324: port 9 state chg: prev=0, new=3
+[5004] 05-11 10:45:11:419: d:\w7rtm\net\rras\ras\rasman\rasman\util.c: 2397: port 9 async reqtype chg: prev=0, new=9
+[5004] 05-11 10:45:11:419: Disconnect request on port: COM3
+[4072] 05-11 10:45:11:420: WorkerThread: Disconnect event signaled on port: COM3
+[4072] 05-11 10:45:11:420: OVEVT_DEV_STATECHANGE. pOverlapped = 0x1a102b8
+[4072] 05-11 10:45:11:420: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4853: port 9 state chg: prev=3, new=4
+[4072] 05-11 10:45:11:420: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 4864: port 9 async reqtype chg: prev=9, new=0
+[4072] 05-11 10:45:11:420: CompleteDisconnectRequest: signalling 0x13f0 for COM3
+[4072] 05-11 10:45:11:420: SignalPortDisconnect: pOverlapped=0x281b5a4
+[4072] 05-11 10:45:11:420: PostDialEventContext:  for pid:0xdbc, client Event:0x3d4context pointer=0x281b5a4, type=1
+[4072] 05-11 10:45:11:420: AppendNewMsgToQueue:Set client Event:0x3d4
+[4072] 05-11 10:45:11:420: Disconnect completed on port: COM3
+[4072] 05-11 10:45:11:420: d:\w7rtm\net\rras\ras\rasman\rasman\worker.c, 2287: Port 9 is not marked for autoclose
+[5004] 05-11 10:45:11:420: PortCloseRequest - Calling CheckIfAllowedToManageConnection
+[5004] 05-11 10:45:11:420: PortClose: port (9). OpenInstances = 1
+[5004] 05-11 10:45:11:420: PortClose: going to clear the rasapi32 event handle
+[5004] 05-11 10:45:11:420: SetDialMachineEventHandleCommon:
+[5004] 05-11 10:45:11:420: SetDialEventHandleCommon: posting last event for port 9
+[5004] 05-11 10:45:11:420: PostDialEventContext:  for pid:0xdbc, client Event:0x3d4context pointer=0x281b604, type=4
+[5004] 05-11 10:45:11:420: PostDialEventContext: going to put the  OVEVT_DIAL_LAST message in the queue
+
+[5004] 05-11 10:45:11:420: Freeing the notifier list for port 9
+[5004] 05-11 10:45:11:420: PortClose (9). OpenInstances = 0
+[5004] 05-11 10:45:11:430: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3594: port 9 async reqtype chg: prev=0, new=0
+[5004] 05-11 10:45:11:430: d:\w7rtm\net\rras\ras\rasman\rasman\request.c: 3597: port 9 state chg: prev=4, new=4
+[5004] 05-11 10:45:11:430: RemoveConnectionPort: port 9, fOwnerClose=1, pConn=0x30679a8, pConn->CB_Ports=0
+
+[5004] 05-11 10:45:11:430: SendSensNotification(_RAS_DISCONNECT) for 0x00020000 returns 0x00000000
+[5004] 05-11 10:45:11:432: DwSendNotificationInternal(ENTRY_DISCONNECTED) rc=0x0
+[5004] 05-11 10:45:11:432: RemoveConnectionPort: FreeConnection hconn=0x20000, pconn=0x30679a8, AutoClose=0
+[5004] 05-11 10:45:11:432: FreeConnection: pConn=0x30679a8, 0
+[5004] 05-11 10:45:11:432: d:\w7rtm\net\rras\ras\rasman\rasman\request.c, 3663: Clearing the autoclose flag for port 9
+[5004] 05-11 10:45:11:432: fAnyConnectedPorts: 0
+[5004] 05-11 10:45:11:432: SetSystemIdleTimer: fDisable=0
+[5004] 05-11 10:45:11:432: SetRasmanServiceStopControl: Enabled 1
+[5004] 05-11 10:45:11:436: PortClose: port (9). OpenInstances = 0
+[5004] 05-11 10:45:11:437: CleanUpDeadClientProcessBlock
+[5004] 05-11 10:45:11:437: SetDialMachineEventHandleCommon:
+[5004] 05-11 10:45:11:437: SetDialMachineEventHandleCommon:Error: meaningless operation
+[5004] 05-11 10:45:11:438: PickOneMsgForAEvent:send context to Pid:0xdbc, clientEvent:0x3d4
+[5004] 05-11 10:45:11:438: PickOneMsgFromQueueList:
+[5004] 05-11 10:45:11:438: PickOneMsgFromQueueList:Set client Event:0x3d4
+[5004] 05-11 10:45:11:438: PickOneMsgForAEvent:send context to Pid:0xdbc, clientEvent:0x3d4
+[5004] 05-11 10:45:11:438: PickOneMsgFromQueueList:
+[1040] 05-11 10:45:25:151: HandleSessionChange: lpEventData (WTSSESSION_NOTIFICATION) is NULL
+[8076] 05-14 04:00:36:657: InitRasmanService: Rasman service initializing
+[8076] 05-14 04:00:36:712: InitRasmanService: Calling InitializeMediaControlBlocks
+[8076] 05-14 04:00:37:488: InitRasmanService: Calling InitializePortControlBlocks
+[8076] 05-14 04:00:37:488: Created Port Name[VPN1-1], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[8076] 05-14 04:00:37:488: Created Port Name[VPN1-0], Device Name[WAN Miniport (IKEv2)], Type[VPN](0001000F)
+
+[8076] 05-14 04:00:37:488: Created Port Name[VPN2-1], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[8076] 05-14 04:00:37:488: Created Port Name[VPN2-0], Device Name[WAN Miniport (L2TP)], Type[VPN](00010009)
+
+[8076] 05-14 04:00:37:488: Created Port Name[PPPoE4-0], Device Name[WAN Miniport (PPPOE)], Type[PPPoE](0008000D)
+
+[8076] 05-14 04:00:37:488: Created Port Name[VPN3-1], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[8076] 05-14 04:00:37:488: Created Port Name[VPN3-0], Device Name[WAN Miniport (PPTP)], Type[VPN](00010008)
+
+[8076] 05-14 04:00:37:489: Created Port Name[VPN0-1], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[8076] 05-14 04:00:37:489: Created Port Name[VPN0-0], Device Name[WAN Miniport (SSTP)], Type[VPN](0001000E)
+
+[8076] 05-14 04:00:37:489: Created Port Name[COM6], Device Name[Standard Modem over Bluetooth link], Type[MODEM](00000000)
+
+[8076] 05-14 04:00:37:489: Created Port Name[COM3], Device Name[Agere Systems HDA Modem], Type[MODEM](00000000)
+
+[8076] 05-14 04:00:37:489: InitRasmanService: Calling RegisterLSA
+[8076] 05-14 04:00:37:489: InitRasmanService: Max number of ports (all engines): 11
+
+[8076] 05-14 04:00:37:540: InitRasmanService: Protocol Engine [PPP] load complete
+[8076] 05-14 04:00:37:561: InitRasmanService: Protocol Engine [IKEv2] load complete
+[8076] 05-14 04:00:37:567: InitRasmanService: RasInterfaceMgmtInit returned= 0
+[8076] 05-14 04:00:37:615: InitRasmanService: InitializeRasRpc returned= 0
+[8076] 05-14 04:00:37:619: DwCleanupLuids: RegDeleteValue failed with error 2
+[8076] 05-14 04:00:37:641: InitRasmanService: EapHost initialized.
+[8076] 05-14 04:00:37:641: Rasman Service Start: HandleBindingEngineRegChanges thread creation successfull
+[8076] 05-14 04:00:37:641: InitRasmanService: Rasman initialized successfully
+[8076] 05-14 04:00:37:641: ServiceMain:Initializing Protocol Engine 'PPP' with [9] ports
+
+[7176] 05-14 04:00:37:641: Entered HandleBindingEngineRegChanges
+[7176] 05-14 04:00:37:642: HandleBindingEngineRegChanges: Initialization Successful -- Calling WaitForMultipleObjectsEx
+[8076] 05-14 04:00:37:771: ServiceMain: Protocol Engine 'PPP' Initialization returned= 0
+[8076] 05-14 04:00:37:771: ServiceMain:Initializing Protocol Engine 'IKEv2' with [2] ports
+
+[8076] 05-14 04:00:37:834: ServiceMain: Protocol Engine 'IKEv2' Initialization returned= 0
+[8076] 05-14 04:00:37:838: ServiceMain: Rasman service entered RUNNING state
+[8076] 05-14 04:00:37:872: DwSetProtocolEvent
+[8076] 05-14 04:00:37:872: DwSetProtocolEvent. rc=0x0
+[8076] 05-14 04:00:37:872: DwSetHibernateEvent
+[8076] 05-14 04:00:37:872: DwSetHibernateEvent. rc=0x0
+[8076] 05-14 04:00:37:872: RequestThread: DwSetEvents returnd 0x0
+[8076] 05-14 04:00:37:872: OVEVT_RASMAN_PROTOCOL_EVENT. pOverlapped = 0x52765720
+[8076] 05-14 04:00:37:873: DwProcessProtocolEvent: Protocol 0xab00 was REMOVED
+[8076] 05-14 04:00:37:873: Notifying Protocol of IP protocol change. 0xab00 was REMOVED
+[8076] 05-14 04:00:37:873: DwProcessProtocolEvent: Protocol 0x800 was ADDED
+[8076] 05-14 04:00:37:873: Notifying Protocol of IP protocol change. 0x800 was ADDED
+[8076] 05-14 04:00:37:873: DwProcessProtocolEvent: Protocol 0x86dd was ADDED
+[8076] 05-14 04:00:37:873: Notifying Protocol of IP protocol change. 0x86dd was ADDED
+[8076] 05-14 04:00:37:873: DwSetProtocolEvent
+[8076] 05-14 04:00:37:873: DwSetProtocolEvent. rc=0x0
+[6024] 05-14 04:00:38:005: ReferenceRasman: process 8028
+[6024] 05-14 04:00:38:005: Rasman RefCount = 1
+[6024] 05-14 04:00:38:005: ReferenceRasman: process 3620
+[6024] 05-14 04:00:38:005: Rasman RefCount = 2
+[6024] 05-14 04:00:38:005: ReferenceRasman: process 2256
+[6024] 05-14 04:00:38:005: Rasman RefCount = 3
+[6024] 05-14 04:00:38:005: ReferenceRasman: process 6560
+[6024] 05-14 04:00:38:005: Rasman RefCount = 4
+[6024] 05-14 04:00:38:006: ReferenceRasman: process 4144
+[6024] 05-14 04:00:38:006: Rasman RefCount = 5
+[6024] 05-14 04:00:38:006: ReferenceRasman: process 7184
+[6024] 05-14 04:00:38:006: Rasman RefCount = 6
+[1144] 05-14 04:00:38:063: ReferenceRasman: process 1272
+[1144] 05-14 04:00:38:063: Rasman RefCount = 7
+[6024] 05-14 04:00:38:080: ReferenceRasman: process 192
+[6024] 05-14 04:00:38:080: Rasman RefCount = 8
+[1144] 05-14 04:00:38:181: ReferenceRasman: process 584
+[1144] 05-14 04:00:38:181: Rasman RefCount = 9
+[8076] 05-13 22:35:08:496: RasmanWorker: OVEVT_DEV_REMOVE. pnpn=0x07f202d0
+[8076] 05-13 22:35:08:598: DwSendNotificationInternal(DEVICE_REMOVED) rc=0x00000000, device=0x0
+[8076] 05-13 22:35:08:598: DwRemovePort: Removing port COM6, 9
+[8076] 05-13 22:35:08:598: RasmanWorker: DwProcessLineRemoveNotificationreturned 0
+[8188] 05-13 22:36:28:950: ReferenceRasman: process 3968
+[8188] 05-13 22:36:28:950: Rasman RefCount = 10
+[7260] 05-13 22:37:41:388: ReferenceRasman: process 3968
+[7260] 05-13 22:37:41:388: Cleaning up process 3968
+[7260] 05-13 22:37:41:388: CleanUpEventQueue:
+[7260] 05-13 22:37:41:388: Freeing handle for 3968
+[7260] 05-13 22:37:41:388: Rasman RefCount = 9
+[3892] 05-13 22:59:28:965: ReferenceRasman: process 1016
+[3892] 05-13 22:59:28:965: Rasman RefCount = 10
+[3892] 05-13 23:04:53:888: ReferenceRasman: process 3016
+[3892] 05-13 23:04:53:888: Rasman RefCount = 11
+[4808] 05-13 23:09:06:146: ReferenceRasman: process 8016
+[4808] 05-13 23:09:06:146: Rasman RefCount = 12
+[4808] 05-13 23:09:24:476: ReferenceRasman: process 8016
+[4808] 05-13 23:09:24:476: Cleaning up process 8016
+[4808] 05-13 23:09:24:476: CleanUpEventQueue:
+[4808] 05-13 23:09:24:476: Freeing handle for 8016
+[4808] 05-13 23:09:24:476: Rasman RefCount = 11

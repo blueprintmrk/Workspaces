@@ -1,0 +1,41 @@
+
+==================================================
+Start of IE9 NoReboot Servicing
+        6.1.7600-2.0 WIN-3TO1VSVPFV7.WORKGROUP\WIN-3TO1VSVPFV7$  OS:x86  IENrUtil:x86  IEversion:8.0.7600.16385  Date(UT):20120310-210705
+        Command line: C:\Windows\TEMP\IE991B5.tmp\IE9-support\ienrcore.exe /memsec IESETUP_NRCTX_1e14 
+________Parsing dynamic policy file: 'C:\Windows\TEMP\IE991B5.tmp\IE9-support\NrPolicy.txt'
+________ WARNING ________ IESetup environment variable is predefined as 'C:\Windows\TEMP\IE991B5.tmp\IE9-support'
+        MSU location set to 'C:\Windows\TEMP\IE991B5.tmp\IE9-support\IE9-win7X86.msu'
+        IE version set to '8.0.7600.16385'
+        IE bitness set to 'x86'
+
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\IeNrCore.exe" exit 1 > C:\Windows\Logs\IESetup_20120310-210705_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\ieinfra.manifest" exit 1 > C:\Windows\Logs\IESetup_20120310-210705_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\trustedinstaller.exe.manifest" exit 1 > C:\Windows\Logs\IESetup_20120310-210705_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  echo Mumfile = "%IESetup%\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~%IESetupBitness%~~%IESetupInstalledVersion%.mum" > C:\Windows\Logs\IESetup_20120310-210705_temp.log 2>&1'
+Mumfile = "C:\Windows\TEMP\IE991B5.tmp\IE9-support\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~x86~~8.0.7600.16385.mum" 
+
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~%IESetupBitness%~~%IESetupInstalledVersion%.mum" exit 1 > C:\Windows\Logs\IESetup_20120310-210705_temp.log 2>&1'
+        executing must-succeed process '"C:\Windows\System32\cmd.exe" /C  IF NOT EXIST "%IESetup%\Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~%IESetupBitness%~~%IESetupInstalledVersion%.cat" exit 1 > C:\Windows\Logs\IESetup_20120310-210705_temp.log 2>&1'
+
+
+NRFindPreserviceProblems...
+false 03 2980 RmExplorer           "Windows Explorer" - "C:\Windows\explorer.exe"
+false 05 3260 RMUnknownApp         "Windows Anytime Upgrade User Interface" - "C:\Windows\System32\WindowsAnytimeUpgradeui.exe"
+false 02 4012 RMUnknownApp         "Internet Explorer" - "C:\Program Files\Internet Explorer\iexplore.exe"
+false 02 2084 RMUnknownApp         "Internet Explorer" - "C:\Program Files\Internet Explorer\iexplore.exe"
+false 02 5140 RMUnknownApp         "Host Process for Windows Tasks" - "C:\Windows\System32\taskhost.exe"
+true  02 0980 RmService            "Extensible Authentication Protocol" - "EapHost"
+true  02 0956 RmService            "WLAN AutoConfig" - "Wlansvc"
+true  02 1280 RmService            "SPP Notification Service" - "sppuinotify"
+true  02 1280 RmService            "Network List Service" - "netprofm"
+true  02 1028 RmService            "HomeGroup Provider" - "HomeGroupProvider"
+true  02 0540 RmService            "Windows Defender" - "WinDefend"
+true  02 4004 RmService            "Windows Media Player Network Sharing Service" - "WMPNetworkSvc"
+true  02 6048 RmService            "Windows Modules Installer" - "TrustedInstaller"
+true  02 1028 RmService            "Security Center" - "wscsvc"
+        changing S_NONR to S_FALSE
+
+
+End of IE9 NoReboot Servicing
+==================================================

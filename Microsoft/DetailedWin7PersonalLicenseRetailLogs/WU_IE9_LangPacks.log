@@ -1,0 +1,14 @@
+00:00.000: ====================================================================
+00:00.031: Started: 2012/03/11 (Y/M/D) 02:33:58.794 (local)
+00:00.062: Time Format in this log: MM:ss.mmm (minutes:seconds.milliseconds)
+00:00.078: Command line: C:\Windows\TEMP\IXP000.TMP\ielangpack.exe  ieLangPack-zhh.cab
+00:00.109: INFO:    Windows Update Install: Install package filename: C:\Windows\TEMP\IXP000.TMP\ieLangPack-zhh.cab
+00:00.125: INFO:    Windows Update Install: Copied new file to: C:\Windows\TEMP\IE8B30.tmp\ieLangPack-zhh.cab
+00:00.140: INFO:    Windows Update Install: Setup return code: 0x00000000 (0)
+00:00.000: ====================================================================
+00:00.078: Started: 2012/03/11 (Y/M/D) 02:33:59.636 (local)
+00:00.094: Time Format in this log: MM:ss.mmm (minutes:seconds.milliseconds)
+00:00.110: Command line: C:\Windows\TEMP\IXP000.TMP\ielangpack.exe  ieLangPack-chs.cab
+00:00.125: INFO:    Windows Update Install: Install package filename: C:\Windows\TEMP\IXP000.TMP\ieLangPack-chs.cab
+00:00.156: INFO:    Windows Update Install: Copied new file to: C:\Windows\TEMP\IE8E99.tmp\ieLangPack-chs.cab
+00:00.188: INFO:    Windows Update Install: Setup return code: 0x00000000 (0)

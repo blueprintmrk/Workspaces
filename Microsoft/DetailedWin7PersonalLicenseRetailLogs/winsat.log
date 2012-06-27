@@ -1,0 +1,226 @@
+038033 (0836) - winsat\logging.cpp:0815: --- START 2009\7\13 21:53:24 PM ---
+038064 (0836) - winsat\main.cpp:4301: Command Line = "D:\Windows\system32\winsat.exe" moobe -cancelevent d8664637-bbd1-4343-8f97-96458fcd1015 -moobegoevent f6d21d93-fa3b-48ec-8c0b-2a438f4e6e9c
+038079 (0836) - winsat\processwinsaterror.cpp:0095: ERROR: tried to read resource strings, unknown exception occured
+038204 (0836) - winsat\main.cpp:4474: > IsFormal=TRUE  IsMoobe=TRUE.
+038267 (0836) - winsat\main.cpp:4585: Watch dog system enabled
+038267 (0836) - winsat\main.cpp:4592: Main watch dog timer set to 60.0 seconds
+038610 (0836) - winsat\main.cpp:2505: > DWM not running.
+039936 (0836) - winsat\syspowertools.cpp:0983: > Read the active power scheme as '381b4222-f694-41f0-9685-ff5bb260df2e'
+039951 (0836) - winsat\main.cpp:2793: > power policy saved.
+040107 (0836) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c'
+040123 (0836) - winsat\main.cpp:2814: > power policy set to maximum.
+040591 (0836) - d3d\dx9misc.cpp:1030: HRESULT = 8876086a
+040591 (0836) - d3d\dx9misc.cpp:1030: Error: Unable to create the D3D device
+040607 (0836) - d3d\dx9misc.cpp:1030: Error: Unable to check the capabilities of the video card because a d3d device could not be created
+040825 (0836) - winsat\logging.cpp:1763: ERROR: pahse enter/leave imballance
+040841 (0836) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=TRUE  RanOverTs=FALSE  RanOnbatteries=FALSE
+040856 (0836) - winsat\main.cpp:1775: > Run Assessment features 
+041761 (0836) - winsat\main.cpp:1775: > Run Assessment dwm -aname DWM -time 10 -fbc 10 -disp off -normalw 12 -width 1280 -height 1024 -winwidth C(1144) -winheight C(915) -rendertotex 6 -rtdelta 3 -nolock
+041964 (0836) - d3d\graphicsop.cpp:0263: Driver is not WDDM; aborting assessment.
+042385 (0836) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 0
+042401 (0836) - winsat\main.cpp:2037: > DWM Assessment results processing SUCCESS
+042494 (0836) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 0
+042525 (0836) - winsat\processresults.cpp:1274: Limiting DWM Score to 1.0 - no DX9 capability
+042525 (0836) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+042557 (0836) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=TRUE  RanOverTs=FALSE  RanOnbatteries=FALSE
+042728 (0836) - winsat\processresults.cpp:1274: Limiting DWM Score to 1.0 - no DX9 capability
+042744 (0836) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+042759 (0836) - common\winsatutilities.cpp:1382: cannot access the winast API registry key; 2 The system cannot find the file specified.
+042900 (0836) - winsat\main.cpp:2339: > Finalized MOOBE key
+042947 (0836) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 381b4222-f694-41f0-9685-ff5bb260df2e'
+042962 (0836) - winsat\main.cpp:2855: > Power state restored.
+042978 (0836) - winsat\main.cpp:2873: > Not necessary to reenable EMD cache.
+043087 (0836) - winsat\main.cpp:2899: INFO: DwmpRestartComposition() did not return OK!
+043103 (0836) - winsat\watchdog.cpp:0311: Watch dog system shutdown
+043118 (0836) - winsat\main.cpp:4909: > exit value = 0.
+
+037143 (0820) - winsat\logging.cpp:0815: --- START 2012\3\11 00:57:53 ---
+037175 (0820) - winsat\main.cpp:4301: Command Line = "C:\Windows\system32\winsat.exe" moobe -cancelevent b501c77e-fc03-4e45-af7d-22426ce02bb3 -moobegoevent 58ee5d44-69e8-482c-ad34-62b8e88e8d2a
+037175 (0820) - winsat\processwinsaterror.cpp:0095: ERROR: tried to read resource strings, unknown exception occured
+037346 (0820) - winsat\main.cpp:4474: > IsFormal=TRUE  IsMoobe=TRUE.
+037393 (0820) - winsat\main.cpp:4585: Watch dog system enabled
+037393 (0820) - winsat\main.cpp:4592: Main watch dog timer set to 60.0 seconds
+037783 (0820) - winsat\main.cpp:2505: > DWM not running.
+040263 (0820) - winsat\syspowertools.cpp:0983: > Read the active power scheme as '381b4222-f694-41f0-9685-ff5bb260df2e'
+040279 (0820) - winsat\main.cpp:2793: > power policy saved.
+040466 (0820) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c'
+040466 (0820) - winsat\main.cpp:2814: > power policy set to maximum.
+040934 (0820) - winsat\logging.cpp:1763: ERROR: pahse enter/leave imballance
+040950 (0820) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=TRUE  RanOverTs=FALSE  RanOnbatteries=FALSE
+040950 (0820) - winsat\main.cpp:1775: > Run Assessment features 
+041979 (0820) - winsat\main.cpp:1775: > Run Assessment dwm -aname DWM -time 10 -fbc 10 -disp off -normalw 12 -width 1280 -height 1024 -winwidth C(1144) -winheight C(915) -rendertotex 6 -rtdelta 3 -nolock
+055473 (0820) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 4260290
+055473 (0820) - winsat\main.cpp:2037: > DWM Assessment results processing SUCCESS
+055567 (0820) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 4260290
+055567 (0820) - winsat\processresults.cpp:1241: Skipping Graphics video playback time limit check.
+055567 (0820) - winsat\processresults.cpp:1253: Skipping StdDefPlayback limit check.
+055567 (0820) - winsat\processresults.cpp:1265: Skipping StdDefPlayback limit check.
+055567 (0820) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+055598 (0820) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=TRUE  RanOverTs=FALSE  RanOnbatteries=FALSE
+055817 (0820) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+055817 (0820) - common\winsatutilities.cpp:1388: The error count is zero becuase the TaskErrorCount value does not exist.
+056004 (0820) - winsat\main.cpp:2339: > Finalized MOOBE key
+056051 (0820) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 381b4222-f694-41f0-9685-ff5bb260df2e'
+056051 (0820) - winsat\main.cpp:2855: > Power state restored.
+056051 (0820) - winsat\main.cpp:2873: > Not necessary to reenable EMD cache.
+056191 (0820) - winsat\main.cpp:2899: INFO: DwmpRestartComposition() did not return OK!
+056207 (0820) - winsat\watchdog.cpp:0311: Watch dog system shutdown
+056207 (0820) - winsat\main.cpp:4909: > exit value = 0.
+
+613614 (0880) - winsat\logging.cpp:0815: --- START 2012\3\11 01:07:29 ---
+613614 (0880) - winsat\main.cpp:4301: Command Line = "C:\Windows\system32\winsat.exe" formal -cancelevent e1abb0cc-8277-45c5-8537-d4714df0bdb5
+613614 (0880) - winsat\processwinsaterror.cpp:0095: ERROR: tried to read resource strings, unknown exception occured
+613754 (0880) - winsat\main.cpp:4474: > IsFormal=TRUE  IsMoobe=FALSE.
+613801 (0880) - winsat\main.cpp:4585: Watch dog system enabled
+613801 (0880) - winsat\main.cpp:4600: Main watch dog timer set to 600.0 seconds
+614004 (0880) - winsat\main.cpp:2490: > DWM Running.
+614175 (0880) - winsat\main.cpp:2497: > turning off DWM.
+614175 (0880) - winsat\main.cpp:2470: > EMD service will be restored on exit.
+614706 (0880) - winsat\syspowertools.cpp:0983: > Read the active power scheme as '381b4222-f694-41f0-9685-ff5bb260df2e'
+614706 (0880) - winsat\main.cpp:2793: > power policy saved.
+614909 (0880) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c'
+614909 (0880) - winsat\main.cpp:2814: > power policy set to maximum.
+615751 (0880) - winsat\logging.cpp:1763: ERROR: pahse enter/leave imballance
+615751 (0880) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=FALSE  RanOverTs=FALSE  RanOnbatteries=FALSE
+615751 (0880) - winsat\main.cpp:1775: > Run Assessment features 
+615938 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -aname Batch -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(10) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+623021 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -aname Alpha -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(75) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+629791 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -aname Tex -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -texshader -totaltex 10 -texpobj C(4) -rendertotex 6 -rtdelta 3
+644986 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -aname ALU -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -alushader -totaltex 10 -texpobj C(1) -rendertotex 6 -rtdelta 3
+663815 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname Batch -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(10) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+672177 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname Alpha -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(75) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+678619 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname Tex -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -texshader -totaltex 10 -texpobj C(4) -rendertotex 6 -rtdelta 3
+700491 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname ALU -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -alushader -totaltex 10 -texpobj C(1) -rendertotex 6 -rtdelta 3
+724921 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname GeomF4 -time 7 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 150;200;241 -batchcnt C(50);C(200);C(300) -objs C(12);C(26);C(45) -noalpha -geomf4shader -texpobj C(0) -rendertotex 6 -rtdelta 3 -tierframes 60 -tiertime 1
+734031 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname GeomV8 -time 7 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 75;100;120 -batchcnt C(25);C(100);C(150) -objs C(8);C(17);C(29) -noalpha -geomv8shader -texpobj C(0) -rendertotex 6 -rtdelta 3 -tierframes 60 -tiertime 1
+742439 (0880) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname CBuffer -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 75 -batchcnt C(25) -objs C(8) -rendertotex 6 -rtdelta 3 -texpobj C(1) -cbuffershader -cbufa 2 -cbuff 5 -cbufp 6
+748804 (0880) - winsat\main.cpp:1775: > Run Assessment mfmedia -input C:\Windows\Performance\WinSAT\winsat.wmv -nopmp
+751519 (0880) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_1080_5sec_MPEG2_HD_15mbps.mpg -dshow -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 270 -expfrmmax 300 -overrideframetype int2fps
+760021 (0880) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_1080_5sec_VC1_15mbps.wmv -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 135 -expfrmmax 150 -overrideframetype prog
+766417 (0880) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_480i_5sec_6mbps_new.mpg -dshow -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 270 -expfrmmax 300 -overrideframetype int2fps
+774747 (0880) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_480p_5sec_6mbps_new.mpg -dshow -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 135 -expfrmmax 150 -overrideframetype prog
+782906 (0880) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_1080_5sec_10mbps_h264.mp4 -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 135 -expfrmmax 150 -overrideframetype prog
+789833 (0880) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_480_5sec_6mbps_h264.mp4 -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 270 -expfrmmax 300 -overrideframetype int2fps
+796541 (0880) - winsat\main.cpp:1775: > Run Assessment media -input C:\Windows\Performance\WinSAT\winsatencode.wmv -encode C:\Windows\Performance\WinSAT\winsat.prx
+805823 (0880) - winsat\main.cpp:1775: > Run Assessment moobego 
+805823 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -encryption -up
+816072 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -compression -up
+826165 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -encryption2 -up
+836258 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -compression2 -up
+846352 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -encryption
+856476 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -compression
+866741 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -encryption2
+876928 (0880) - winsat\main.cpp:1775: > Run Assessment cpu -compression2
+887084 (0880) - winsat\main.cpp:1775: > Run Assessment mem 
+892247 (0880) - winsat\main.cpp:1775: > Run Assessment disk -seq -read -n 0
+903978 (0880) - winsat\main.cpp:1775: > Run Assessment disk -ran -read -n 0
+916568 (0880) - winsat\main.cpp:1775: > Run Assessment disk -scen 2009 -drive C:
+998141 (0880) - winsat\processresults.cpp:0962: > Wrote cpu expression compression score to the registry 154
+998141 (0880) - winsat\processresults.cpp:1004: Total physical mem available to the OS : 2.96 GB (3,18,68,19,072 bytes)
+998141 (0880) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 580
+998141 (0880) - winsat\processresults.cpp:1498: > Wrote random read disk score to the registry 1392
+998172 (0880) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=FALSE  RanOverTs=FALSE  RanOnbatteries=FALSE
+998359 (0880) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 4260290
+998359 (0880) - winsat\processresults.cpp:0962: > Wrote cpu expression compression score to the registry 154
+998359 (0880) - winsat\processresults.cpp:1004: Total physical mem available to the OS : 2.96 GB (3,18,68,19,072 bytes)
+998359 (0880) - winsat\processresults.cpp:1253: Skipping StdDefPlayback limit check.
+998359 (0880) - winsat\processresults.cpp:1265: Skipping StdDefPlayback limit check.
+998359 (0880) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 580
+998359 (0880) - winsat\processresults.cpp:1498: > Wrote random read disk score to the registry 1392
+998624 (0880) - common\winsatutilities.cpp:1388: The error count is zero becuase the TaskErrorCount value does not exist.
+998656 (0880) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 381b4222-f694-41f0-9685-ff5bb260df2e'
+998656 (0880) - winsat\main.cpp:2855: > Power state restored.
+998656 (0880) - winsat\main.cpp:2870: > Successfully reenabled EMD.
+998936 (0880) - winsat\watchdog.cpp:0311: Watch dog system shutdown
+998936 (0880) - winsat\main.cpp:4909: > exit value = 0.
+
+11947289 (5604) - winsat\logging.cpp:0815: --- START 2012\3\11 21:17:15 ---
+11948412 (5604) - winsat\main.cpp:4301: Command Line = C:\Windows\system32\winsat.exe formal -log -cancelevent 702ce703-fb31-4076-bf56-13aa71a25209
+11948412 (5604) - winsat\processwinsaterror.cpp:0095: ERROR: tried to read resource strings, unknown exception occured
+11949083 (5604) - winsat\main.cpp:4474: > IsFormal=TRUE  IsMoobe=FALSE.
+11949130 (5604) - winsat\main.cpp:4585: Watch dog system enabled
+11949130 (5604) - winsat\main.cpp:4600: Main watch dog timer set to 600.0 seconds
+11949785 (5604) - winsat\main.cpp:2505: > DWM not running.
+11955760 (5604) - winsat\syspowertools.cpp:0983: > Read the active power scheme as '381b4222-f694-41f0-9685-ff5bb260df2e'
+11955760 (5604) - winsat\main.cpp:2793: > power policy saved.
+11956041 (5604) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c'
+11956041 (5604) - winsat\main.cpp:2814: > power policy set to maximum.
+11956384 (5604) - winsat\logging.cpp:1763: ERROR: pahse enter/leave imballance
+11956400 (5604) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=FALSE  RanOverTs=FALSE  RanOnbatteries=FALSE
+11956400 (5604) - winsat\main.cpp:1775: > Run Assessment features 
+11956603 (5604) - winsat\main.cpp:1775: > Run Assessment dwm -aname DWM -time 10 -fbc 10 -disp off -normalw 12 -width 1280 -height 1024 -winwidth C(1144) -winheight C(915) -rendertotex 6 -rtdelta 3 -nolock
+11972031 (5604) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 4382080
+11972047 (5604) - winsat\main.cpp:2037: > DWM Assessment results processing SUCCESS
+11972047 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -aname Batch -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(10) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+11979067 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -aname Alpha -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(75) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+11985806 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -aname Tex -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -texshader -totaltex 10 -texpobj C(4) -rendertotex 6 -rtdelta 3
+12004869 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -aname ALU -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -alushader -totaltex 10 -texpobj C(1) -rendertotex 6 -rtdelta 3
+12028207 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname Batch -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(10) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+12035289 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname Alpha -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 300 -batchcnt C(75) -objs C(26) -rendertotex 6 -rtdelta 3 -texpobj C(1)
+12042153 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname Tex -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -texshader -totaltex 10 -texpobj C(4) -rendertotex 6 -rtdelta 3
+12074789 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname ALU -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 500 -batchcnt C(125) -objs C(20) -noalpha -alushader -totaltex 10 -texpobj C(1) -rendertotex 6 -rtdelta 3
+12110560 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname GeomF4 -time 7 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 150;200;241 -batchcnt C(50);C(200);C(300) -objs C(12);C(26);C(45) -noalpha -geomf4shader -texpobj C(0) -rendertotex 6 -rtdelta 3 -tierframes 60 -tiertime 1
+12120482 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname GeomV8 -time 7 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 75;100;120 -batchcnt C(25);C(100);C(150) -objs C(8);C(17);C(29) -noalpha -geomv8shader -texpobj C(0) -rendertotex 6 -rtdelta 3 -tierframes 60 -tiertime 1
+12130060 (5604) - winsat\main.cpp:1775: > Run Assessment d3d -dx10  -aname CBuffer -time 5 -fbc 10 -disp off -animate 10 -width 1280 -height 1024 -totalobj 75 -batchcnt C(25) -objs C(8) -rendertotex 6 -rtdelta 3 -texpobj C(1) -cbuffershader -cbufa 2 -cbuff 5 -cbufp 6
+12138827 (5604) - winsat\main.cpp:1775: > Run Assessment mfmedia -input C:\Windows\Performance\WinSAT\winsat.wmv -nopmp
+12143476 (5604) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_1080_5sec_MPEG2_HD_15mbps.mpg -dshow -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 270 -expfrmmax 300 -overrideframetype int2fps
+12158561 (5604) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_1080_5sec_VC1_15mbps.wmv -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 135 -expfrmmax 150 -overrideframetype prog
+12165909 (5604) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_480i_5sec_6mbps_new.mpg -dshow -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 270 -expfrmmax 300 -overrideframetype int2fps
+12174505 (5604) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_480p_5sec_6mbps_new.mpg -dshow -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 135 -expfrmmax 150 -overrideframetype prog
+12183163 (5604) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_1080_5sec_10mbps_h264.mp4 -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 135 -expfrmmax 150 -overrideframetype prog
+12196017 (5604) - winsat\main.cpp:1775: > Run Assessment mediaex -input C:\Windows\Performance\WinSAT\Clip_480_5sec_6mbps_h264.mp4 -video offscreen -audio mute -width 100%m -height 100%m -constrain -savereg -autoprofname -expfrmmin 270 -expfrmmax 300 -overrideframetype int2fps
+12203490 (5604) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 4382080
+12203490 (5604) - winsat\processresults.cpp:1253: Skipping StdDefPlayback limit check.
+12203490 (5604) - winsat\processresults.cpp:1265: Skipping StdDefPlayback limit check.
+12203490 (5604) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+12203521 (5604) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=TRUE  IsMoobe=FALSE  RanOverTs=FALSE  RanOnbatteries=FALSE
+12205206 (5604) - winsat\processresults.cpp:4018: > Wrote video memory bandwidth to the registry 4382080
+12205221 (5604) - winsat\processresults.cpp:0962: > Wrote cpu expression compression score to the registry 154
+12205221 (5604) - winsat\processresults.cpp:1004: Total physical mem available to the OS : 2.96 GB (3,18,68,19,072 bytes)
+12205221 (5604) - winsat\processresults.cpp:1253: Skipping StdDefPlayback limit check.
+12205221 (5604) - winsat\processresults.cpp:1265: Skipping StdDefPlayback limit check.
+12205221 (5604) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 580
+12205221 (5604) - winsat\processresults.cpp:1498: > Wrote random read disk score to the registry 1392
+12205845 (5604) - common\winsatutilities.cpp:1336: Enabling the WinSAT Task
+12205908 (5604) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 381b4222-f694-41f0-9685-ff5bb260df2e'
+12205908 (5604) - winsat\main.cpp:2855: > Power state restored.
+12205908 (5604) - winsat\main.cpp:2873: > Not necessary to reenable EMD cache.
+12206173 (5604) - winsat\main.cpp:2896: > Composition restarted
+12206220 (5604) - winsat\watchdog.cpp:0311: Watch dog system shutdown
+12206220 (5604) - winsat\main.cpp:4909: > exit value = 0.
+
+3430149 (5660) - winsat\logging.cpp:0815: --- START 2012\3\25 14:52:13 ---
+3430149 (5660) - winsat\main.cpp:4301: Command Line = "C:\Windows\system32\WinSat.exe"  features -xml features.xml
+3430165 (5660) - winsat\processwinsaterror.cpp:0095: ERROR: tried to read resource strings, unknown exception occured
+3430368 (5660) - winsat\main.cpp:2490: > DWM Running.
+3430368 (5660) - winsat\main.cpp:2501: > leaving DWM on.
+3430508 (5660) - winsat\syspowertools.cpp:0983: > Read the active power scheme as '381b4222-f694-41f0-9685-ff5bb260df2e'
+3430508 (5660) - winsat\main.cpp:2793: > power policy saved.
+3430727 (5660) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c'
+3430727 (5660) - winsat\main.cpp:2814: > power policy set to maximum.
+3431085 (5660) - winsat\logging.cpp:1763: ERROR: pahse enter/leave imballance
+3431085 (5660) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=FALSE  IsMoobe=FALSE  RanOverTs=FALSE  RanOnbatteries=FALSE
+3431085 (5660) - winsat\main.cpp:1775: > Run Assessment features 
+3431663 (5660) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+3431725 (5660) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 381b4222-f694-41f0-9685-ff5bb260df2e'
+3431725 (5660) - winsat\main.cpp:2855: > Power state restored.
+3431725 (5660) - winsat\main.cpp:2873: > Not necessary to reenable EMD cache.
+3431928 (5660) - winsat\main.cpp:4909: > exit value = 0.
+
+3432084 (3656) - winsat\logging.cpp:0815: --- START 2012\3\25 14:52:15 ---
+3432084 (3656) - winsat\main.cpp:4301: Command Line = "C:\Windows\system32\WinSat.exe"  features -xml features.xml
+3432084 (3656) - winsat\processwinsaterror.cpp:0095: ERROR: tried to read resource strings, unknown exception occured
+3432240 (3656) - winsat\main.cpp:2490: > DWM Running.
+3432240 (3656) - winsat\main.cpp:2501: > leaving DWM on.
+3432895 (3656) - winsat\syspowertools.cpp:0983: > Read the active power scheme as '381b4222-f694-41f0-9685-ff5bb260df2e'
+3432895 (3656) - winsat\main.cpp:2793: > power policy saved.
+3433316 (3656) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c'
+3433316 (3656) - winsat\main.cpp:2814: > power policy set to maximum.
+3433613 (3656) - winsat\logging.cpp:1763: ERROR: pahse enter/leave imballance
+3433613 (3656) - winsat\main.cpp:0948: > IsOfficial=TRUE  IsFormal=FALSE  IsMoobe=FALSE  RanOverTs=FALSE  RanOnbatteries=FALSE
+3433613 (3656) - winsat\main.cpp:1775: > Run Assessment features 
+3433987 (3656) - winsat\processresults.cpp:1480: > Wrote disk score to the registry 0
+3434050 (3656) - winsat\syspowertools.cpp:1015: > Set the active power scheme to 381b4222-f694-41f0-9685-ff5bb260df2e'
+3434050 (3656) - winsat\main.cpp:2855: > Power state restored.
+3434050 (3656) - winsat\main.cpp:2873: > Not necessary to reenable EMD cache.
+3434221 (3656) - winsat\main.cpp:4909: > exit value = 0.

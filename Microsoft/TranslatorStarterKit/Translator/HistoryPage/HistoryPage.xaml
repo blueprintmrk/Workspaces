@@ -1,0 +1,106 @@
+<!--
+// Copyright (c) 2010 Microsoft Corporation.  All rights reserved.
+//
+//
+// Use of this source code is subject to the terms of the Microsoft
+// license agreement under which you licensed this source code.
+// If you did not accept the terms of the license agreement,
+// you are not authorized to use this source code.
+// For the terms of the license, please see the license agreement
+// signed by you and Microsoft.
+// THE SOURCE CODE IS PROVIDED "AS IS", WITH NO WARRANTIES OR INDEMNITIES.
+//
+
+-->
+<phoneNavigation:PhoneApplicationPage 
+    x:Class="Microsoft.Phone.Applications.Translator.HistoryPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phoneNavigation="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Microsoft.Phone.Applications.Translator"
+    xmlns:contextMenu="clr-namespace:Microsoft.Phone.Applications.Common.Controls"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="800"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}">
+
+    <phoneNavigation:PhoneApplicationPage.Resources>
+        <!-- TextBox styles -->
+        <Style x:Key="PhoneTextPageTitle1Style" 
+               TargetType="TextBlock" 
+               BasedOn="{StaticResource PhoneTextNormalStyle}">
+            <Setter Property="Margin" Value="20,20,0,0" />
+        </Style>
+
+        <Style x:Key="PhoneTextPageTitle2Style" 
+               TargetType="TextBlock" 
+               BasedOn="{StaticResource PhoneTextTitle1Style}">
+            <Setter Property="Margin" Value="20,43,0,0" />
+        </Style>
+    </phoneNavigation:PhoneApplicationPage.Resources>
+
+    <Grid x:Name="LayoutRoot" 
+          Background="{StaticResource PhoneBackgroundBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="170"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--This is the name of the application and page title-->
+        <Grid Grid.Row="0" x:Name="TitleGrid">
+            <TextBlock x:Name="ApplicationName" 
+                       Text="{Binding Path=Strings.Translator, Source={StaticResource Resources}}" 
+                       Style="{StaticResource PhoneTextPageTitle1Style}" />
+            <TextBlock x:Name="ListName" 
+                       Text="{Binding Path=Strings.HistoryLowerCase, Source={StaticResource Resources}}" 
+                       Style="{StaticResource PhoneTextPageTitle2Style}"/>
+        </Grid>
+
+        <!--This section is empty. Place new content here Grid.Row="1"-->
+        <Grid Grid.Row="1" x:Name="ContentGrid">
+            <ListBox 
+                Height="636" 
+                HorizontalAlignment="Left" Margin="23,0,0,0" 
+                Name="_phrasesListbox" 
+                VerticalAlignment="Top" Width="457"
+                FontSize="36"
+                SelectionChanged="OnPhrasesListboxSelectionChanged"             
+                ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                >
+                <ListBox.ItemTemplate>
+                    <DataTemplate >
+                        <TextBlock  
+                            TextAlignment="Left" 
+                            HorizontalAlignment="Stretch"
+                            Text="{Binding CurrentLanguagePhrase, Mode=OneWay}" 
+                            TextWrapping="Wrap"
+                            VerticalAlignment="Center"
+                            Margin="0,0,0,0" 
+                            Padding="0,0,0,30"
+                            FontFamily="{StaticResource PhoneFontFamilySemiLight}"
+                            FontSize="{StaticResource PhoneFontSizeExtraLarge}"
+                            Foreground="{StaticResource PhoneForegroundBrush}">
+                        </TextBlock>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                
+                <contextMenu:ContextMenuService.ContextMenu>
+                    <contextMenu:ContextMenu
+                        ShouldApplyDefaultItemStyle="True"
+                        x:Name="HistoryListContextMenu"
+                        Opening="OnContextMenuDisplaying"
+                        Closing="OnContextMenuClosing">
+                        <TextBlock
+                            x:Name="DeleteMenuItem"
+                            Text="{Binding Path=Strings.DeleteContextMenuItem, Source={StaticResource Resources}}"
+                            ManipulationCompleted="OnDeleteContextMenuTapped"
+                         />
+                    </contextMenu:ContextMenu>
+                </contextMenu:ContextMenuService.ContextMenu>
+                
+            </ListBox>
+        </Grid>
+    </Grid>
+</phoneNavigation:PhoneApplicationPage>

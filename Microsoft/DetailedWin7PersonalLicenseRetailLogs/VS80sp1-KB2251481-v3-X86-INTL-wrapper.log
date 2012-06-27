@@ -1,0 +1,1853 @@
++ Launching the patch wrapper
+   + Initializing patch object from manifest file
+      + Initializing manifest reader
+      - Initializing manifest reader
+      + Loading patch info
+      - Loading patch info
+   - Initializing patch object from manifest file
+   + Processing command line
+      Command line: /q /norestart
+      + Replacing Switch Abbreviations
+      - Replacing Switch Abbreviations
+      + Validate allowed switch combinations
+      - Validate allowed switch combinations
+      + Forcing MSI Logging
+      - Forcing MSI Logging
+      + Add Source path to MSI Source List
+         ERROR [16389]
+         ERROR [16389]
+      - Add Source path to MSI Source List
+   - Processing command line
+   + Initializing watson data
+      + AddFileToKeep Logging
+      - AddFileToKeep Logging
+   - Initializing watson data
+   + Executing Action
+      + Prepare to apply the patch to all products
+         + Extracting Items
+            Item 2 to C:\Windows\TEMP\ZNWD232
+            + Extracting package item to file
+               Item ID: VS80sp1-KB2251481-v3-X86-INTL.msp to "C:\Windows\TEMP\ZNWD232"
+            - Extracting package item to file
+         - Extracting Items
+         + Extracting Items
+            Item 4 to C:\Windows\TEMP\ZNWD232
+            + Extracting package item to file
+               Item ID: filehashfixup.exe to "C:\Windows\TEMP\ZNWD232"
+            - Extracting package item to file
+            + Extracting package item to file
+               Item ID: filehashfixup.exe.data to "C:\Windows\TEMP\ZNWD232"
+            - Extracting package item to file
+         - Extracting Items
+         + Initializing patch object from patch package
+            + Releasing products
+            - Releasing products
+            Accessing summary info for LastSavedBy
+            + Loading summary info from file
+            - Loading summary info from file
+            Products counted, 110 found
+            Initializing all products found
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_100ToU865_100' to "C:\Windows\TEMP\D7CE.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\D7CE.tmp"
+               Summaryinfo Revision Number: {4E65220F-1554-4ABF-AA88-2A2B8AB75666}8.0.50728;{4E65220F-1554-4ABF-AA88-2A2B8AB75666}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_11ToU865_11' to "C:\Windows\TEMP\D81D.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\D81D.tmp"
+               Summaryinfo Revision Number: {324C61EA-256E-4DFD-BF2C-6D6E5A1271A0}8.0.50728;{324C61EA-256E-4DFD-BF2C-6D6E5A1271A0}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_117ToU865_117' to "C:\Windows\TEMP\D8E9.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\D8E9.tmp"
+               Summaryinfo Revision Number: {3FC7B128-9AEA-4D96-B057-A06DC808CF0F}8.0.50728;{3FC7B128-9AEA-4D96-B057-A06DC808CF0F}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_122ToU865_122' to "C:\Windows\TEMP\DB1B.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DB1B.tmp"
+               Summaryinfo Revision Number: {4C8DE415-3AB4-4E46-8349-1DD0B5AB297D}8.0.50728;{4C8DE415-3AB4-4E46-8349-1DD0B5AB297D}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_123ToU865_123' to "C:\Windows\TEMP\DBC8.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DBC8.tmp"
+               Summaryinfo Revision Number: {6CE1284C-B158-4420-AD9D-BD39CD1AA8A1}8.0.50728;{6CE1284C-B158-4420-AD9D-BD39CD1AA8A1}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_124ToU865_124' to "C:\Windows\TEMP\DC36.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DC36.tmp"
+               Summaryinfo Revision Number: {421EC9A7-4A58-43CD-AC9B-8FACFFB9A843}8.0.50728;{421EC9A7-4A58-43CD-AC9B-8FACFFB9A843}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_126ToU865_126' to "C:\Windows\TEMP\DCD3.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DCD3.tmp"
+               Summaryinfo Revision Number: {173275E9-C62A-4BCB-9389-574E93336DDA}8.0.50728;{173275E9-C62A-4BCB-9389-574E93336DDA}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_127ToU865_127' to "C:\Windows\TEMP\DD22.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DD22.tmp"
+               Summaryinfo Revision Number: {8ACBD00C-9999-49E5-8E46-95EB392BC81B}8.0.50728;{8ACBD00C-9999-49E5-8E46-95EB392BC81B}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_128ToU865_128' to "C:\Windows\TEMP\DD81.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DD81.tmp"
+               Summaryinfo Revision Number: {00610407-7C6C-486A-BB1D-80CEAC7E076B}8.0.50728;{00610407-7C6C-486A-BB1D-80CEAC7E076B}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_129ToU865_129' to "C:\Windows\TEMP\DDC0.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DDC0.tmp"
+               Summaryinfo Revision Number: {77E5F4F8-65B3-4104-A538-634629FF78FC}8.0.50728;{77E5F4F8-65B3-4104-A538-634629FF78FC}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_130ToU865_130' to "C:\Windows\TEMP\DE0F.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DE0F.tmp"
+               Summaryinfo Revision Number: {205F0407-9325-4DC4-BEAE-0F65C1A45F11}8.0.50728;{205F0407-9325-4DC4-BEAE-0F65C1A45F11}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_131ToU865_131' to "C:\Windows\TEMP\DE6E.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DE6E.tmp"
+               Summaryinfo Revision Number: {57261387-0537-4097-A1F7-B1A46BA3A2E0}8.0.50728;{57261387-0537-4097-A1F7-B1A46BA3A2E0}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_132ToU865_132' to "C:\Windows\TEMP\DEBD.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DEBD.tmp"
+               Summaryinfo Revision Number: {23BF4ECE-5C12-406B-AF67-F6BB7AD75861}8.0.50728;{23BF4ECE-5C12-406B-AF67-F6BB7AD75861}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_133ToU865_133' to "C:\Windows\TEMP\DEFC.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DEFC.tmp"
+               Summaryinfo Revision Number: {2637607E-DC6E-46E7-88D6-BF42D2789FC9}8.0.50728;{2637607E-DC6E-46E7-88D6-BF42D2789FC9}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1031
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_150ToU865_150' to "C:\Windows\TEMP\DF2C.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DF2C.tmp"
+               Summaryinfo Revision Number: {3651D7A6-B9FD-4AEA-A86E-FC89AA89E9CF}8.0.50728;{3651D7A6-B9FD-4AEA-A86E-FC89AA89E9CF}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_155ToU865_155' to "C:\Windows\TEMP\DF7B.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DF7B.tmp"
+               Summaryinfo Revision Number: {8C69C034-E1AD-4FCF-8578-0EB5899C1FA1}8.0.50728;{8C69C034-E1AD-4FCF-8578-0EB5899C1FA1}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_156ToU865_156' to "C:\Windows\TEMP\DFCA.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\DFCA.tmp"
+               Summaryinfo Revision Number: {CE5DF0DF-711B-4FCA-8C32-8E2E4DD8A033}8.0.50728;{CE5DF0DF-711B-4FCA-8C32-8E2E4DD8A033}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_157ToU865_157' to "C:\Windows\TEMP\E028.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E028.tmp"
+               Summaryinfo Revision Number: {7F21201C-4F0F-415F-BD6A-C26D21DE574D}8.0.50728;{7F21201C-4F0F-415F-BD6A-C26D21DE574D}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_159ToU865_159' to "C:\Windows\TEMP\E087.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E087.tmp"
+               Summaryinfo Revision Number: {750D2150-DA4E-4F81-BCED-66A32F18B2EE}8.0.50728;{750D2150-DA4E-4F81-BCED-66A32F18B2EE}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_160ToU865_160' to "C:\Windows\TEMP\E105.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E105.tmp"
+               Summaryinfo Revision Number: {A96609C2-BEF7-49FA-B743-CEE6A4D81435}8.0.50728;{A96609C2-BEF7-49FA-B743-CEE6A4D81435}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_161ToU865_161' to "C:\Windows\TEMP\E28C.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E28C.tmp"
+               Summaryinfo Revision Number: {80610804-8B7A-4753-80AA-ECB5510944C7}8.0.50728;{80610804-8B7A-4753-80AA-ECB5510944C7}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_162ToU865_162' to "C:\Windows\TEMP\E3C5.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E3C5.tmp"
+               Summaryinfo Revision Number: {AC0AD2E5-5540-445E-8A56-CC62CAD4CE78}8.0.50728;{AC0AD2E5-5540-445E-8A56-CC62CAD4CE78}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_163ToU865_163' to "C:\Windows\TEMP\E433.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E433.tmp"
+               Summaryinfo Revision Number: {A05F0804-75E1-4F73-A169-F091D8982E88}8.0.50728;{A05F0804-75E1-4F73-A169-F091D8982E88}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_164ToU865_164' to "C:\Windows\TEMP\E472.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E472.tmp"
+               Summaryinfo Revision Number: {468D6A3C-0220-45E0-8193-EEE205010458}8.0.50728;{468D6A3C-0220-45E0-8193-EEE205010458}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_165ToU865_165' to "C:\Windows\TEMP\E4C1.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E4C1.tmp"
+               Summaryinfo Revision Number: {65C67A85-40C5-4529-BDD4-0AA10F7D9345}8.0.50728;{65C67A85-40C5-4529-BDD4-0AA10F7D9345}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_166ToU865_166' to "C:\Windows\TEMP\E501.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E501.tmp"
+               Summaryinfo Revision Number: {D63CF78E-9840-4F51-85B3-BA4CD9675894}8.0.50728;{D63CF78E-9840-4F51-85B3-BA4CD9675894}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;2052
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_17ToU865_17' to "C:\Windows\TEMP\E56F.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E56F.tmp"
+               Summaryinfo Revision Number: {577AD794-8B34-40B4-9E7A-BE4CFFE396E6}8.0.50728;{577AD794-8B34-40B4-9E7A-BE4CFFE396E6}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_182ToU865_182' to "C:\Windows\TEMP\E5CE.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E5CE.tmp"
+               Summaryinfo Revision Number: {A8CA7136-313E-4DA1-BCC2-A3938A82A1CF}8.0.50728;{A8CA7136-313E-4DA1-BCC2-A3938A82A1CF}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_187ToU865_187' to "C:\Windows\TEMP\E61D.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E61D.tmp"
+               Summaryinfo Revision Number: {AB7A355E-51BB-4107-9CF2-AF9978580BF0}8.0.50728;{AB7A355E-51BB-4107-9CF2-AF9978580BF0}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_188ToU865_188' to "C:\Windows\TEMP\E65C.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E65C.tmp"
+               Summaryinfo Revision Number: {303471AC-4887-4C16-9A80-569C0E8D5F4F}8.0.50728;{303471AC-4887-4C16-9A80-569C0E8D5F4F}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_189ToU865_189' to "C:\Windows\TEMP\E6AB.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E6AB.tmp"
+               Summaryinfo Revision Number: {A0ED4BAB-908D-44C9-AF20-F657A61233CA}8.0.50728;{A0ED4BAB-908D-44C9-AF20-F657A61233CA}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_19ToU865_19' to "C:\Windows\TEMP\E6EA.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E6EA.tmp"
+               Summaryinfo Revision Number: {AB6F4AB9-AC85-4002-9829-B6EEA55AE3A5}8.0.50728;{AB6F4AB9-AC85-4002-9829-B6EEA55AE3A5}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_191ToU865_191' to "C:\Windows\TEMP\E739.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E739.tmp"
+               Summaryinfo Revision Number: {79910063-C0E4-4737-AD6B-F149283E36C4}8.0.50728;{79910063-C0E4-4737-AD6B-F149283E36C4}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_192ToU865_192' to "C:\Windows\TEMP\E75A.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E75A.tmp"
+               Summaryinfo Revision Number: {8815D750-9E39-4139-899C-8E964B8B2730}8.0.50728;{8815D750-9E39-4139-899C-8E964B8B2730}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_193ToU865_193' to "C:\Windows\TEMP\E7A9.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E7A9.tmp"
+               Summaryinfo Revision Number: {C0610404-D7A1-472C-BD96-D003067E3373}8.0.50728;{C0610404-D7A1-472C-BD96-D003067E3373}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_194ToU865_194' to "C:\Windows\TEMP\E807.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E807.tmp"
+               Summaryinfo Revision Number: {D48748FC-D941-4B6C-8125-AED2C39DF0DB}8.0.50728;{D48748FC-D941-4B6C-8125-AED2C39DF0DB}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_195ToU865_195' to "C:\Windows\TEMP\E875.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E875.tmp"
+               Summaryinfo Revision Number: {005F0404-FAC6-472F-A910-A4F55FE19767}8.0.50728;{005F0404-FAC6-472F-A910-A4F55FE19767}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_196ToU865_196' to "C:\Windows\TEMP\E8F3.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E8F3.tmp"
+               Summaryinfo Revision Number: {0E576911-0D5D-4D29-A900-EF8EE836B389}8.0.50728;{0E576911-0D5D-4D29-A900-EF8EE836B389}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_197ToU865_197' to "C:\Windows\TEMP\E9CF.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\E9CF.tmp"
+               Summaryinfo Revision Number: {9EAAB38A-824D-481C-AE67-FC41E86627F7}8.0.50728;{9EAAB38A-824D-481C-AE67-FC41E86627F7}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_198ToU865_198' to "C:\Windows\TEMP\EA3D.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EA3D.tmp"
+               Summaryinfo Revision Number: {DBB419FE-B2D7-484F-8946-53E9453721D3}8.0.50728;{DBB419FE-B2D7-484F-8946-53E9453721D3}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1028
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_214ToU865_214' to "C:\Windows\TEMP\EA9B.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EA9B.tmp"
+               Summaryinfo Revision Number: {ED981081-1869-4B75-9F3B-08F3EF96772B}8.0.50728;{ED981081-1869-4B75-9F3B-08F3EF96772B}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_219ToU865_219' to "C:\Windows\TEMP\EB29.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EB29.tmp"
+               Summaryinfo Revision Number: {730F32F8-F4F7-43FE-8EDC-FF3F38D11C28}8.0.50728;{730F32F8-F4F7-43FE-8EDC-FF3F38D11C28}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_220ToU865_220' to "C:\Windows\TEMP\EB78.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EB78.tmp"
+               Summaryinfo Revision Number: {F69299F3-6816-47C1-9F63-67071E3B20DB}8.0.50728;{F69299F3-6816-47C1-9F63-67071E3B20DB}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_221ToU865_221' to "C:\Windows\TEMP\EBC7.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EBC7.tmp"
+               Summaryinfo Revision Number: {18F7CA0E-74A8-416B-9DBC-2F636848AD63}8.0.50728;{18F7CA0E-74A8-416B-9DBC-2F636848AD63}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_223ToU865_223' to "C:\Windows\TEMP\EC06.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EC06.tmp"
+               Summaryinfo Revision Number: {83E3B704-998E-43E7-9402-AF35F2495CAE}8.0.50728;{83E3B704-998E-43E7-9402-AF35F2495CAE}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_224ToU865_224' to "C:\Windows\TEMP\EC46.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EC46.tmp"
+               Summaryinfo Revision Number: {7E86D124-30EE-4082-B7FB-8E40B4D2333F}8.0.50728;{7E86D124-30EE-4082-B7FB-8E40B4D2333F}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_225ToU865_225' to "C:\Windows\TEMP\EC85.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EC85.tmp"
+               Summaryinfo Revision Number: {E0610410-A9F8-4D31-A5BC-3BAAA86CE4D2}8.0.50728;{E0610410-A9F8-4D31-A5BC-3BAAA86CE4D2}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_226ToU865_226' to "C:\Windows\TEMP\ECC4.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\ECC4.tmp"
+               Summaryinfo Revision Number: {18E1AE2A-9454-40EA-92BB-4F83982EC0C2}8.0.50728;{18E1AE2A-9454-40EA-92BB-4F83982EC0C2}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_227ToU865_227' to "C:\Windows\TEMP\ECF4.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\ECF4.tmp"
+               Summaryinfo Revision Number: {005F0410-0F6F-4EF2-8CD0-2CCD96343F4E}8.0.50728;{005F0410-0F6F-4EF2-8CD0-2CCD96343F4E}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_228ToU865_228' to "C:\Windows\TEMP\ED43.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\ED43.tmp"
+               Summaryinfo Revision Number: {7C4F9223-A657-461B-A255-68A4E922579C}8.0.50728;{7C4F9223-A657-461B-A255-68A4E922579C}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_229ToU865_229' to "C:\Windows\TEMP\ED83.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\ED83.tmp"
+               Summaryinfo Revision Number: {CC4F9AFD-8622-4749-9C73-12304433CD0D}8.0.50728;{CC4F9AFD-8622-4749-9C73-12304433CD0D}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_230ToU865_230' to "C:\Windows\TEMP\EDC2.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EDC2.tmp"
+               Summaryinfo Revision Number: {45CF1FC5-44DF-4DE6-981C-BBB5E6465E5A}8.0.50728;{45CF1FC5-44DF-4DE6-981C-BBB5E6465E5A}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1040
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_24ToU865_24' to "C:\Windows\TEMP\EE11.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EE11.tmp"
+               Summaryinfo Revision Number: {7E7D7935-B0C8-4032-80BA-2CDC9E43C3B8}8.0.50728;{7E7D7935-B0C8-4032-80BA-2CDC9E43C3B8}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_247ToU865_247' to "C:\Windows\TEMP\EE60.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EE60.tmp"
+               Summaryinfo Revision Number: {16566BC6-5611-48FE-9F71-5A14BEB4D469}8.0.50728;{16566BC6-5611-48FE-9F71-5A14BEB4D469}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_252ToU865_252' to "C:\Windows\TEMP\EEBF.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EEBF.tmp"
+               Summaryinfo Revision Number: {7BCFFF6E-CF9C-4248-A4E3-DC5AB13FD2EB}8.0.50728;{7BCFFF6E-CF9C-4248-A4E3-DC5AB13FD2EB}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_253ToU865_253' to "C:\Windows\TEMP\EEFE.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EEFE.tmp"
+               Summaryinfo Revision Number: {970C3A48-C60E-44CA-8FEF-0A6B313F61C3}8.0.50728;{970C3A48-C60E-44CA-8FEF-0A6B313F61C3}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_254ToU865_254' to "C:\Windows\TEMP\EF2E.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EF2E.tmp"
+               Summaryinfo Revision Number: {F6F642D3-3338-4DCC-85A3-678F18ECE812}8.0.50728;{F6F642D3-3338-4DCC-85A3-678F18ECE812}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_256ToU865_256' to "C:\Windows\TEMP\EF5E.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EF5E.tmp"
+               Summaryinfo Revision Number: {62057FB8-BC3F-4878-A438-B640D9892154}8.0.50728;{62057FB8-BC3F-4878-A438-B640D9892154}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_257ToU865_257' to "C:\Windows\TEMP\EF9D.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EF9D.tmp"
+               Summaryinfo Revision Number: {AC983EEB-3A5C-4C96-9FC7-8B1759FB174E}8.0.50728;{AC983EEB-3A5C-4C96-9FC7-8B1759FB174E}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_258ToU865_258' to "C:\Windows\TEMP\EFDC.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\EFDC.tmp"
+               Summaryinfo Revision Number: {F0610412-CA3B-4120-873B-D4EF770F0D64}8.0.50728;{F0610412-CA3B-4120-873B-D4EF770F0D64}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_259ToU865_259' to "C:\Windows\TEMP\F01C.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F01C.tmp"
+               Summaryinfo Revision Number: {2F0916A3-BE1A-4D7F-AE01-857002BBE7AA}8.0.50728;{2F0916A3-BE1A-4D7F-AE01-857002BBE7AA}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_26ToU865_26' to "C:\Windows\TEMP\F05B.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F05B.tmp"
+               Summaryinfo Revision Number: {94160B78-D7C5-4706-8E03-9D8B3763C7DB}8.0.50728;{94160B78-D7C5-4706-8E03-9D8B3763C7DB}8.0.50728;{B9891158-4961-4A12-8D4B-8E96B83C705F}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_260ToU865_260' to "C:\Windows\TEMP\F0D9.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F0D9.tmp"
+               Summaryinfo Revision Number: {005F0412-7771-462B-9F29-1D3D5A587E61}8.0.50728;{005F0412-7771-462B-9F29-1D3D5A587E61}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_261ToU865_261' to "C:\Windows\TEMP\F157.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F157.tmp"
+               Summaryinfo Revision Number: {C4B1A450-7CB9-4F3C-853C-B1C9A7222F9E}8.0.50728;{C4B1A450-7CB9-4F3C-853C-B1C9A7222F9E}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_262ToU865_262' to "C:\Windows\TEMP\F187.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F187.tmp"
+               Summaryinfo Revision Number: {3AD87667-690E-48C5-B12C-30EF913D6672}8.0.50728;{3AD87667-690E-48C5-B12C-30EF913D6672}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_263ToU865_263' to "C:\Windows\TEMP\F1B6.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F1B6.tmp"
+               Summaryinfo Revision Number: {24F8C49D-429E-4C13-9A01-4A60ECA8783C}8.0.50728;{24F8C49D-429E-4C13-9A01-4A60ECA8783C}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1042
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_27ToU865_27' to "C:\Windows\TEMP\F1F6.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F1F6.tmp"
+               Summaryinfo Revision Number: {221125DC-6A40-4900-B844-591F5E1195B0}8.0.50728;{221125DC-6A40-4900-B844-591F5E1195B0}8.0.50728;{3D987B54-C074-4FE3-9BF0-38F3B2F6B68A}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_279ToU865_279' to "C:\Windows\TEMP\F245.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F245.tmp"
+               Summaryinfo Revision Number: {3321E088-EE0C-4494-9A38-B8F51BBCD75B}8.0.50728;{3321E088-EE0C-4494-9A38-B8F51BBCD75B}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_28ToU865_28' to "C:\Windows\TEMP\F294.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F294.tmp"
+               Summaryinfo Revision Number: {C25EF637-BE7A-4761-9B45-9069989C319F}8.0.50728;{C25EF637-BE7A-4761-9B45-9069989C319F}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_284ToU865_284' to "C:\Windows\TEMP\F2E3.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F2E3.tmp"
+               Summaryinfo Revision Number: {8A4A2B33-638B-471F-9058-D4CEFADC58F2}8.0.50728;{8A4A2B33-638B-471F-9058-D4CEFADC58F2}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_285ToU865_285' to "C:\Windows\TEMP\F332.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F332.tmp"
+               Summaryinfo Revision Number: {3111F1D6-A493-4EFF-B5A4-AE3AAA7F250B}8.0.50728;{3111F1D6-A493-4EFF-B5A4-AE3AAA7F250B}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_286ToU865_286' to "C:\Windows\TEMP\F381.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F381.tmp"
+               Summaryinfo Revision Number: {0A0A848A-61DA-409D-B2CD-1215C1F43F2F}8.0.50728;{0A0A848A-61DA-409D-B2CD-1215C1F43F2F}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_288ToU865_288' to "C:\Windows\TEMP\F3D0.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F3D0.tmp"
+               Summaryinfo Revision Number: {AD8409FD-7080-4048-BA81-90667D739495}8.0.50728;{AD8409FD-7080-4048-BA81-90667D739495}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_289ToU865_289' to "C:\Windows\TEMP\F40F.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F40F.tmp"
+               Summaryinfo Revision Number: {41CACE51-4C71-4C7B-8A3F-6D8A837A26D3}8.0.50728;{41CACE51-4C71-4C7B-8A3F-6D8A837A26D3}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_29ToU865_29' to "C:\Windows\TEMP\F44F.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F44F.tmp"
+               Summaryinfo Revision Number: {437AB8E0-FB69-4222-B280-A64F3DE22591}8.0.50728;{437AB8E0-FB69-4222-B280-A64F3DE22591}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_290ToU865_290' to "C:\Windows\TEMP\F48E.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F48E.tmp"
+               Summaryinfo Revision Number: {40610C0A-B084-41E9-A591-0695B548FF2A}8.0.50728;{40610C0A-B084-41E9-A591-0695B548FF2A}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_291ToU865_291' to "C:\Windows\TEMP\F4DD.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F4DD.tmp"
+               Summaryinfo Revision Number: {40A1428B-07F4-43BF-9317-0EFFFB75818F}8.0.50728;{40A1428B-07F4-43BF-9317-0EFFFB75818F}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_292ToU865_292' to "C:\Windows\TEMP\F50D.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F50D.tmp"
+               Summaryinfo Revision Number: {C05F0C0A-E7B0-4624-959D-B14F6EB27BC0}8.0.50728;{C05F0C0A-E7B0-4624-959D-B14F6EB27BC0}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_293ToU865_293' to "C:\Windows\TEMP\F54C.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F54C.tmp"
+               Summaryinfo Revision Number: {517B0FB0-A249-43FA-AE2F-755200C3D684}8.0.50728;{517B0FB0-A249-43FA-AE2F-755200C3D684}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_294ToU865_294' to "C:\Windows\TEMP\F57C.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F57C.tmp"
+               Summaryinfo Revision Number: {861B934A-5997-483D-B008-E276D827E337}8.0.50728;{861B934A-5997-483D-B008-E276D827E337}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_295ToU865_295' to "C:\Windows\TEMP\F5BB.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F5BB.tmp"
+               Summaryinfo Revision Number: {BE73021B-1B18-48FC-99AC-F2C8552B9D3E}8.0.50728;{BE73021B-1B18-48FC-99AC-F2C8552B9D3E}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;3082
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_30ToU865_30' to "C:\Windows\TEMP\F60A.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F60A.tmp"
+               Summaryinfo Revision Number: {D407F7C0-579E-4CCB-91FD-855CE5084E86}8.0.50728;{D407F7C0-579E-4CCB-91FD-855CE5084E86}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_31ToU865_31' to "C:\Windows\TEMP\F669.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F669.tmp"
+               Summaryinfo Revision Number: {A0900EBB-7780-48ED-B3FB-2965A7584882}8.0.50728;{A0900EBB-7780-48ED-B3FB-2965A7584882}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_32ToU865_32' to "C:\Windows\TEMP\F6A8.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F6A8.tmp"
+               Summaryinfo Revision Number: {1B041548-33BC-4174-8B97-ADC9B7948488}8.0.50728;{1B041548-33BC-4174-8B97-ADC9B7948488}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_33ToU865_33' to "C:\Windows\TEMP\F6F7.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F6F7.tmp"
+               Summaryinfo Revision Number: {84B510E8-9BE0-4A99-9F30-093A60D50E77}8.0.50728;{84B510E8-9BE0-4A99-9F30-093A60D50E77}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_34ToU865_34' to "C:\Windows\TEMP\F756.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F756.tmp"
+               Summaryinfo Revision Number: {1862162E-3BBC-448F-AA63-49F33152D54A}8.0.50728;{1862162E-3BBC-448F-AA63-49F33152D54A}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1033
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_368ToU865_368' to "C:\Windows\TEMP\F7C4.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F7C4.tmp"
+               Summaryinfo Revision Number: {2718BEB4-8D7A-45E1-819A-8ECD23F7A6C7}8.0.50728;{2718BEB4-8D7A-45E1-819A-8ECD23F7A6C7}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1049
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_51ToU865_51' to "C:\Windows\TEMP\F94B.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F94B.tmp"
+               Summaryinfo Revision Number: {5B3CB406-38F5-42BF-B7D1-B0852A89428A}8.0.50728;{5B3CB406-38F5-42BF-B7D1-B0852A89428A}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_56ToU865_56' to "C:\Windows\TEMP\F9E8.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F9E8.tmp"
+               Summaryinfo Revision Number: {B404D863-1CF0-409B-83CA-18F5010E5DAB}8.0.50728;{B404D863-1CF0-409B-83CA-18F5010E5DAB}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_57ToU865_57' to "C:\Windows\TEMP\FA66.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FA66.tmp"
+               Summaryinfo Revision Number: {09225998-4E1B-4F85-9BA2-E2D07FDBD287}8.0.50728;{09225998-4E1B-4F85-9BA2-E2D07FDBD287}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_58ToU865_58' to "C:\Windows\TEMP\FA96.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FA96.tmp"
+               Summaryinfo Revision Number: {5E06F2B6-7E0F-430A-99E3-0A3AE8ACF53E}8.0.50728;{5E06F2B6-7E0F-430A-99E3-0A3AE8ACF53E}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_60ToU865_60' to "C:\Windows\TEMP\FAD5.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FAD5.tmp"
+               Summaryinfo Revision Number: {F32C7089-46AA-49FA-9595-447BCB1946F9}8.0.50728;{F32C7089-46AA-49FA-9595-447BCB1946F9}8.0.50728;{3D987B54-C074-4FE3-9BF0-38F3B2F6B68A}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_61ToU865_61' to "C:\Windows\TEMP\FB15.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FB15.tmp"
+               Summaryinfo Revision Number: {D961EEDF-CB0B-4BDD-B2C8-3D62FC9C9570}8.0.50728;{D961EEDF-CB0B-4BDD-B2C8-3D62FC9C9570}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_62ToU865_62' to "C:\Windows\TEMP\FB54.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FB54.tmp"
+               Summaryinfo Revision Number: {ACC34AB5-6798-4E77-B0B4-8CB26D587D57}8.0.50728;{ACC34AB5-6798-4E77-B0B4-8CB26D587D57}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_63ToU865_63' to "C:\Windows\TEMP\FB84.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FB84.tmp"
+               Summaryinfo Revision Number: {53C799C7-01DB-446F-9399-4DA4159A1D17}8.0.50728;{53C799C7-01DB-446F-9399-4DA4159A1D17}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_64ToU865_64' to "C:\Windows\TEMP\FBC3.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FBC3.tmp"
+               Summaryinfo Revision Number: {DE43BCD7-615A-47EC-BDD0-A04F8C903542}8.0.50728;{DE43BCD7-615A-47EC-BDD0-A04F8C903542}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_65ToU865_65' to "C:\Windows\TEMP\FC31.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FC31.tmp"
+               Summaryinfo Revision Number: {464B27B4-BE14-4195-A08F-46DB01C8B4DF}8.0.50728;{464B27B4-BE14-4195-A08F-46DB01C8B4DF}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_66ToU865_66' to "C:\Windows\TEMP\FC90.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FC90.tmp"
+               Summaryinfo Revision Number: {89230576-6CC3-4FF8-A2FF-403173B8A33F}8.0.50728;{89230576-6CC3-4FF8-A2FF-403173B8A33F}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_67ToU865_67' to "C:\Windows\TEMP\FCFE.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FCFE.tmp"
+               Summaryinfo Revision Number: {2A945E2F-2695-46E6-9322-FB7673EB84B6}8.0.50728;{2A945E2F-2695-46E6-9322-FB7673EB84B6}8.0.50728;{B4160C68-1EA5-458F-B1EA-E69B41E44007}
+               summaryinfo Template: Intel;1041
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_84ToU865_84' to "C:\Windows\TEMP\FD4D.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FD4D.tmp"
+               Summaryinfo Revision Number: {BF434C0B-3184-4912-B710-D27E36E147FA}8.0.50728;{BF434C0B-3184-4912-B710-D27E36E147FA}8.0.50728;{BE7CAC1C-1591-4D10-AAAA-89531DC0A82B}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_89ToU865_89' to "C:\Windows\TEMP\FDBB.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FDBB.tmp"
+               Summaryinfo Revision Number: {24B3EFAE-D2C4-438C-BBF5-49B970A771B6}8.0.50728;{24B3EFAE-D2C4-438C-BBF5-49B970A771B6}8.0.50728;{C23BD4DC-3F58-42D3-A717-15E5E8DA954C}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_90ToU865_90' to "C:\Windows\TEMP\FE1A.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FE1A.tmp"
+               Summaryinfo Revision Number: {D9FC1645-9D32-4F08-84FA-CB9DDDF02EC8}8.0.50728;{D9FC1645-9D32-4F08-84FA-CB9DDDF02EC8}8.0.50728;{1DCA4101-634B-47E3-A526-2528C1F466CE}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_91ToU865_91' to "C:\Windows\TEMP\FE59.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FE59.tmp"
+               Summaryinfo Revision Number: {B871F571-603C-498E-BC9C-C6D4768DF632}8.0.50728;{B871F571-603C-498E-BC9C-C6D4768DF632}8.0.50728;{6C5E7933-2B20-4587-B9BA-BFBE18CEB455}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_93ToU865_93' to "C:\Windows\TEMP\FEC8.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FEC8.tmp"
+               Summaryinfo Revision Number: {C9301CC8-66FD-4040-9C9B-B850E8DFA70A}8.0.50728;{C9301CC8-66FD-4040-9C9B-B850E8DFA70A}8.0.50728;{C3082952-2067-47C9-B7E4-DCC5B64FB8B3}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_94ToU865_94' to "C:\Windows\TEMP\FF17.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FF17.tmp"
+               Summaryinfo Revision Number: {950EBED3-8E80-4461-AD3A-B519006F7C37}8.0.50728;{950EBED3-8E80-4461-AD3A-B519006F7C37}8.0.50728;{EC50BEF9-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_95ToU865_95' to "C:\Windows\TEMP\FF66.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FF66.tmp"
+               Summaryinfo Revision Number: {D061040C-EAF9-4F1B-B0CA-060A31115151}8.0.50728;{D061040C-EAF9-4F1B-B0CA-060A31115151}8.0.50728;{EC50BF0A-3064-11D5-A54A-0090278A1BB8}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_96ToU865_96' to "C:\Windows\TEMP\FFA5.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FFA5.tmp"
+               Summaryinfo Revision Number: {BED93095-B017-4B83-9620-6EE00335AAF3}8.0.50728;{BED93095-B017-4B83-9620-6EE00335AAF3}8.0.50728;{03585982-D623-4824-B0B7-2A428571FA01}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_97ToU865_97' to "C:\Windows\TEMP\FFF4.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\FFF4.tmp"
+               Summaryinfo Revision Number: {505F040C-97F6-4BAE-BBDB-A0CAF4FE72D0}8.0.50728;{505F040C-97F6-4BAE-BBDB-A0CAF4FE72D0}8.0.50728;{35A0742A-0089-46E6-A442-A07B96BB8732}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_98ToU865_98' to "C:\Windows\TEMP\91.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\91.tmp"
+               Summaryinfo Revision Number: {B22D6FA6-F89C-48F7-8A8D-CEAB4C803801}8.0.50728;{B22D6FA6-F89C-48F7-8A8D-CEAB4C803801}8.0.50728;{642555CB-D408-4B1E-AAEF-103CBFDCCBE1}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+            + Creating temporary file
+            - Creating temporary file
+            + Transform extraction...
+               Extracting transform 'T369_99ToU865_99' to "C:\Windows\TEMP\F0.tmp"
+            - Transform extraction...
+            + Initializing product from transform
+               + Loading summary info from file
+               - Loading summary info from file
+               SummaryInfo loaded from transform "C:\Windows\TEMP\F0.tmp"
+               Summaryinfo Revision Number: {44FF800C-3A33-42D9-B0CC-09DA70C3C12C}8.0.50728;{44FF800C-3A33-42D9-B0CC-09DA70C3C12C}8.0.50728;{3F2FC674-F6B0-41E1-B57F-F2FA39222A1F}
+               summaryinfo Template: Intel;1036
+            - Initializing product from transform
+         - Initializing patch object from patch package
+         + Installing patch
+            Product: (null)
+            validating products...
+            + Validate product version
+               VersionString: 8.0.50728
+               Version was valid
+            - Validate product version
+            + Validate product language
+               Language: 1033
+               Language was valid
+            - Validate product language
+            + Validate product upgrade code
+               retrieving package local package path
+               Local package found at "C:\Windows\Installer\2f949f.msi"
+            - Validate product upgrade code
+            Product {437AB8E0-FB69-4222-B280-A64F3DE22591} enabled and valid
+            + Updating MSI log file name
+               Name set to: "C:\Windows\TEMP\VS80sp1-KB2251481-v3-X86-INTL\VS80sp1-KB2251481-v3-X86-INTL-msi.0.log"
+               + AddFileToKeep Logging
+               - AddFileToKeep Logging
+            - Updating MSI log file name
+            + Core patch application
+               Target Product: {437AB8E0-FB69-4222-B280-A64F3DE22591}
+               Command line: "C:\Windows\system32\msiexec.exe" REBOOT=ReallySuppress  /i {437AB8E0-FB69-4222-B280-A64F3DE22591} PATCH="C:\Windows\TEMP\ZNWD232\VS80sp1-KB2251481-v3-X86-INTL.msp" /q /l*v "C:\Windows\TEMP\VS80sp1-KB2251481-v3-X86-INTL\VS80sp1-KB2251481-v3-X86-INTL-msi.0.log"
+               + Launching process
+                  Command line: "C:\Windows\system32\msiexec.exe" REBOOT=ReallySuppress  /i {437AB8E0-FB69-4222-B280-A64F3DE22591} PATCH="C:\Windows\TEMP\ZNWD232\VS80sp1-KB2251481-v3-X86-INTL.msp" /q /l*v "C:\Windows\TEMP\VS80sp1-KB2251481-v3-X86-INTL\VS80sp1-KB2251481-v3-X86-INTL-msi.0.log"
+               - Launching process
+               Command returned: 0
+            - Core patch application
+         - Installing patch
+      - Prepare to apply the patch to all products
+   - Executing Action
+   + Releasing patch object
+      + Releasing products
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+         + Releasing product
+         - Releasing product
+      - Releasing products
+   - Releasing patch object
+- Launching the patch wrapper
++ Clean folder
+   + Removing folder
+      Folder: C:\Windows\TEMP\ZNWD232
+   - Removing folder
+- Clean folder
+Wrapper temporary folder has been removed

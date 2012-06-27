@@ -1,0 +1,3045 @@
+
+[1700] 02:22:01: Service received control request 5
+[1728] 02:22:01: sending out final updates.
+[1728] 02:22:01: update thread stopping.
+[1720] 02:22:01: service received stop request, shutting down
+[1720] 02:22:01: deleting RIP routes from system table.
+[1720] 02:22:01: Main thread stopping.
+[1772] 07:41:47: IPRIP is starting up...
+[1772] 07:41:47: LoggingLevel == 1
+[1772] 07:41:47: RouteTimeout == 180
+[1772] 07:41:47: GarbageTimeout == 120
+[1772] 07:41:47: UpdateFrequency == 30
+[1772] 07:41:47: AcceptHostRoutes == 0
+[1772] 07:41:47: AnnounceHostRoutes == 0
+[1772] 07:41:47: AcceptDefaultRoutes == 0
+[1772] 07:41:47: AnnounceDefaultRoutes == 0
+[1772] 07:41:47: EnableSplitHorizon == 1
+[1772] 07:41:47: EnablePoisonedReverse == 1
+[1772] 07:41:47: EnableTriggeredUpdates == 1
+[1772] 07:41:47: OverwriteStaticRoutes == 0
+[1772] 07:41:47: MaxTriggeredUpdateFrequency == 5
+[1772] 07:41:47: IPRIP is configured to be silent.
+[1772] 07:41:48: service detected IP address change, reconfiguring
+[1772] 07:41:48: no IP addresses available for routing
+[1772] 07:41:48: service detected IP address change, reconfiguring
+[1772] 07:41:49: service detected IP address change, reconfiguring
+[1772] 07:41:51: service detected IP address change, reconfiguring
+[1772] 07:41:51: service detected IP address change, reconfiguring
+[1772] 08:02:21: service detected IP address change, reconfiguring
+[1760] 09:46:56: Service received control request 5
+[1788] 09:46:56: sending out final updates.
+[1788] 09:46:56: update thread stopping.
+[1772] 09:46:56: service received stop request, shutting down
+[1772] 09:46:56: deleting RIP routes from system table.
+[1772] 09:46:56: Main thread stopping.
+[1820] 11:37:41: IPRIP is starting up...
+[1820] 11:37:41: LoggingLevel == 1
+[1820] 11:37:41: RouteTimeout == 180
+[1820] 11:37:41: GarbageTimeout == 120
+[1820] 11:37:41: UpdateFrequency == 30
+[1820] 11:37:41: AcceptHostRoutes == 0
+[1820] 11:37:41: AnnounceHostRoutes == 0
+[1820] 11:37:41: AcceptDefaultRoutes == 0
+[1820] 11:37:41: AnnounceDefaultRoutes == 0
+[1820] 11:37:41: EnableSplitHorizon == 1
+[1820] 11:37:41: EnablePoisonedReverse == 1
+[1820] 11:37:41: EnableTriggeredUpdates == 1
+[1820] 11:37:41: OverwriteStaticRoutes == 0
+[1820] 11:37:41: MaxTriggeredUpdateFrequency == 5
+[1820] 11:37:41: IPRIP is configured to be silent.
+[1820] 11:37:41: service detected IP address change, reconfiguring
+[1820] 11:37:41: no IP addresses available for routing
+[1820] 11:37:41: service detected IP address change, reconfiguring
+[1820] 11:37:44: service detected IP address change, reconfiguring
+[1820] 11:37:46: service detected IP address change, reconfiguring
+[1808] 12:54:17: Service received control request 5
+[1820] 12:54:17: service received stop request, shutting down
+[1852] 12:54:17: sending out final updates.
+[1852] 12:54:17: update thread stopping.
+[1820] 12:54:17: deleting RIP routes from system table.
+[1820] 12:54:17: Main thread stopping.
+[1900] 23:19:05: IPRIP is starting up...
+[1900] 23:19:05: LoggingLevel == 1
+[1900] 23:19:05: RouteTimeout == 180
+[1900] 23:19:05: GarbageTimeout == 120
+[1900] 23:19:05: UpdateFrequency == 30
+[1900] 23:19:05: AcceptHostRoutes == 0
+[1900] 23:19:05: AnnounceHostRoutes == 0
+[1900] 23:19:05: AcceptDefaultRoutes == 0
+[1900] 23:19:05: AnnounceDefaultRoutes == 0
+[1900] 23:19:05: EnableSplitHorizon == 1
+[1900] 23:19:05: EnablePoisonedReverse == 1
+[1900] 23:19:05: EnableTriggeredUpdates == 1
+[1900] 23:19:05: OverwriteStaticRoutes == 0
+[1900] 23:19:05: MaxTriggeredUpdateFrequency == 5
+[1900] 23:19:05: IPRIP is configured to be silent.
+[1900] 23:19:07: service detected IP address change, reconfiguring
+[1900] 23:19:07: no IP addresses available for routing
+[1900] 23:19:07: service detected IP address change, reconfiguring
+[1900] 23:19:11: service detected IP address change, reconfiguring
+[1900] 23:19:42: service detected IP address change, reconfiguring
+[1900] 23:53:34: service detected IP address change, reconfiguring
+[1900] 23:53:34: no IP addresses available for routing
+[1900] 05:53:36: service detected IP address change, reconfiguring
+[1900] 05:53:36: no IP addresses available for routing
+[1900] 05:53:45: service detected IP address change, reconfiguring
+[1900] 05:53:45: no IP addresses available for routing
+[1900] 05:53:48: service detected IP address change, reconfiguring
+[1900] 05:53:48: service detected IP address change, reconfiguring
+[1900] 05:53:51: service detected IP address change, reconfiguring
+[1900] 05:54:22: service detected IP address change, reconfiguring
+[1900] 05:54:22: no IP addresses available for routing
+[1900] 20:16:48: service detected IP address change, reconfiguring
+[1900] 20:16:48: no IP addresses available for routing
+[1888] 20:16:55: Service received control request 5
+[1900] 20:16:55: service received stop request, shutting down
+[1912] 20:16:55: sending out final updates.
+[1912] 20:16:55: update thread stopping.
+[1900] 20:16:55: deleting RIP routes from system table.
+[1900] 20:16:55: Main thread stopping.
+[1872] 20:19:08: IPRIP is starting up...
+[1872] 20:19:08: LoggingLevel == 1
+[1872] 20:19:08: RouteTimeout == 180
+[1872] 20:19:08: GarbageTimeout == 120
+[1872] 20:19:08: UpdateFrequency == 30
+[1872] 20:19:08: AcceptHostRoutes == 0
+[1872] 20:19:08: AnnounceHostRoutes == 0
+[1872] 20:19:08: AcceptDefaultRoutes == 0
+[1872] 20:19:08: AnnounceDefaultRoutes == 0
+[1872] 20:19:08: EnableSplitHorizon == 1
+[1872] 20:19:08: EnablePoisonedReverse == 1
+[1872] 20:19:08: EnableTriggeredUpdates == 1
+[1872] 20:19:08: OverwriteStaticRoutes == 0
+[1872] 20:19:08: MaxTriggeredUpdateFrequency == 5
+[1872] 20:19:08: IPRIP is configured to be silent.
+[1872] 20:19:11: service detected IP address change, reconfiguring
+[1872] 20:19:11: no IP addresses available for routing
+[1872] 20:19:11: service detected IP address change, reconfiguring
+[1872] 20:19:13: service detected IP address change, reconfiguring
+[1872] 20:19:14: service detected IP address change, reconfiguring
+[1860] 20:41:27: Service received control request 5
+[1884] 20:41:27: sending out final updates.
+[1884] 20:41:27: update thread stopping.
+[1872] 20:41:27: service received stop request, shutting down
+[1872] 20:41:27: deleting RIP routes from system table.
+[1872] 20:41:27: Main thread stopping.
+[1880] 20:42:46: IPRIP is starting up...
+[1880] 20:42:46: LoggingLevel == 1
+[1880] 20:42:46: RouteTimeout == 180
+[1880] 20:42:46: GarbageTimeout == 120
+[1880] 20:42:46: UpdateFrequency == 30
+[1880] 20:42:46: AcceptHostRoutes == 0
+[1880] 20:42:46: AnnounceHostRoutes == 0
+[1880] 20:42:46: AcceptDefaultRoutes == 0
+[1880] 20:42:46: AnnounceDefaultRoutes == 0
+[1880] 20:42:46: EnableSplitHorizon == 1
+[1880] 20:42:46: EnablePoisonedReverse == 1
+[1880] 20:42:46: EnableTriggeredUpdates == 1
+[1880] 20:42:46: OverwriteStaticRoutes == 0
+[1880] 20:42:46: MaxTriggeredUpdateFrequency == 5
+[1880] 20:42:46: IPRIP is configured to be silent.
+[1880] 20:42:48: service detected IP address change, reconfiguring
+[1880] 20:42:48: service detected IP address change, reconfiguring
+[1880] 20:42:51: service detected IP address change, reconfiguring
+[1880] 20:42:52: service detected IP address change, reconfiguring
+[1880] 20:46:59: service detected IP address change, reconfiguring
+[1880] 20:50:15: service detected IP address change, reconfiguring
+[1880] 20:50:15: no IP addresses available for routing
+[1880] 20:50:45: service detected IP address change, reconfiguring
+[1880] 20:50:45: no IP addresses available for routing
+[1880] 20:50:50: service detected IP address change, reconfiguring
+[1880] 00:10:53: service detected IP address change, reconfiguring
+[1880] 00:10:53: no IP addresses available for routing
+[1880] 00:10:55: service detected IP address change, reconfiguring
+[1880] 00:10:55: no IP addresses available for routing
+[1928] 14:38:20: IPRIP is starting up...
+[1928] 14:38:20: LoggingLevel == 1
+[1928] 14:38:20: RouteTimeout == 180
+[1928] 14:38:20: GarbageTimeout == 120
+[1928] 14:38:20: UpdateFrequency == 30
+[1928] 14:38:20: AcceptHostRoutes == 0
+[1928] 14:38:20: AnnounceHostRoutes == 0
+[1928] 14:38:20: AcceptDefaultRoutes == 0
+[1928] 14:38:20: AnnounceDefaultRoutes == 0
+[1928] 14:38:20: EnableSplitHorizon == 1
+[1928] 14:38:20: EnablePoisonedReverse == 1
+[1928] 14:38:20: EnableTriggeredUpdates == 1
+[1928] 14:38:20: OverwriteStaticRoutes == 0
+[1928] 14:38:20: MaxTriggeredUpdateFrequency == 5
+[1928] 14:38:20: IPRIP is configured to be silent.
+[1928] 14:38:22: service detected IP address change, reconfiguring
+[1928] 14:38:22: service detected IP address change, reconfiguring
+[1928] 14:38:25: service detected IP address change, reconfiguring
+[1928] 14:38:26: service detected IP address change, reconfiguring
+[1928] 14:44:28: service detected IP address change, reconfiguring
+[1928] 14:44:28: service detected IP address change, reconfiguring
+[1928] 14:44:29: service detected IP address change, reconfiguring
+[1928] 14:44:33: service detected IP address change, reconfiguring
+[1928] 15:44:22: service detected IP address change, reconfiguring
+[1928] 15:44:29: service detected IP address change, reconfiguring
+[1928] 15:46:06: service detected IP address change, reconfiguring
+[1928] 15:46:09: service detected IP address change, reconfiguring
+[1928] 15:48:32: service detected IP address change, reconfiguring
+[1928] 15:48:38: service detected IP address change, reconfiguring
+[1928] 15:50:37: service detected IP address change, reconfiguring
+[1928] 15:50:40: service detected IP address change, reconfiguring
+[1928] 15:52:13: service detected IP address change, reconfiguring
+[1928] 15:52:19: service detected IP address change, reconfiguring
+[1928] 15:53:50: service detected IP address change, reconfiguring
+[1928] 15:53:50: service detected IP address change, reconfiguring
+[1928] 15:53:53: service detected IP address change, reconfiguring
+[1928] 15:54:25: service detected IP address change, reconfiguring
+[1928] 15:54:32: service detected IP address change, reconfiguring
+[1928] 15:56:20: service detected IP address change, reconfiguring
+[1928] 15:56:20: service detected IP address change, reconfiguring
+[1928] 15:56:24: service detected IP address change, reconfiguring
+[1928] 16:35:34: service detected IP address change, reconfiguring
+[1928] 16:35:41: service detected IP address change, reconfiguring
+[1912] 16:40:28: Service received control request 5
+[1928] 16:40:28: service received stop request, shutting down
+[1952] 16:40:28: sending out final updates.
+[1952] 16:40:28: update thread stopping.
+[1928] 16:40:28: deleting RIP routes from system table.
+[1928] 16:40:28: Main thread stopping.
+[1832] 16:54:45: IPRIP is starting up...
+[1832] 16:54:45: LoggingLevel == 1
+[1832] 16:54:45: RouteTimeout == 180
+[1832] 16:54:45: GarbageTimeout == 120
+[1832] 16:54:45: UpdateFrequency == 30
+[1832] 16:54:45: AcceptHostRoutes == 0
+[1832] 16:54:45: AnnounceHostRoutes == 0
+[1832] 16:54:45: AcceptDefaultRoutes == 0
+[1832] 16:54:45: AnnounceDefaultRoutes == 0
+[1832] 16:54:45: EnableSplitHorizon == 1
+[1832] 16:54:45: EnablePoisonedReverse == 1
+[1832] 16:54:45: EnableTriggeredUpdates == 1
+[1832] 16:54:45: OverwriteStaticRoutes == 0
+[1832] 16:54:45: MaxTriggeredUpdateFrequency == 5
+[1832] 16:54:45: IPRIP is configured to be silent.
+[1832] 16:54:49: service detected IP address change, reconfiguring
+[1832] 16:54:49: service detected IP address change, reconfiguring
+[1832] 16:54:50: service detected IP address change, reconfiguring
+[1832] 16:54:52: service detected IP address change, reconfiguring
+[1820] 17:30:24: Service received control request 5
+[1832] 17:30:24: service received stop request, shutting down
+[1844] 17:30:24: sending out final updates.
+[1844] 17:30:24: update thread stopping.
+[1832] 17:30:24: deleting RIP routes from system table.
+[1832] 17:30:24: Main thread stopping.
+[1996] 18:50:36: IPRIP is starting up...
+[1996] 18:50:36: LoggingLevel == 1
+[1996] 18:50:36: RouteTimeout == 180
+[1996] 18:50:36: GarbageTimeout == 120
+[1996] 18:50:36: UpdateFrequency == 30
+[1996] 18:50:36: AcceptHostRoutes == 0
+[1996] 18:50:36: AnnounceHostRoutes == 0
+[1996] 18:50:36: AcceptDefaultRoutes == 0
+[1996] 18:50:36: AnnounceDefaultRoutes == 0
+[1996] 18:50:36: EnableSplitHorizon == 1
+[1996] 18:50:36: EnablePoisonedReverse == 1
+[1996] 18:50:36: EnableTriggeredUpdates == 1
+[1996] 18:50:36: OverwriteStaticRoutes == 0
+[1996] 18:50:36: MaxTriggeredUpdateFrequency == 5
+[1996] 18:50:36: IPRIP is configured to be silent.
+[1996] 18:50:37: service detected IP address change, reconfiguring
+[1996] 18:50:39: service detected IP address change, reconfiguring
+[1996] 18:50:39: service detected IP address change, reconfiguring
+[1996] 18:50:40: service detected IP address change, reconfiguring
+[1996] 21:57:48: service detected IP address change, reconfiguring
+[1996] 21:57:48: no IP addresses available for routing
+[1996] 21:59:03: service detected IP address change, reconfiguring
+[1996] 23:23:03: service detected IP address change, reconfiguring
+[1996] 23:23:09: no IP addresses available for routing
+[1996] 23:23:27: service detected IP address change, reconfiguring
+[1996] 23:23:28: service detected IP address change, reconfiguring
+[1996] 23:23:29: service detected IP address change, reconfiguring
+[1996] 23:23:29: service detected IP address change, reconfiguring
+[1996] 23:23:30: service detected IP address change, reconfiguring
+[1996] 23:23:36: service detected IP address change, reconfiguring
+[1996] 23:23:37: service detected IP address change, reconfiguring
+[1972] 00:19:35: Service received control request 5
+[2044] 00:19:35: sending out final updates.
+[2044] 00:19:35: update thread stopping.
+[1996] 00:19:35: service received stop request, shutting down
+[1996] 00:19:35: deleting RIP routes from system table.
+[1996] 00:19:37: Main thread stopping.
+[560] 16:16:52: IPRIP is starting up...
+[560] 16:16:52: LoggingLevel == 1
+[560] 16:16:52: RouteTimeout == 180
+[560] 16:16:52: GarbageTimeout == 120
+[560] 16:16:52: UpdateFrequency == 30
+[560] 16:16:52: AcceptHostRoutes == 0
+[560] 16:16:52: AnnounceHostRoutes == 0
+[560] 16:16:52: AcceptDefaultRoutes == 0
+[560] 16:16:52: AnnounceDefaultRoutes == 0
+[560] 16:16:52: EnableSplitHorizon == 1
+[560] 16:16:52: EnablePoisonedReverse == 1
+[560] 16:16:52: EnableTriggeredUpdates == 1
+[560] 16:16:52: OverwriteStaticRoutes == 0
+[560] 16:16:52: MaxTriggeredUpdateFrequency == 5
+[560] 16:16:52: IPRIP is configured to be silent.
+[560] 16:16:54: service detected IP address change, reconfiguring
+[560] 16:16:54: no IP addresses available for routing
+[560] 16:16:54: service detected IP address change, reconfiguring
+[560] 16:16:57: service detected IP address change, reconfiguring
+[560] 16:16:58: service detected IP address change, reconfiguring
+[464] 17:19:50: Service received control request 4
+[464] 17:19:52: Service received control request 4
+[560] 17:26:33: service detected IP address change, reconfiguring
+[560] 17:26:34: no IP addresses available for routing
+[560] 18:48:45: service detected IP address change, reconfiguring
+[560] 18:49:56: service detected IP address change, reconfiguring
+[560] 18:49:56: no IP addresses available for routing
+[560] 18:50:30: service detected IP address change, reconfiguring
+[560] 18:50:32: service detected IP address change, reconfiguring
+[560] 18:50:32: no IP addresses available for routing
+[560] 18:50:42: service detected IP address change, reconfiguring
+[464] 21:33:35: Service received control request 5
+[752] 21:33:35: sending out final updates.
+[752] 21:33:35: update thread stopping.
+[560] 21:33:36: service received stop request, shutting down
+[560] 21:33:36: deleting RIP routes from system table.
+[560] 21:33:36: Main thread stopping.
+[588] 21:37:22: IPRIP is starting up...
+[588] 21:37:22: LoggingLevel == 1
+[588] 21:37:22: RouteTimeout == 180
+[588] 21:37:22: GarbageTimeout == 120
+[588] 21:37:22: UpdateFrequency == 30
+[588] 21:37:22: AcceptHostRoutes == 0
+[588] 21:37:22: AnnounceHostRoutes == 0
+[588] 21:37:22: AcceptDefaultRoutes == 0
+[588] 21:37:22: AnnounceDefaultRoutes == 0
+[588] 21:37:22: EnableSplitHorizon == 1
+[588] 21:37:22: EnablePoisonedReverse == 1
+[588] 21:37:22: EnableTriggeredUpdates == 1
+[588] 21:37:22: OverwriteStaticRoutes == 0
+[588] 21:37:22: MaxTriggeredUpdateFrequency == 5
+[588] 21:37:22: IPRIP is configured to be silent.
+[588] 21:37:24: service detected IP address change, reconfiguring
+[588] 21:37:26: service detected IP address change, reconfiguring
+[588] 21:37:26: service detected IP address change, reconfiguring
+[588] 21:37:27: service detected IP address change, reconfiguring
+[588] 21:38:43: service detected IP address change, reconfiguring
+[588] 21:38:43: no IP addresses available for routing
+[588] 21:40:30: service detected IP address change, reconfiguring
+[588] 21:40:30: no IP addresses available for routing
+[588] 21:40:35: service detected IP address change, reconfiguring
+[332] 00:12:51: Service received control request 5
+[524] 00:12:51: sending out final updates.
+[524] 00:12:51: update thread stopping.
+[588] 00:12:51: service received stop request, shutting down
+[588] 00:12:51: deleting RIP routes from system table.
+[588] 00:12:53: Main thread stopping.
+[312] 23:42:21: IPRIP is starting up...
+[312] 23:42:21: LoggingLevel == 1
+[312] 23:42:21: RouteTimeout == 180
+[312] 23:42:21: GarbageTimeout == 120
+[312] 23:42:21: UpdateFrequency == 30
+[312] 23:42:21: AcceptHostRoutes == 0
+[312] 23:42:21: AnnounceHostRoutes == 0
+[312] 23:42:21: AcceptDefaultRoutes == 0
+[312] 23:42:21: AnnounceDefaultRoutes == 0
+[312] 23:42:21: EnableSplitHorizon == 1
+[312] 23:42:21: EnablePoisonedReverse == 1
+[312] 23:42:21: EnableTriggeredUpdates == 1
+[312] 23:42:21: OverwriteStaticRoutes == 0
+[312] 23:42:21: MaxTriggeredUpdateFrequency == 5
+[312] 23:42:21: IPRIP is configured to be silent.
+[312] 23:42:25: service detected IP address change, reconfiguring
+[312] 23:42:26: service detected IP address change, reconfiguring
+[312] 23:42:26: no IP addresses available for routing
+[312] 23:42:26: service detected IP address change, reconfiguring
+[312] 23:42:29: service detected IP address change, reconfiguring
+[296] 01:11:39: Service received control request 5
+[416] 01:11:39: sending out final updates.
+[416] 01:11:39: update thread stopping.
+[312] 01:11:39: service received stop request, shutting down
+[312] 01:11:39: deleting RIP routes from system table.
+[312] 01:11:39: Main thread stopping.
+[496] 10:43:40: IPRIP is starting up...
+[496] 10:43:40: LoggingLevel == 1
+[496] 10:43:40: RouteTimeout == 180
+[496] 10:43:40: GarbageTimeout == 120
+[496] 10:43:40: UpdateFrequency == 30
+[496] 10:43:40: AcceptHostRoutes == 0
+[496] 10:43:40: AnnounceHostRoutes == 0
+[496] 10:43:40: AcceptDefaultRoutes == 0
+[496] 10:43:40: AnnounceDefaultRoutes == 0
+[496] 10:43:40: EnableSplitHorizon == 1
+[496] 10:43:40: EnablePoisonedReverse == 1
+[496] 10:43:40: EnableTriggeredUpdates == 1
+[496] 10:43:40: OverwriteStaticRoutes == 0
+[496] 10:43:40: MaxTriggeredUpdateFrequency == 5
+[496] 10:43:40: IPRIP is configured to be silent.
+[496] 10:43:40: no IP addresses available for routing
+[496] 10:43:44: service detected IP address change, reconfiguring
+[496] 10:43:44: no IP addresses available for routing
+[496] 10:43:45: service detected IP address change, reconfiguring
+[496] 10:43:45: no IP addresses available for routing
+[496] 10:51:53: service detected IP address change, reconfiguring
+[496] 10:51:54: service detected IP address change, reconfiguring
+[496] 10:51:54: no IP addresses available for routing
+[496] 10:51:54: service detected IP address change, reconfiguring
+[496] 10:51:57: service detected IP address change, reconfiguring
+[412] 12:06:43: Service received control request 5
+[828] 12:06:43: sending out final updates.
+[828] 12:06:43: update thread stopping.
+[496] 12:06:43: service received stop request, shutting down
+[496] 12:06:43: deleting RIP routes from system table.
+[496] 12:06:43: Main thread stopping.
+[424] 23:32:00: IPRIP is starting up...
+[424] 23:32:00: LoggingLevel == 1
+[424] 23:32:00: RouteTimeout == 180
+[424] 23:32:00: GarbageTimeout == 120
+[424] 23:32:00: UpdateFrequency == 30
+[424] 23:32:00: AcceptHostRoutes == 0
+[424] 23:32:00: AnnounceHostRoutes == 0
+[424] 23:32:00: AcceptDefaultRoutes == 0
+[424] 23:32:00: AnnounceDefaultRoutes == 0
+[424] 23:32:00: EnableSplitHorizon == 1
+[424] 23:32:00: EnablePoisonedReverse == 1
+[424] 23:32:00: EnableTriggeredUpdates == 1
+[424] 23:32:00: OverwriteStaticRoutes == 0
+[424] 23:32:00: MaxTriggeredUpdateFrequency == 5
+[424] 23:32:00: IPRIP is configured to be silent.
+[424] 23:32:02: service detected IP address change, reconfiguring
+[424] 23:32:04: service detected IP address change, reconfiguring
+[424] 23:32:05: service detected IP address change, reconfiguring
+[424] 23:34:29: service detected IP address change, reconfiguring
+[424] 00:27:58: service detected IP address change, reconfiguring
+[424] 00:27:58: no IP addresses available for routing
+[424] 00:29:39: service detected IP address change, reconfiguring
+[424] 02:10:30: service detected IP address change, reconfiguring
+[412] 04:42:54: Service received control request 5
+[424] 04:42:54: service received stop request, shutting down
+[400] 04:42:54: sending out final updates.
+[400] 04:42:54: update thread stopping.
+[424] 04:42:54: deleting RIP routes from system table.
+[424] 04:42:55: Main thread stopping.
+[292] 23:25:37: IPRIP is starting up...
+[292] 23:25:37: LoggingLevel == 1
+[292] 23:25:37: RouteTimeout == 180
+[292] 23:25:37: GarbageTimeout == 120
+[292] 23:25:37: UpdateFrequency == 30
+[292] 23:25:37: AcceptHostRoutes == 0
+[292] 23:25:37: AnnounceHostRoutes == 0
+[292] 23:25:37: AcceptDefaultRoutes == 0
+[292] 23:25:37: AnnounceDefaultRoutes == 0
+[292] 23:25:37: EnableSplitHorizon == 1
+[292] 23:25:37: EnablePoisonedReverse == 1
+[292] 23:25:37: EnableTriggeredUpdates == 1
+[292] 23:25:37: OverwriteStaticRoutes == 0
+[292] 23:25:37: MaxTriggeredUpdateFrequency == 5
+[292] 23:25:37: IPRIP is configured to be silent.
+[292] 23:25:38: service detected IP address change, reconfiguring
+[292] 23:25:38: no IP addresses available for routing
+[292] 23:25:38: service detected IP address change, reconfiguring
+[292] 23:25:40: service detected IP address change, reconfiguring
+[292] 23:25:41: service detected IP address change, reconfiguring
+[292] 23:25:41: service detected IP address change, reconfiguring
+[448] 03:12:28: Service received control request 5
+[308] 03:12:28: sending out final updates.
+[308] 03:12:28: update thread stopping.
+[292] 03:12:28: service received stop request, shutting down
+[292] 03:12:28: deleting RIP routes from system table.
+[292] 03:12:30: Main thread stopping.
+[424] 09:48:11: IPRIP is starting up...
+[424] 09:48:11: LoggingLevel == 1
+[424] 09:48:11: RouteTimeout == 180
+[424] 09:48:11: GarbageTimeout == 120
+[424] 09:48:11: UpdateFrequency == 30
+[424] 09:48:11: AcceptHostRoutes == 0
+[424] 09:48:11: AnnounceHostRoutes == 0
+[424] 09:48:11: AcceptDefaultRoutes == 0
+[424] 09:48:11: AnnounceDefaultRoutes == 0
+[424] 09:48:11: EnableSplitHorizon == 1
+[424] 09:48:11: EnablePoisonedReverse == 1
+[424] 09:48:11: EnableTriggeredUpdates == 1
+[424] 09:48:11: OverwriteStaticRoutes == 0
+[424] 09:48:11: MaxTriggeredUpdateFrequency == 5
+[424] 09:48:11: IPRIP is configured to be silent.
+[424] 09:48:13: service detected IP address change, reconfiguring
+[424] 09:48:13: no IP addresses available for routing
+[424] 09:48:13: service detected IP address change, reconfiguring
+[424] 09:48:15: service detected IP address change, reconfiguring
+[424] 09:48:16: service detected IP address change, reconfiguring
+[412] 09:52:34: Service received control request 5
+[424] 09:52:34: service received stop request, shutting down
+[576] 09:52:34: sending out final updates.
+[576] 09:52:34: update thread stopping.
+[424] 09:52:34: deleting RIP routes from system table.
+[424] 09:52:34: Main thread stopping.
+[472] 22:11:14: IPRIP is starting up...
+[472] 22:11:14: LoggingLevel == 1
+[472] 22:11:14: RouteTimeout == 180
+[472] 22:11:14: GarbageTimeout == 120
+[472] 22:11:14: UpdateFrequency == 30
+[472] 22:11:14: AcceptHostRoutes == 0
+[472] 22:11:14: AnnounceHostRoutes == 0
+[472] 22:11:14: AcceptDefaultRoutes == 0
+[472] 22:11:14: AnnounceDefaultRoutes == 0
+[472] 22:11:14: EnableSplitHorizon == 1
+[472] 22:11:14: EnablePoisonedReverse == 1
+[472] 22:11:14: EnableTriggeredUpdates == 1
+[472] 22:11:14: OverwriteStaticRoutes == 0
+[472] 22:11:14: MaxTriggeredUpdateFrequency == 5
+[472] 22:11:14: IPRIP is configured to be silent.
+[472] 22:11:16: service detected IP address change, reconfiguring
+[472] 22:11:16: no IP addresses available for routing
+[472] 22:11:16: service detected IP address change, reconfiguring
+[472] 22:11:19: service detected IP address change, reconfiguring
+[472] 22:13:53: service detected IP address change, reconfiguring
+[472] 22:13:53: no IP addresses available for routing
+[472] 22:13:58: service detected IP address change, reconfiguring
+[472] 22:24:28: service detected IP address change, reconfiguring
+[472] 22:24:28: no IP addresses available for routing
+[472] 22:24:32: service detected IP address change, reconfiguring
+[472] 22:47:28: service detected IP address change, reconfiguring
+[472] 22:47:28: no IP addresses available for routing
+[472] 23:34:34: service detected IP address change, reconfiguring
+[472] 00:16:01: service detected IP address change, reconfiguring
+[472] 00:16:07: service detected IP address change, reconfiguring
+[472] 00:16:07: no IP addresses available for routing
+[472] 00:16:17: service detected IP address change, reconfiguring
+[472] 00:16:40: service detected IP address change, reconfiguring
+[472] 00:16:40: no IP addresses available for routing
+[472] 00:16:45: service detected IP address change, reconfiguring
+[472] 00:22:36: service detected IP address change, reconfiguring
+[472] 00:22:37: no IP addresses available for routing
+[472] 00:24:30: service detected IP address change, reconfiguring
+[472] 00:36:04: service detected IP address change, reconfiguring
+[472] 01:06:39: service detected IP address change, reconfiguring
+[472] 01:10:37: service detected IP address change, reconfiguring
+[472] 01:10:53: service detected IP address change, reconfiguring
+[472] 01:10:53: no IP addresses available for routing
+[472] 02:08:48: service detected IP address change, reconfiguring
+[292] 02:19:08: Service received control request 5
+[472] 02:19:08: service received stop request, shutting down
+[660] 02:19:08: sending out final updates.
+[660] 02:19:08: update thread stopping.
+[472] 02:19:08: deleting RIP routes from system table.
+[472] 02:19:08: Main thread stopping.
+[296] 19:43:06: IPRIP is starting up...
+[296] 19:43:06: LoggingLevel == 1
+[296] 19:43:06: RouteTimeout == 180
+[296] 19:43:06: GarbageTimeout == 120
+[296] 19:43:06: UpdateFrequency == 30
+[296] 19:43:06: AcceptHostRoutes == 0
+[296] 19:43:06: AnnounceHostRoutes == 0
+[296] 19:43:06: AcceptDefaultRoutes == 0
+[296] 19:43:06: AnnounceDefaultRoutes == 0
+[296] 19:43:06: EnableSplitHorizon == 1
+[296] 19:43:06: EnablePoisonedReverse == 1
+[296] 19:43:06: EnableTriggeredUpdates == 1
+[296] 19:43:06: OverwriteStaticRoutes == 0
+[296] 19:43:06: MaxTriggeredUpdateFrequency == 5
+[296] 19:43:06: IPRIP is configured to be silent.
+[296] 19:43:06: no IP addresses available for routing
+[296] 19:43:11: service detected IP address change, reconfiguring
+[296] 19:43:11: no IP addresses available for routing
+[296] 19:45:27: service detected IP address change, reconfiguring
+[296] 19:45:31: service detected IP address change, reconfiguring
+[296] 19:45:34: service detected IP address change, reconfiguring
+[240] 19:54:50: Service received control request 5
+[296] 19:54:50: service received stop request, shutting down
+[436] 19:54:50: sending out final updates.
+[436] 19:54:50: update thread stopping.
+[296] 19:54:50: deleting RIP routes from system table.
+[296] 19:54:50: Main thread stopping.
+[408] 17:39:59: IPRIP is starting up...
+[408] 17:39:59: LoggingLevel == 1
+[408] 17:39:59: RouteTimeout == 180
+[408] 17:39:59: GarbageTimeout == 120
+[408] 17:39:59: UpdateFrequency == 30
+[408] 17:39:59: AcceptHostRoutes == 0
+[408] 17:39:59: AnnounceHostRoutes == 0
+[408] 17:39:59: AcceptDefaultRoutes == 0
+[408] 17:39:59: AnnounceDefaultRoutes == 0
+[408] 17:39:59: EnableSplitHorizon == 1
+[408] 17:39:59: EnablePoisonedReverse == 1
+[408] 17:39:59: EnableTriggeredUpdates == 1
+[408] 17:39:59: OverwriteStaticRoutes == 0
+[408] 17:39:59: MaxTriggeredUpdateFrequency == 5
+[408] 17:39:59: IPRIP is configured to be silent.
+[408] 17:40:03: service detected IP address change, reconfiguring
+[408] 17:40:03: service detected IP address change, reconfiguring
+[408] 17:40:04: service detected IP address change, reconfiguring
+[408] 17:40:05: service detected IP address change, reconfiguring
+[408] 17:40:06: service detected IP address change, reconfiguring
+[416] 18:59:45: Service received control request 4
+[416] 18:59:46: Service received control request 4
+[408] 22:37:28: service detected IP address change, reconfiguring
+[408] 22:38:03: service detected IP address change, reconfiguring
+[408] 22:38:03: no IP addresses available for routing
+[408] 22:41:01: service detected IP address change, reconfiguring
+[408] 22:41:06: service detected IP address change, reconfiguring
+[408] 22:41:24: service detected IP address change, reconfiguring
+[416] 22:48:29: Service received control request 5
+[408] 22:48:29: service received stop request, shutting down
+[644] 22:48:29: sending out final updates.
+[644] 22:48:29: update thread stopping.
+[408] 22:48:29: deleting RIP routes from system table.
+[408] 22:48:29: Main thread stopping.
+[300] 23:26:09: IPRIP is starting up...
+[300] 23:26:09: LoggingLevel == 1
+[300] 23:26:09: RouteTimeout == 180
+[300] 23:26:09: GarbageTimeout == 120
+[300] 23:26:09: UpdateFrequency == 30
+[300] 23:26:09: AcceptHostRoutes == 0
+[300] 23:26:09: AnnounceHostRoutes == 0
+[300] 23:26:09: AcceptDefaultRoutes == 0
+[300] 23:26:09: AnnounceDefaultRoutes == 0
+[300] 23:26:09: EnableSplitHorizon == 1
+[300] 23:26:09: EnablePoisonedReverse == 1
+[300] 23:26:09: EnableTriggeredUpdates == 1
+[300] 23:26:09: OverwriteStaticRoutes == 0
+[300] 23:26:09: MaxTriggeredUpdateFrequency == 5
+[300] 23:26:09: IPRIP is configured to be silent.
+[300] 23:26:12: service detected IP address change, reconfiguring
+[300] 23:26:12: no IP addresses available for routing
+[300] 23:26:12: service detected IP address change, reconfiguring
+[300] 23:26:14: service detected IP address change, reconfiguring
+[300] 23:26:15: service detected IP address change, reconfiguring
+[300] 23:26:16: service detected IP address change, reconfiguring
+[424] 00:38:28: Service received control request 5
+[300] 00:38:28: service received stop request, shutting down
+[564] 00:38:28: sending out final updates.
+[564] 00:38:28: update thread stopping.
+[300] 00:38:28: deleting RIP routes from system table.
+[300] 00:38:28: Main thread stopping.
+[408] 13:55:33: IPRIP is starting up...
+[408] 13:55:33: LoggingLevel == 1
+[408] 13:55:33: RouteTimeout == 180
+[408] 13:55:33: GarbageTimeout == 120
+[408] 13:55:33: UpdateFrequency == 30
+[408] 13:55:33: AcceptHostRoutes == 0
+[408] 13:55:33: AnnounceHostRoutes == 0
+[408] 13:55:33: AcceptDefaultRoutes == 0
+[408] 13:55:33: AnnounceDefaultRoutes == 0
+[408] 13:55:33: EnableSplitHorizon == 1
+[408] 13:55:33: EnablePoisonedReverse == 1
+[408] 13:55:33: EnableTriggeredUpdates == 1
+[408] 13:55:33: OverwriteStaticRoutes == 0
+[408] 13:55:33: MaxTriggeredUpdateFrequency == 5
+[408] 13:55:33: IPRIP is configured to be silent.
+[408] 13:55:34: service detected IP address change, reconfiguring
+[408] 13:55:34: no IP addresses available for routing
+[408] 13:55:34: service detected IP address change, reconfiguring
+[408] 13:55:36: service detected IP address change, reconfiguring
+[408] 13:55:37: service detected IP address change, reconfiguring
+[408] 13:55:38: service detected IP address change, reconfiguring
+[408] 14:06:54: service detected IP address change, reconfiguring
+[408] 14:38:45: service detected IP address change, reconfiguring
+[420] 14:52:20: Service received control request 4
+[420] 14:52:21: Service received control request 4
+[420] 18:28:04: Service received control request 5
+[624] 18:28:04: sending out final updates.
+[624] 18:28:04: update thread stopping.
+[408] 18:28:05: service received stop request, shutting down
+[408] 18:28:05: deleting RIP routes from system table.
+[408] 18:28:06: Main thread stopping.
+[588] 18:38:19: IPRIP is starting up...
+[588] 18:38:19: LoggingLevel == 1
+[588] 18:38:19: RouteTimeout == 180
+[588] 18:38:19: GarbageTimeout == 120
+[588] 18:38:19: UpdateFrequency == 30
+[588] 18:38:19: AcceptHostRoutes == 0
+[588] 18:38:19: AnnounceHostRoutes == 0
+[588] 18:38:19: AcceptDefaultRoutes == 0
+[588] 18:38:19: AnnounceDefaultRoutes == 0
+[588] 18:38:19: EnableSplitHorizon == 1
+[588] 18:38:19: EnablePoisonedReverse == 1
+[588] 18:38:19: EnableTriggeredUpdates == 1
+[588] 18:38:19: OverwriteStaticRoutes == 0
+[588] 18:38:19: MaxTriggeredUpdateFrequency == 5
+[588] 18:38:19: IPRIP is configured to be silent.
+[588] 18:38:21: service detected IP address change, reconfiguring
+[588] 18:38:24: service detected IP address change, reconfiguring
+[588] 18:38:30: service detected IP address change, reconfiguring
+[588] 18:38:34: service detected IP address change, reconfiguring
+[588] 19:44:54: service detected IP address change, reconfiguring
+[588] 19:44:54: no IP addresses available for routing
+[588] 19:45:35: service detected IP address change, reconfiguring
+[400] 00:21:22: Service received control request 5
+[644] 00:21:22: sending out final updates.
+[644] 00:21:22: update thread stopping.
+[588] 00:21:23: service received stop request, shutting down
+[588] 00:21:23: deleting RIP routes from system table.
+[588] 00:21:23: Main thread stopping.
+[1668] 18:32:58: IPRIP is starting up...
+[1668] 18:32:58: LoggingLevel == 1
+[1668] 18:32:58: RouteTimeout == 180
+[1668] 18:32:58: GarbageTimeout == 120
+[1668] 18:32:58: UpdateFrequency == 30
+[1668] 18:32:58: AcceptHostRoutes == 0
+[1668] 18:32:58: AnnounceHostRoutes == 0
+[1668] 18:32:58: AcceptDefaultRoutes == 0
+[1668] 18:32:58: AnnounceDefaultRoutes == 0
+[1668] 18:32:58: EnableSplitHorizon == 1
+[1668] 18:32:58: EnablePoisonedReverse == 1
+[1668] 18:32:58: EnableTriggeredUpdates == 1
+[1668] 18:32:58: OverwriteStaticRoutes == 0
+[1668] 18:32:58: MaxTriggeredUpdateFrequency == 5
+[1668] 18:32:58: IPRIP is configured to be silent.
+[1668] 18:32:58: no IP addresses available for routing
+[1668] 18:33:00: service detected IP address change, reconfiguring
+[1668] 18:33:00: no IP addresses available for routing
+[1668] 18:35:52: service detected IP address change, reconfiguring
+[1668] 18:36:02: service detected IP address change, reconfiguring
+[1668] 18:36:02: no IP addresses available for routing
+[1668] 18:36:06: service detected IP address change, reconfiguring
+[1668] 18:37:04: service detected IP address change, reconfiguring
+[1668] 18:37:07: service detected IP address change, reconfiguring
+[1692] 20:11:02: Service received control request 5
+[1696] 20:11:02: sending out final updates.
+[1696] 20:11:02: update thread stopping.
+[1668] 20:11:02: service received stop request, shutting down
+[1668] 20:11:02: deleting RIP routes from system table.
+[1668] 20:11:02: Main thread stopping.
+[496] 16:19:18: IPRIP is starting up...
+[496] 16:19:18: LoggingLevel == 1
+[496] 16:19:18: RouteTimeout == 180
+[496] 16:19:18: GarbageTimeout == 120
+[496] 16:19:18: UpdateFrequency == 30
+[496] 16:19:18: AcceptHostRoutes == 0
+[496] 16:19:18: AnnounceHostRoutes == 0
+[496] 16:19:18: AcceptDefaultRoutes == 0
+[496] 16:19:18: AnnounceDefaultRoutes == 0
+[496] 16:19:18: EnableSplitHorizon == 1
+[496] 16:19:18: EnablePoisonedReverse == 1
+[496] 16:19:18: EnableTriggeredUpdates == 1
+[496] 16:19:18: OverwriteStaticRoutes == 0
+[496] 16:19:18: MaxTriggeredUpdateFrequency == 5
+[496] 16:19:18: IPRIP is configured to be silent.
+[496] 16:19:18: service detected IP address change, reconfiguring
+[496] 16:19:21: service detected IP address change, reconfiguring
+[496] 16:19:22: service detected IP address change, reconfiguring
+[496] 16:19:23: service detected IP address change, reconfiguring
+[496] 16:19:23: service detected IP address change, reconfiguring
+[496] 17:37:23: service detected IP address change, reconfiguring
+[496] 18:22:27: service detected IP address change, reconfiguring
+[496] 18:22:27: no IP addresses available for routing
+[548] 18:23:23: Service received control request 5
+[1140] 18:23:23: sending out final updates.
+[1140] 18:23:23: update thread stopping.
+[496] 18:23:23: service received stop request, shutting down
+[496] 18:23:23: deleting RIP routes from system table.
+[496] 18:23:23: Main thread stopping.
+[336] 18:47:29: IPRIP is starting up...
+[336] 18:47:29: LoggingLevel == 1
+[336] 18:47:29: RouteTimeout == 180
+[336] 18:47:29: GarbageTimeout == 120
+[336] 18:47:29: UpdateFrequency == 30
+[336] 18:47:29: AcceptHostRoutes == 0
+[336] 18:47:29: AnnounceHostRoutes == 0
+[336] 18:47:29: AcceptDefaultRoutes == 0
+[336] 18:47:29: AnnounceDefaultRoutes == 0
+[336] 18:47:29: EnableSplitHorizon == 1
+[336] 18:47:29: EnablePoisonedReverse == 1
+[336] 18:47:29: EnableTriggeredUpdates == 1
+[336] 18:47:29: OverwriteStaticRoutes == 0
+[336] 18:47:29: MaxTriggeredUpdateFrequency == 5
+[336] 18:47:29: IPRIP is configured to be silent.
+[336] 18:47:31: service detected IP address change, reconfiguring
+[336] 18:47:34: service detected IP address change, reconfiguring
+[336] 19:22:18: service detected IP address change, reconfiguring
+[336] 19:22:18: no IP addresses available for routing
+[420] 19:23:01: Service received control request 5
+[336] 19:23:01: service received stop request, shutting down
+[516] 19:23:01: sending out final updates.
+[516] 19:23:01: update thread stopping.
+[336] 19:23:01: deleting RIP routes from system table.
+[336] 19:23:01: Main thread stopping.
+[332] 19:33:29: IPRIP is starting up...
+[332] 19:33:29: LoggingLevel == 1
+[332] 19:33:29: RouteTimeout == 180
+[332] 19:33:29: GarbageTimeout == 120
+[332] 19:33:29: UpdateFrequency == 30
+[332] 19:33:29: AcceptHostRoutes == 0
+[332] 19:33:29: AnnounceHostRoutes == 0
+[332] 19:33:29: AcceptDefaultRoutes == 0
+[332] 19:33:29: AnnounceDefaultRoutes == 0
+[332] 19:33:29: EnableSplitHorizon == 1
+[332] 19:33:29: EnablePoisonedReverse == 1
+[332] 19:33:29: EnableTriggeredUpdates == 1
+[332] 19:33:29: OverwriteStaticRoutes == 0
+[332] 19:33:29: MaxTriggeredUpdateFrequency == 5
+[332] 19:33:29: IPRIP is configured to be silent.
+[332] 19:33:29: service detected IP address change, reconfiguring
+[332] 19:33:32: service detected IP address change, reconfiguring
+[332] 19:33:33: service detected IP address change, reconfiguring
+[332] 19:42:03: service detected IP address change, reconfiguring
+[332] 19:42:03: no IP addresses available for routing
+[332] 20:44:13: service detected IP address change, reconfiguring
+[420] 22:41:08: Service received control request 5
+[520] 22:41:09: sending out final updates.
+[520] 22:41:09: update thread stopping.
+[332] 22:41:09: service received stop request, shutting down
+[332] 22:41:09: deleting RIP routes from system table.
+[332] 22:41:09: Main thread stopping.
+[444] 11:05:10: IPRIP is starting up...
+[444] 11:05:10: LoggingLevel == 1
+[444] 11:05:10: RouteTimeout == 180
+[444] 11:05:10: GarbageTimeout == 120
+[444] 11:05:10: UpdateFrequency == 30
+[444] 11:05:10: AcceptHostRoutes == 0
+[444] 11:05:10: AnnounceHostRoutes == 0
+[444] 11:05:10: AcceptDefaultRoutes == 0
+[444] 11:05:10: AnnounceDefaultRoutes == 0
+[444] 11:05:10: EnableSplitHorizon == 1
+[444] 11:05:10: EnablePoisonedReverse == 1
+[444] 11:05:10: EnableTriggeredUpdates == 1
+[444] 11:05:10: OverwriteStaticRoutes == 0
+[444] 11:05:10: MaxTriggeredUpdateFrequency == 5
+[444] 11:05:10: IPRIP is configured to be silent.
+[444] 11:05:11: service detected IP address change, reconfiguring
+[444] 11:05:14: service detected IP address change, reconfiguring
+[444] 11:05:14: service detected IP address change, reconfiguring
+[444] 11:59:39: service detected IP address change, reconfiguring
+[444] 11:59:39: no IP addresses available for routing
+[444] 11:59:44: service detected IP address change, reconfiguring
+[444] 12:00:39: service detected IP address change, reconfiguring
+[444] 12:00:39: no IP addresses available for routing
+[444] 12:00:44: service detected IP address change, reconfiguring
+[444] 12:25:35: service detected IP address change, reconfiguring
+[444] 12:25:35: no IP addresses available for routing
+[444] 12:25:40: service detected IP address change, reconfiguring
+[444] 12:25:48: service detected IP address change, reconfiguring
+[444] 12:25:48: no IP addresses available for routing
+[444] 12:25:53: service detected IP address change, reconfiguring
+[444] 12:25:53: no IP addresses available for routing
+[444] 12:25:58: service detected IP address change, reconfiguring
+[424] 14:10:24: Service received control request 5
+[444] 14:10:24: service received stop request, shutting down
+[408] 14:10:24: sending out final updates.
+[408] 14:10:24: update thread stopping.
+[444] 14:10:24: deleting RIP routes from system table.
+[444] 14:10:24: Main thread stopping.
+[1608] 21:39:06: IPRIP is starting up...
+[1608] 21:39:06: LoggingLevel == 1
+[1608] 21:39:06: RouteTimeout == 180
+[1608] 21:39:06: GarbageTimeout == 120
+[1608] 21:39:06: UpdateFrequency == 30
+[1608] 21:39:06: AcceptHostRoutes == 0
+[1608] 21:39:06: AnnounceHostRoutes == 0
+[1608] 21:39:06: AcceptDefaultRoutes == 0
+[1608] 21:39:06: AnnounceDefaultRoutes == 0
+[1608] 21:39:06: EnableSplitHorizon == 1
+[1608] 21:39:06: EnablePoisonedReverse == 1
+[1608] 21:39:06: EnableTriggeredUpdates == 1
+[1608] 21:39:06: OverwriteStaticRoutes == 0
+[1608] 21:39:06: MaxTriggeredUpdateFrequency == 5
+[1608] 21:39:06: IPRIP is configured to be silent.
+[1608] 21:39:07: service detected IP address change, reconfiguring
+[1608] 21:39:08: service detected IP address change, reconfiguring
+[1608] 22:05:47: service detected IP address change, reconfiguring
+[1608] 22:05:47: no IP addresses available for routing
+[1608] 22:05:52: service detected IP address change, reconfiguring
+[1520] 23:31:14: Service received control request 5
+[1660] 23:31:14: sending out final updates.
+[1660] 23:31:14: update thread stopping.
+[1608] 23:31:18: service received stop request, shutting down
+[1608] 23:31:18: deleting RIP routes from system table.
+[1608] 23:31:18: Main thread stopping.
+[416] 09:57:09: IPRIP is starting up...
+[416] 09:57:09: LoggingLevel == 1
+[416] 09:57:09: RouteTimeout == 180
+[416] 09:57:09: GarbageTimeout == 120
+[416] 09:57:09: UpdateFrequency == 30
+[416] 09:57:09: AcceptHostRoutes == 0
+[416] 09:57:09: AnnounceHostRoutes == 0
+[416] 09:57:09: AcceptDefaultRoutes == 0
+[416] 09:57:09: AnnounceDefaultRoutes == 0
+[416] 09:57:09: EnableSplitHorizon == 1
+[416] 09:57:09: EnablePoisonedReverse == 1
+[416] 09:57:09: EnableTriggeredUpdates == 1
+[416] 09:57:09: OverwriteStaticRoutes == 0
+[416] 09:57:09: MaxTriggeredUpdateFrequency == 5
+[416] 09:57:09: IPRIP is configured to be silent.
+[416] 09:57:11: service detected IP address change, reconfiguring
+[416] 09:57:13: service detected IP address change, reconfiguring
+[416] 09:57:14: service detected IP address change, reconfiguring
+[356] 10:44:03: Service received control request 5
+[416] 10:44:03: service received stop request, shutting down
+[492] 10:44:03: sending out final updates.
+[492] 10:44:03: update thread stopping.
+[416] 10:44:03: deleting RIP routes from system table.
+[416] 10:44:03: Main thread stopping.
+[388] 20:31:49: IPRIP is starting up...
+[388] 20:31:49: LoggingLevel == 1
+[388] 20:31:49: RouteTimeout == 180
+[388] 20:31:49: GarbageTimeout == 120
+[388] 20:31:49: UpdateFrequency == 30
+[388] 20:31:49: AcceptHostRoutes == 0
+[388] 20:31:49: AnnounceHostRoutes == 0
+[388] 20:31:49: AcceptDefaultRoutes == 0
+[388] 20:31:49: AnnounceDefaultRoutes == 0
+[388] 20:31:49: EnableSplitHorizon == 1
+[388] 20:31:49: EnablePoisonedReverse == 1
+[388] 20:31:49: EnableTriggeredUpdates == 1
+[388] 20:31:49: OverwriteStaticRoutes == 0
+[388] 20:31:49: MaxTriggeredUpdateFrequency == 5
+[388] 20:31:49: IPRIP is configured to be silent.
+[388] 20:31:52: service detected IP address change, reconfiguring
+[388] 20:31:53: service detected IP address change, reconfiguring
+[388] 20:32:00: service detected IP address change, reconfiguring
+[388] 20:32:00: no IP addresses available for routing
+[388] 20:32:00: service detected IP address change, reconfiguring
+[388] 20:32:03: service detected IP address change, reconfiguring
+[424] 01:42:48: Service received control request 5
+[400] 01:42:48: sending out final updates.
+[400] 01:42:48: update thread stopping.
+[388] 01:42:48: service received stop request, shutting down
+[388] 01:42:48: deleting RIP routes from system table.
+[388] 01:42:48: Main thread stopping.
+[308] 22:20:42: IPRIP is starting up...
+[308] 22:20:42: LoggingLevel == 1
+[308] 22:20:42: RouteTimeout == 180
+[308] 22:20:42: GarbageTimeout == 120
+[308] 22:20:42: UpdateFrequency == 30
+[308] 22:20:42: AcceptHostRoutes == 0
+[308] 22:20:42: AnnounceHostRoutes == 0
+[308] 22:20:42: AcceptDefaultRoutes == 0
+[308] 22:20:42: AnnounceDefaultRoutes == 0
+[308] 22:20:42: EnableSplitHorizon == 1
+[308] 22:20:42: EnablePoisonedReverse == 1
+[308] 22:20:42: EnableTriggeredUpdates == 1
+[308] 22:20:42: OverwriteStaticRoutes == 0
+[308] 22:20:42: MaxTriggeredUpdateFrequency == 5
+[308] 22:20:42: IPRIP is configured to be silent.
+[308] 22:20:46: service detected IP address change, reconfiguring
+[308] 22:20:46: no IP addresses available for routing
+[308] 22:20:46: service detected IP address change, reconfiguring
+[308] 22:20:47: service detected IP address change, reconfiguring
+[308] 22:20:48: service detected IP address change, reconfiguring
+[308] 22:20:50: service detected IP address change, reconfiguring
+[308] 00:02:02: service detected IP address change, reconfiguring
+[308] 00:02:02: no IP addresses available for routing
+[308] 00:49:38: service detected IP address change, reconfiguring
+[308] 00:53:59: service detected IP address change, reconfiguring
+[308] 00:53:59: no IP addresses available for routing
+[308] 00:54:04: service detected IP address change, reconfiguring
+[488] 02:24:32: Service received control request 5
+[1024] 02:24:32: sending out final updates.
+[1024] 02:24:32: update thread stopping.
+[308] 02:24:32: service received stop request, shutting down
+[308] 02:24:32: deleting RIP routes from system table.
+[308] 02:24:32: Main thread stopping.
+[672] 21:49:51: IPRIP is starting up...
+[672] 21:49:51: LoggingLevel == 1
+[672] 21:49:51: RouteTimeout == 180
+[672] 21:49:51: GarbageTimeout == 120
+[672] 21:49:51: UpdateFrequency == 30
+[672] 21:49:51: AcceptHostRoutes == 0
+[672] 21:49:51: AnnounceHostRoutes == 0
+[672] 21:49:51: AcceptDefaultRoutes == 0
+[672] 21:49:51: AnnounceDefaultRoutes == 0
+[672] 21:49:51: EnableSplitHorizon == 1
+[672] 21:49:51: EnablePoisonedReverse == 1
+[672] 21:49:51: EnableTriggeredUpdates == 1
+[672] 21:49:51: OverwriteStaticRoutes == 0
+[672] 21:49:51: MaxTriggeredUpdateFrequency == 5
+[672] 21:49:51: IPRIP is configured to be silent.
+[672] 21:49:55: service detected IP address change, reconfiguring
+[672] 21:49:55: service detected IP address change, reconfiguring
+[672] 21:49:56: service detected IP address change, reconfiguring
+[672] 21:49:58: service detected IP address change, reconfiguring
+[672] 00:57:07: service detected IP address change, reconfiguring
+[672] 00:57:07: no IP addresses available for routing
+[672] 00:57:10: service detected IP address change, reconfiguring
+[672] 00:57:10: no IP addresses available for routing
+[672] 00:57:15: service detected IP address change, reconfiguring
+[672] 00:57:43: service detected IP address change, reconfiguring
+[672] 00:57:43: no IP addresses available for routing
+[672] 00:57:47: service detected IP address change, reconfiguring
+[672] 00:57:56: service detected IP address change, reconfiguring
+[672] 01:39:12: service detected IP address change, reconfiguring
+[672] 04:14:19: service detected IP address change, reconfiguring
+[672] 04:14:20: no IP addresses available for routing
+[612] 04:15:01: Service received control request 5
+[796] 04:15:01: sending out final updates.
+[796] 04:15:01: update thread stopping.
+[672] 04:15:01: service received stop request, shutting down
+[672] 04:15:01: deleting RIP routes from system table.
+[672] 04:15:02: Main thread stopping.
+[400] 22:09:54: IPRIP is starting up...
+[400] 22:09:54: LoggingLevel == 1
+[400] 22:09:54: RouteTimeout == 180
+[400] 22:09:54: GarbageTimeout == 120
+[400] 22:09:54: UpdateFrequency == 30
+[400] 22:09:54: AcceptHostRoutes == 0
+[400] 22:09:54: AnnounceHostRoutes == 0
+[400] 22:09:54: AcceptDefaultRoutes == 0
+[400] 22:09:54: AnnounceDefaultRoutes == 0
+[400] 22:09:54: EnableSplitHorizon == 1
+[400] 22:09:54: EnablePoisonedReverse == 1
+[400] 22:09:54: EnableTriggeredUpdates == 1
+[400] 22:09:54: OverwriteStaticRoutes == 0
+[400] 22:09:54: MaxTriggeredUpdateFrequency == 5
+[400] 22:09:54: IPRIP is configured to be silent.
+[400] 22:09:55: service detected IP address change, reconfiguring
+[400] 22:09:58: service detected IP address change, reconfiguring
+[400] 22:09:59: service detected IP address change, reconfiguring
+[400] 22:52:20: service detected IP address change, reconfiguring
+[400] 22:52:20: no IP addresses available for routing
+[400] 23:55:34: service detected IP address change, reconfiguring
+[400] 00:25:32: service detected IP address change, reconfiguring
+[400] 00:34:31: service detected IP address change, reconfiguring
+[400] 00:34:53: service detected IP address change, reconfiguring
+[400] 00:34:53: service detected IP address change, reconfiguring
+[400] 00:34:53: no IP addresses available for routing
+[400] 00:34:54: service detected IP address change, reconfiguring
+[400] 00:34:57: service detected IP address change, reconfiguring
+[400] 00:34:59: service detected IP address change, reconfiguring
+[476] 00:35:44: Service received control request 5
+[400] 00:35:44: service received stop request, shutting down
+[800] 00:35:44: sending out final updates.
+[800] 00:35:44: update thread stopping.
+[400] 00:35:44: deleting RIP routes from system table.
+[400] 00:35:44: Main thread stopping.
+[2848] 08:45:27: IPRIP is starting up...
+[2848] 08:45:27: LoggingLevel == 1
+[2848] 08:45:27: RouteTimeout == 180
+[2848] 08:45:27: GarbageTimeout == 120
+[2848] 08:45:27: UpdateFrequency == 30
+[2848] 08:45:27: AcceptHostRoutes == 0
+[2848] 08:45:27: AnnounceHostRoutes == 0
+[2848] 08:45:27: AcceptDefaultRoutes == 0
+[2848] 08:45:27: AnnounceDefaultRoutes == 0
+[2848] 08:45:27: EnableSplitHorizon == 1
+[2848] 08:45:27: EnablePoisonedReverse == 1
+[2848] 08:45:27: EnableTriggeredUpdates == 1
+[2848] 08:45:27: OverwriteStaticRoutes == 0
+[2848] 08:45:27: MaxTriggeredUpdateFrequency == 5
+[2848] 08:45:27: IPRIP is configured to be silent.
+[2848] 09:40:00: service detected IP address change, reconfiguring
+[2848] 09:40:00: no IP addresses available for routing
+[2836] 09:40:05: Service received control request 5
+[2900] 09:40:05: sending out final updates.
+[2900] 09:40:05: update thread stopping.
+[2848] 09:40:05: service received stop request, shutting down
+[2848] 09:40:05: deleting RIP routes from system table.
+[2848] 09:40:05: Main thread stopping.
+[572] 13:28:25: IPRIP is starting up...
+[572] 13:28:25: LoggingLevel == 1
+[572] 13:28:25: RouteTimeout == 180
+[572] 13:28:25: GarbageTimeout == 120
+[572] 13:28:25: UpdateFrequency == 30
+[572] 13:28:25: AcceptHostRoutes == 0
+[572] 13:28:25: AnnounceHostRoutes == 0
+[572] 13:28:25: AcceptDefaultRoutes == 0
+[572] 13:28:25: AnnounceDefaultRoutes == 0
+[572] 13:28:25: EnableSplitHorizon == 1
+[572] 13:28:25: EnablePoisonedReverse == 1
+[572] 13:28:25: EnableTriggeredUpdates == 1
+[572] 13:28:25: OverwriteStaticRoutes == 0
+[572] 13:28:25: MaxTriggeredUpdateFrequency == 5
+[572] 13:28:25: IPRIP is configured to be silent.
+[572] 13:28:25: no IP addresses available for routing
+[572] 13:28:27: service detected IP address change, reconfiguring
+[572] 13:28:27: no IP addresses available for routing
+[408] 14:51:17: Service received control request 5
+[572] 14:51:17: service received stop request, shutting down
+[472] 14:51:17: sending out final updates.
+[472] 14:51:17: update thread stopping.
+[572] 14:51:17: deleting RIP routes from system table.
+[572] 14:51:17: Main thread stopping.
+[468] 09:42:17: IPRIP is starting up...
+[468] 09:42:17: LoggingLevel == 1
+[468] 09:42:17: RouteTimeout == 180
+[468] 09:42:17: GarbageTimeout == 120
+[468] 09:42:17: UpdateFrequency == 30
+[468] 09:42:17: AcceptHostRoutes == 0
+[468] 09:42:17: AnnounceHostRoutes == 0
+[468] 09:42:17: AcceptDefaultRoutes == 0
+[468] 09:42:17: AnnounceDefaultRoutes == 0
+[468] 09:42:17: EnableSplitHorizon == 1
+[468] 09:42:17: EnablePoisonedReverse == 1
+[468] 09:42:17: EnableTriggeredUpdates == 1
+[468] 09:42:17: OverwriteStaticRoutes == 0
+[468] 09:42:17: MaxTriggeredUpdateFrequency == 5
+[468] 09:42:17: IPRIP is configured to be silent.
+[468] 09:42:17: no IP addresses available for routing
+[468] 09:42:20: service detected IP address change, reconfiguring
+[468] 09:42:20: no IP addresses available for routing
+[468] 09:43:33: service detected IP address change, reconfiguring
+[468] 09:43:42: service detected IP address change, reconfiguring
+[468] 09:43:42: no IP addresses available for routing
+[468] 09:43:47: service detected IP address change, reconfiguring
+[468] 09:44:43: service detected IP address change, reconfiguring
+[468] 09:44:43: no IP addresses available for routing
+[468] 09:44:43: service detected IP address change, reconfiguring
+[468] 09:44:46: service detected IP address change, reconfiguring
+[408] 10:34:29: Service received control request 5
+[468] 10:34:29: service received stop request, shutting down
+[316] 10:34:29: sending out final updates.
+[316] 10:34:29: update thread stopping.
+[468] 10:34:29: deleting RIP routes from system table.
+[468] 10:34:29: Main thread stopping.
+[316] 19:39:34: IPRIP is starting up...
+[316] 19:39:34: LoggingLevel == 1
+[316] 19:39:34: RouteTimeout == 180
+[316] 19:39:34: GarbageTimeout == 120
+[316] 19:39:34: UpdateFrequency == 30
+[316] 19:39:34: AcceptHostRoutes == 0
+[316] 19:39:34: AnnounceHostRoutes == 0
+[316] 19:39:34: AcceptDefaultRoutes == 0
+[316] 19:39:34: AnnounceDefaultRoutes == 0
+[316] 19:39:34: EnableSplitHorizon == 1
+[316] 19:39:34: EnablePoisonedReverse == 1
+[316] 19:39:34: EnableTriggeredUpdates == 1
+[316] 19:39:34: OverwriteStaticRoutes == 0
+[316] 19:39:34: MaxTriggeredUpdateFrequency == 5
+[316] 19:39:34: IPRIP is configured to be silent.
+[316] 19:39:34: no IP addresses available for routing
+[316] 19:39:38: service detected IP address change, reconfiguring
+[316] 19:39:38: no IP addresses available for routing
+[316] 19:39:39: service detected IP address change, reconfiguring
+[316] 19:39:39: no IP addresses available for routing
+[316] 19:41:33: service detected IP address change, reconfiguring
+[316] 19:41:34: service detected IP address change, reconfiguring
+[316] 19:41:37: service detected IP address change, reconfiguring
+[316] 19:47:54: service detected IP address change, reconfiguring
+[316] 19:47:54: service detected IP address change, reconfiguring
+[316] 19:47:57: service detected IP address change, reconfiguring
+[316] 19:47:57: service detected IP address change, reconfiguring
+[316] 19:47:58: service detected IP address change, reconfiguring
+[316] 19:48:02: service detected IP address change, reconfiguring
+[316] 19:48:03: service detected IP address change, reconfiguring
+[316] 19:48:04: service detected IP address change, reconfiguring
+[316] 19:48:07: service detected IP address change, reconfiguring
+[316] 19:48:23: service detected IP address change, reconfiguring
+[316] 19:48:24: service detected IP address change, reconfiguring
+[316] 19:48:30: service detected IP address change, reconfiguring
+[316] 19:49:32: service detected IP address change, reconfiguring
+[316] 19:49:38: service detected IP address change, reconfiguring
+[316] 19:50:20: service detected IP address change, reconfiguring
+[316] 19:51:29: service detected IP address change, reconfiguring
+[316] 19:51:35: service detected IP address change, reconfiguring
+[316] 19:51:36: service detected IP address change, reconfiguring
+[316] 19:57:13: service detected IP address change, reconfiguring
+[316] 19:57:13: no IP addresses available for routing
+[452] 19:58:05: Service received control request 5
+[400] 19:58:05: sending out final updates.
+[400] 19:58:05: update thread stopping.
+[316] 19:58:05: service received stop request, shutting down
+[316] 19:58:05: deleting RIP routes from system table.
+[316] 19:58:05: Main thread stopping.
+[488] 20:04:31: IPRIP is starting up...
+[488] 20:04:31: LoggingLevel == 1
+[488] 20:04:31: RouteTimeout == 180
+[488] 20:04:31: GarbageTimeout == 120
+[488] 20:04:31: UpdateFrequency == 30
+[488] 20:04:31: AcceptHostRoutes == 0
+[488] 20:04:31: AnnounceHostRoutes == 0
+[488] 20:04:31: AcceptDefaultRoutes == 0
+[488] 20:04:31: AnnounceDefaultRoutes == 0
+[488] 20:04:31: EnableSplitHorizon == 1
+[488] 20:04:31: EnablePoisonedReverse == 1
+[488] 20:04:31: EnableTriggeredUpdates == 1
+[488] 20:04:31: OverwriteStaticRoutes == 0
+[488] 20:04:31: MaxTriggeredUpdateFrequency == 5
+[488] 20:04:31: IPRIP is configured to be silent.
+[488] 20:04:34: service detected IP address change, reconfiguring
+[488] 20:04:34: no IP addresses available for routing
+[488] 20:04:34: service detected IP address change, reconfiguring
+[488] 20:04:35: service detected IP address change, reconfiguring
+[488] 20:04:36: service detected IP address change, reconfiguring
+[488] 20:04:37: service detected IP address change, reconfiguring
+[488] 20:06:44: service detected IP address change, reconfiguring
+[488] 20:41:30: service detected IP address change, reconfiguring
+[488] 20:42:18: service detected IP address change, reconfiguring
+[488] 20:42:24: service detected IP address change, reconfiguring
+[488] 21:35:49: service detected IP address change, reconfiguring
+[488] 21:35:49: no IP addresses available for routing
+[488] 21:35:54: service detected IP address change, reconfiguring
+[488] 21:36:04: service detected IP address change, reconfiguring
+[488] 21:36:04: no IP addresses available for routing
+[488] 21:36:09: service detected IP address change, reconfiguring
+[320] 22:17:00: Service received control request 5
+[824] 22:17:00: sending out final updates.
+[488] 22:17:00: service received stop request, shutting down
+[824] 22:17:00: update thread stopping.
+[488] 22:17:00: deleting RIP routes from system table.
+[488] 22:17:00: Main thread stopping.
+[876] 22:18:25: IPRIP is starting up...
+[876] 22:18:25: LoggingLevel == 1
+[876] 22:18:25: RouteTimeout == 180
+[876] 22:18:25: GarbageTimeout == 120
+[876] 22:18:25: UpdateFrequency == 30
+[876] 22:18:25: AcceptHostRoutes == 0
+[876] 22:18:25: AnnounceHostRoutes == 0
+[876] 22:18:25: AcceptDefaultRoutes == 0
+[876] 22:18:25: AnnounceDefaultRoutes == 0
+[876] 22:18:25: EnableSplitHorizon == 1
+[876] 22:18:25: EnablePoisonedReverse == 1
+[876] 22:18:25: EnableTriggeredUpdates == 1
+[876] 22:18:25: OverwriteStaticRoutes == 0
+[876] 22:18:25: MaxTriggeredUpdateFrequency == 5
+[876] 22:18:25: IPRIP is configured to be silent.
+[876] 22:18:26: service detected IP address change, reconfiguring
+[876] 22:18:29: service detected IP address change, reconfiguring
+[876] 22:19:15: service detected IP address change, reconfiguring
+[876] 22:19:21: service detected IP address change, reconfiguring
+[876] 22:29:52: service detected IP address change, reconfiguring
+[876] 22:29:58: service detected IP address change, reconfiguring
+[876] 22:30:07: service detected IP address change, reconfiguring
+[876] 22:30:07: service detected IP address change, reconfiguring
+[876] 22:30:14: service detected IP address change, reconfiguring
+[876] 22:30:24: service detected IP address change, reconfiguring
+[876] 22:30:30: service detected IP address change, reconfiguring
+[876] 22:32:34: service detected IP address change, reconfiguring
+[876] 22:32:34: service detected IP address change, reconfiguring
+[408] 00:49:50: Service received control request 5
+[1212] 00:49:50: sending out final updates.
+[1212] 00:49:50: update thread stopping.
+[876] 00:49:50: service received stop request, shutting down
+[876] 00:49:50: deleting RIP routes from system table.
+[876] 00:49:50: Main thread stopping.
+[744] 09:23:28: IPRIP is starting up...
+[744] 09:23:28: LoggingLevel == 1
+[744] 09:23:28: RouteTimeout == 180
+[744] 09:23:28: GarbageTimeout == 120
+[744] 09:23:28: UpdateFrequency == 30
+[744] 09:23:28: AcceptHostRoutes == 0
+[744] 09:23:28: AnnounceHostRoutes == 0
+[744] 09:23:28: AcceptDefaultRoutes == 0
+[744] 09:23:28: AnnounceDefaultRoutes == 0
+[744] 09:23:28: EnableSplitHorizon == 1
+[744] 09:23:28: EnablePoisonedReverse == 1
+[744] 09:23:28: EnableTriggeredUpdates == 1
+[744] 09:23:28: OverwriteStaticRoutes == 0
+[744] 09:23:28: MaxTriggeredUpdateFrequency == 5
+[744] 09:23:28: IPRIP is configured to be silent.
+[744] 09:23:33: service detected IP address change, reconfiguring
+[744] 09:23:33: service detected IP address change, reconfiguring
+[744] 09:23:36: service detected IP address change, reconfiguring
+[744] 09:23:40: service detected IP address change, reconfiguring
+[744] 09:24:59: service detected IP address change, reconfiguring
+[744] 09:24:59: service detected IP address change, reconfiguring
+[744] 09:24:59: service detected IP address change, reconfiguring
+[744] 09:25:05: service detected IP address change, reconfiguring
+[744] 09:25:06: service detected IP address change, reconfiguring
+[744] 09:51:33: service detected IP address change, reconfiguring
+[744] 09:51:33: no IP addresses available for routing
+[744] 09:51:38: service detected IP address change, reconfiguring
+[744] 09:51:47: service detected IP address change, reconfiguring
+[744] 09:51:47: no IP addresses available for routing
+[744] 09:51:52: service detected IP address change, reconfiguring
+[744] 10:01:27: service detected IP address change, reconfiguring
+[744] 10:01:27: no IP addresses available for routing
+[472] 10:01:28: Service received control request 5
+[744] 10:01:28: service received stop request, shutting down
+[996] 10:01:28: sending out final updates.
+[996] 10:01:28: update thread stopping.
+[744] 10:01:28: deleting RIP routes from system table.
+[744] 10:01:28: Main thread stopping.
+[316] 22:55:21: IPRIP is starting up...
+[316] 22:55:21: LoggingLevel == 1
+[316] 22:55:21: RouteTimeout == 180
+[316] 22:55:21: GarbageTimeout == 120
+[316] 22:55:21: UpdateFrequency == 30
+[316] 22:55:21: AcceptHostRoutes == 0
+[316] 22:55:21: AnnounceHostRoutes == 0
+[316] 22:55:21: AcceptDefaultRoutes == 0
+[316] 22:55:21: AnnounceDefaultRoutes == 0
+[316] 22:55:21: EnableSplitHorizon == 1
+[316] 22:55:21: EnablePoisonedReverse == 1
+[316] 22:55:21: EnableTriggeredUpdates == 1
+[316] 22:55:21: OverwriteStaticRoutes == 0
+[316] 22:55:21: MaxTriggeredUpdateFrequency == 5
+[316] 22:55:21: IPRIP is configured to be silent.
+[316] 22:55:25: service detected IP address change, reconfiguring
+[316] 22:55:25: no IP addresses available for routing
+[316] 22:55:25: service detected IP address change, reconfiguring
+[316] 22:55:25: service detected IP address change, reconfiguring
+[316] 22:55:26: service detected IP address change, reconfiguring
+[316] 22:55:28: service detected IP address change, reconfiguring
+[316] 22:57:15: service detected IP address change, reconfiguring
+[316] 22:57:15: service detected IP address change, reconfiguring
+[316] 22:57:15: service detected IP address change, reconfiguring
+[316] 22:57:21: service detected IP address change, reconfiguring
+[316] 22:57:21: service detected IP address change, reconfiguring
+[300] 23:56:13: Service received control request 5
+[488] 23:56:13: sending out final updates.
+[488] 23:56:13: update thread stopping.
+[316] 23:56:13: service received stop request, shutting down
+[316] 23:56:13: deleting RIP routes from system table.
+[316] 23:56:13: Main thread stopping.
+[624] 21:08:22: IPRIP is starting up...
+[624] 21:08:22: LoggingLevel == 1
+[624] 21:08:22: RouteTimeout == 180
+[624] 21:08:22: GarbageTimeout == 120
+[624] 21:08:22: UpdateFrequency == 30
+[624] 21:08:22: AcceptHostRoutes == 0
+[624] 21:08:22: AnnounceHostRoutes == 0
+[624] 21:08:22: AcceptDefaultRoutes == 0
+[624] 21:08:22: AnnounceDefaultRoutes == 0
+[624] 21:08:22: EnableSplitHorizon == 1
+[624] 21:08:22: EnablePoisonedReverse == 1
+[624] 21:08:22: EnableTriggeredUpdates == 1
+[624] 21:08:22: OverwriteStaticRoutes == 0
+[624] 21:08:22: MaxTriggeredUpdateFrequency == 5
+[624] 21:08:22: IPRIP is configured to be silent.
+[624] 21:08:24: service detected IP address change, reconfiguring
+[624] 21:08:24: no IP addresses available for routing
+[624] 21:08:24: service detected IP address change, reconfiguring
+[624] 21:08:26: service detected IP address change, reconfiguring
+[624] 21:08:26: service detected IP address change, reconfiguring
+[624] 21:08:27: service detected IP address change, reconfiguring
+[624] 21:09:25: service detected IP address change, reconfiguring
+[624] 21:09:26: service detected IP address change, reconfiguring
+[624] 21:09:26: service detected IP address change, reconfiguring
+[624] 21:09:32: service detected IP address change, reconfiguring
+[624] 00:26:19: service detected IP address change, reconfiguring
+[624] 00:56:17: service detected IP address change, reconfiguring
+[624] 00:56:17: service detected IP address change, reconfiguring
+[624] 00:56:17: no IP addresses available for routing
+[624] 06:56:19: service detected IP address change, reconfiguring
+[624] 06:56:19: no IP addresses available for routing
+[624] 06:56:25: service detected IP address change, reconfiguring
+[624] 06:56:25: no IP addresses available for routing
+[624] 06:56:31: service detected IP address change, reconfiguring
+[624] 06:56:32: service detected IP address change, reconfiguring
+[624] 06:56:34: service detected IP address change, reconfiguring
+[624] 06:56:34: service detected IP address change, reconfiguring
+[624] 06:56:37: service detected IP address change, reconfiguring
+[624] 06:57:25: service detected IP address change, reconfiguring
+[624] 06:57:39: service detected IP address change, reconfiguring
+[624] 06:57:39: no IP addresses available for routing
+[624] 22:12:23: service detected IP address change, reconfiguring
+[624] 22:12:23: no IP addresses available for routing
+[624] 22:12:29: service detected IP address change, reconfiguring
+[624] 22:12:29: no IP addresses available for routing
+[568] 22:12:37: Service received control request 5
+[624] 22:12:37: service received stop request, shutting down
+[544] 22:12:37: sending out final updates.
+[544] 22:12:37: update thread stopping.
+[624] 22:12:37: deleting RIP routes from system table.
+[624] 22:12:37: Main thread stopping.
+[572] 22:17:38: IPRIP is starting up...
+[572] 22:17:38: LoggingLevel == 1
+[572] 22:17:38: RouteTimeout == 180
+[572] 22:17:38: GarbageTimeout == 120
+[572] 22:17:38: UpdateFrequency == 30
+[572] 22:17:38: AcceptHostRoutes == 0
+[572] 22:17:38: AnnounceHostRoutes == 0
+[572] 22:17:38: AcceptDefaultRoutes == 0
+[572] 22:17:38: AnnounceDefaultRoutes == 0
+[572] 22:17:38: EnableSplitHorizon == 1
+[572] 22:17:38: EnablePoisonedReverse == 1
+[572] 22:17:38: EnableTriggeredUpdates == 1
+[572] 22:17:38: OverwriteStaticRoutes == 0
+[572] 22:17:38: MaxTriggeredUpdateFrequency == 5
+[572] 22:17:38: IPRIP is configured to be silent.
+[572] 22:17:38: no IP addresses available for routing
+[572] 22:17:42: service detected IP address change, reconfiguring
+[572] 22:17:42: no IP addresses available for routing
+[572] 22:17:44: service detected IP address change, reconfiguring
+[572] 22:17:44: no IP addresses available for routing
+[572] 22:17:59: service detected IP address change, reconfiguring
+[572] 22:17:59: no IP addresses available for routing
+[572] 22:18:05: service detected IP address change, reconfiguring
+[572] 22:18:05: no IP addresses available for routing
+[408] 22:18:43: Service received control request 5
+[320] 22:18:43: sending out final updates.
+[572] 22:18:43: service received stop request, shutting down
+[320] 22:18:43: update thread stopping.
+[572] 22:18:43: deleting RIP routes from system table.
+[572] 22:18:43: Main thread stopping.
+[340] 22:28:09: IPRIP is starting up...
+[340] 22:28:09: LoggingLevel == 1
+[340] 22:28:09: RouteTimeout == 180
+[340] 22:28:09: GarbageTimeout == 120
+[340] 22:28:09: UpdateFrequency == 30
+[340] 22:28:09: AcceptHostRoutes == 0
+[340] 22:28:09: AnnounceHostRoutes == 0
+[340] 22:28:09: AcceptDefaultRoutes == 0
+[340] 22:28:09: AnnounceDefaultRoutes == 0
+[340] 22:28:09: EnableSplitHorizon == 1
+[340] 22:28:09: EnablePoisonedReverse == 1
+[340] 22:28:09: EnableTriggeredUpdates == 1
+[340] 22:28:09: OverwriteStaticRoutes == 0
+[340] 22:28:09: MaxTriggeredUpdateFrequency == 5
+[340] 22:28:09: IPRIP is configured to be silent.
+[340] 22:28:09: no IP addresses available for routing
+[340] 22:28:12: service detected IP address change, reconfiguring
+[340] 22:28:12: no IP addresses available for routing
+[340] 22:28:14: service detected IP address change, reconfiguring
+[340] 22:28:14: no IP addresses available for routing
+[340] 22:28:25: service detected IP address change, reconfiguring
+[340] 22:28:25: no IP addresses available for routing
+[340] 22:28:31: service detected IP address change, reconfiguring
+[340] 22:28:31: no IP addresses available for routing
+[340] 22:29:28: service detected IP address change, reconfiguring
+[340] 22:29:30: service detected IP address change, reconfiguring
+[340] 22:29:30: service detected IP address change, reconfiguring
+[340] 22:29:33: service detected IP address change, reconfiguring
+[340] 22:31:08: service detected IP address change, reconfiguring
+[340] 22:32:24: service detected IP address change, reconfiguring
+[340] 22:32:24: service detected IP address change, reconfiguring
+[340] 22:32:30: service detected IP address change, reconfiguring
+[424] 03:05:32: Service received control request 5
+[552] 03:05:32: sending out final updates.
+[552] 03:05:32: update thread stopping.
+[340] 03:05:33: service received stop request, shutting down
+[340] 03:05:33: deleting RIP routes from system table.
+[340] 03:05:34: Main thread stopping.
+[316] 08:30:25: IPRIP is starting up...
+[316] 08:30:25: LoggingLevel == 1
+[316] 08:30:25: RouteTimeout == 180
+[316] 08:30:25: GarbageTimeout == 120
+[316] 08:30:25: UpdateFrequency == 30
+[316] 08:30:25: AcceptHostRoutes == 0
+[316] 08:30:25: AnnounceHostRoutes == 0
+[316] 08:30:25: AcceptDefaultRoutes == 0
+[316] 08:30:25: AnnounceDefaultRoutes == 0
+[316] 08:30:25: EnableSplitHorizon == 1
+[316] 08:30:25: EnablePoisonedReverse == 1
+[316] 08:30:25: EnableTriggeredUpdates == 1
+[316] 08:30:25: OverwriteStaticRoutes == 0
+[316] 08:30:25: MaxTriggeredUpdateFrequency == 5
+[316] 08:30:25: IPRIP is configured to be silent.
+[316] 08:30:25: no IP addresses available for routing
+[316] 08:30:26: service detected IP address change, reconfiguring
+[316] 08:30:27: service detected IP address change, reconfiguring
+[316] 08:30:27: no IP addresses available for routing
+[316] 08:30:27: service detected IP address change, reconfiguring
+[316] 08:30:29: service detected IP address change, reconfiguring
+[316] 08:30:30: service detected IP address change, reconfiguring
+[316] 08:31:24: service detected IP address change, reconfiguring
+[316] 08:31:24: service detected IP address change, reconfiguring
+[316] 08:31:31: service detected IP address change, reconfiguring
+[520] 09:03:14: Service received control request 5
+[476] 09:03:14: sending out final updates.
+[476] 09:03:14: update thread stopping.
+[316] 09:03:14: service received stop request, shutting down
+[316] 09:03:14: deleting RIP routes from system table.
+[316] 09:03:14: Main thread stopping.
+[408] 09:31:26: IPRIP is starting up...
+[408] 09:31:27: LoggingLevel == 1
+[408] 09:31:27: RouteTimeout == 180
+[408] 09:31:27: GarbageTimeout == 120
+[408] 09:31:27: UpdateFrequency == 30
+[408] 09:31:27: AcceptHostRoutes == 0
+[408] 09:31:27: AnnounceHostRoutes == 0
+[408] 09:31:27: AcceptDefaultRoutes == 0
+[408] 09:31:27: AnnounceDefaultRoutes == 0
+[408] 09:31:27: EnableSplitHorizon == 1
+[408] 09:31:27: EnablePoisonedReverse == 1
+[408] 09:31:27: EnableTriggeredUpdates == 1
+[408] 09:31:27: OverwriteStaticRoutes == 0
+[408] 09:31:27: MaxTriggeredUpdateFrequency == 5
+[408] 09:31:27: IPRIP is configured to be silent.
+[408] 09:31:29: service detected IP address change, reconfiguring
+[408] 09:31:32: service detected IP address change, reconfiguring
+[408] 09:31:32: service detected IP address change, reconfiguring
+[408] 09:32:18: service detected IP address change, reconfiguring
+[408] 09:32:18: service detected IP address change, reconfiguring
+[408] 09:32:18: service detected IP address change, reconfiguring
+[408] 09:32:24: service detected IP address change, reconfiguring
+[416] 09:43:15: Service received control request 5
+[408] 09:43:15: service received stop request, shutting down
+[476] 09:43:15: sending out final updates.
+[476] 09:43:15: update thread stopping.
+[408] 09:43:15: deleting RIP routes from system table.
+[408] 09:43:15: Main thread stopping.
+[748] 11:13:04: IPRIP is starting up...
+[748] 11:13:04: LoggingLevel == 1
+[748] 11:13:04: RouteTimeout == 180
+[748] 11:13:04: GarbageTimeout == 120
+[748] 11:13:04: UpdateFrequency == 30
+[748] 11:13:04: AcceptHostRoutes == 0
+[748] 11:13:04: AnnounceHostRoutes == 0
+[748] 11:13:04: AcceptDefaultRoutes == 0
+[748] 11:13:04: AnnounceDefaultRoutes == 0
+[748] 11:13:04: EnableSplitHorizon == 1
+[748] 11:13:04: EnablePoisonedReverse == 1
+[748] 11:13:04: EnableTriggeredUpdates == 1
+[748] 11:13:04: OverwriteStaticRoutes == 0
+[748] 11:13:04: MaxTriggeredUpdateFrequency == 5
+[748] 11:13:04: IPRIP is configured to be silent.
+[748] 11:13:04: no IP addresses available for routing
+[748] 11:13:05: service detected IP address change, reconfiguring
+[748] 11:13:08: service detected IP address change, reconfiguring
+[748] 11:13:08: service detected IP address change, reconfiguring
+[748] 11:13:09: service detected IP address change, reconfiguring
+[748] 11:13:12: service detected IP address change, reconfiguring
+[748] 11:14:35: service detected IP address change, reconfiguring
+[748] 11:14:36: service detected IP address change, reconfiguring
+[748] 11:14:42: service detected IP address change, reconfiguring
+[748] 11:28:04: service detected IP address change, reconfiguring
+[748] 11:28:04: no IP addresses available for routing
+[748] 11:28:09: service detected IP address change, reconfiguring
+[748] 11:38:04: service detected IP address change, reconfiguring
+[748] 11:38:04: no IP addresses available for routing
+[556] 11:38:35: Service received control request 5
+[748] 11:38:35: service received stop request, shutting down
+[1104] 11:38:35: sending out final updates.
+[1104] 11:38:35: update thread stopping.
+[748] 11:38:35: deleting RIP routes from system table.
+[748] 11:38:35: Main thread stopping.
+[552] 14:48:48: IPRIP is starting up...
+[552] 14:48:48: LoggingLevel == 1
+[552] 14:48:48: RouteTimeout == 180
+[552] 14:48:48: GarbageTimeout == 120
+[552] 14:48:48: UpdateFrequency == 30
+[552] 14:48:48: AcceptHostRoutes == 0
+[552] 14:48:48: AnnounceHostRoutes == 0
+[552] 14:48:48: AcceptDefaultRoutes == 0
+[552] 14:48:48: AnnounceDefaultRoutes == 0
+[552] 14:48:48: EnableSplitHorizon == 1
+[552] 14:48:48: EnablePoisonedReverse == 1
+[552] 14:48:48: EnableTriggeredUpdates == 1
+[552] 14:48:48: OverwriteStaticRoutes == 0
+[552] 14:48:48: MaxTriggeredUpdateFrequency == 5
+[552] 14:48:48: IPRIP is configured to be silent.
+[552] 14:48:48: no IP addresses available for routing
+[552] 14:48:49: service detected IP address change, reconfiguring
+[552] 14:48:50: service detected IP address change, reconfiguring
+[552] 14:48:50: no IP addresses available for routing
+[552] 14:48:50: service detected IP address change, reconfiguring
+[552] 14:48:53: service detected IP address change, reconfiguring
+[552] 14:48:54: service detected IP address change, reconfiguring
+[552] 14:49:44: service detected IP address change, reconfiguring
+[552] 14:49:44: service detected IP address change, reconfiguring
+[552] 14:49:51: service detected IP address change, reconfiguring
+[552] 16:08:05: service detected IP address change, reconfiguring
+[552] 16:08:05: no IP addresses available for routing
+[552] 16:08:11: service detected IP address change, reconfiguring
+[552] 17:17:44: service detected IP address change, reconfiguring
+[552] 17:17:44: no IP addresses available for routing
+[552] 17:22:28: service detected IP address change, reconfiguring
+[552] 18:14:06: service detected IP address change, reconfiguring
+[552] 18:16:11: service detected IP address change, reconfiguring
+[552] 18:16:18: service detected IP address change, reconfiguring
+[552] 18:16:50: service detected IP address change, reconfiguring
+[552] 18:16:50: service detected IP address change, reconfiguring
+[552] 19:32:19: service detected IP address change, reconfiguring
+[552] 19:41:49: service detected IP address change, reconfiguring
+[552] 19:45:48: service detected IP address change, reconfiguring
+[552] 19:46:42: service detected IP address change, reconfiguring
+[552] 19:46:44: service detected IP address change, reconfiguring
+[552] 19:46:50: service detected IP address change, reconfiguring
+[552] 21:42:55: service detected IP address change, reconfiguring
+[552] 21:43:59: service detected IP address change, reconfiguring
+[552] 21:44:06: service detected IP address change, reconfiguring
+[552] 21:44:37: service detected IP address change, reconfiguring
+[552] 22:30:17: service detected IP address change, reconfiguring
+[552] 22:30:28: service detected IP address change, reconfiguring
+[552] 22:30:48: service detected IP address change, reconfiguring
+[552] 22:31:00: service detected IP address change, reconfiguring
+[552] 22:31:52: service detected IP address change, reconfiguring
+[552] 22:32:04: service detected IP address change, reconfiguring
+[552] 22:32:34: service detected IP address change, reconfiguring
+[552] 22:32:45: service detected IP address change, reconfiguring
+[552] 22:36:18: service detected IP address change, reconfiguring
+[552] 22:36:29: service detected IP address change, reconfiguring
+[552] 22:37:05: service detected IP address change, reconfiguring
+[552] 22:37:31: service detected IP address change, reconfiguring
+[552] 23:55:57: service detected IP address change, reconfiguring
+[552] 23:56:09: service detected IP address change, reconfiguring
+[552] 23:56:22: service detected IP address change, reconfiguring
+[552] 23:56:43: service detected IP address change, reconfiguring
+[552] 23:57:03: service detected IP address change, reconfiguring
+[552] 23:57:07: service detected IP address change, reconfiguring
+[552] 23:58:19: service detected IP address change, reconfiguring
+[552] 23:58:24: service detected IP address change, reconfiguring
+[552] 23:58:44: service detected IP address change, reconfiguring
+[552] 23:58:49: service detected IP address change, reconfiguring
+[552] 01:14:39: service detected IP address change, reconfiguring
+[552] 01:16:24: service detected IP address change, reconfiguring
+[552] 02:39:30: service detected IP address change, reconfiguring
+[552] 02:39:35: service detected IP address change, reconfiguring
+[552] 02:49:31: service detected IP address change, reconfiguring
+[320] 02:49:58: Service received control request 5
+[468] 02:49:58: sending out final updates.
+[468] 02:49:58: update thread stopping.
+[552] 02:49:59: service received stop request, shutting down
+[552] 02:49:59: deleting RIP routes from system table.
+[552] 02:49:59: Main thread stopping.
+[632] 11:41:16: IPRIP is starting up...
+[632] 11:41:16: LoggingLevel == 1
+[632] 11:41:16: RouteTimeout == 180
+[632] 11:41:16: GarbageTimeout == 120
+[632] 11:41:16: UpdateFrequency == 30
+[632] 11:41:16: AcceptHostRoutes == 0
+[632] 11:41:16: AnnounceHostRoutes == 0
+[632] 11:41:16: AcceptDefaultRoutes == 0
+[632] 11:41:16: AnnounceDefaultRoutes == 0
+[632] 11:41:16: EnableSplitHorizon == 1
+[632] 11:41:16: EnablePoisonedReverse == 1
+[632] 11:41:16: EnableTriggeredUpdates == 1
+[632] 11:41:16: OverwriteStaticRoutes == 0
+[632] 11:41:16: MaxTriggeredUpdateFrequency == 5
+[632] 11:41:16: IPRIP is configured to be silent.
+[632] 11:41:16: no IP addresses available for routing
+[632] 11:41:20: service detected IP address change, reconfiguring
+[632] 11:41:20: no IP addresses available for routing
+[632] 11:41:21: service detected IP address change, reconfiguring
+[632] 11:41:21: no IP addresses available for routing
+[632] 11:41:31: service detected IP address change, reconfiguring
+[632] 11:41:31: no IP addresses available for routing
+[632] 11:41:37: service detected IP address change, reconfiguring
+[632] 11:41:37: no IP addresses available for routing
+[632] 11:43:46: service detected IP address change, reconfiguring
+[632] 11:43:46: no IP addresses available for routing
+[632] 11:43:53: service detected IP address change, reconfiguring
+[632] 11:43:53: no IP addresses available for routing
+[632] 12:25:50: service detected IP address change, reconfiguring
+[632] 12:25:50: no IP addresses available for routing
+[632] 12:25:51: service detected IP address change, reconfiguring
+[632] 12:25:51: no IP addresses available for routing
+[632] 12:25:57: service detected IP address change, reconfiguring
+[632] 12:25:58: no IP addresses available for routing
+[632] 12:26:20: service detected IP address change, reconfiguring
+[632] 12:26:22: service detected IP address change, reconfiguring
+[632] 12:26:22: no IP addresses available for routing
+[632] 12:26:22: service detected IP address change, reconfiguring
+[632] 12:26:25: service detected IP address change, reconfiguring
+[632] 12:28:16: service detected IP address change, reconfiguring
+[632] 12:29:34: service detected IP address change, reconfiguring
+[632] 12:29:35: service detected IP address change, reconfiguring
+[632] 12:29:41: service detected IP address change, reconfiguring
+[632] 15:44:12: service detected IP address change, reconfiguring
+[632] 15:44:12: no IP addresses available for routing
+[632] 21:44:15: service detected IP address change, reconfiguring
+[632] 21:44:17: no IP addresses available for routing
+[632] 21:44:19: service detected IP address change, reconfiguring
+[632] 21:44:22: service detected IP address change, reconfiguring
+[632] 21:44:32: service detected IP address change, reconfiguring
+[632] 21:44:32: no IP addresses available for routing
+[632] 22:32:06: service detected IP address change, reconfiguring
+[632] 22:32:07: no IP addresses available for routing
+[632] 22:32:13: service detected IP address change, reconfiguring
+[632] 22:32:16: service detected IP address change, reconfiguring
+[632] 22:32:17: service detected IP address change, reconfiguring
+[632] 22:46:37: service detected IP address change, reconfiguring
+[632] 22:46:37: no IP addresses available for routing
+[632] 22:46:44: service detected IP address change, reconfiguring
+[632] 22:46:46: service detected IP address change, reconfiguring
+[632] 22:46:47: service detected IP address change, reconfiguring
+[632] 22:51:46: service detected IP address change, reconfiguring
+[632] 22:51:46: no IP addresses available for routing
+[632] 22:51:55: service detected IP address change, reconfiguring
+[520] 23:23:48: Service received control request 5
+[1184] 23:23:48: sending out final updates.
+[1184] 23:23:48: update thread stopping.
+[632] 23:23:48: service received stop request, shutting down
+[632] 23:23:48: deleting RIP routes from system table.
+[632] 23:23:48: Main thread stopping.
+[320] 21:42:44: IPRIP is starting up...
+[320] 21:42:44: LoggingLevel == 1
+[320] 21:42:44: RouteTimeout == 180
+[320] 21:42:44: GarbageTimeout == 120
+[320] 21:42:44: UpdateFrequency == 30
+[320] 21:42:44: AcceptHostRoutes == 0
+[320] 21:42:44: AnnounceHostRoutes == 0
+[320] 21:42:44: AcceptDefaultRoutes == 0
+[320] 21:42:44: AnnounceDefaultRoutes == 0
+[320] 21:42:44: EnableSplitHorizon == 1
+[320] 21:42:44: EnablePoisonedReverse == 1
+[320] 21:42:44: EnableTriggeredUpdates == 1
+[320] 21:42:44: OverwriteStaticRoutes == 0
+[320] 21:42:44: MaxTriggeredUpdateFrequency == 5
+[320] 21:42:44: IPRIP is configured to be silent.
+[320] 21:42:44: no IP addresses available for routing
+[320] 21:42:45: service detected IP address change, reconfiguring
+[320] 21:42:46: service detected IP address change, reconfiguring
+[320] 21:42:46: no IP addresses available for routing
+[320] 21:42:46: service detected IP address change, reconfiguring
+[320] 21:42:48: service detected IP address change, reconfiguring
+[320] 21:42:50: service detected IP address change, reconfiguring
+[320] 21:43:39: service detected IP address change, reconfiguring
+[320] 21:43:39: service detected IP address change, reconfiguring
+[320] 21:43:45: service detected IP address change, reconfiguring
+[300] 23:08:33: Service received control request 5
+[320] 23:08:33: service received stop request, shutting down
+[556] 23:08:33: sending out final updates.
+[556] 23:08:33: update thread stopping.
+[320] 23:08:33: deleting RIP routes from system table.
+[320] 23:08:33: Main thread stopping.
+[524] 07:37:16: IPRIP is starting up...
+[524] 07:37:16: LoggingLevel == 1
+[524] 07:37:16: RouteTimeout == 180
+[524] 07:37:16: GarbageTimeout == 120
+[524] 07:37:16: UpdateFrequency == 30
+[524] 07:37:16: AcceptHostRoutes == 0
+[524] 07:37:16: AnnounceHostRoutes == 0
+[524] 07:37:16: AcceptDefaultRoutes == 0
+[524] 07:37:16: AnnounceDefaultRoutes == 0
+[524] 07:37:16: EnableSplitHorizon == 1
+[524] 07:37:16: EnablePoisonedReverse == 1
+[524] 07:37:16: EnableTriggeredUpdates == 1
+[524] 07:37:16: OverwriteStaticRoutes == 0
+[524] 07:37:16: MaxTriggeredUpdateFrequency == 5
+[524] 07:37:16: IPRIP is configured to be silent.
+[524] 07:37:16: no IP addresses available for routing
+[524] 07:37:17: service detected IP address change, reconfiguring
+[524] 07:37:19: service detected IP address change, reconfiguring
+[524] 07:37:19: no IP addresses available for routing
+[524] 07:37:19: service detected IP address change, reconfiguring
+[524] 07:37:21: service detected IP address change, reconfiguring
+[524] 07:37:22: service detected IP address change, reconfiguring
+[524] 07:38:10: service detected IP address change, reconfiguring
+[524] 07:38:10: service detected IP address change, reconfiguring
+[524] 07:38:10: service detected IP address change, reconfiguring
+[524] 07:38:17: service detected IP address change, reconfiguring
+[524] 07:38:59: service detected IP address change, reconfiguring
+[524] 07:38:59: no IP addresses available for routing
+[524] 07:39:03: service detected IP address change, reconfiguring
+[524] 07:39:03: no IP addresses available for routing
+[524] 07:39:06: service detected IP address change, reconfiguring
+[524] 07:39:06: no IP addresses available for routing
+[524] 07:39:11: service detected IP address change, reconfiguring
+[424] 08:40:27: Service received control request 5
+[316] 08:40:27: sending out final updates.
+[316] 08:40:27: update thread stopping.
+[524] 08:40:27: service received stop request, shutting down
+[524] 08:40:27: deleting RIP routes from system table.
+[524] 08:40:27: Main thread stopping.
+[612] 10:05:14: IPRIP is starting up...
+[612] 10:05:14: LoggingLevel == 1
+[612] 10:05:14: RouteTimeout == 180
+[612] 10:05:14: GarbageTimeout == 120
+[612] 10:05:14: UpdateFrequency == 30
+[612] 10:05:14: AcceptHostRoutes == 0
+[612] 10:05:14: AnnounceHostRoutes == 0
+[612] 10:05:14: AcceptDefaultRoutes == 0
+[612] 10:05:14: AnnounceDefaultRoutes == 0
+[612] 10:05:14: EnableSplitHorizon == 1
+[612] 10:05:14: EnablePoisonedReverse == 1
+[612] 10:05:14: EnableTriggeredUpdates == 1
+[612] 10:05:14: OverwriteStaticRoutes == 0
+[612] 10:05:14: MaxTriggeredUpdateFrequency == 5
+[612] 10:05:14: IPRIP is configured to be silent.
+[612] 10:05:14: no IP addresses available for routing
+[612] 10:05:16: service detected IP address change, reconfiguring
+[612] 10:05:18: service detected IP address change, reconfiguring
+[612] 10:05:18: no IP addresses available for routing
+[612] 10:05:18: service detected IP address change, reconfiguring
+[612] 10:05:20: service detected IP address change, reconfiguring
+[612] 10:05:21: service detected IP address change, reconfiguring
+[612] 10:06:09: service detected IP address change, reconfiguring
+[612] 10:06:10: service detected IP address change, reconfiguring
+[612] 10:06:16: service detected IP address change, reconfiguring
+[612] 13:39:00: service detected IP address change, reconfiguring
+[612] 13:39:00: no IP addresses available for routing
+[612] 16:09:22: service detected IP address change, reconfiguring
+[612] 16:09:22: no IP addresses available for routing
+[612] 16:09:28: service detected IP address change, reconfiguring
+[612] 16:09:28: no IP addresses available for routing
+[612] 16:09:42: service detected IP address change, reconfiguring
+[612] 16:09:43: service detected IP address change, reconfiguring
+[612] 16:09:43: no IP addresses available for routing
+[612] 16:09:43: service detected IP address change, reconfiguring
+[612] 16:09:46: service detected IP address change, reconfiguring
+[612] 20:24:22: service detected IP address change, reconfiguring
+[612] 20:24:22: no IP addresses available for routing
+[612] 20:30:27: service detected IP address change, reconfiguring
+[612] 21:00:54: service detected IP address change, reconfiguring
+[612] 21:00:54: no IP addresses available for routing
+[612] 21:44:19: service detected IP address change, reconfiguring
+[612] 23:25:03: service detected IP address change, reconfiguring
+[612] 23:25:03: no IP addresses available for routing
+[408] 23:26:21: Service received control request 5
+[400] 23:26:21: sending out final updates.
+[400] 23:26:21: update thread stopping.
+[612] 23:26:21: service received stop request, shutting down
+[612] 23:26:21: deleting RIP routes from system table.
+[612] 23:26:21: Main thread stopping.
+[324] 22:15:29: IPRIP is starting up...
+[324] 22:15:30: LoggingLevel == 1
+[324] 22:15:30: RouteTimeout == 180
+[324] 22:15:30: GarbageTimeout == 120
+[324] 22:15:30: UpdateFrequency == 30
+[324] 22:15:30: AcceptHostRoutes == 0
+[324] 22:15:30: AnnounceHostRoutes == 0
+[324] 22:15:30: AcceptDefaultRoutes == 0
+[324] 22:15:30: AnnounceDefaultRoutes == 0
+[324] 22:15:30: EnableSplitHorizon == 1
+[324] 22:15:30: EnablePoisonedReverse == 1
+[324] 22:15:30: EnableTriggeredUpdates == 1
+[324] 22:15:30: OverwriteStaticRoutes == 0
+[324] 22:15:30: MaxTriggeredUpdateFrequency == 5
+[324] 22:15:30: IPRIP is configured to be silent.
+[324] 22:15:30: no IP addresses available for routing
+[324] 22:15:32: service detected IP address change, reconfiguring
+[324] 22:15:33: service detected IP address change, reconfiguring
+[324] 22:15:33: no IP addresses available for routing
+[324] 22:15:33: service detected IP address change, reconfiguring
+[324] 22:15:35: service detected IP address change, reconfiguring
+[324] 22:15:37: service detected IP address change, reconfiguring
+[324] 22:16:24: service detected IP address change, reconfiguring
+[324] 22:16:24: service detected IP address change, reconfiguring
+[324] 22:16:30: service detected IP address change, reconfiguring
+[308] 22:40:30: Service received control request 5
+[324] 22:40:30: service received stop request, shutting down
+[480] 22:40:30: sending out final updates.
+[480] 22:40:30: update thread stopping.
+[324] 22:40:30: deleting RIP routes from system table.
+[324] 22:40:30: Main thread stopping.
+[620] 01:01:33: IPRIP is starting up...
+[620] 01:01:33: LoggingLevel == 1
+[620] 01:01:33: RouteTimeout == 180
+[620] 01:01:33: GarbageTimeout == 120
+[620] 01:01:33: UpdateFrequency == 30
+[620] 01:01:33: AcceptHostRoutes == 0
+[620] 01:01:33: AnnounceHostRoutes == 0
+[620] 01:01:33: AcceptDefaultRoutes == 0
+[620] 01:01:33: AnnounceDefaultRoutes == 0
+[620] 01:01:33: EnableSplitHorizon == 1
+[620] 01:01:33: EnablePoisonedReverse == 1
+[620] 01:01:33: EnableTriggeredUpdates == 1
+[620] 01:01:33: OverwriteStaticRoutes == 0
+[620] 01:01:33: MaxTriggeredUpdateFrequency == 5
+[620] 01:01:33: IPRIP is configured to be silent.
+[620] 01:01:37: service detected IP address change, reconfiguring
+[620] 01:01:39: service detected IP address change, reconfiguring
+[620] 01:02:27: service detected IP address change, reconfiguring
+[620] 01:02:27: service detected IP address change, reconfiguring
+[620] 01:02:33: service detected IP address change, reconfiguring
+[620] 03:26:29: service detected IP address change, reconfiguring
+[620] 03:26:39: no IP addresses available for routing
+[300] 03:27:15: Service received control request 5
+[816] 03:27:15: sending out final updates.
+[620] 03:27:15: service received stop request, shutting down
+[816] 03:27:15: update thread stopping.
+[620] 03:27:15: deleting RIP routes from system table.
+[620] 03:27:16: Main thread stopping.
+[624] 11:23:58: IPRIP is starting up...
+[624] 11:23:58: LoggingLevel == 1
+[624] 11:23:58: RouteTimeout == 180
+[624] 11:23:58: GarbageTimeout == 120
+[624] 11:23:58: UpdateFrequency == 30
+[624] 11:23:58: AcceptHostRoutes == 0
+[624] 11:23:58: AnnounceHostRoutes == 0
+[624] 11:23:58: AcceptDefaultRoutes == 0
+[624] 11:23:58: AnnounceDefaultRoutes == 0
+[624] 11:23:58: EnableSplitHorizon == 1
+[624] 11:23:58: EnablePoisonedReverse == 1
+[624] 11:23:58: EnableTriggeredUpdates == 1
+[624] 11:23:58: OverwriteStaticRoutes == 0
+[624] 11:23:58: MaxTriggeredUpdateFrequency == 5
+[624] 11:23:58: IPRIP is configured to be silent.
+[624] 11:24:01: service detected IP address change, reconfiguring
+[624] 11:24:01: no IP addresses available for routing
+[624] 11:24:01: service detected IP address change, reconfiguring
+[624] 11:24:03: service detected IP address change, reconfiguring
+[624] 11:24:04: service detected IP address change, reconfiguring
+[624] 11:26:16: service detected IP address change, reconfiguring
+[624] 11:26:16: service detected IP address change, reconfiguring
+[624] 11:26:17: service detected IP address change, reconfiguring
+[624] 11:26:23: service detected IP address change, reconfiguring
+[624] 11:31:03: service detected IP address change, reconfiguring
+[624] 11:31:03: no IP addresses available for routing
+[328] 11:31:05: Service received control request 5
+[1180] 11:31:05: sending out final updates.
+[1180] 11:31:05: update thread stopping.
+[624] 11:31:05: service received stop request, shutting down
+[624] 11:31:05: deleting RIP routes from system table.
+[624] 11:31:05: Main thread stopping.
+[524] 18:42:24: IPRIP is starting up...
+[524] 18:42:24: LoggingLevel == 1
+[524] 18:42:24: RouteTimeout == 180
+[524] 18:42:24: GarbageTimeout == 120
+[524] 18:42:24: UpdateFrequency == 30
+[524] 18:42:24: AcceptHostRoutes == 0
+[524] 18:42:24: AnnounceHostRoutes == 0
+[524] 18:42:24: AcceptDefaultRoutes == 0
+[524] 18:42:24: AnnounceDefaultRoutes == 0
+[524] 18:42:24: EnableSplitHorizon == 1
+[524] 18:42:24: EnablePoisonedReverse == 1
+[524] 18:42:24: EnableTriggeredUpdates == 1
+[524] 18:42:24: OverwriteStaticRoutes == 0
+[524] 18:42:24: MaxTriggeredUpdateFrequency == 5
+[524] 18:42:24: IPRIP is configured to be silent.
+[524] 18:42:24: no IP addresses available for routing
+[524] 18:42:27: service detected IP address change, reconfiguring
+[524] 18:42:28: service detected IP address change, reconfiguring
+[524] 18:42:28: no IP addresses available for routing
+[524] 18:42:28: service detected IP address change, reconfiguring
+[524] 18:42:29: service detected IP address change, reconfiguring
+[524] 18:42:31: service detected IP address change, reconfiguring
+[524] 18:44:10: service detected IP address change, reconfiguring
+[524] 18:44:10: service detected IP address change, reconfiguring
+[524] 18:44:16: service detected IP address change, reconfiguring
+[524] 19:28:38: service detected IP address change, reconfiguring
+[524] 00:51:11: service detected IP address change, reconfiguring
+[524] 00:51:17: service detected IP address change, reconfiguring
+[524] 00:52:08: service detected IP address change, reconfiguring
+[524] 00:52:47: service detected IP address change, reconfiguring
+[524] 00:52:48: service detected IP address change, reconfiguring
+[524] 00:52:54: service detected IP address change, reconfiguring
+[524] 00:53:05: service detected IP address change, reconfiguring
+[524] 00:53:13: service detected IP address change, reconfiguring
+[524] 00:53:52: service detected IP address change, reconfiguring
+[524] 00:53:58: service detected IP address change, reconfiguring
+[524] 00:54:08: service detected IP address change, reconfiguring
+[524] 00:57:25: service detected IP address change, reconfiguring
+[524] 00:57:30: service detected IP address change, reconfiguring
+[524] 01:16:03: service detected IP address change, reconfiguring
+[524] 01:17:10: service detected IP address change, reconfiguring
+[524] 01:17:28: service detected IP address change, reconfiguring
+[524] 01:19:32: service detected IP address change, reconfiguring
+[524] 02:57:24: service detected IP address change, reconfiguring
+[524] 02:57:29: service detected IP address change, reconfiguring
+[524] 02:57:33: service detected IP address change, reconfiguring
+[524] 02:58:36: service detected IP address change, reconfiguring
+[524] 02:58:51: service detected IP address change, reconfiguring
+[524] 03:03:12: service detected IP address change, reconfiguring
+[524] 03:03:40: service detected IP address change, reconfiguring
+[524] 03:08:50: service detected IP address change, reconfiguring
+[524] 03:10:17: service detected IP address change, reconfiguring
+[524] 03:11:12: service detected IP address change, reconfiguring
+[524] 03:11:35: service detected IP address change, reconfiguring
+[524] 03:12:21: service detected IP address change, reconfiguring
+[524] 03:14:53: service detected IP address change, reconfiguring
+[524] 03:15:57: service detected IP address change, reconfiguring
+[524] 03:20:42: service detected IP address change, reconfiguring
+[524] 03:22:51: service detected IP address change, reconfiguring
+[524] 04:07:40: service detected IP address change, reconfiguring
+[524] 04:07:40: service detected IP address change, reconfiguring
+[524] 04:07:40: no IP addresses available for routing
+[524] 04:07:40: service detected IP address change, reconfiguring
+[524] 04:07:40: no IP addresses available for routing
+[524] 04:07:41: service detected IP address change, reconfiguring
+[524] 04:07:41: no IP addresses available for routing
+[524] 04:07:46: service detected IP address change, reconfiguring
+[524] 04:07:47: no IP addresses available for routing
+[524] 04:07:50: service detected IP address change, reconfiguring
+[524] 04:07:51: service detected IP address change, reconfiguring
+[524] 04:07:51: service detected IP address change, reconfiguring
+[524] 04:07:51: service detected IP address change, reconfiguring
+[524] 04:07:51: no IP addresses available for routing
+[524] 04:07:51: service detected IP address change, reconfiguring
+[524] 04:07:51: no IP addresses available for routing
+[524] 04:07:57: service detected IP address change, reconfiguring
+[524] 04:07:58: no IP addresses available for routing
+[524] 04:08:01: service detected IP address change, reconfiguring
+[524] 04:08:05: service detected IP address change, reconfiguring
+[524] 04:08:05: no IP addresses available for routing
+[524] 04:08:05: service detected IP address change, reconfiguring
+[524] 04:08:05: service detected IP address change, reconfiguring
+[524] 04:08:05: no IP addresses available for routing
+[524] 04:08:05: service detected IP address change, reconfiguring
+[524] 04:08:06: no IP addresses available for routing
+[524] 04:08:11: service detected IP address change, reconfiguring
+[524] 04:08:12: no IP addresses available for routing
+[524] 04:08:15: service detected IP address change, reconfiguring
+[524] 04:08:16: service detected IP address change, reconfiguring
+[524] 04:08:16: no IP addresses available for routing
+[524] 04:08:16: service detected IP address change, reconfiguring
+[524] 04:08:19: service detected IP address change, reconfiguring
+[524] 10:30:59: service detected IP address change, reconfiguring
+[524] 10:31:00: no IP addresses available for routing
+[524] 10:31:04: service detected IP address change, reconfiguring
+[524] 10:31:13: service detected IP address change, reconfiguring
+[524] 10:31:13: no IP addresses available for routing
+[524] 10:31:19: service detected IP address change, reconfiguring
+[524] 13:24:24: service detected IP address change, reconfiguring
+[524] 13:24:24: no IP addresses available for routing
+[524] 13:25:51: service detected IP address change, reconfiguring
+[524] 13:26:00: service detected IP address change, reconfiguring
+[524] 13:26:00: no IP addresses available for routing
+[524] 13:26:05: service detected IP address change, reconfiguring
+[524] 13:26:32: service detected IP address change, reconfiguring
+[524] 13:26:32: no IP addresses available for routing
+[524] 13:27:37: service detected IP address change, reconfiguring
+[524] 13:27:46: service detected IP address change, reconfiguring
+[524] 13:27:46: no IP addresses available for routing
+[524] 13:27:52: service detected IP address change, reconfiguring
+[424] 15:04:15: Service received control request 5
+[608] 15:04:15: sending out final updates.
+[608] 15:04:15: update thread stopping.
+[524] 15:04:15: service received stop request, shutting down
+[524] 15:04:15: deleting RIP routes from system table.
+[524] 15:04:16: Main thread stopping.
+[472] 16:33:01: IPRIP is starting up...
+[472] 16:33:01: LoggingLevel == 1
+[472] 16:33:01: RouteTimeout == 180
+[472] 16:33:01: GarbageTimeout == 120
+[472] 16:33:01: UpdateFrequency == 30
+[472] 16:33:01: AcceptHostRoutes == 0
+[472] 16:33:01: AnnounceHostRoutes == 0
+[472] 16:33:01: AcceptDefaultRoutes == 0
+[472] 16:33:01: AnnounceDefaultRoutes == 0
+[472] 16:33:01: EnableSplitHorizon == 1
+[472] 16:33:01: EnablePoisonedReverse == 1
+[472] 16:33:01: EnableTriggeredUpdates == 1
+[472] 16:33:01: OverwriteStaticRoutes == 0
+[472] 16:33:01: MaxTriggeredUpdateFrequency == 5
+[472] 16:33:01: IPRIP is configured to be silent.
+[472] 16:33:03: service detected IP address change, reconfiguring
+[472] 16:33:05: service detected IP address change, reconfiguring
+[472] 16:33:52: service detected IP address change, reconfiguring
+[472] 16:33:53: service detected IP address change, reconfiguring
+[472] 16:33:59: service detected IP address change, reconfiguring
+[472] 18:37:59: service detected IP address change, reconfiguring
+[472] 18:37:59: no IP addresses available for routing
+[472] 18:38:04: service detected IP address change, reconfiguring
+[472] 18:38:14: service detected IP address change, reconfiguring
+[472] 18:38:14: no IP addresses available for routing
+[472] 18:38:19: service detected IP address change, reconfiguring
+[472] 19:16:09: service detected IP address change, reconfiguring
+[472] 19:16:09: no IP addresses available for routing
+[556] 19:16:40: Service received control request 5
+[1208] 19:16:40: sending out final updates.
+[1208] 19:16:40: update thread stopping.
+[472] 19:16:40: service received stop request, shutting down
+[472] 19:16:40: deleting RIP routes from system table.
+[472] 19:16:40: Main thread stopping.
+[1296] 04:57:19: IPRIP is starting up...
+[1296] 04:57:19: LoggingLevel == 1
+[1296] 04:57:19: RouteTimeout == 180
+[1296] 04:57:19: GarbageTimeout == 120
+[1296] 04:57:19: UpdateFrequency == 30
+[1296] 04:57:19: AcceptHostRoutes == 0
+[1296] 04:57:19: AnnounceHostRoutes == 0
+[1296] 04:57:19: AcceptDefaultRoutes == 0
+[1296] 04:57:19: AnnounceDefaultRoutes == 0
+[1296] 04:57:19: EnableSplitHorizon == 1
+[1296] 04:57:19: EnablePoisonedReverse == 1
+[1296] 04:57:19: EnableTriggeredUpdates == 1
+[1296] 04:57:19: OverwriteStaticRoutes == 0
+[1296] 04:57:19: MaxTriggeredUpdateFrequency == 5
+[1296] 04:57:19: IPRIP is configured to be silent.
+[1296] 04:57:23: service detected IP address change, reconfiguring
+[1296] 04:57:23: no IP addresses available for routing
+[1296] 04:57:23: service detected IP address change, reconfiguring
+[1296] 04:57:24: service detected IP address change, reconfiguring
+[1296] 04:57:27: service detected IP address change, reconfiguring
+[1296] 04:58:04: service detected IP address change, reconfiguring
+[1296] 04:58:04: service detected IP address change, reconfiguring
+[1296] 04:58:10: service detected IP address change, reconfiguring
+[1260] 00:14:05: Service received control request 5
+[1296] 00:14:05: service received stop request, shutting down
+[1340] 00:14:05: sending out final updates.
+[1340] 00:14:05: update thread stopping.
+[1296] 00:14:05: deleting RIP routes from system table.
+[1296] 00:14:05: Main thread stopping.
+[1140] 21:17:31: IPRIP is starting up...
+[1140] 21:17:31: LoggingLevel == 1
+[1140] 21:17:31: RouteTimeout == 180
+[1140] 21:17:31: GarbageTimeout == 120
+[1140] 21:17:31: UpdateFrequency == 30
+[1140] 21:17:31: AcceptHostRoutes == 0
+[1140] 21:17:31: AnnounceHostRoutes == 0
+[1140] 21:17:31: AcceptDefaultRoutes == 0
+[1140] 21:17:31: AnnounceDefaultRoutes == 0
+[1140] 21:17:31: EnableSplitHorizon == 1
+[1140] 21:17:31: EnablePoisonedReverse == 1
+[1140] 21:17:31: EnableTriggeredUpdates == 1
+[1140] 21:17:31: OverwriteStaticRoutes == 0
+[1140] 21:17:31: MaxTriggeredUpdateFrequency == 5
+[1140] 21:17:31: IPRIP is configured to be silent.
+[1140] 21:17:31: no IP addresses available for routing
+[1140] 21:17:32: service detected IP address change, reconfiguring
+[1140] 21:17:35: service detected IP address change, reconfiguring
+[1140] 21:17:36: service detected IP address change, reconfiguring
+[1140] 21:18:31: service detected IP address change, reconfiguring
+[1140] 21:18:31: service detected IP address change, reconfiguring
+[1140] 21:18:32: service detected IP address change, reconfiguring
+[1140] 21:18:38: service detected IP address change, reconfiguring
+[1140] 23:03:53: service detected IP address change, reconfiguring
+[1140] 23:03:53: no IP addresses available for routing
+[1140] 23:07:10: service detected IP address change, reconfiguring
+[1104] 23:25:11: Service received control request 5
+[1212] 23:25:11: sending out final updates.
+[1212] 23:25:11: update thread stopping.
+[1140] 23:25:11: service received stop request, shutting down
+[1140] 23:25:11: deleting RIP routes from system table.
+[1140] 23:25:11: Main thread stopping.
+[448] 23:25:30: IPRIP is starting up...
+[448] 23:25:30: LoggingLevel == 1
+[448] 23:25:30: RouteTimeout == 180
+[448] 23:25:30: GarbageTimeout == 120
+[448] 23:25:30: UpdateFrequency == 30
+[448] 23:25:30: AcceptHostRoutes == 0
+[448] 23:25:30: AnnounceHostRoutes == 0
+[448] 23:25:30: AcceptDefaultRoutes == 0
+[448] 23:25:30: AnnounceDefaultRoutes == 0
+[448] 23:25:30: EnableSplitHorizon == 1
+[448] 23:25:30: EnablePoisonedReverse == 1
+[448] 23:25:30: EnableTriggeredUpdates == 1
+[448] 23:25:30: OverwriteStaticRoutes == 0
+[448] 23:25:30: MaxTriggeredUpdateFrequency == 5
+[448] 23:25:30: IPRIP is configured to be silent.
+[448] 23:25:31: service detected IP address change, reconfiguring
+[448] 23:25:34: service detected IP address change, reconfiguring
+[448] 23:25:36: service detected IP address change, reconfiguring
+[448] 23:26:00: service detected IP address change, reconfiguring
+[448] 23:26:06: service detected IP address change, reconfiguring
+[448] 01:52:37: service detected IP address change, reconfiguring
+[448] 01:52:42: no IP addresses available for routing
+[416] 01:53:04: Service received control request 5
+[624] 01:53:04: sending out final updates.
+[448] 01:53:04: service received stop request, shutting down
+[624] 01:53:04: update thread stopping.
+[448] 01:53:04: deleting RIP routes from system table.
+[448] 01:53:04: Main thread stopping.
+[1228] 11:55:50: IPRIP is starting up...
+[1228] 11:55:50: LoggingLevel == 1
+[1228] 11:55:50: RouteTimeout == 180
+[1228] 11:55:50: GarbageTimeout == 120
+[1228] 11:55:50: UpdateFrequency == 30
+[1228] 11:55:50: AcceptHostRoutes == 0
+[1228] 11:55:50: AnnounceHostRoutes == 0
+[1228] 11:55:50: AcceptDefaultRoutes == 0
+[1228] 11:55:50: AnnounceDefaultRoutes == 0
+[1228] 11:55:50: EnableSplitHorizon == 1
+[1228] 11:55:50: EnablePoisonedReverse == 1
+[1228] 11:55:50: EnableTriggeredUpdates == 1
+[1228] 11:55:50: OverwriteStaticRoutes == 0
+[1228] 11:55:50: MaxTriggeredUpdateFrequency == 5
+[1228] 11:55:50: IPRIP is configured to be silent.
+[1228] 11:55:53: service detected IP address change, reconfiguring
+[1228] 11:55:53: no IP addresses available for routing
+[1228] 11:55:53: service detected IP address change, reconfiguring
+[1228] 11:55:55: service detected IP address change, reconfiguring
+[1228] 11:55:56: service detected IP address change, reconfiguring
+[1228] 11:56:22: service detected IP address change, reconfiguring
+[1228] 11:56:28: service detected IP address change, reconfiguring
+[1228] 11:58:17: service detected IP address change, reconfiguring
+[1228] 11:58:17: service detected IP address change, reconfiguring
+[1228] 11:58:24: service detected IP address change, reconfiguring
+[1228] 12:07:14: service detected IP address change, reconfiguring
+[1228] 12:07:14: no IP addresses available for routing
+[1228] 18:07:20: service detected IP address change, reconfiguring
+[1228] 18:07:20: no IP addresses available for routing
+[1228] 18:07:24: service detected IP address change, reconfiguring
+[1228] 18:07:24: no IP addresses available for routing
+[1228] 23:35:18: service detected IP address change, reconfiguring
+[1228] 23:35:19: service detected IP address change, reconfiguring
+[1228] 23:35:19: no IP addresses available for routing
+[1228] 23:35:19: service detected IP address change, reconfiguring
+[1228] 23:35:22: service detected IP address change, reconfiguring
+[1228] 23:52:57: service detected IP address change, reconfiguring
+[1228] 23:52:57: no IP addresses available for routing
+[1228] 23:53:02: service detected IP address change, reconfiguring
+[1228] 23:53:11: service detected IP address change, reconfiguring
+[1228] 23:53:11: no IP addresses available for routing
+[1228] 23:53:16: service detected IP address change, reconfiguring
+[1200] 00:27:41: Service received control request 5
+[1400] 00:27:41: sending out final updates.
+[1400] 00:27:41: update thread stopping.
+[1228] 00:27:41: service received stop request, shutting down
+[1228] 00:27:41: deleting RIP routes from system table.
+[1228] 00:27:41: Main thread stopping.
+[1164] 12:52:48: IPRIP is starting up...
+[1164] 12:52:48: LoggingLevel == 1
+[1164] 12:52:48: RouteTimeout == 180
+[1164] 12:52:48: GarbageTimeout == 120
+[1164] 12:52:48: UpdateFrequency == 30
+[1164] 12:52:48: AcceptHostRoutes == 0
+[1164] 12:52:48: AnnounceHostRoutes == 0
+[1164] 12:52:48: AcceptDefaultRoutes == 0
+[1164] 12:52:48: AnnounceDefaultRoutes == 0
+[1164] 12:52:48: EnableSplitHorizon == 1
+[1164] 12:52:48: EnablePoisonedReverse == 1
+[1164] 12:52:48: EnableTriggeredUpdates == 1
+[1164] 12:52:48: OverwriteStaticRoutes == 0
+[1164] 12:52:48: MaxTriggeredUpdateFrequency == 5
+[1164] 12:52:48: IPRIP is configured to be silent.
+[1164] 12:52:50: service detected IP address change, reconfiguring
+[1164] 12:54:59: service detected IP address change, reconfiguring
+[1164] 12:54:59: service detected IP address change, reconfiguring
+[1164] 12:55:05: service detected IP address change, reconfiguring
+[1168] 17:14:38: Service received control request 5
+[1268] 17:14:38: sending out final updates.
+[1268] 17:14:38: update thread stopping.
+[1164] 17:14:38: service received stop request, shutting down
+[1164] 17:14:38: deleting RIP routes from system table.
+[1164] 17:14:38: Main thread stopping.
+[2056] 19:32:22: IPRIP is starting up...
+[2056] 19:32:22: LoggingLevel == 1
+[2056] 19:32:22: RouteTimeout == 180
+[2056] 19:32:22: GarbageTimeout == 120
+[2056] 19:32:22: UpdateFrequency == 30
+[2056] 19:32:22: AcceptHostRoutes == 0
+[2056] 19:32:22: AnnounceHostRoutes == 0
+[2056] 19:32:22: AcceptDefaultRoutes == 0
+[2056] 19:32:22: AnnounceDefaultRoutes == 0
+[2056] 19:32:22: EnableSplitHorizon == 1
+[2056] 19:32:22: EnablePoisonedReverse == 1
+[2056] 19:32:22: EnableTriggeredUpdates == 1
+[2056] 19:32:22: OverwriteStaticRoutes == 0
+[2056] 19:32:22: MaxTriggeredUpdateFrequency == 5
+[2056] 19:32:22: IPRIP is configured to be silent.
+[2056] 19:32:23: service detected IP address change, reconfiguring
+[2056] 19:33:14: service detected IP address change, reconfiguring
+[2056] 19:33:14: service detected IP address change, reconfiguring
+[2056] 19:33:21: service detected IP address change, reconfiguring
+[2056] 19:34:52: service detected IP address change, reconfiguring
+[2056] 19:34:52: no IP addresses available for routing
+[2056] 19:36:17: service detected IP address change, reconfiguring
+[2056] 19:36:25: service detected IP address change, reconfiguring
+[2056] 19:36:25: no IP addresses available for routing
+[2056] 19:36:36: service detected IP address change, reconfiguring
+[2056] 20:10:27: service detected IP address change, reconfiguring
+[2056] 20:10:27: no IP addresses available for routing
+[2056] 20:11:14: service detected IP address change, reconfiguring
+[2056] 20:11:14: no IP addresses available for routing
+[2056] 20:11:16: service detected IP address change, reconfiguring
+[2056] 20:11:16: no IP addresses available for routing
+[1448] 20:11:45: Service received control request 5
+[2088] 20:11:45: sending out final updates.
+[2088] 20:11:45: update thread stopping.
+[2056] 20:11:45: service received stop request, shutting down
+[2056] 20:11:45: deleting RIP routes from system table.
+[2056] 20:11:45: Main thread stopping.
+[1228] 07:50:10: IPRIP is starting up...
+[1228] 07:50:10: LoggingLevel == 1
+[1228] 07:50:10: RouteTimeout == 180
+[1228] 07:50:10: GarbageTimeout == 120
+[1228] 07:50:10: UpdateFrequency == 30
+[1228] 07:50:10: AcceptHostRoutes == 0
+[1228] 07:50:10: AnnounceHostRoutes == 0
+[1228] 07:50:10: AcceptDefaultRoutes == 0
+[1228] 07:50:10: AnnounceDefaultRoutes == 0
+[1228] 07:50:10: EnableSplitHorizon == 1
+[1228] 07:50:10: EnablePoisonedReverse == 1
+[1228] 07:50:10: EnableTriggeredUpdates == 1
+[1228] 07:50:10: OverwriteStaticRoutes == 0
+[1228] 07:50:10: MaxTriggeredUpdateFrequency == 5
+[1228] 07:50:10: IPRIP is configured to be silent.
+[1228] 07:50:11: service detected IP address change, reconfiguring
+[1228] 07:51:02: service detected IP address change, reconfiguring
+[1228] 07:51:02: service detected IP address change, reconfiguring
+[1228] 07:51:09: service detected IP address change, reconfiguring
+[1228] 09:17:47: service detected IP address change, reconfiguring
+[1228] 09:17:47: no IP addresses available for routing
+[1228] 09:52:43: service detected IP address change, reconfiguring
+[1168] 10:03:48: Service received control request 5
+[1228] 10:03:48: service received stop request, shutting down
+[1548] 10:03:48: sending out final updates.
+[1548] 10:03:48: update thread stopping.
+[1228] 10:03:48: deleting RIP routes from system table.
+[1228] 10:03:48: Main thread stopping.
+[1420] 14:17:10: IPRIP is starting up...
+[1420] 14:17:10: LoggingLevel == 1
+[1420] 14:17:10: RouteTimeout == 180
+[1420] 14:17:10: GarbageTimeout == 120
+[1420] 14:17:10: UpdateFrequency == 30
+[1420] 14:17:10: AcceptHostRoutes == 0
+[1420] 14:17:10: AnnounceHostRoutes == 0
+[1420] 14:17:10: AcceptDefaultRoutes == 0
+[1420] 14:17:10: AnnounceDefaultRoutes == 0
+[1420] 14:17:10: EnableSplitHorizon == 1
+[1420] 14:17:10: EnablePoisonedReverse == 1
+[1420] 14:17:10: EnableTriggeredUpdates == 1
+[1420] 14:17:10: OverwriteStaticRoutes == 0
+[1420] 14:17:10: MaxTriggeredUpdateFrequency == 5
+[1420] 14:17:10: IPRIP is configured to be silent.
+[1420] 14:17:13: service detected IP address change, reconfiguring
+[1420] 14:17:15: service detected IP address change, reconfiguring
+[1420] 14:17:53: service detected IP address change, reconfiguring
+[1420] 14:17:54: service detected IP address change, reconfiguring
+[1420] 14:18:00: service detected IP address change, reconfiguring
+[1420] 14:27:52: service detected IP address change, reconfiguring
+[1420] 14:29:20: service detected IP address change, reconfiguring
+[1420] 14:29:20: no IP addresses available for routing
+[1420] 14:29:44: service detected IP address change, reconfiguring
+[1420] 14:29:44: no IP addresses available for routing
+[1368] 14:29:55: Service received control request 5
+[1420] 14:29:55: service received stop request, shutting down
+[1580] 14:29:55: sending out final updates.
+[1580] 14:29:55: update thread stopping.
+[1420] 14:29:55: deleting RIP routes from system table.
+[1420] 14:29:55: Main thread stopping.
+[1120] 15:03:04: IPRIP is starting up...
+[1120] 15:03:04: LoggingLevel == 1
+[1120] 15:03:04: RouteTimeout == 180
+[1120] 15:03:04: GarbageTimeout == 120
+[1120] 15:03:04: UpdateFrequency == 30
+[1120] 15:03:04: AcceptHostRoutes == 0
+[1120] 15:03:04: AnnounceHostRoutes == 0
+[1120] 15:03:04: AcceptDefaultRoutes == 0
+[1120] 15:03:04: AnnounceDefaultRoutes == 0
+[1120] 15:03:04: EnableSplitHorizon == 1
+[1120] 15:03:04: EnablePoisonedReverse == 1
+[1120] 15:03:04: EnableTriggeredUpdates == 1
+[1120] 15:03:04: OverwriteStaticRoutes == 0
+[1120] 15:03:04: MaxTriggeredUpdateFrequency == 5
+[1120] 15:03:04: IPRIP is configured to be silent.
+[1120] 15:03:04: no IP addresses available for routing
+[1120] 15:03:05: service detected IP address change, reconfiguring
+[1120] 15:03:05: no IP addresses available for routing
+[1120] 15:03:10: service detected IP address change, reconfiguring
+[1120] 15:03:10: no IP addresses available for routing
+[1120] 15:03:17: service detected IP address change, reconfiguring
+[1120] 15:03:17: no IP addresses available for routing
+[1120] 15:03:18: service detected IP address change, reconfiguring
+[1120] 15:03:18: no IP addresses available for routing
+[1120] 15:03:24: service detected IP address change, reconfiguring
+[1120] 15:03:24: no IP addresses available for routing
+[1120] 15:43:04: service detected IP address change, reconfiguring
+[1120] 15:43:04: service detected IP address change, reconfiguring
+[1120] 15:43:04: no IP addresses available for routing
+[1120] 15:43:04: service detected IP address change, reconfiguring
+[1120] 15:43:08: service detected IP address change, reconfiguring
+[1428] 20:03:30: IPRIP is starting up...
+[1428] 20:03:30: LoggingLevel == 1
+[1428] 20:03:30: RouteTimeout == 180
+[1428] 20:03:30: GarbageTimeout == 120
+[1428] 20:03:30: UpdateFrequency == 30
+[1428] 20:03:30: AcceptHostRoutes == 0
+[1428] 20:03:30: AnnounceHostRoutes == 0
+[1428] 20:03:30: AcceptDefaultRoutes == 0
+[1428] 20:03:30: AnnounceDefaultRoutes == 0
+[1428] 20:03:30: EnableSplitHorizon == 1
+[1428] 20:03:30: EnablePoisonedReverse == 1
+[1428] 20:03:30: EnableTriggeredUpdates == 1
+[1428] 20:03:30: OverwriteStaticRoutes == 0
+[1428] 20:03:30: MaxTriggeredUpdateFrequency == 5
+[1428] 20:03:30: IPRIP is configured to be silent.
+[1428] 20:03:33: service detected IP address change, reconfiguring
+[1428] 20:03:36: service detected IP address change, reconfiguring
+[1428] 20:04:25: service detected IP address change, reconfiguring
+[1428] 20:04:25: service detected IP address change, reconfiguring
+[1428] 20:04:31: service detected IP address change, reconfiguring
+[1428] 20:06:45: service detected IP address change, reconfiguring
+[1428] 21:05:43: service detected IP address change, reconfiguring
+[1428] 21:05:43: no IP addresses available for routing
+[1428] 21:05:48: service detected IP address change, reconfiguring
+[1428] 21:21:35: service detected IP address change, reconfiguring
+[1428] 22:09:05: service detected IP address change, reconfiguring
+[1428] 22:09:06: no IP addresses available for routing
+[1428] 22:26:51: service detected IP address change, reconfiguring
+[1428] 22:26:51: no IP addresses available for routing
+[1428] 22:27:04: service detected IP address change, reconfiguring
+[1428] 22:28:13: service detected IP address change, reconfiguring
+[1428] 22:28:19: service detected IP address change, reconfiguring
+[1428] 22:32:58: service detected IP address change, reconfiguring
+[1428] 22:33:42: service detected IP address change, reconfiguring
+[1428] 22:39:39: service detected IP address change, reconfiguring
+[1428] 22:39:39: no IP addresses available for routing
+[1428] 22:39:43: service detected IP address change, reconfiguring
+[1428] 22:52:03: service detected IP address change, reconfiguring
+[1428] 22:52:27: service detected IP address change, reconfiguring
+[1428] 22:52:45: service detected IP address change, reconfiguring
+[1428] 22:53:24: service detected IP address change, reconfiguring
+[1428] 22:53:54: service detected IP address change, reconfiguring
+[1428] 22:54:13: service detected IP address change, reconfiguring
+[1428] 22:56:37: service detected IP address change, reconfiguring
+[1428] 22:57:11: service detected IP address change, reconfiguring
+[1428] 23:09:13: service detected IP address change, reconfiguring
+[1428] 23:38:22: service detected IP address change, reconfiguring
+[1428] 23:43:46: service detected IP address change, reconfiguring
+[1260] 00:30:34: Service received control request 5
+[1768] 00:30:34: sending out final updates.
+[1768] 00:30:34: update thread stopping.
+[1428] 00:30:34: service received stop request, shutting down
+[1428] 00:30:34: deleting RIP routes from system table.
+[1428] 00:30:35: Main thread stopping.
+[1128] 09:10:52: IPRIP is starting up...
+[1128] 09:10:52: LoggingLevel == 1
+[1128] 09:10:52: RouteTimeout == 180
+[1128] 09:10:52: GarbageTimeout == 120
+[1128] 09:10:52: UpdateFrequency == 30
+[1128] 09:10:52: AcceptHostRoutes == 0
+[1128] 09:10:52: AnnounceHostRoutes == 0
+[1128] 09:10:52: AcceptDefaultRoutes == 0
+[1128] 09:10:52: AnnounceDefaultRoutes == 0
+[1128] 09:10:52: EnableSplitHorizon == 1
+[1128] 09:10:52: EnablePoisonedReverse == 1
+[1128] 09:10:52: EnableTriggeredUpdates == 1
+[1128] 09:10:52: OverwriteStaticRoutes == 0
+[1128] 09:10:52: MaxTriggeredUpdateFrequency == 5
+[1128] 09:10:52: IPRIP is configured to be silent.
+[1128] 09:10:54: service detected IP address change, reconfiguring
+[1128] 09:10:54: no IP addresses available for routing
+[1128] 09:10:54: service detected IP address change, reconfiguring
+[1128] 09:10:57: service detected IP address change, reconfiguring
+[1128] 09:10:57: service detected IP address change, reconfiguring
+[1128] 09:11:42: service detected IP address change, reconfiguring
+[1128] 09:11:42: service detected IP address change, reconfiguring
+[1128] 09:11:43: service detected IP address change, reconfiguring
+[1128] 09:11:49: service detected IP address change, reconfiguring
+[1128] 10:09:19: service detected IP address change, reconfiguring
+[1128] 10:09:19: no IP addresses available for routing
+[1128] 10:18:36: service detected IP address change, reconfiguring
+[1128] 10:18:36: no IP addresses available for routing
+[1128] 10:18:39: service detected IP address change, reconfiguring
+[1128] 10:18:39: no IP addresses available for routing
+[1128] 10:18:46: service detected IP address change, reconfiguring
+[1128] 10:18:46: no IP addresses available for routing
+[1128] 10:18:50: service detected IP address change, reconfiguring
+[1128] 11:05:05: service detected IP address change, reconfiguring
+[1128] 11:05:05: no IP addresses available for routing
+[1128] 11:05:23: service detected IP address change, reconfiguring
+[820] 11:35:46: Service received control request 5
+[1344] 11:35:46: sending out final updates.
+[1344] 11:35:46: update thread stopping.
+[1128] 11:35:46: service received stop request, shutting down
+[1128] 11:35:46: deleting RIP routes from system table.
+[1128] 11:35:46: Main thread stopping.
+[1244] 13:55:21: IPRIP is starting up...
+[1244] 13:55:21: LoggingLevel == 1
+[1244] 13:55:21: RouteTimeout == 180
+[1244] 13:55:21: GarbageTimeout == 120
+[1244] 13:55:21: UpdateFrequency == 30
+[1244] 13:55:21: AcceptHostRoutes == 0
+[1244] 13:55:21: AnnounceHostRoutes == 0
+[1244] 13:55:21: AcceptDefaultRoutes == 0
+[1244] 13:55:21: AnnounceDefaultRoutes == 0
+[1244] 13:55:21: EnableSplitHorizon == 1
+[1244] 13:55:21: EnablePoisonedReverse == 1
+[1244] 13:55:21: EnableTriggeredUpdates == 1
+[1244] 13:55:21: OverwriteStaticRoutes == 0
+[1244] 13:55:21: MaxTriggeredUpdateFrequency == 5
+[1244] 13:55:21: IPRIP is configured to be silent.
+[1244] 13:55:21: no IP addresses available for routing
+[1244] 13:55:22: service detected IP address change, reconfiguring
+[1244] 13:55:22: no IP addresses available for routing
+[1244] 13:55:42: service detected IP address change, reconfiguring
+[1244] 13:55:42: no IP addresses available for routing
+[1244] 13:55:42: service detected IP address change, reconfiguring
+[1244] 13:55:42: no IP addresses available for routing
+[1244] 13:55:48: service detected IP address change, reconfiguring
+[1244] 13:55:48: no IP addresses available for routing
+[1244] 13:57:35: service detected IP address change, reconfiguring
+[1244] 13:57:36: service detected IP address change, reconfiguring
+[1244] 13:57:36: no IP addresses available for routing
+[1244] 13:57:36: service detected IP address change, reconfiguring
+[1244] 13:57:39: service detected IP address change, reconfiguring
+[1224] 14:55:06: Service received control request 5
+[1280] 14:55:06: sending out final updates.
+[1280] 14:55:06: update thread stopping.
+[1244] 14:55:06: service received stop request, shutting down
+[1244] 14:55:06: deleting RIP routes from system table.
+[1244] 14:55:06: Main thread stopping.
+[1420] 07:43:23: IPRIP is starting up...
+[1420] 07:43:23: LoggingLevel == 1
+[1420] 07:43:23: RouteTimeout == 180
+[1420] 07:43:23: GarbageTimeout == 120
+[1420] 07:43:23: UpdateFrequency == 30
+[1420] 07:43:23: AcceptHostRoutes == 0
+[1420] 07:43:23: AnnounceHostRoutes == 0
+[1420] 07:43:23: AcceptDefaultRoutes == 0
+[1420] 07:43:23: AnnounceDefaultRoutes == 0
+[1420] 07:43:23: EnableSplitHorizon == 1
+[1420] 07:43:23: EnablePoisonedReverse == 1
+[1420] 07:43:23: EnableTriggeredUpdates == 1
+[1420] 07:43:23: OverwriteStaticRoutes == 0
+[1420] 07:43:23: MaxTriggeredUpdateFrequency == 5
+[1420] 07:43:23: IPRIP is configured to be silent.
+[1420] 07:43:24: service detected IP address change, reconfiguring
+[1420] 07:43:26: service detected IP address change, reconfiguring
+[1420] 07:43:26: no IP addresses available for routing
+[1420] 07:43:26: service detected IP address change, reconfiguring
+[1420] 07:43:30: service detected IP address change, reconfiguring
+[1420] 07:44:16: service detected IP address change, reconfiguring
+[1420] 07:44:16: service detected IP address change, reconfiguring
+[1420] 07:44:23: service detected IP address change, reconfiguring
+[1420] 08:19:43: service detected IP address change, reconfiguring
+[1420] 08:19:43: no IP addresses available for routing
+[1420] 08:35:55: service detected IP address change, reconfiguring
+[1300] 08:46:54: Service received control request 5
+[1420] 08:46:54: service received stop request, shutting down
+[1468] 08:46:54: sending out final updates.
+[1468] 08:46:54: update thread stopping.
+[1420] 08:46:54: deleting RIP routes from system table.
+[1420] 08:46:54: Main thread stopping.
+[1208] 20:23:20: IPRIP is starting up...
+[1208] 20:23:20: LoggingLevel == 1
+[1208] 20:23:20: RouteTimeout == 180
+[1208] 20:23:20: GarbageTimeout == 120
+[1208] 20:23:20: UpdateFrequency == 30
+[1208] 20:23:20: AcceptHostRoutes == 0
+[1208] 20:23:20: AnnounceHostRoutes == 0
+[1208] 20:23:20: AcceptDefaultRoutes == 0
+[1208] 20:23:20: AnnounceDefaultRoutes == 0
+[1208] 20:23:20: EnableSplitHorizon == 1
+[1208] 20:23:20: EnablePoisonedReverse == 1
+[1208] 20:23:20: EnableTriggeredUpdates == 1
+[1208] 20:23:20: OverwriteStaticRoutes == 0
+[1208] 20:23:20: MaxTriggeredUpdateFrequency == 5
+[1208] 20:23:20: IPRIP is configured to be silent.
+[1208] 20:23:21: service detected IP address change, reconfiguring
+[1208] 20:23:24: service detected IP address change, reconfiguring
+[1208] 20:23:24: no IP addresses available for routing
+[1208] 20:23:24: service detected IP address change, reconfiguring
+[1208] 20:23:25: service detected IP address change, reconfiguring
+[1208] 20:23:27: service detected IP address change, reconfiguring
+[1208] 20:24:03: service detected IP address change, reconfiguring
+[1208] 20:24:03: service detected IP address change, reconfiguring
+[1208] 20:24:09: service detected IP address change, reconfiguring
+[1208] 20:48:00: service detected IP address change, reconfiguring
+[1208] 20:48:00: no IP addresses available for routing
+[1132] 21:34:57: Service received control request 5
+[1276] 21:34:57: sending out final updates.
+[1276] 21:34:57: update thread stopping.
+[1208] 21:34:57: service received stop request, shutting down
+[1208] 21:34:57: deleting RIP routes from system table.
+[1208] 21:34:57: Main thread stopping.
+[616] 21:55:21: IPRIP is starting up...
+[616] 21:55:21: LoggingLevel == 1
+[616] 21:55:21: RouteTimeout == 180
+[616] 21:55:21: GarbageTimeout == 120
+[616] 21:55:21: UpdateFrequency == 30
+[616] 21:55:21: AcceptHostRoutes == 0
+[616] 21:55:21: AnnounceHostRoutes == 0
+[616] 21:55:21: AcceptDefaultRoutes == 0
+[616] 21:55:21: AnnounceDefaultRoutes == 0
+[616] 21:55:21: EnableSplitHorizon == 1
+[616] 21:55:21: EnablePoisonedReverse == 1
+[616] 21:55:21: EnableTriggeredUpdates == 1
+[616] 21:55:21: OverwriteStaticRoutes == 0
+[616] 21:55:21: MaxTriggeredUpdateFrequency == 5
+[616] 21:55:21: IPRIP is configured to be silent.
+[616] 21:55:21: no IP addresses available for routing
+[616] 21:55:21: service detected IP address change, reconfiguring
+[616] 21:55:21: no IP addresses available for routing
+[616] 21:55:26: service detected IP address change, reconfiguring
+[616] 21:55:26: no IP addresses available for routing
+[616] 21:55:35: service detected IP address change, reconfiguring
+[616] 21:55:35: no IP addresses available for routing
+[616] 21:55:35: service detected IP address change, reconfiguring
+[616] 21:55:35: no IP addresses available for routing
+[616] 21:55:41: service detected IP address change, reconfiguring
+[616] 21:55:41: no IP addresses available for routing
+[616] 21:56:49: service detected IP address change, reconfiguring
+[616] 21:56:49: no IP addresses available for routing
+[616] 21:57:36: service detected IP address change, reconfiguring
+[616] 21:57:36: service detected IP address change, reconfiguring
+[616] 21:57:39: service detected IP address change, reconfiguring
+[624] 00:48:26: Service received control request 5
+[724] 00:48:26: sending out final updates.
+[724] 00:48:26: update thread stopping.
+[616] 00:48:26: service received stop request, shutting down
+[616] 00:48:26: deleting RIP routes from system table.
+[616] 00:48:26: Main thread stopping.
+[1376] 09:34:29: IPRIP is starting up...
+[1376] 09:34:29: LoggingLevel == 1
+[1376] 09:34:29: RouteTimeout == 180
+[1376] 09:34:29: GarbageTimeout == 120
+[1376] 09:34:29: UpdateFrequency == 30
+[1376] 09:34:29: AcceptHostRoutes == 0
+[1376] 09:34:29: AnnounceHostRoutes == 0
+[1376] 09:34:29: AcceptDefaultRoutes == 0
+[1376] 09:34:29: AnnounceDefaultRoutes == 0
+[1376] 09:34:29: EnableSplitHorizon == 1
+[1376] 09:34:29: EnablePoisonedReverse == 1
+[1376] 09:34:29: EnableTriggeredUpdates == 1
+[1376] 09:34:29: OverwriteStaticRoutes == 0
+[1376] 09:34:29: MaxTriggeredUpdateFrequency == 5
+[1376] 09:34:29: IPRIP is configured to be silent.
+[1376] 09:34:31: service detected IP address change, reconfiguring
+[1376] 09:34:32: service detected IP address change, reconfiguring
+[1376] 09:35:23: service detected IP address change, reconfiguring
+[1376] 09:35:23: service detected IP address change, reconfiguring
+[1376] 09:35:23: service detected IP address change, reconfiguring
+[1376] 09:35:29: service detected IP address change, reconfiguring
+[1376] 11:41:07: service detected IP address change, reconfiguring
+[1376] 11:41:07: no IP addresses available for routing
+[1376] 12:27:25: service detected IP address change, reconfiguring
+[1296] 12:28:16: Service received control request 5
+[1376] 12:28:16: service received stop request, shutting down
+[1404] 12:28:16: sending out final updates.
+[1404] 12:28:16: update thread stopping.
+[1376] 12:28:16: deleting RIP routes from system table.
+[1376] 12:28:16: Main thread stopping.
+[1208] 14:04:51: IPRIP is starting up...
+[1208] 14:04:51: LoggingLevel == 1
+[1208] 14:04:51: RouteTimeout == 180
+[1208] 14:04:51: GarbageTimeout == 120
+[1208] 14:04:51: UpdateFrequency == 30
+[1208] 14:04:51: AcceptHostRoutes == 0
+[1208] 14:04:51: AnnounceHostRoutes == 0
+[1208] 14:04:51: AcceptDefaultRoutes == 0
+[1208] 14:04:51: AnnounceDefaultRoutes == 0
+[1208] 14:04:51: EnableSplitHorizon == 1
+[1208] 14:04:51: EnablePoisonedReverse == 1
+[1208] 14:04:51: EnableTriggeredUpdates == 1
+[1208] 14:04:51: OverwriteStaticRoutes == 0
+[1208] 14:04:51: MaxTriggeredUpdateFrequency == 5
+[1208] 14:04:51: IPRIP is configured to be silent.
+[1208] 14:04:53: service detected IP address change, reconfiguring
+[1208] 14:04:54: service detected IP address change, reconfiguring
+[1208] 14:05:44: service detected IP address change, reconfiguring
+[1208] 14:05:44: service detected IP address change, reconfiguring
+[1208] 14:05:50: service detected IP address change, reconfiguring
+[1208] 14:37:57: service detected IP address change, reconfiguring
+[1208] 14:37:57: no IP addresses available for routing
+[1180] 14:37:59: Service received control request 5
+[1208] 14:37:59: service received stop request, shutting down
+[1200] 14:37:59: sending out final updates.
+[1200] 14:37:59: update thread stopping.
+[1208] 14:37:59: deleting RIP routes from system table.
+[1208] 14:37:59: Main thread stopping.
+[1268] 16:46:01: IPRIP is starting up...
+[1268] 16:46:01: LoggingLevel == 1
+[1268] 16:46:01: RouteTimeout == 180
+[1268] 16:46:01: GarbageTimeout == 120
+[1268] 16:46:01: UpdateFrequency == 30
+[1268] 16:46:01: AcceptHostRoutes == 0
+[1268] 16:46:01: AnnounceHostRoutes == 0
+[1268] 16:46:01: AcceptDefaultRoutes == 0
+[1268] 16:46:01: AnnounceDefaultRoutes == 0
+[1268] 16:46:01: EnableSplitHorizon == 1
+[1268] 16:46:01: EnablePoisonedReverse == 1
+[1268] 16:46:01: EnableTriggeredUpdates == 1
+[1268] 16:46:01: OverwriteStaticRoutes == 0
+[1268] 16:46:01: MaxTriggeredUpdateFrequency == 5
+[1268] 16:46:01: IPRIP is configured to be silent.
+[1268] 16:46:03: service detected IP address change, reconfiguring
+[1268] 16:46:04: service detected IP address change, reconfiguring
+[1268] 16:46:54: service detected IP address change, reconfiguring
+[1268] 16:46:54: service detected IP address change, reconfiguring
+[1268] 16:47:00: service detected IP address change, reconfiguring
+[1268] 21:33:11: service detected IP address change, reconfiguring
+[1268] 21:33:15: no IP addresses available for routing
+[1268] 21:33:19: service detected IP address change, reconfiguring
+[1268] 22:28:26: service detected IP address change, reconfiguring
+[1268] 22:28:26: no IP addresses available for routing
+[1268] 22:29:49: service detected IP address change, reconfiguring
+[1268] 22:29:50: no IP addresses available for routing
+[704] 21:55:46: IPRIP is starting up...
+[704] 21:55:46: LoggingLevel == 1
+[704] 21:55:46: RouteTimeout == 180
+[704] 21:55:46: GarbageTimeout == 120
+[704] 21:55:46: UpdateFrequency == 30
+[704] 21:55:46: AcceptHostRoutes == 0
+[704] 21:55:46: AnnounceHostRoutes == 0
+[704] 21:55:46: AcceptDefaultRoutes == 0
+[704] 21:55:46: AnnounceDefaultRoutes == 0
+[704] 21:55:46: EnableSplitHorizon == 1
+[704] 21:55:46: EnablePoisonedReverse == 1
+[704] 21:55:46: EnableTriggeredUpdates == 1
+[704] 21:55:46: OverwriteStaticRoutes == 0
+[704] 21:55:46: MaxTriggeredUpdateFrequency == 5
+[704] 21:55:46: IPRIP is configured to be silent.
+[704] 21:55:48: service detected IP address change, reconfiguring
+[704] 21:55:51: service detected IP address change, reconfiguring
+[704] 21:55:52: service detected IP address change, reconfiguring
+[704] 21:58:21: service detected IP address change, reconfiguring
+[704] 21:58:21: service detected IP address change, reconfiguring
+[704] 21:58:28: service detected IP address change, reconfiguring
+[456] 00:20:10: Service received control request 5
+[704] 00:20:10: service received stop request, shutting down
+[1176] 00:20:10: sending out final updates.
+[1176] 00:20:10: update thread stopping.
+[704] 00:20:10: deleting RIP routes from system table.
+[704] 00:20:10: Main thread stopping.
+[1100] 05:55:40: IPRIP is starting up...
+[1100] 05:55:40: LoggingLevel == 1
+[1100] 05:55:40: RouteTimeout == 180
+[1100] 05:55:40: GarbageTimeout == 120
+[1100] 05:55:40: UpdateFrequency == 30
+[1100] 05:55:40: AcceptHostRoutes == 0
+[1100] 05:55:40: AnnounceHostRoutes == 0
+[1100] 05:55:40: AcceptDefaultRoutes == 0
+[1100] 05:55:40: AnnounceDefaultRoutes == 0
+[1100] 05:55:40: EnableSplitHorizon == 1
+[1100] 05:55:40: EnablePoisonedReverse == 1
+[1100] 05:55:40: EnableTriggeredUpdates == 1
+[1100] 05:55:40: OverwriteStaticRoutes == 0
+[1100] 05:55:40: MaxTriggeredUpdateFrequency == 5
+[1100] 05:55:40: IPRIP is configured to be silent.
+[1100] 05:55:43: service detected IP address change, reconfiguring
+[1100] 05:55:45: service detected IP address change, reconfiguring
+[1100] 05:55:46: service detected IP address change, reconfiguring
+[1100] 05:57:05: service detected IP address change, reconfiguring
+[1100] 05:57:06: service detected IP address change, reconfiguring
+[1100] 05:57:12: service detected IP address change, reconfiguring
+[708] 07:29:05: Service received control request 5
+[1288] 07:29:05: sending out final updates.
+[1288] 07:29:05: update thread stopping.
+[1100] 07:29:05: service received stop request, shutting down
+[1100] 07:29:05: deleting RIP routes from system table.
+[1100] 07:29:05: Main thread stopping.
+[1308] 18:58:22: IPRIP is starting up...
+[1308] 18:58:22: LoggingLevel == 1
+[1308] 18:58:22: RouteTimeout == 180
+[1308] 18:58:22: GarbageTimeout == 120
+[1308] 18:58:22: UpdateFrequency == 30
+[1308] 18:58:22: AcceptHostRoutes == 0
+[1308] 18:58:22: AnnounceHostRoutes == 0
+[1308] 18:58:22: AcceptDefaultRoutes == 0
+[1308] 18:58:22: AnnounceDefaultRoutes == 0
+[1308] 18:58:22: EnableSplitHorizon == 1
+[1308] 18:58:22: EnablePoisonedReverse == 1
+[1308] 18:58:22: EnableTriggeredUpdates == 1
+[1308] 18:58:22: OverwriteStaticRoutes == 0
+[1308] 18:58:22: MaxTriggeredUpdateFrequency == 5
+[1308] 18:58:22: IPRIP is configured to be silent.
+[1308] 18:58:22: no IP addresses available for routing
+[1308] 18:58:26: service detected IP address change, reconfiguring
+[1308] 18:58:26: no IP addresses available for routing
+[1308] 18:58:27: service detected IP address change, reconfiguring
+[1308] 18:58:27: no IP addresses available for routing
+[1308] 18:58:38: service detected IP address change, reconfiguring
+[1308] 18:58:38: no IP addresses available for routing
+[1308] 18:58:38: service detected IP address change, reconfiguring
+[1308] 18:58:40: service detected IP address change, reconfiguring
+[1308] 18:58:40: no IP addresses available for routing
+[1308] 18:58:40: service detected IP address change, reconfiguring
+[1308] 18:58:43: service detected IP address change, reconfiguring
+[1308] 18:58:44: service detected IP address change, reconfiguring
+[1308] 19:02:23: service detected IP address change, reconfiguring
+[1308] 19:02:45: service detected IP address change, reconfiguring
+[1308] 19:26:09: service detected IP address change, reconfiguring
+[1308] 19:26:25: service detected IP address change, reconfiguring
+[1308] 19:55:10: service detected IP address change, reconfiguring
+[1308] 19:57:21: service detected IP address change, reconfiguring
+[1308] 20:31:43: service detected IP address change, reconfiguring
+[1308] 23:14:11: service detected IP address change, reconfiguring
+[1308] 23:14:24: service detected IP address change, reconfiguring
+[1308] 23:14:26: service detected IP address change, reconfiguring
+[1308] 23:14:31: service detected IP address change, reconfiguring
+[1216] 02:37:03: Service received control request 5
+[1396] 02:37:03: sending out final updates.
+[1396] 02:37:03: update thread stopping.
+[1308] 02:37:03: service received stop request, shutting down
+[1308] 02:37:03: deleting RIP routes from system table.
+[1308] 02:37:04: Main thread stopping.
+[996] 15:51:41: IPRIP is starting up...
+[996] 15:51:41: LoggingLevel == 1
+[996] 15:51:41: RouteTimeout == 180
+[996] 15:51:41: GarbageTimeout == 120
+[996] 15:51:41: UpdateFrequency == 30
+[996] 15:51:41: AcceptHostRoutes == 0
+[996] 15:51:41: AnnounceHostRoutes == 0
+[996] 15:51:41: AcceptDefaultRoutes == 0
+[996] 15:51:41: AnnounceDefaultRoutes == 0
+[996] 15:51:41: EnableSplitHorizon == 1
+[996] 15:51:41: EnablePoisonedReverse == 1
+[996] 15:51:41: EnableTriggeredUpdates == 1
+[996] 15:51:41: OverwriteStaticRoutes == 0
+[996] 15:51:41: MaxTriggeredUpdateFrequency == 5
+[996] 15:51:41: IPRIP is configured to be silent.
+[996] 15:51:43: service detected IP address change, reconfiguring
+[996] 15:51:43: service detected IP address change, reconfiguring
+[996] 15:51:46: service detected IP address change, reconfiguring
+[996] 15:51:46: service detected IP address change, reconfiguring
+[996] 15:52:27: service detected IP address change, reconfiguring
+[996] 15:52:27: service detected IP address change, reconfiguring
+[996] 15:52:28: service detected IP address change, reconfiguring
+[996] 15:52:34: service detected IP address change, reconfiguring
+[400] 18:14:11: Service received control request 5
+[1276] 18:14:11: sending out final updates.
+[1276] 18:14:11: update thread stopping.
+[996] 18:14:11: service received stop request, shutting down
+[996] 18:14:11: deleting RIP routes from system table.
+[996] 18:14:11: Main thread stopping.
+[1456] 18:25:53: IPRIP is starting up...
+[1456] 18:25:53: LoggingLevel == 1
+[1456] 18:25:53: RouteTimeout == 180
+[1456] 18:25:53: GarbageTimeout == 120
+[1456] 18:25:53: UpdateFrequency == 30
+[1456] 18:25:53: AcceptHostRoutes == 0
+[1456] 18:25:53: AnnounceHostRoutes == 0
+[1456] 18:25:53: AcceptDefaultRoutes == 0
+[1456] 18:25:53: AnnounceDefaultRoutes == 0
+[1456] 18:25:53: EnableSplitHorizon == 1
+[1456] 18:25:53: EnablePoisonedReverse == 1
+[1456] 18:25:53: EnableTriggeredUpdates == 1
+[1456] 18:25:53: OverwriteStaticRoutes == 0
+[1456] 18:25:53: MaxTriggeredUpdateFrequency == 5
+[1456] 18:25:53: IPRIP is configured to be silent.
+[1456] 18:25:54: service detected IP address change, reconfiguring
+[1456] 18:25:55: service detected IP address change, reconfiguring
+[1456] 18:26:47: service detected IP address change, reconfiguring
+[1456] 18:26:48: service detected IP address change, reconfiguring
+[1456] 18:26:54: service detected IP address change, reconfiguring
+[1380] 19:04:10: Service received control request 5
+[1488] 19:04:10: sending out final updates.
+[1488] 19:04:10: update thread stopping.
+[1456] 19:04:10: service received stop request, shutting down
+[1456] 19:04:10: deleting RIP routes from system table.
+[1456] 19:04:10: Main thread stopping.
+[1364] 19:38:33: IPRIP is starting up...
+[1364] 19:38:33: LoggingLevel == 1
+[1364] 19:38:33: RouteTimeout == 180
+[1364] 19:38:33: GarbageTimeout == 120
+[1364] 19:38:33: UpdateFrequency == 30
+[1364] 19:38:33: AcceptHostRoutes == 0
+[1364] 19:38:33: AnnounceHostRoutes == 0
+[1364] 19:38:33: AcceptDefaultRoutes == 0
+[1364] 19:38:33: AnnounceDefaultRoutes == 0
+[1364] 19:38:33: EnableSplitHorizon == 1
+[1364] 19:38:33: EnablePoisonedReverse == 1
+[1364] 19:38:33: EnableTriggeredUpdates == 1
+[1364] 19:38:33: OverwriteStaticRoutes == 0
+[1364] 19:38:33: MaxTriggeredUpdateFrequency == 5
+[1364] 19:38:33: IPRIP is configured to be silent.
+[1364] 19:38:34: service detected IP address change, reconfiguring
+[1364] 19:38:35: service detected IP address change, reconfiguring
+[1364] 19:39:25: service detected IP address change, reconfiguring
+[1364] 19:39:25: service detected IP address change, reconfiguring
+[1364] 19:39:32: service detected IP address change, reconfiguring
+[1340] 19:49:46: Service received control request 5
+[1612] 19:49:46: sending out final updates.
+[1612] 19:49:46: update thread stopping.
+[1364] 19:49:46: service received stop request, shutting down
+[1364] 19:49:46: deleting RIP routes from system table.
+[1364] 19:49:46: Main thread stopping.
+[1632] 21:46:34: IPRIP is starting up...
+[1632] 21:46:34: LoggingLevel == 1
+[1632] 21:46:34: RouteTimeout == 180
+[1632] 21:46:34: GarbageTimeout == 120
+[1632] 21:46:34: UpdateFrequency == 30
+[1632] 21:46:34: AcceptHostRoutes == 0
+[1632] 21:46:34: AnnounceHostRoutes == 0
+[1632] 21:46:34: AcceptDefaultRoutes == 0
+[1632] 21:46:34: AnnounceDefaultRoutes == 0
+[1632] 21:46:34: EnableSplitHorizon == 1
+[1632] 21:46:34: EnablePoisonedReverse == 1
+[1632] 21:46:34: EnableTriggeredUpdates == 1
+[1632] 21:46:34: OverwriteStaticRoutes == 0
+[1632] 21:46:34: MaxTriggeredUpdateFrequency == 5
+[1632] 21:46:34: IPRIP is configured to be silent.
+[1632] 21:46:35: service detected IP address change, reconfiguring
+[1632] 21:46:36: service detected IP address change, reconfiguring
+[1632] 21:47:27: service detected IP address change, reconfiguring
+[1632] 21:47:27: service detected IP address change, reconfiguring
+[1632] 21:47:33: service detected IP address change, reconfiguring
+[1340] 22:18:54: Service received control request 5
+[1632] 22:18:54: service received stop request, shutting down
+[1764] 22:18:54: sending out final updates.
+[1764] 22:18:54: update thread stopping.
+[1632] 22:18:54: deleting RIP routes from system table.
+[1632] 22:18:54: Main thread stopping.
+[1432] 16:48:38: IPRIP is starting up...
+[1432] 16:48:38: LoggingLevel == 1
+[1432] 16:48:38: RouteTimeout == 180
+[1432] 16:48:38: GarbageTimeout == 120
+[1432] 16:48:38: UpdateFrequency == 30
+[1432] 16:48:38: AcceptHostRoutes == 0
+[1432] 16:48:38: AnnounceHostRoutes == 0
+[1432] 16:48:38: AcceptDefaultRoutes == 0
+[1432] 16:48:38: AnnounceDefaultRoutes == 0
+[1432] 16:48:38: EnableSplitHorizon == 1
+[1432] 16:48:38: EnablePoisonedReverse == 1
+[1432] 16:48:38: EnableTriggeredUpdates == 1
+[1432] 16:48:38: OverwriteStaticRoutes == 0
+[1432] 16:48:38: MaxTriggeredUpdateFrequency == 5
+[1432] 16:48:38: IPRIP is configured to be silent.
+[1432] 16:48:41: service detected IP address change, reconfiguring
+[1432] 16:48:41: service detected IP address change, reconfiguring
+[1432] 16:48:43: service detected IP address change, reconfiguring
+[1432] 16:48:44: service detected IP address change, reconfiguring
+[1432] 16:49:14: service detected IP address change, reconfiguring
+[1432] 16:49:20: service detected IP address change, reconfiguring
+[1316] 16:55:04: Service received control request 5
+[1632] 16:55:04: sending out final updates.
+[1632] 16:55:04: update thread stopping.
+[1432] 16:55:04: service received stop request, shutting down
+[1432] 16:55:04: deleting RIP routes from system table.
+[1432] 16:55:04: Main thread stopping.
+[1564] 18:47:11: IPRIP is starting up...
+[1564] 18:47:11: LoggingLevel == 1
+[1564] 18:47:11: RouteTimeout == 180
+[1564] 18:47:11: GarbageTimeout == 120
+[1564] 18:47:11: UpdateFrequency == 30
+[1564] 18:47:11: AcceptHostRoutes == 0
+[1564] 18:47:11: AnnounceHostRoutes == 0
+[1564] 18:47:11: AcceptDefaultRoutes == 0
+[1564] 18:47:11: AnnounceDefaultRoutes == 0
+[1564] 18:47:11: EnableSplitHorizon == 1
+[1564] 18:47:11: EnablePoisonedReverse == 1
+[1564] 18:47:11: EnableTriggeredUpdates == 1
+[1564] 18:47:11: OverwriteStaticRoutes == 0
+[1564] 18:47:11: MaxTriggeredUpdateFrequency == 5
+[1564] 18:47:11: IPRIP is configured to be silent.
+[1564] 18:47:13: service detected IP address change, reconfiguring
+[1564] 18:47:14: service detected IP address change, reconfiguring
+[1564] 18:48:05: service detected IP address change, reconfiguring
+[1564] 18:48:05: service detected IP address change, reconfiguring
+[1564] 18:48:06: service detected IP address change, reconfiguring
+[1564] 18:48:12: service detected IP address change, reconfiguring
+[1564] 19:17:20: service detected IP address change, reconfiguring
+[1564] 19:17:20: no IP addresses available for routing
+[1564] 19:37:51: service detected IP address change, reconfiguring
+[1564] 22:18:03: service detected IP address change, reconfiguring
+[1564] 22:18:03: no IP addresses available for routing
+[1564] 22:18:05: service detected IP address change, reconfiguring
+[1564] 22:18:05: no IP addresses available for routing
+[1564] 22:18:08: service detected IP address change, reconfiguring
+[1564] 22:18:08: no IP addresses available for routing
+[1564] 22:19:11: service detected IP address change, reconfiguring
+[1564] 00:01:03: service detected IP address change, reconfiguring
+[1564] 00:01:03: no IP addresses available for routing
+[1564] 06:01:09: service detected IP address change, reconfiguring
+[1564] 06:01:09: no IP addresses available for routing
+[1564] 06:01:11: service detected IP address change, reconfiguring
+[1564] 06:01:11: no IP addresses available for routing
+[1564] 17:20:25: service detected IP address change, reconfiguring
+[1564] 17:20:25: no IP addresses available for routing
+[1564] 17:20:25: service detected IP address change, reconfiguring
+[1564] 17:20:29: service detected IP address change, reconfiguring
+[1368] 19:40:31: Service received control request 5
+[1636] 19:40:31: sending out final updates.
+[1636] 19:40:31: update thread stopping.
+[1564] 19:40:31: service received stop request, shutting down
+[1564] 19:40:31: deleting RIP routes from system table.
+[1564] 19:40:32: Main thread stopping.
+[1868] 19:41:51: IPRIP is starting up...
+[1868] 19:41:51: LoggingLevel == 1
+[1868] 19:41:51: RouteTimeout == 180
+[1868] 19:41:51: GarbageTimeout == 120
+[1868] 19:41:51: UpdateFrequency == 30
+[1868] 19:41:51: AcceptHostRoutes == 0
+[1868] 19:41:51: AnnounceHostRoutes == 0
+[1868] 19:41:51: AcceptDefaultRoutes == 0
+[1868] 19:41:51: AnnounceDefaultRoutes == 0
+[1868] 19:41:51: EnableSplitHorizon == 1
+[1868] 19:41:51: EnablePoisonedReverse == 1
+[1868] 19:41:51: EnableTriggeredUpdates == 1
+[1868] 19:41:51: OverwriteStaticRoutes == 0
+[1868] 19:41:51: MaxTriggeredUpdateFrequency == 5
+[1868] 19:41:51: IPRIP is configured to be silent.
+[1868] 19:41:54: service detected IP address change, reconfiguring
+[1868] 19:41:56: service detected IP address change, reconfiguring
+[1868] 19:41:57: service detected IP address change, reconfiguring
+[1868] 19:42:35: service detected IP address change, reconfiguring
+[1868] 19:42:35: service detected IP address change, reconfiguring
+[1868] 19:42:41: service detected IP address change, reconfiguring
+[1868] 23:01:30: service detected IP address change, reconfiguring
+[1868] 00:07:05: service detected IP address change, reconfiguring
+[1868] 00:07:14: service detected IP address change, reconfiguring
+[1868] 00:38:23: service detected IP address change, reconfiguring
+[1696] 01:50:01: Service received control request 5
+[2064] 01:50:01: sending out final updates.
+[1868] 01:50:01: service received stop request, shutting down
+[2064] 01:50:01: update thread stopping.
+[1868] 01:50:01: deleting RIP routes from system table.
+[1868] 01:50:02: Main thread stopping.
+[500] 10:40:07: IPRIP is starting up...
+[500] 10:40:07: LoggingLevel == 1
+[500] 10:40:07: RouteTimeout == 180
+[500] 10:40:07: GarbageTimeout == 120
+[500] 10:40:07: UpdateFrequency == 30
+[500] 10:40:07: AcceptHostRoutes == 0
+[500] 10:40:07: AnnounceHostRoutes == 0
+[500] 10:40:07: AcceptDefaultRoutes == 0
+[500] 10:40:07: AnnounceDefaultRoutes == 0
+[500] 10:40:07: EnableSplitHorizon == 1
+[500] 10:40:07: EnablePoisonedReverse == 1
+[500] 10:40:07: EnableTriggeredUpdates == 1
+[500] 10:40:07: OverwriteStaticRoutes == 0
+[500] 10:40:07: MaxTriggeredUpdateFrequency == 5
+[500] 10:40:07: IPRIP is configured to be silent.
+[500] 10:40:11: service detected IP address change, reconfiguring
+[500] 10:40:11: no IP addresses available for routing
+[500] 10:40:11: service detected IP address change, reconfiguring
+[500] 10:40:12: service detected IP address change, reconfiguring
+[500] 10:40:15: service detected IP address change, reconfiguring
+[500] 10:42:33: service detected IP address change, reconfiguring
+[500] 10:42:33: service detected IP address change, reconfiguring
+[500] 10:42:39: service detected IP address change, reconfiguring
+[500] 10:45:24: service detected IP address change, reconfiguring
+[500] 10:45:24: no IP addresses available for routing
+[500] 10:48:31: service detected IP address change, reconfiguring
+[500] 10:48:31: no IP addresses available for routing
+[500] 10:48:37: service detected IP address change, reconfiguring
+[500] 10:48:37: no IP addresses available for routing
+[1208] 11:01:26: IPRIP is starting up...
+[1208] 11:01:26: LoggingLevel == 1
+[1208] 11:01:26: RouteTimeout == 180
+[1208] 11:01:26: GarbageTimeout == 120
+[1208] 11:01:26: UpdateFrequency == 30
+[1208] 11:01:26: AcceptHostRoutes == 0
+[1208] 11:01:26: AnnounceHostRoutes == 0
+[1208] 11:01:26: AcceptDefaultRoutes == 0
+[1208] 11:01:26: AnnounceDefaultRoutes == 0
+[1208] 11:01:26: EnableSplitHorizon == 1
+[1208] 11:01:26: EnablePoisonedReverse == 1
+[1208] 11:01:26: EnableTriggeredUpdates == 1
+[1208] 11:01:26: OverwriteStaticRoutes == 0
+[1208] 11:01:26: MaxTriggeredUpdateFrequency == 5
+[1208] 11:01:26: IPRIP is configured to be silent.
+[1208] 11:01:28: service detected IP address change, reconfiguring
+[1208] 11:01:28: service detected IP address change, reconfiguring
+[1208] 11:01:31: service detected IP address change, reconfiguring
+[1208] 11:03:35: service detected IP address change, reconfiguring
+[1208] 11:03:36: service detected IP address change, reconfiguring
+[1208] 11:03:42: service detected IP address change, reconfiguring
+[1008] 11:11:52: Service received control request 5
+[1420] 11:11:52: sending out final updates.
+[1420] 11:11:52: update thread stopping.
+[1208] 11:11:52: service received stop request, shutting down
+[1208] 11:11:52: deleting RIP routes from system table.
+[1208] 11:11:52: Main thread stopping.
+[1580] 22:32:11: IPRIP is starting up...
+[1580] 22:32:11: LoggingLevel == 1
+[1580] 22:32:11: RouteTimeout == 180
+[1580] 22:32:11: GarbageTimeout == 120
+[1580] 22:32:11: UpdateFrequency == 30
+[1580] 22:32:11: AcceptHostRoutes == 0
+[1580] 22:32:11: AnnounceHostRoutes == 0
+[1580] 22:32:11: AcceptDefaultRoutes == 0
+[1580] 22:32:11: AnnounceDefaultRoutes == 0
+[1580] 22:32:11: EnableSplitHorizon == 1
+[1580] 22:32:11: EnablePoisonedReverse == 1
+[1580] 22:32:11: EnableTriggeredUpdates == 1
+[1580] 22:32:11: OverwriteStaticRoutes == 0
+[1580] 22:32:11: MaxTriggeredUpdateFrequency == 5
+[1580] 22:32:11: IPRIP is configured to be silent.
+[1580] 22:32:12: service detected IP address change, reconfiguring
+[1580] 22:32:12: service detected IP address change, reconfiguring
+[1580] 22:34:44: service detected IP address change, reconfiguring
+[1580] 22:34:45: service detected IP address change, reconfiguring
+[1580] 22:34:51: service detected IP address change, reconfiguring
+[1392] 00:32:05: Service received control request 5
+[1580] 00:32:05: service received stop request, shutting down
+[1636] 00:32:05: sending out final updates.
+[1636] 00:32:05: update thread stopping.
+[1580] 00:32:05: deleting RIP routes from system table.
+[1580] 00:32:05: Main thread stopping.
+[1232] 02:30:44: IPRIP is starting up...
+[1232] 02:30:44: LoggingLevel == 1
+[1232] 02:30:44: RouteTimeout == 180
+[1232] 02:30:44: GarbageTimeout == 120
+[1232] 02:30:44: UpdateFrequency == 30
+[1232] 02:30:44: AcceptHostRoutes == 0
+[1232] 02:30:44: AnnounceHostRoutes == 0
+[1232] 02:30:44: AcceptDefaultRoutes == 0
+[1232] 02:30:44: AnnounceDefaultRoutes == 0
+[1232] 02:30:44: EnableSplitHorizon == 1
+[1232] 02:30:44: EnablePoisonedReverse == 1
+[1232] 02:30:44: EnableTriggeredUpdates == 1
+[1232] 02:30:44: OverwriteStaticRoutes == 0
+[1232] 02:30:44: MaxTriggeredUpdateFrequency == 5
+[1232] 02:30:44: IPRIP is configured to be silent.
+[1232] 02:30:45: service detected IP address change, reconfiguring
+[1232] 02:30:46: service detected IP address change, reconfiguring
+[1232] 02:30:48: service detected IP address change, reconfiguring
+[1232] 02:32:15: service detected IP address change, reconfiguring
+[1232] 02:32:21: service detected IP address change, reconfiguring
+[1232] 02:33:08: service detected IP address change, reconfiguring
+[1232] 02:33:08: no IP addresses available for routing
+[1232] 02:35:16: service detected IP address change, reconfiguring
+[1232] 02:35:16: no IP addresses available for routing
+[1232] 02:35:24: service detected IP address change, reconfiguring
+[1232] 02:35:24: no IP addresses available for routing
+[1232] 02:37:03: service detected IP address change, reconfiguring
+[1232] 02:38:09: service detected IP address change, reconfiguring
+[1232] 02:38:15: service detected IP address change, reconfiguring
+[1232] 02:40:34: service detected IP address change, reconfiguring
+[1232] 02:41:47: service detected IP address change, reconfiguring
+[1232] 02:44:44: service detected IP address change, reconfiguring
+[1232] 03:16:35: service detected IP address change, reconfiguring
+[1232] 03:16:41: service detected IP address change, reconfiguring
+[1232] 03:17:00: service detected IP address change, reconfiguring
+[1232] 03:21:53: service detected IP address change, reconfiguring
+[1232] 03:27:02: service detected IP address change, reconfiguring
+[1232] 03:27:07: service detected IP address change, reconfiguring
+[1232] 03:27:08: service detected IP address change, reconfiguring
+[1232] 03:27:11: service detected IP address change, reconfiguring
+[1232] 03:27:18: service detected IP address change, reconfiguring
+[1232] 03:43:06: service detected IP address change, reconfiguring
+[1232] 03:43:07: no IP addresses available for routing
+[1232] 03:45:37: service detected IP address change, reconfiguring
+[1232] 03:45:37: no IP addresses available for routing
+[1232] 03:45:47: service detected IP address change, reconfiguring
+[1232] 03:45:49: no IP addresses available for routing
+[1232] 03:47:02: service detected IP address change, reconfiguring
+[1232] 03:47:25: service detected IP address change, reconfiguring
+[1232] 03:47:32: service detected IP address change, reconfiguring
+[1232] 03:51:29: service detected IP address change, reconfiguring
+[1232] 04:00:39: service detected IP address change, reconfiguring
+[1232] 04:00:40: service detected IP address change, reconfiguring
+[1232] 04:00:42: service detected IP address change, reconfiguring

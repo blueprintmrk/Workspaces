@@ -1,0 +1,1140 @@
+BODY {
+	DIRECTION: ltr
+}
+HTML {
+	DIRECTION: ltr
+}
+P {
+	MARGIN-BOTTOM: 10px !important; CLEAR: both
+}
+H1 {
+	LINE-HEIGHT: 100%
+}
+H2 {
+	LINE-HEIGHT: 100%
+}
+H3 {
+	LINE-HEIGHT: 100%
+}
+H4 {
+	LINE-HEIGHT: 100%
+}
+H5 {
+	LINE-HEIGHT: 100%
+}
+H1 {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 20px !important
+}
+H2 {
+	MARGIN-BOTTOM: 0.6em !important
+}
+H3 {
+	MARGIN-BOTTOM: 0.5em !important
+}
+H4 {
+	MARGIN-BOTTOM: 0.5em !important
+}
+H5 {
+	MARGIN-BOTTOM: 0.3em !important
+}
+UL {
+	MARGIN: 10px 0px
+}
+OL {
+	MARGIN: 10px 0px
+}
+UL {
+	LIST-STYLE-TYPE: square
+}
+UL UL {
+	LIST-STYLE-TYPE: circle
+}
+UL UL UL {
+	LIST-STYLE-TYPE: disc
+}
+OL {
+	LIST-STYLE-TYPE: decimal
+}
+OL OL {
+	LIST-STYLE-TYPE: lower-alpha
+}
+OL OL OL {
+	LIST-STYLE-TYPE: lower-roman
+}
+UL.noBullet {
+	LIST-STYLE-TYPE: none; MARGIN-LEFT: 2em
+}
+DL {
+	LIST-STYLE-TYPE: none
+}
+DT {
+	
+}
+DD {
+	MARGIN-BOTTOM: 5px !important
+}
+LI {
+	MARGIN-BOTTOM: 4px !important
+}
+.clear {
+	CLEAR: both
+}
+.section {
+	MARGIN-BOTTOM: 24px
+}
+DIV#genuine {
+	MARGIN: 0px auto; WIDTH: 100%; BACKGROUND: #dbf3fd; VISIBILITY: visible
+}
+DIV#genuine TABLE {
+	BORDER-COLLAPSE: collapse
+}
+DIV#baseContent {
+	MARGIN: 0px auto; WIDTH: 985px; BACKGROUND: url(../images/common/bg_span2.gif) repeat-y
+}
+DIV#basePageFrame {
+	MARGIN: 0px auto; BACKGROUND: url(../images/common/header_bkg_wol.jpg) no-repeat 0px -20px
+}
+DIV#baseHeader {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 7px; WIDTH: 946px; PADDING-RIGHT: 7px; PADDING-TOP: 0px
+}
+DIV#logo {
+	PADDING-LEFT: 7px
+}
+DIV#baseBody {
+	BORDER-BOTTOM: ; BORDER-LEFT: ; PADDING-BOTTOM: 0px; MARGIN: 0px auto; MIN-HEIGHT: 560px; PADDING-LEFT: 0px; WIDTH: 985px; PADDING-RIGHT: 0px; HEIGHT: auto !important; VISIBILITY: visible; CLEAR: both; OVERFLOW: visible; BORDER-TOP: ; BORDER-RIGHT: ; PADDING-TOP: 16px
+}
+DIV#Nav {
+	Z-INDEX: 10; POSITION: relative; WIDTH: 946px
+}
+UL#subNavigationBar LI {
+	DISPLAY: inline
+}
+DIV#basePageFooterbk {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 100%; BACKGROUND: #dbf3fd; VISIBILITY: visible; CLEAR: both
+}
+DIV#basePageFooter {
+	MARGIN: 0px auto; WIDTH: 985px; BACKGROUND: url(../images/common/bg_footer_image_wol.jpg); HEIGHT: 131px
+}
+DIV#genuineContent {
+	PADDING-BOTTOM: 25px; PADDING-LEFT: 25px; PADDING-RIGHT: 25px; WORD-WRAP: break-word; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+DIV.imageBullet {
+	MARGIN: 10px 0px
+}
+DIV.imageBulletColumn {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: right; PADDING-TOP: 10px
+}
+DIV.imageBulletColumn .imgContainer {
+	TEXT-ALIGN: center
+}
+DIV.imageBulletColumn H4 {
+	FONT-SIZE: 1em
+}
+.imageBulletImage {
+	TEXT-ALIGN: right; MARGIN: 0px 10px 20px 0px; FLOAT: left
+}
+.floatLeft {
+	FLOAT: left
+}
+.floatRight {
+	FLOAT: right
+}
+DIV.pageBanner {
+	BACKGROUND-IMAGE: url(../images/common/banner-stretch.jpg); BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; PADDING-BOTTOM: 1.5em; PADDING-LEFT: 1.5em; PADDING-RIGHT: 1.5em; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: right top; MARGIN-BOTTOM: 15px; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 1.5em
+}
+DIV.pageBanner H2 {
+	POSITION: relative; PADDING-BOTTOM: 4px; LINE-HEIGHT: 1em; MARGIN-TOP: 25px; WIDTH: 480px; COLOR: #314475; FONT-SIZE: 1.5em; LEFT: 40px
+}
+DIV.pageBanner P {
+	POSITION: relative; WIDTH: 520px; COLOR: #002bff; FONT-SIZE: 1.1em
+}
+DIV#pageContent {
+	WIDTH: 842px
+}
+DIV#content {
+	LINE-HEIGHT: 1.4em; FLOAT: left
+}
+DIV#printableContent {
+	LINE-HEIGHT: 1.4em; FONT-SIZE: 0.8em
+}
+.withSidebar {
+	WIDTH: 600px
+}
+.flanked {
+	WIDTH: 430px
+}
+.full {
+	WIDTH: 900px
+}
+#sidebar {
+	LINE-HEIGHT: 1.4em; WIDTH: 190px; FLOAT: right; FONT-SIZE: 0.7em
+}
+#dashboard {
+	LINE-HEIGHT: 1.4em; WIDTH: 190px; FONT-SIZE: 0.9em
+}
+.dashboardtable {
+	cellspacing: 25px
+}
+.dashBoardContent {
+	BACKGROUND: url(../images/common/sidebar_background.gif) repeat-x 50% top
+}
+.dashBoard {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid
+}
+#CustomerQuoteBox {
+	BORDER-BOTTOM: #d2c4b5 1px solid; BORDER-LEFT: #d2c4b5 1px solid; PADDING-BOTTOM: 7px; BACKGROUND-COLOR: #fefbef; MARGIN-TOP: 5px; PADDING-LEFT: 7px; WIDTH: 230px; PADDING-RIGHT: 7px; FLOAT: left; BORDER-TOP: #d2c4b5 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #d2c4b5 1px solid; PADDING-TOP: 7px
+}
+.Windows7Logo {
+	MARGIN: 5px
+}
+.quote {
+	FONT-STYLE: italic
+}
+#sidebar .Image {
+	FLOAT: right
+}
+#sidebar .Link {
+	FLOAT: left
+}
+#sidebar A.button {
+	FONT-SIZE: 1.1em
+}
+#callToAction A.button {
+	FONT-SIZE: 1.1em
+}
+#sidebar H4 {
+	LINE-HEIGHT: normal; MARGIN-TOP: 0.2em; MARGIN-BOTTOM: 0.2em; COLOR: #444; FONT-SIZE: 1.2em
+}
+#callToAction H4 {
+	LINE-HEIGHT: normal; MARGIN-TOP: 0.2em; MARGIN-BOTTOM: 0.2em; COLOR: #444; FONT-SIZE: 1.2em
+}
+#dashboard H4 {
+	LINE-HEIGHT: normal; MARGIN-TOP: 0.2em; MARGIN-BOTTOM: 0.2em; COLOR: #444; FONT-SIZE: 1.2em
+}
+#sidebar .SidebarBody {
+	BORDER-BOTTOM-COLOR: #333; PADDING-BOTTOM: 0px; BORDER-TOP-COLOR: #333; PADDING-LEFT: 10px; WIDTH: 170px; PADDING-RIGHT: 10px; BACKGROUND: url(../images/test/bkg_win_quicklinks_span.jpg) repeat-y; BORDER-RIGHT-COLOR: #333; OVERFLOW: hidden; BORDER-LEFT-COLOR: #333; PADDING-TOP: 10px
+}
+#sidebar UL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 16px
+}
+#callToAction UL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 16px
+}
+#sidebar OL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 16px
+}
+#callToAction OL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 16px
+}
+#dashboard UL {
+	PADDING-LEFT: 0px; MARGIN-LEFT: 16px
+}
+.sidebarContent {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 168px; PADDING-RIGHT: 10px; WORD-WRAP: break-word; MARGIN-BOTTOM: 15px; PADDING-TOP: 5px
+}
+.noBgBox {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 168px; PADDING-RIGHT: 10px; WORD-WRAP: break-word; MARGIN-BOTTOM: 15px; PADDING-TOP: 5px
+}
+DIV.glossarySideBarContent {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 168px; PADDING-RIGHT: 10px; WORD-WRAP: break-word; MARGIN-BOTTOM: 15px; PADDING-TOP: 5px
+}
+.dashBoardContent {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 168px; PADDING-RIGHT: 10px; WORD-WRAP: break-word; MARGIN-BOTTOM: 15px; PADDING-TOP: 5px
+}
+DIV.sidebarContent {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; WIDTH: 168px !important; BACKGROUND: url(../images/common/sidebar_background.gif) repeat-x 50% top; FONT-SIZE: 12px; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 5px !important; LEFT: 0px !important
+}
+.sidebarContent UL {
+	MARGIN: 0px 0px 10px
+}
+.sidebarContent OL {
+	MARGIN: 0px 0px 10px
+}
+DIV#sidebar UL.highlightsList {
+	MARGIN-LEFT: 0px
+}
+.sidebarContent UL.highlightsList LI {
+	PADDING-BOTTOM: 5px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/common/divider.gif) no-repeat left bottom; COLOR: #676f72; LIST-STYLE-IMAGE: none; PADDING-TOP: 5px
+}
+DIV.noBoxSideBar {
+	MARGIN-BOTTOM: 15px
+}
+DIV#callToAction {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 1.4em; WIDTH: 190px; FLOAT: left; FONT-SIZE: 0.7em; MARGIN-RIGHT: 15px
+}
+DIV#callToAction UL.highlightsList {
+	MARGIN-LEFT: 0px
+}
+.alert {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; PADDING-BOTTOM: 10px; MIN-HEIGHT: 60px; PADDING-LEFT: 10px; PADDING-RIGHT: 36px; MARGIN-BOTTOM: 16px; BACKGROUND: url(../images/common/alert_error_bg.gif) repeat-x; HEIGHT: auto !important; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 16px
+}
+.alertIcon {
+	FLOAT: left
+}
+.imgLeftAlign {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.imgRightAlign {
+	MARGIN-LEFT: 10px
+}
+.info {
+	BACKGROUND: url(../images/common/alert_info_bg.gif) repeat-x
+}
+.alertBody {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 84px
+}
+.alertBody H3 {
+	MARGIN: 0px 0px 6px; COLOR: #555; FONT-SIZE: 1.2em
+}
+.nojspopup {
+	Z-INDEX: 999; BORDER-BOTTOM: #000 1px solid; POSITION: absolute; BORDER-LEFT: #000 1px solid; WIDTH: 320px; BACKGROUND: #fff; MARGIN-LEFT: -160px; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; TOP: 120px; LEFT: 50%
+}
+.nojspopup DIV {
+	BORDER-BOTTOM: #d3d3d3 1px solid; PADDING-BOTTOM: 10px; MIN-HEIGHT: 23px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url(../images/windows/NoJSHeaderBG.gif) repeat-x left top; COLOR: #767676; FONT-SIZE: 115%; FONT-WEIGHT: bold; PADDING-TOP: 8px
+}
+.nojspopup IMG {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.nojspopup P {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; MARGIN-BOTTOM: 0px; PADDING-TOP: 8px
+}
+INPUT.button {
+	BACKGROUND-IMAGE: url(../images/button/button_b.gif); POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 5px !important; BACKGROUND-COLOR: #50b1e9; PADDING-LEFT: 5px !important; PADDING-RIGHT: 5px !important; ZOOM: 1; DISPLAY: table-cell; BACKGROUND-REPEAT: repeat-x; COLOR: #fff; CLEAR: both; FONT-SIZE: 0.9em; CURSOR: pointer; TEXT-DECORATION: none; PADDING-TOP: 5px !important
+}
+INPUT.button {
+	DISPLAY: block
+}
+INPUT.button:hover {
+	TEXT-DECORATION: none
+}
+.validate {
+	BACKGROUND-REPEAT: repeat-x
+}
+.validate:hover {
+	BACKGROUND-REPEAT: repeat-x
+}
+.submit {
+	BACKGROUND-IMAGE: url(../images/button/button_o.gif); BACKGROUND-COLOR: #ffa006; BACKGROUND-REPEAT: repeat-x
+}
+.submit:hover {
+	BACKGROUND-REPEAT: repeat-x
+}
+.buy {
+	BACKGROUND-IMAGE: url(../images/button/button_g.gif); BACKGROUND-REPEAT: repeat-x
+}
+.buy:hover {
+	BACKGROUND-IMAGE: url(../images/button/button_g.gif); BACKGROUND-COLOR: #6bc92b; BACKGROUND-REPEAT: repeat-x
+}
+.disabled {
+	BACKGROUND: url(../images/button/button_d.gif) #aaa; CURSOR: default
+}
+.disabled:hover * {
+	BACKGROUND-IMAGE: url(../images/button/btn.png); CURSOR: default
+}
+* HTML .button {
+	BORDER-BOTTOM: #aaa 3px double; BORDER-LEFT: #aaa 3px double; BORDER-TOP: #aaa 3px double; BORDER-RIGHT: #aaa 3px double
+}
+* HTML .buy {
+	BACKGROUND-COLOR: #6bc92b
+}
+* HTML .validate {
+	
+}
+* HTML .submit {
+	BACKGROUND-COLOR: #ffa006
+}
+* HTML .disabled {
+	BACKGROUND-COLOR: #aaa; CURSOR: default
+}
+.sidebarButton {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 20px 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.sidebarButton INPUT {
+	WIDTH: 100%
+}
+.sidebarButton * {
+	DISPLAY: block !important
+}
+.contentButton {
+	MARGIN-BOTTOM: 20px
+}
+DIV.vistaContentButton {
+	MARGIN-BOTTOM: 20px
+}
+DIV.horizontalRule {
+	BORDER-BOTTOM: #bdbdbd 1px solid; LINE-HEIGHT: 1px; MARGIN: 30px 0px 25px; HEIGHT: 1px
+}
+DIV.countryBoxRule {
+	BORDER-BOTTOM: #bdbdbd 1px solid; LINE-HEIGHT: 1px; MARGIN: 30px 0px 25px; HEIGHT: 1px
+}
+DIV#ContentPage {
+	WIDTH: 100%
+}
+DIV#ContentPage .ContentPage_container {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#ContentPage H2 {
+	MARGIN: 0px 0px 5px
+}
+DIV#ContentPage H3 {
+	MARGIN: 0px
+}
+DIV#CommonContent {
+	MARGIN: auto 15px; WIDTH: 700px
+}
+DIV#CommonContent .CommonContent_container {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#CommonContent H2 {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#CommonContent H3 {
+	MARGIN: 0px
+}
+#footnotes {
+	LINE-HEIGHT: 1.25em; MARGIN-BOTTOM: 16px; FONT-SIZE: 0.75em
+}
+.footnote {
+	PADDING-BOTTOM: 5px
+}
+DIV.pssErrorCode {
+	MARGIN-TOP: 20px; COLOR: #bebebe; CLEAR: both
+}
+.alertBody P {
+	MARGIN-BOTTOM: 5px
+}
+DIV.bottomMargin {
+	MARGIN-BOTTOM: 5px
+}
+.homeTop {
+	MARGIN: 15px; WIDTH: 44%; FLOAT: left; PADDING-TOP: 3px
+}
+.homeBottom {
+	MARGIN: 0px 15px 15px; WIDTH: 44%; FLOAT: left; PADDING-TOP: 3px
+}
+.homeMainLinks {
+	MARGIN-LEFT: 100px
+}
+.homeMainLink {
+	MARGIN-LEFT: 10px
+}
+DIV.NotificationWhyQuoteDiv {
+	BORDER-BOTTOM: #d2c4b5 1px solid; BORDER-LEFT: #d2c4b5 1px solid; PADDING-BOTTOM: 12px; BACKGROUND-COLOR: #fefbef; MARGIN: 0px 20px 20px; PADDING-LEFT: 12px; WIDTH: 206px; PADDING-RIGHT: 12px; FLOAT: right; HEIGHT: 152px; BORDER-TOP: #d2c4b5 1px solid; BORDER-RIGHT: #d2c4b5 1px solid; PADDING-TOP: 12px
+}
+DIV.NotificationWhyQuoteText {
+	LINE-HEIGHT: 11pt; MARGIN-TOP: 12px; FONT-FAMILY: Verdana; MARGIN-LEFT: 10px; FONT-SIZE: 17px; MARGIN-RIGHT: 10px
+}
+DIV.NotificationWhyQuoteAuthor {
+	TEXT-ALIGN: right; LINE-HEIGHT: 11pt; MARGIN-TOP: 10px; FONT-FAMILY: Verdana; COLOR: #363636; MARGIN-LEFT: 10px; FONT-SIZE: 11px; MARGIN-RIGHT: 10px
+}
+DIV.NotificationWhyQuoteHref {
+	TEXT-ALIGN: left; LINE-HEIGHT: 11pt; MARGIN-TOP: 20px; MARGIN-BOTTOM: 10px; FONT-SIZE: 11px; MARGIN-RIGHT: 10px
+}
+IMG.WhatImg {
+	FLOAT: right
+}
+TABLE.ListTable {
+	WIDTH: 100%
+}
+TR.ListRow {
+	WIDTH: 33%
+}
+.validateSteps {
+	MARGIN-BOTTOM: 36px
+}
+.stepHeading {
+	MARGIN-BOTTOM: 0px
+}
+IMG.StoriesImg {
+	FLOAT: right
+}
+TABLE.jumpMenuList TD {
+	PADDING-TOP: 8px
+}
+TABLE.jumpMenuList IMG {
+	MARGIN-TOP: 4px; MARGIN-RIGHT: 5px
+}
+DIV.productKeyResults {
+	BORDER-BOTTOM: #e1ce98 1px solid; BORDER-LEFT: #e1ce98 1px solid; BACKGROUND-COLOR: #fffacc; WIDTH: auto; FONT-FAMILY: Verdana; COLOR: #000; FONT-SIZE: 11px; BORDER-TOP: #e1ce98 1px solid; BORDER-RIGHT: #e1ce98 1px solid
+}
+DIV.productKeyResults DIV#resultTable {
+	PADDING-BOTTOM: 11px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; PADDING-TOP: 11px
+}
+TR.productKeyResultRow TD.productKeyText {
+	TEXT-ALIGN: right; LINE-HEIGHT: 15px; WIDTH: 100px; MARGIN-RIGHT: 20px
+}
+TR.productKeyResultRow TD.productKeyResultText {
+	LINE-HEIGHT: 15px; FONT-WEIGHT: normal
+}
+TR.productKeyResultRow TD.spacer {
+	WIDTH: 20px
+}
+DIV#automaticallyGathered {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 16px; FONT-SIZE: 11px
+}
+.CountryList {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px; PADDING-LEFT: 40px
+}
+DIV.counterfeitHeading IMG {
+	MARGIN: 3px; FLOAT: left
+}
+DIV.counterfeitHeading H2 {
+	LINE-HEIGHT: 1.4em; PADDING-LEFT: 30px
+}
+TR.counterfeitImageHeading {
+	TEXT-ALIGN: center
+}
+TABLE.counterfeitGallery TD.txtCounterfeit {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+TD.counterfeitGalleryCell {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; PADDING-TOP: 10px
+}
+TABLE.tableCountry {
+	MARGIN-BOTTOM: 20px
+}
+TABLE.tableCountry TD {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+TABLE.tableCountry P.noCharge {
+	MARGIN-BOTTOM: 0px; COLOR: #eb7d00; FONT-SIZE: 1.1em; FONT-WEIGHT: bold
+}
+TABLE.tableCountry P.wgaKit {
+	MARGIN-BOTTOM: 0px; FONT-SIZE: 1.1em; FONT-WEIGHT: bold
+}
+DIV.countryLanguageRule {
+	BORDER-BOTTOM: #bdbdbd 1px solid; LINE-HEIGHT: 1px; MARGIN-TOP: 2px; HEIGHT: 1px
+}
+DIV.Continue {
+	MARGIN-TOP: 25px
+}
+TABLE.counterfeitGallery {
+	MARGIN: 0px 0px 30px
+}
+TABLE.counterfeitGallery TD {
+	TEXT-ALIGN: center; WIDTH: 50%; VERTICAL-ALIGN: top
+}
+IMG.clean {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; WIDTH: 1px; HEIGHT: 1px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+DIV.qualifyImage {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 430px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.breachTable {
+	BORDER-BOTTOM: #f1eddf 1px solid; TEXT-ALIGN: left; BORDER-LEFT: #f1eddf 1px solid; BACKGROUND-COLOR: white; BORDER-COLLAPSE: collapse; WHITE-SPACE: nowrap; MARGIN-BOTTOM: 20px; BORDER-TOP: #f1eddf 1px solid; BORDER-RIGHT: #f1eddf 1px solid
+}
+.breachTable TH {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 1px
+}
+.breachTable TH {
+	BORDER-BOTTOM: #f1eddf 1px solid
+}
+.breachTable TR.firstRow {
+	BORDER-BOTTOM: #f1eddf 1px solid
+}
+.breachTable TR#firstExploit TD {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 8px
+}
+.breachTable TD {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.breachTable TR.firstRow TD {
+	PADDING-TOP: 8px
+}
+H4#optionHeading {
+	COLOR: #000; FONT-WEIGHT: bold
+}
+DIV.mailHeading {
+	WIDTH: 100%
+}
+DIV.articleHeading {
+	WIDTH: 100%
+}
+DIV.articleHeading {
+	BORDER-BOTTOM: #bfbfbf 1px dashed; MARGIN-BOTTOM: 15px; HEIGHT: 1.8em
+}
+.address {
+	PADDING-LEFT: 20px; WIDTH: 100%; MARGIN-BOTTOM: 15px
+}
+DIV.cfrHorizontalLine {
+	MARGIN: 15px auto
+}
+.printIcon {
+	TEXT-ALIGN: right
+}
+UL.checkList {
+	LIST-STYLE-IMAGE: url(../images/windows/checkbox.gif)
+}
+DIV.reportSection {
+	MARGIN: 10px
+}
+TABLE.printReportHeading {
+	WIDTH: 100%; MARGIN-BOTTOM: 20px
+}
+DIV.counterfeitReportHeading {
+	BORDER-BOTTOM: #bfbfbf 1px dashed
+}
+DIV.counterfeitReportHeading H2 {
+	MARGIN: 0px; FLOAT: left
+}
+DIV.counterfeitReportHeading SPAN.cDate {
+	FLOAT: right
+}
+DIV.reportSubsection {
+	MARGIN-LEFT: 10px; MARGIN-RIGHT: 0px
+}
+DIV.counterfeitReportHeading DIV.cDateRule {
+	LINE-HEIGHT: 1px; HEIGHT: 1px; CLEAR: both; FONT-SIZE: 1px
+}
+H2.articleSubHeading1Underline {
+	BORDER-BOTTOM: #bdbdbd 1px solid; PADDING-BOTTOM: 5px; MARGIN-TOP: 13px; MARGIN-BOTTOM: 10px
+}
+.dashedUnderline {
+	BORDER-BOTTOM: #bfbfbf 1px dashed; PADDING-BOTTOM: 5px; MARGIN: 0px 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.continueButton {
+	FLOAT: left; MARGIN-RIGHT: 20px
+}
+DIV.subReportSec {
+	MARGIN-LEFT: 10px
+}
+DIV.ruleExtensions {
+	MARGIN: 10px 0px
+}
+DIV.printReport {
+	MARGIN-LEFT: 15px
+}
+.redMessage {
+	COLOR: red
+}
+.headingUnderline {
+	BORDER-BOTTOM: #bdbdbd 1px solid; PADDING-BOTTOM: 5px
+}
+DIV.noQualifyMessage INPUT {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+DIV.qualifyBox {
+	PADDING-LEFT: 83px; DISPLAY: none; BACKGROUND: url(../images/common/holigram_cd.gif) #f0f0f0 no-repeat; HEIGHT: 58px
+}
+.calButton {
+	BORDER-BOTTOM: 2px inset; BORDER-LEFT: 2px inset; WIDTH: 12em; BACKGROUND: white; HEIGHT: 1.8em; BORDER-TOP: 2px inset; CURSOR: pointer; BORDER-RIGHT: 2px inset
+}
+P#lastNameWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#resellerCityWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#cityWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#resellerStateWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#stateNameWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#zipCodeWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#resellerEmailTextWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#prefixWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#firstNameWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#middleNameWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#auctionWebsiteWrapper {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+P#resellerURLWrapper {
+	MARGIN-LEFT: 5px
+}
+P#resellerUsernameWrapper {
+	MARGIN-LEFT: 5px
+}
+#imgCalendar {
+	CURSOR: pointer
+}
+INPUT#resellerStateDiv {
+	WIDTH: 190px
+}
+INPUT#firstName {
+	WIDTH: 142px
+}
+INPUT#middleName {
+	WIDTH: 142px
+}
+INPUT#lastName {
+	WIDTH: 142px
+}
+INPUT#zipCode {
+	WIDTH: 140px
+}
+INPUT#resellerZipCode {
+	WIDTH: 140px
+}
+INPUT#resellerState {
+	WIDTH: 140px
+}
+INPUT#prefix {
+	WIDTH: 60px
+}
+INPUT.generall {
+	WIDTH: 246px
+}
+INPUT#city {
+	WIDTH: 170px
+}
+INPUT#state {
+	WIDTH: 170px
+}
+INPUT#stateName {
+	WIDTH: 170px
+}
+.placeholderState {
+	MARGIN-TOP: 0px; WIDTH: 200px
+}
+DIV.clearDiv {
+	HEIGHT: 1px; CLEAR: both; OVERFLOW: hidden
+}
+DIV.diagMessageArea {
+	BORDER-BOTTOM: #e1ce98 1px solid; BORDER-LEFT: #e1ce98 1px solid; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #fffacc; PADDING-LEFT: 10px; WIDTH: 708px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 20px; BORDER-TOP: #e1ce98 1px solid; BORDER-RIGHT: #e1ce98 1px solid; PADDING-TOP: 10px
+}
+DIV.diagFailure {
+	COLOR: #d0290d
+}
+TABLE.diagTable {
+	WIDTH: 480px; TABLE-LAYOUT: auto
+}
+.diagFailure B {
+	COLOR: #d0290d; FONT-WEIGHT: bold
+}
+DIV#shErrorDetails {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+DIV#shErrorDetails DIV#shErrorData {
+	PADDING-BOTTOM: 15px; LINE-HEIGHT: 16px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 15px
+}
+TR#shErrorHead {
+	FONT-WEIGHT: bold
+}
+TR.shErrRow {
+	LINE-HEIGHT: 16px
+}
+TR.diagRow TD.text {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-TOP: #c0c0c0 1px solid; PADDING-TOP: 8px
+}
+TR.diagRow TD.title {
+	BORDER-BOTTOM: #c0c0c0 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT: #c0c0c0 1px solid; PADDING-TOP: 8px
+}
+TD.shErrTblCol1 {
+	PADDING-RIGHT: 25px
+}
+TD.shErrTblCol2 {
+	PADDING-RIGHT: 25px
+}
+DIV.diagHidden {
+	MARGIN: 0px; WIDTH: 0px; FLOAT: right; HEIGHT: 0px; OVERFLOW: hidden
+}
+DIV.EnterKey {
+	PADDING-BOTTOM: 20px
+}
+DIV.updateMsg {
+	DISPLAY: none; COLOR: red
+}
+.warningMsg {
+	VISIBILITY: hidden; COLOR: red
+}
+DIV.pkInput {
+	MARGIN-TOP: 5px; MARGIN-LEFT: 4px; VERTICAL-ALIGN: middle
+}
+DIV.pkInput INPUT {
+	WIDTH: 4em; MARGIN-BOTTOM: 5px; MARGIN-RIGHT: 12px
+}
+DIV.eula {
+	MARGIN-BOTTOM: 15px
+}
+.lastProduct {
+	COLOR: red
+}
+DIV.addressPlaceholder {
+	MARGIN-TOP: 5px; MARGIN-LEFT: 15px
+}
+A.pkuVista {
+	TEXT-INDENT: 60px; WIDTH: 200px; DISPLAY: block; COLOR: #fff; TEXT-DECORATION: none; PADDING-TOP: 90px
+}
+A.pkuXP {
+	TEXT-INDENT: 60px; WIDTH: 200px; DISPLAY: block; COLOR: #fff; TEXT-DECORATION: none; PADDING-TOP: 90px
+}
+A.pkuVista:hover {
+	TEXT-INDENT: 60px; WIDTH: 200px; DISPLAY: block; COLOR: #fff; TEXT-DECORATION: none; PADDING-TOP: 90px
+}
+A.pkuXP:hover {
+	TEXT-INDENT: 60px; WIDTH: 200px; DISPLAY: block; COLOR: #fff; TEXT-DECORATION: none; PADDING-TOP: 90px
+}
+A.pkuWin7 {
+	TEXT-INDENT: 60px; WIDTH: 200px; DISPLAY: block; COLOR: #fff; TEXT-DECORATION: none; PADDING-TOP: 90px
+}
+A.pkuWin7:hover {
+	TEXT-INDENT: 60px; WIDTH: 200px; DISPLAY: block; COLOR: #fff; TEXT-DECORATION: none; PADDING-TOP: 90px
+}
+A.pkuVista:hover {
+	BACKGROUND: url(../images/vista/VistaBtn-MO.jpg) no-repeat; COLOR: gray
+}
+A.pkuXP:hover {
+	BACKGROUND: url(../images/windows/XPBtn-MO.jpg) no-repeat; COLOR: gray
+}
+A.pkuWin7:hover {
+	BACKGROUND: url(../images/windows7/Win7Btn-MO.jpg) no-repeat; COLOR: gray
+}
+A.pkuXP {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+A.pkuVista:active {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium
+}
+A.pkuXP {
+	-moz-outline-style: none
+}
+A.pkuVista:focus {
+	-moz-outline-style: none
+}
+A.pkuVista {
+	BACKGROUND-IMAGE: url(../images/vista/VistaBtn-Rest.jpg); BACKGROUND-REPEAT: no-repeat
+}
+A.pkuXP {
+	BACKGROUND: url(../images/windows/XPBtn-Rest.jpg) no-repeat
+}
+A.pkuWin7 {
+	BACKGROUND: url(../images/windows7/Win7Btn-Rest.jpg) no-repeat
+}
+DIV.pkuFloat {
+	FLOAT: left
+}
+.xpPKU {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV.xpPKU {
+	MARGIN-LEFT: 30px
+}
+DIV.pkuImages {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 600px; PADDING-RIGHT: 0px; HEIGHT: 100px; CLEAR: both; PADDING-TOP: 0px
+}
+TABLE.btnTable TD {
+	WIDTH: 6em; PADDING-TOP: 10px !important
+}
+DIV.btnCFR {
+	PADDING-BOTTOM: 10px !important; PADDING-LEFT: 0px !important; PADDING-RIGHT: 5px !important; DISPLAY: inline; FLOAT: left; PADDING-TOP: 10px !important
+}
+TD.btnEdit {
+	WIDTH: 9em !important
+}
+DIV.btnInline {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; DISPLAY: inline; PADDING-TOP: 0px
+}
+.marginZeroTop {
+	MARGIN-TOP: 0px
+}
+.unWrapPadding {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 18px; PADDING-TOP: 0px
+}
+.piracyTypeList {
+	WIDTH: 500px
+}
+INPUT.text {
+	WIDTH: 246px
+}
+.hidden {
+	DISPLAY: none
+}
+TEXTAREA {
+	WIDTH: 500px
+}
+.cityDiv {
+	WIDTH: 270px
+}
+.stateDiv {
+	WIDTH: 15em
+}
+.bold {
+	FONT-WEIGHT: bold
+}
+.zipDiv {
+	WIDTH: 164px
+}
+.selectCountryDropDown {
+	MARGIN: 0px
+}
+.state {
+	WIDTH: 100px
+}
+.htaDateTextBox {
+	BORDER-BOTTOM: 2px inset; BORDER-LEFT: 2px inset; WIDTH: 12em; BACKGROUND: white; HEIGHT: 17px; BORDER-TOP: 2px inset; BORDER-RIGHT: 2px inset
+}
+DIV.horizontalRule {
+	BORDER-BOTTOM: #bdbdbd 1px solid; LINE-HEIGHT: 1px; MARGIN: 30px 0px 25px; HEIGHT: 1px
+}
+DIV.countryBoxRule {
+	BORDER-BOTTOM: #bdbdbd 1px solid; LINE-HEIGHT: 1px; MARGIN: 30px 0px 25px; HEIGHT: 1px
+}
+.horizontalRule {
+	MARGIN: 5px 0px; HEIGHT: 1px
+}
+DIV.margin25 {
+	MARGIN: 0px 0px 0px 25px
+}
+DIV.margin17 {
+	MARGIN: 0px 0px 0px 17px
+}
+DIV.margin10 {
+	MARGIN: 10px 0px 0px 25px
+}
+DIV#checkTr {
+	DISPLAY: none; PADDING-TOP: 10px
+}
+DIV#buttonTr {
+	DISPLAY: none; PADDING-TOP: 10px
+}
+DIV.failure {
+	DISPLAY: table-row; PADDING-TOP: 10px
+}
+DIV.likeListItem {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px
+}
+DIV.notifierSection {
+	PADDING-BOTTOM: 10px
+}
+TABLE.counterfeitImageHeading TR {
+	MARGIN-BOTTOM: 5px
+}
+.direction {
+	MARGIN-LEFT: 5px
+}
+.center {
+	TEXT-ALIGN: center
+}
+.block {
+	DISPLAY: block
+}
+TABLE.ipForm TD.ipFormText {
+	TEXT-ALIGN: right; WIDTH: 140px; PADDING-RIGHT: 5px; VERTICAL-ALIGN: middle
+}
+TABLE.ipForm TD.ipFormField {
+	TEXT-ALIGN: left; WIDTH: 400px; VERTICAL-ALIGN: middle
+}
+SPAN.ipHiddenMsg {
+	DISPLAY: none; COLOR: #f00
+}
+.kitAlign {
+	TEXT-ALIGN: center
+}
+.XPPkuButton {
+	MARGIN-LEFT: 30px
+}
+.officeTextbox {
+	PADDING-LEFT: 10px; PADDING-RIGHT: 10px
+}
+A.jumpLinks {
+	LINE-HEIGHT: 0.7em; MARGIN-BOTTOM: 0.5em; COLOR: #000097; FONT-SIZE: 1em; FONT-WEIGHT: 700
+}
+TABLE.glAlphabets {
+	MARGIN: auto 10px 10px; DISPLAY: inline-table
+}
+TABLE.glAlphabets TD.alphabet {
+	BORDER-BOTTOM: gray 1px solid; TEXT-ALIGN: center; BORDER-LEFT: gray 1px solid; WIDTH: 20px; FONT-FAMILY: Segoe UI; HEIGHT: 15px; COLOR: #635bda; VERTICAL-ALIGN: middle; BORDER-TOP: gray 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: gray 1px solid
+}
+TD.alphabetDisabled {
+	BORDER-BOTTOM: gray 1px solid; TEXT-ALIGN: center; BORDER-LEFT: gray 1px solid; WIDTH: 20px; FONT-FAMILY: Segoe UI; HEIGHT: 15px; COLOR: #635bda; VERTICAL-ALIGN: middle; BORDER-TOP: gray 1px solid; FONT-WEIGHT: bold; BORDER-RIGHT: gray 1px solid
+}
+TD.alphabet A {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; TEXT-DECORATION: none !important; PADDING-TOP: 1px
+}
+TD.alphabetDisabled A {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; TEXT-DECORATION: none !important; PADDING-TOP: 1px
+}
+TABLE.glAlphabets TD.showAll {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-LEFT: 5px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+TABLE.glAlphabets TD.alphabet:hover {
+	BACKGROUND-COLOR: yellow; CURSOR: pointer
+}
+TD.alphabetDisabled {
+	COLOR: #afafaf; CURSOR: default
+}
+TD.alphabetDisabled A {
+	COLOR: #afafaf; CURSOR: default
+}
+DIV.glossarySideBar {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; MARGIN-BOTTOM: 15px; BACKGROUND: url(../images/common/glossary_sidebar_bg_top.JPG) no-repeat; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid
+}
+DIV.glossarySideBar A {
+	TEXT-DECORATION: none !important
+}
+DIV.glossarySideBarContent {
+	MARGIN-BOTTOM: 0px; BACKGROUND: url(../images/common/glossary_sidebar_bg_bottom.JPG) no-repeat 50% bottom; CURSOR: pointer
+}
+H4.glossaryHeading {
+	MARGIN: 30px 0px 20px
+}
+P.glossaryDefinitions {
+	MARGIN: 0px 0px 10px
+}
+P.glossaryTerms {
+	MARGIN: 0px 0px 10px
+}
+P.glossaryDefinitions {
+	COLOR: #5152aa
+}
+P.glossaryTerms {
+	COLOR: #ff8e1f
+}
+DIV.topLink {
+	MARGIN-BOTTOM: 10px; CLEAR: both
+}
+.ScenarioPlusResolution {
+	BORDER-COLLAPSE: separate !important; MARGIN-BOTTOM: 10px
+}
+.ScenarioPlusResolution TH {
+	BORDER-BOTTOM: #c2c2c2 1px solid; BORDER-LEFT: #c2c2c2 1px solid; BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid
+}
+.ScenarioPlusResolution TD {
+	BORDER-BOTTOM: #c2c2c2 1px solid; BORDER-LEFT: #c2c2c2 1px solid; BORDER-TOP: #c2c2c2 1px solid; BORDER-RIGHT: #c2c2c2 1px solid
+}
+.ScenarioPlusResolution TH {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 15px; BACKGROUND: #dee5ef; PADDING-TOP: 10px
+}
+.ScenarioPlusResolution TD {
+	PADDING-BOTTOM: 15px; MARGIN-TOP: 15px; PADDING-LEFT: 15px; WIDTH: 50%; PADDING-RIGHT: 15px; PADDING-TOP: 10px
+}
+.ScenarioPlusResolution TD.ScenarioPlusResolutionImage {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; WIDTH: 122px; PADDING-RIGHT: 6px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+DIV.searchPaging {
+	TEXT-ALIGN: center; MARGIN-TOP: 25px; MARGIN-BOTTOM: 15px
+}
+DIV.searchPaging A {
+	BORDER-BOTTOM: #ffa615 1px solid; BORDER-LEFT: #ffa615 1px solid; PADDING-BOTTOM: 5px; MARGIN: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #f76120; BORDER-TOP: #ffa615 1px solid; BORDER-RIGHT: #ffa615 1px solid; PADDING-TOP: 5px
+}
+DIV.searchPaging A:hover {
+	BACKGROUND-COLOR: #fbefbd; CURSOR: pointer; TEXT-DECORATION: none
+}
+DIV.searchPaging A.selectedSearch {
+	BACKGROUND-COLOR: #fbefbd; CURSOR: pointer; TEXT-DECORATION: none
+}
+DIV.search {
+	MARGIN-TOP: 10px; WIDTH: 245px; FLOAT: right; FONT-SIZE: 0.7em
+}
+DIV.search INPUT#searchText {
+	WIDTH: 190px; HEIGHT: 15px; MARGIN-RIGHT: 7px
+}
+DIV.search INPUT {
+	WIDTH: 38px; HEIGHT: 22px; VERTICAL-ALIGN: middle
+}
+DIV.search DIV {
+	TEXT-ALIGN: right; COLOR: #676772; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 5px
+}
+DIV.search IMG {
+	VERTICAL-ALIGN: middle
+}
+DIV.search SPAN {
+	MARGIN-RIGHT: 5px
+}
+A#liveSearch:hover {
+	TEXT-DECORATION: none
+}
+INPUT#webSearchText {
+	VERTICAL-ALIGN: top
+}
+DIV.liveSearch {
+	TEXT-ALIGN: center; MARGIN-BOTTOM: 20px
+}
+DIV.searchHeading {
+	COLOR: #ff8e1f; FONT-SIZE: 1.2em; FONT-WEIGHT: bold
+}
+.bingLogoWrapper {
+	MARGIN: 0px; FLOAT: right; PADDING-TOP: 5px
+}
+.bingSearchText {
+	MARGIN-TOP: 5px; FLOAT: left
+}
+.caption {
+	FONT-SIZE: 0.85em
+}
+A.menuTitleLink:hover {
+	TEXT-DECORATION: none
+}
+* {
+	Z-INDEX: auto !important
+}
+#bodyBorderLeft {
+	Z-INDEX: 2 !important
+}
+#bodyBorderRight {
+	Z-INDEX: 2 !important
+}
+#bodyFooter {
+	Z-INDEX: 1 !important
+}
+DIV.SearchBoxBrand {
+	Z-INDEX: 2 !important
+}
+INPUT.SearchQueryTextInput {
+	Z-INDEX: 2 !important
+}
+INPUT.SearchQuerySubmit {
+	Z-INDEX: 2 !important
+}
+A.HighContrastSearchQuerySubmit {
+	Z-INDEX: 2 !important
+}
+DIV.SearchBoxBrand {
+	Z-INDEX: 2 !important
+}
+INPUT.SearchQueryTextInput {
+	FONT-STYLE: italic; COLOR: #939292
+}
+INPUT.SearchQueryTextInput2 {
+	FONT-STYLE: normal; COLOR: #000
+}
+DIV.navLine1Container * {
+	Z-INDEX: 5 !important
+}
+DIV.navLine2Container * {
+	Z-INDEX: 4 !important
+}
+DIV.menuGroupWrapperShadow {
+	Z-INDEX: 3 !important
+}
+A.landingPageMainLink:hover {
+	TEXT-DECORATION: none
+}
+DIV.landingPageBox {
+	TEXT-ALIGN: center; MARGIN-TOP: 50px; WIDTH: 420px; DISPLAY: block; FLOAT: left; HEIGHT: 400px; VERTICAL-ALIGN: top
+}
+DIV.landingPageBox:hover {
+	CURSOR: pointer
+}
+DIV.landingPageBox * {
+	VERTICAL-ALIGN: middle
+}
+P.landingPageTitle {
+	FONT-SIZE: 20px
+}
+IMG.officeLandingPageImage {
+	MARGIN-BOTTOM: 3px
+}
+DIV.landingPageBox:hover P.landingPageTitle {
+	TEXT-DECORATION: underline
+}
+#bodyContentPane {
+	WIDTH: 962px !important
+}
+#bodyContainer {
+	WIDTH: 962px !important
+}

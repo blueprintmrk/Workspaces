@@ -1,0 +1,8 @@
+﻿05/13/2012 23:07:20:789 -----------------------------------------------------------------
+05/13/2012 23:07:20:789 NetpValidateName: checking to see if '2INDCUST07404' is valid as type 1 name
+05/13/2012 23:07:26:890 NetpCheckNetBiosNameNotInUse for '2INDCUST07404' [MACHINE] returned 0x0
+05/13/2012 23:07:26:890 NetpValidateName: name '2INDCUST07404' is valid for type 1
+05/13/2012 23:07:26:891 -----------------------------------------------------------------
+05/13/2012 23:07:26:891 NetpValidateName: checking to see if 'NOE' is valid as type 3 name
+05/13/2012 23:07:31:445 NetpCheckDomainNameIsValid for NOE returned 0x54b, last error is 0x0
+05/13/2012 23:07:31:445 NetpCheckDomainNameIsValid [ Exists ] for 'NOE' returned 0x54b

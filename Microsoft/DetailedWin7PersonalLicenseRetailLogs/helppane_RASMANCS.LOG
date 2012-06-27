@@ -1,0 +1,125 @@
+
+[1664] 03-17 00:13:49:763: RasAddNotification called, hconn= -1, hevent= 0x2d8, dwfFlags= 0x3, ProcessId= 1652
+[1664] 03-17 00:13:49:778: InitializeRasmanMonitorThread Entered ...
+[1664] 03-17 00:13:49:778: InitializeRasmanMonitorThread exiting ... 0
+[1664] 03-17 00:13:49:778: Rasman Service Status when ProcessAddNotification called for first time: 0
+[1664] 03-17 00:13:49:778: ProcessAddNotification exiting ... 0
+[1664] 03-17 00:13:49:778: RasAddNotification exiting ... 0
+[352] 03-17 00:13:49:778: RasmanServiceMonitor thread Entered ...
+[3348] 03-17 00:34:35:752: RasAddNotification called, hconn= -1, hevent= 0x29c, dwfFlags= 0x3, ProcessId= 2800
+[3348] 03-17 00:34:35:767: InitializeRasmanMonitorThread Entered ...
+[3348] 03-17 00:34:35:767: InitializeRasmanMonitorThread exiting ... 0
+[3348] 03-17 00:34:35:767: Rasman Service Status when ProcessAddNotification called for first time: 0
+[3348] 03-17 00:34:35:767: ProcessAddNotification exiting ... 0
+[3348] 03-17 00:34:35:767: RasAddNotification exiting ... 0
+[2360] 03-17 00:34:35:767: RasmanServiceMonitor thread Entered ...
+[5828] 03-17 21:48:53:250: RasAddNotification called, hconn= -1, hevent= 0x2b0, dwfFlags= 0x3, ProcessId= 2892
+[5828] 03-17 21:48:53:262: InitializeRasmanMonitorThread Entered ...
+[5828] 03-17 21:48:53:262: InitializeRasmanMonitorThread exiting ... 0
+[7600] 03-17 21:48:53:262: RasmanServiceMonitor thread Entered ...
+[5828] 03-17 21:48:53:265: Rasman Service Status when ProcessAddNotification called for first time: 0
+[5828] 03-17 21:48:53:265: ProcessAddNotification exiting ... 0
+[5828] 03-17 21:48:53:265: RasAddNotification exiting ... 0
+[5968] 03-18 19:39:52:618: RasAddNotification called, hconn= -1, hevent= 0x2c0, dwfFlags= 0x3, ProcessId= 1256
+[5968] 03-18 19:39:52:636: InitializeRasmanMonitorThread Entered ...
+[5968] 03-18 19:39:52:636: InitializeRasmanMonitorThread exiting ... 0
+[5968] 03-18 19:39:52:636: Rasman Service Status when ProcessAddNotification called for first time: 0
+[5968] 03-18 19:39:52:636: ProcessAddNotification exiting ... 0
+[5968] 03-18 19:39:52:636: RasAddNotification exiting ... 0
+[2404] 03-18 19:39:52:636: RasmanServiceMonitor thread Entered ...
+[4636] 03-31 21:58:37:924: RasAddNotification called, hconn= -1, hevent= 0x2c0, dwfFlags= 0x3, ProcessId= 5744
+[4636] 03-31 21:58:37:932: InitializeRasmanMonitorThread Entered ...
+[4636] 03-31 21:58:37:932: InitializeRasmanMonitorThread exiting ... 0
+[2552] 03-31 21:58:37:932: RasmanServiceMonitor thread Entered ...
+[4636] 03-31 21:58:37:933: Rasman Service Status when ProcessAddNotification called for first time: 0
+[4636] 03-31 21:58:37:933: ProcessAddNotification exiting ... 0
+[4636] 03-31 21:58:37:933: RasAddNotification exiting ... 0
+[152] 03-31 21:58:43:682: RasAddNotification called, hconn= -1, hevent= 0x2a8, dwfFlags= 0x3, ProcessId= 5152
+[152] 03-31 21:58:43:682: InitializeRasmanMonitorThread Entered ...
+[152] 03-31 21:58:43:684: InitializeRasmanMonitorThread exiting ... 0
+[4500] 03-31 21:58:43:684: RasmanServiceMonitor thread Entered ...
+[152] 03-31 21:58:43:685: Rasman Service Status when ProcessAddNotification called for first time: 0
+[152] 03-31 21:58:43:685: ProcessAddNotification exiting ... 0
+[152] 03-31 21:58:43:685: RasAddNotification exiting ... 0
+[5956] 03-31 21:58:47:194: RasAddNotification called, hconn= -1, hevent= 0x29c, dwfFlags= 0x3, ProcessId= 4416
+[5956] 03-31 21:58:47:194: InitializeRasmanMonitorThread Entered ...
+[5956] 03-31 21:58:47:194: InitializeRasmanMonitorThread exiting ... 0
+[5956] 03-31 21:58:47:194: Rasman Service Status when ProcessAddNotification called for first time: 0
+[5956] 03-31 21:58:47:194: ProcessAddNotification exiting ... 0
+[5956] 03-31 21:58:47:194: RasAddNotification exiting ... 0
+[5264] 03-31 21:58:47:194: RasmanServiceMonitor thread Entered ...
+[3356] 03-31 21:59:44:328: RasAddNotification called, hconn= -1, hevent= 0x2a8, dwfFlags= 0x3, ProcessId= 3892
+[3356] 03-31 21:59:44:329: InitializeRasmanMonitorThread Entered ...
+[3356] 03-31 21:59:44:329: InitializeRasmanMonitorThread exiting ... 0
+[3332] 03-31 21:59:44:331: RasmanServiceMonitor thread Entered ...
+[3356] 03-31 21:59:44:334: Rasman Service Status when ProcessAddNotification called for first time: 0
+[3356] 03-31 21:59:44:334: ProcessAddNotification exiting ... 0
+[3356] 03-31 21:59:44:334: RasAddNotification exiting ... 0
+[10120] 04-14 22:04:03:003: RasAddNotification called, hconn= -1, hevent= 0x2ac, dwfFlags= 0x3, ProcessId= 5096
+[10120] 04-14 22:04:03:014: InitializeRasmanMonitorThread Entered ...
+[10120] 04-14 22:04:03:015: InitializeRasmanMonitorThread exiting ... 0
+[10120] 04-14 22:04:03:015: Rasman Service Status when ProcessAddNotification called for first time: 0
+[10120] 04-14 22:04:03:015: ProcessAddNotification exiting ... 0
+[10120] 04-14 22:04:03:015: RasAddNotification exiting ... 0
+[9172] 04-14 22:04:03:019: RasmanServiceMonitor thread Entered ...
+[7184] 04-21 19:46:38:138: RasAddNotification called, hconn= -1, hevent= 0x2a8, dwfFlags= 0x3, ProcessId= 1020
+[7184] 04-21 19:46:38:153: InitializeRasmanMonitorThread Entered ...
+[7184] 04-21 19:46:38:153: InitializeRasmanMonitorThread exiting ... 0
+[7184] 04-21 19:46:38:153: Rasman Service Status when ProcessAddNotification called for first time: 0
+[7184] 04-21 19:46:38:153: ProcessAddNotification exiting ... 0
+[7184] 04-21 19:46:38:153: RasAddNotification exiting ... 0
+[6540] 04-21 19:46:38:154: RasmanServiceMonitor thread Entered ...
+[1120] 04-28 20:04:52:766: RasAddNotification called, hconn= -1, hevent= 0x380, dwfFlags= 0x3, ProcessId= 1108
+[1120] 04-28 20:04:52:813: InitializeRasmanMonitorThread Entered ...
+[1120] 04-28 20:04:52:813: InitializeRasmanMonitorThread exiting ... 0
+[2368] 04-28 20:04:52:813: RasmanServiceMonitor thread Entered ...
+[1120] 04-28 20:04:52:813: Rasman Service Status when ProcessAddNotification called for first time: 0
+[1120] 04-28 20:04:52:813: ProcessAddNotification exiting ... 0
+[1120] 04-28 20:04:52:813: RasAddNotification exiting ... 0
+[6644] 04-28 22:02:00:457: RasAddNotification called, hconn= -1, hevent= 0x2a4, dwfFlags= 0x3, ProcessId= 7312
+[6644] 04-28 22:02:00:464: InitializeRasmanMonitorThread Entered ...
+[6644] 04-28 22:02:00:465: InitializeRasmanMonitorThread exiting ... 0
+[2680] 04-28 22:02:00:465: RasmanServiceMonitor thread Entered ...
+[6644] 04-28 22:02:00:465: Rasman Service Status when ProcessAddNotification called for first time: 0
+[6644] 04-28 22:02:00:465: ProcessAddNotification exiting ... 0
+[6644] 04-28 22:02:00:465: RasAddNotification exiting ... 0
+[6392] 05-05 21:17:22:713: RasAddNotification called, hconn= -1, hevent= 0x2bc, dwfFlags= 0x3, ProcessId= 9708
+[6392] 05-05 21:17:22:727: InitializeRasmanMonitorThread Entered ...
+[6392] 05-05 21:17:22:734: InitializeRasmanMonitorThread exiting ... 0
+[6392] 05-05 21:17:22:766: Rasman Service Status when ProcessAddNotification called for first time: 0
+[6392] 05-05 21:17:22:766: ProcessAddNotification exiting ... 0
+[6392] 05-05 21:17:22:766: RasAddNotification exiting ... 0
+[5356] 05-05 21:17:22:819: RasmanServiceMonitor thread Entered ...
+[6740] 05-05 22:51:57:276: RasAddNotification called, hconn= -1, hevent= 0x290, dwfFlags= 0x3, ProcessId= 8200
+[6740] 05-05 22:51:57:312: InitializeRasmanMonitorThread Entered ...
+[6740] 05-05 22:51:57:312: InitializeRasmanMonitorThread exiting ... 0
+[6740] 05-05 22:51:57:312: Rasman Service Status when ProcessAddNotification called for first time: 0
+[6740] 05-05 22:51:57:312: ProcessAddNotification exiting ... 0
+[6740] 05-05 22:51:57:312: RasAddNotification exiting ... 0
+[7592] 05-05 22:51:57:346: RasmanServiceMonitor thread Entered ...
+[7592] 05-06 01:40:49:587: RasmanAddNotificationForAll -- processing based on g_pRcnList
+[7592] 05-06 01:40:49:617: RasmanAddNotification: Calling RasReferenceRasmanInternal
+[4028] 05-09 19:42:38:981: RasAddNotification called, hconn= -1, hevent= 0x338, dwfFlags= 0x3, ProcessId= 1168
+[4028] 05-09 19:42:38:981: InitializeRasmanMonitorThread Entered ...
+[4028] 05-09 19:42:38:981: InitializeRasmanMonitorThread exiting ... 0
+[908] 05-09 19:42:38:981: RasmanServiceMonitor thread Entered ...
+[4028] 05-09 19:42:38:981: Rasman Service Status when ProcessAddNotification called for first time: 0
+[4028] 05-09 19:42:38:981: ProcessAddNotification exiting ... 0
+[4028] 05-09 19:42:38:981: RasAddNotification exiting ... 0
+[1800] 05-09 21:33:17:682: RasAddNotification called, hconn= -1, hevent= 0x2c8, dwfFlags= 0x3, ProcessId= 3888
+[1800] 05-09 21:33:17:698: InitializeRasmanMonitorThread Entered ...
+[1800] 05-09 21:33:17:698: InitializeRasmanMonitorThread exiting ... 0
+[1108] 05-09 21:33:17:698: RasmanServiceMonitor thread Entered ...
+[1800] 05-09 21:33:17:713: Rasman Service Status when ProcessAddNotification called for first time: 0
+[1800] 05-09 21:33:17:713: ProcessAddNotification exiting ... 0
+[1800] 05-09 21:33:17:713: RasAddNotification exiting ... 0
+[2760] 05-11 10:40:46:197: RasAddNotification called, hconn= -1, hevent= 0x324, dwfFlags= 0x3, ProcessId= 2552
+[2760] 05-11 10:40:46:213: InitializeRasmanMonitorThread Entered ...
+[2760] 05-11 10:40:46:213: InitializeRasmanMonitorThread exiting ... 0
+[2920] 05-11 10:40:46:213: RasmanServiceMonitor thread Entered ...
+[2760] 05-11 10:40:46:213: Rasman Service Status when ProcessAddNotification called for first time: 0
+[2760] 05-11 10:40:46:213: ProcessAddNotification exiting ... 0
+[2760] 05-11 10:40:46:213: RasAddNotification exiting ... 0
+[2920] 05-11 10:41:48:036: RasmanAddNotificationForAll -- processing based on g_pRcnList
+[2920] 05-11 10:41:48:036: RasmanAddNotification: Calling RasReferenceRasmanInternal
+[1364] 05-11 10:42:10:282: RasInitialize called by 2552

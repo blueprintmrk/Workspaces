@@ -1,0 +1,5 @@
+﻿2012-03-11 00:56:01, Info                         [IE sysprep provider] Sysprep_Specialize_IE entered
+2012-03-11 00:56:01, Info                         [SetIEInstalledDate LIB] SetIEInstalledDate() Setting IE Installed Date
+2012-03-11 00:56:01, Info                         [SetIEInstalledDate LIB] On 32-bit OS: Setting IE Installed Date value
+2012-03-11 00:56:01, Info                         [IESetup LIB] Calling CAdjustPrivilege constructor arg: SeRestorePrivilege
+2012-03-11 00:56:01, Info                         [IE sysprep provider] Sysprep_Specialize_Shell exit

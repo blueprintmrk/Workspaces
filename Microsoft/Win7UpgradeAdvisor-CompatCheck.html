@@ -1,0 +1,889 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="keywords" content="Windows 7 compatibility, programs, software, devices, hardware, updates, drivers, downloads, PC, scan, upgrade advisor, Windows, Windows 7" /><meta name="description" content="See what works on 32-bit and 64-bit Windows 7. Download software updates and device drivers for your favorite products. Find thousands of compatible software programs and hardware devices." /><meta name="t_omni_charset" content="UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><link rel="shortcut icon" href="../Assets/images/favicon.ico" /><link rel="Stylesheet" href="../Framework/styles/base.css" />
+    <!--[if lt IE 7]>
+            <link rel="Stylesheet" href="../Framework/styles/base_ieOld.css" />
+            <script src="../Framework/js/ie6compat.js" type="text/javascript"></script>
+            <script src="../Framework/js/pngfix-possibilities.js" type="text/javascript"></script>
+      <![endif]-->
+    <!--[if IE 7]><link rel="Stylesheet" href="../Framework/styles/base_ie7.css" /><![endif]-->
+    <!--[if IE 8]><link rel="Stylesheet" href="../Framework/styles/base_ie8.css" /><![endif]-->
+    
+    <link rel="Stylesheet" href="../Framework/styles/sitemap.css" /><link rel="Stylesheet" href="../Framework/styles/layout.css" /><link rel="Stylesheet" href="../Framework/styles/core.css" /><link rel="Stylesheet" href="../Assets/styles/base.css" /><link rel="Stylesheet" href="../Assets/styles/marketPicker.css" />
+    <!--[if IE 8]><link rel="Stylesheet" href="../Assets/styles/base_ie8.css" /><![endif]-->
+    <!--[if IE 7]><link rel="Stylesheet" href="../Assets/styles/base_ie7.css" /><![endif]-->
+    <!--[if lt IE 7]><link rel="Stylesheet" href="../Assets/styles/baseIE6.css" /><![endif]--> 
+    
+    <script type="text/javascript" src="../Framework/js/library/jquery/1.3.1/jquery.js"></script>
+    <script src="../Framework/Controls/WindowsNavigation/MainNavigation/Scripts/MainNavigation.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../Assets/js/general.js"></script>     
+
+    
+    <link rel="Stylesheet" href="../Assets/styles/home.css" />
+    <script type="text/javascript">
+     jQuery(document).ready(function() {
+
+        // Set active tab
+        setTimeout(function() {
+            var searchBox = $get('ctl00_wecHeaderPlaceHolder_HomeHeader1_Search1_ProductTypeDropDown');
+            var _tabControl = $find('ctl00_BaseBodyFull_Tabs1');
+
+            if (_tabControl && searchBox) {
+                _tabControl._setActiveTab(searchBox.selectedIndex);
+            }
+            _tabControl = null;
+        }, 1);
+
+   		// Add tracking to the header navigation links and the search button (in the w:Header control)
+   		jQuery(".wecHeader-content a").click(function() {
+   			globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_topnav');
+   		});
+   		jQuery(".wecHeader .searchbutton").click(function() {
+   			globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_advsearch');
+   		});
+   	 });
+   	 
+   	 function switchSearchBar(sender) {
+        var searchBox = document.getElementById('ctl00_wecHeaderPlaceHolder_HomeHeader1_Search1_ProductTypeDropDown');
+        if (sender.href.toLowerCase().match('software') != null) {
+        	searchBox.selectedIndex = 0;
+        	globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');
+        }
+        else if (sender.href.toLowerCase().match('hardware') != null) {
+        	searchBox.selectedIndex = 1;
+        	globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');
+        }
+        return false;
+     }
+</script>
+
+   
+   <script type="text/javascript">
+   	var globaltracking;
+   	var onclickTrackingFunctionsDictionary;
+
+   	function GlobalTracking()  //constructor
+   	{
+   		trackingFilePath = '';
+   		onclickTrackingFunctionsDictionary = new Array();
+   	}
+
+   	function onclicktrack(trackid) {
+   		eval(onclickTrackingFunctionsDictionary[trackid]);
+   	}
+
+   	function trackatlasonclick(atlastrackstring) {
+   		var atlasuri = atlastrackstring;
+   		if (!atlasuri) return;
+   		var timestamp = new Date();
+   		var qs = "?qstr=random=" + Math.ceil(Math.random() * 99999999) + timestamp.getUTCFullYear() + timestamp.getUTCMonth() + timestamp.getUTCDate() + timestamp.getUTCHours() + timestamp.getUTCMinutes() + timestamp.getUTCSeconds() + timestamp.getUTCMilliseconds();
+   		var fulluri = atlasuri + qs;
+
+   		if (!document.getElementsByTagName || !document.createElement || !document.appendChild) {
+   			return false;
+   		}
+   		else {
+   			var script = document.createElement("script");
+   			script.type = "text/javascript";
+   			script.src = fulluri;
+   			document.getElementsByTagName("head")[0].appendChild(script);
+   			return true;
+   		}
+   	}
+
+   	function trackatlasonpageload(atlastrackstring) {
+   		document.write('<s' + 'cript language="JavaScript" src="' + atlastrackstring + '"></s' + 'cript>');
+   	}
+
+   	GlobalTracking.prototype.onclicktrack = onclicktrack;
+   	GlobalTracking.prototype.trackatlasonclick = trackatlasonclick;
+   	GlobalTracking.prototype.trackatlasonpageload = trackatlasonpageload;
+   	globaltracking = new GlobalTracking();
+	</script>
+    
+    <!--[if lt IE 7]>
+        <link rel="Stylesheet" href="../Assets/styles/homeIE6.css" />
+        <script type="text/javascript">
+		    if (window.attachEvent) window.attachEvent("onload", function() { attachListHover("HardwareTab"); attachListHover("SoftwareTab"); } );
+	    </script>
+    <![endif]-->
+    
+
+    <link rel="Stylesheet" media="print" href="../Assets/styles/print.css" />
+<title>
+	Windows 7 Compatibility: Software Programs & Hardware Devices: Find Updates, Drivers, & Downloads
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="Default.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkwOTQ5NjI0NWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFF2N0bDAwJGN0bDE1JG1zdmlMU0Jsb2dvBRpjdGwwMCRjdGwxNSRtc3ZpTFNCc3NlYXJjaAUjY3RsMDAkY3RsMTUkU2VhcmNoVGhlV2ViSW1hZ2VCdXR0b27VD9kOMV59ndEENMF1CuEJ4ff1hw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/windows/compatibility/windows-7/WebResource.axd?d=tCoVo8B2kuxlKOl5wzF30FvsGeTt7CduKjWtBZz8tM08W2kOSx9-9wbFZ4auucVsQzS3Iqdk_jp7ENOKj0sSh6yA--81&amp;t=634604136479085897" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="../Framework/Controls/Search/BingStyles/base.css" /><link rel="stylesheet" type="text/css" href="../Framework/Controls/Search/BingStyles/LeftToRight/firefox_override.css" />
+<script src="/windows/compatibility/windows-7/ScriptResource.axd?d=sPxw7b38TAeB9U0l6Av7k-xwU-_CDeVjJRNlI5TWrj78FuKPRLeYVNDrXNrnLLITxj5ZjFZMimBNgy5DU3pCRHiskK6pbydO7m3ZTDe7ftqS556AghFojhOIP0HWLqslBTr2eij1jNOq8nC9FlljMwmUaIM1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/windows/compatibility/windows-7/ScriptResource.axd?d=u6GZLpn8-blTgQJDIyi3XzUXcRxojRh5uTMGbJmcGce6Dsb7H1bft1BvHRbl-SGVtHSJatipeoRzz0_CuIPHv7tU7nYMaIhDYhn-8aw84oqeoiCKWGUHB21n6NqSdaP_vZhOzt1FKZ4CTzI4gheJ7rkRlBSPnm2SwyzpEPErwo9H0J_40&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="../Controls/Tabs/Tabs.js" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCAKk+Mr4CAKjj7HuCwLtiamBCALF54mDAwLTtNLxCgLirIf5CwLbt7e0DALS4czPCF9nDnqLRLivxUP1rQSbUPjHohvL" />
+</div>
+    <div id="top_bkg">
+        <div id="content_bkg">
+            <div id="basePageFrame">
+                <div id="baseHeader">
+                    
+	
+
+<div class="msviLSBsform" id="msviLSBsform">
+	<script type="text/javascript">
+		if(navigator.vendor && navigator.vendor.toString().indexOf('Apple') >=0)
+		{
+			document.write('<style type="text/css">.msviLSBsform {padding-bottom:20px; position:relative; left:-130px;} .SimpleSearchWebButtonText{padding-top:5px;}</style>');
+			
+		}
+		
+		function omnitureTrackBingOnSearch()
+		{
+			q_string = document.getElementById("ctl00_ctl15_msviLSBtbox").value;
+			var oldlinktrackvars = s.linkTrackVars;
+			s.linkTrackVars="eVar25,prop12,eVar12,prop13,eVar13,prop14,eVar14,prop15,eVar15,prop16,eVar16,prop17,eVar17,events";
+			s.linkTrackEvents="event2"; s.events="event2";
+			s.eVar12=s.prop12="";                 s.eVar13=s.prop13=s.eVar14=s.prop14=s.eVar15=s.prop15=s.eVar16=s.prop16="searchbox";
+			s.eVar17=s.prop17=s.pageName; s.eVar25=q_string;
+			s.tl(this,'o','searchbox: '+s.prop17);
+			s.eVar25=s.prop12=s.eVar12=s.prop13=s.eVar13=s.prop14=s.eVar14=s.prop15=s.eVar15=s.prop16=s.eVar16=s.prop17=s.eVar17=s.events="";
+			s.linkTrackVars = oldlinktrackvars;
+		}
+	</script>
+	
+
+	<div class="searchParentContainerDivCss">
+		<div id="msBing">
+			<input type="hidden" value="en-us" name="View" />
+			<input type="hidden" value="iso-8859-1" name="charset" />
+			<input name="ctl00$ctl15$msviLSBtbox" type="text" value="Search Microsoft.com" id="ctl00_ctl15_msviLSBtbox" class="msviLSBtbox" onkeypress="return detectReturn(event)" name="qu" onblur="searchBoxBlur('Search Microsoft.com')" onfocus="searchBoxFocused('Search Microsoft.com')" style="font-style: italic; color: rgb(161, 161, 161);" />
+			<input type="image" name="ctl00$ctl15$msviLSBlogo" id="ctl00_ctl15_msviLSBlogo" class="msviLSBlogo" title="bing" src="../Framework/Controls/Search/Images/logo_inside.gif" style="border-width:0px;" />
+			<input type="image" name="ctl00$ctl15$msviLSBssearch" id="ctl00_ctl15_msviLSBssearch" class="msviLSBssearch" title="Search Microsoft.com" src="../Framework/Controls/Search/Images/Search_icon.gif" alt="Search Microsoft.com" onclick="omnitureTrackBingOnSearch();trackLSB('Site');webTrendsTrack('MSSBCUS');" style="border-width:0px;border-width: 0px;" />
+		</div>
+		<div class="searchTheWebImageButtonDivCss">
+			<input type="image" name="ctl00$ctl15$SearchTheWebImageButton" id="ctl00_ctl15_SearchTheWebImageButton" class="searchTheWebImageButtonCss" title="Web" src="http://www.microsoft.com/india/windows/content/en-IN/windows/images/searchcontrol/web.gif" alt="Web" onclick="omnitureTrackBingOnSearch();trackLSB('Web');webTrendsTrack('MSSBCU');" style="border-width:0px;" />
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		    var oSearchBox = document.getElementById('ctl00_ctl15_msviLSBtbox'); 
+		    var jsSEARCH_INSTRUCTION_TEXT = ''; 
+		    function webTrendsTrack(type){
+		        try
+		        { 
+		            dcsSetVar('DCSext.cue_sterm',oSearchBox.value,'DCSext.cue_stype',type); 
+		        } 
+		        catch(err){} 
+		           
+		    }
+
+			function detectReturn(e){ 
+		        var charCode; 
+		        if(e && e.which){ e = e; charCode = e.which; } 
+		        else{e = event; charCode = e.keyCode; }
+		        if(charCode == 13){
+					document.getElementById('ctl00_ctl15_msviLSBtbox').blur();
+					
+					
+					setTimeout("document.getElementById('ctl00_ctl15_msviLSBssearch').click()",1000); 
+					return false; 
+		        } 
+		        else{ return true; }
+		   }
+var doImage=doImage;var TType=TType;var defaultSearchLable;
+function mhHover(tbl,idx,cls){var t,d;if(document.getElementById)t=document.getElementById(tbl);else t=document.all(tbl);if(t==null)return;if(t.getElementsByTagName)d=t.getElementsByTagName("TD");else d=t.all.tags("TD");if(d==null)return;if(d.length<=idx)return;d[idx].className=cls;}
+
+var rsltextbox = 'ctl00_ctl15_msviLSBtbox'; var wtflag = false;
+function stripSymbols () { 
+	var objrslttextbox = getObjectById(rsltextbox); 
+	if (objrslttextbox) { 
+		var form = objrslttextbox.form; 
+		var s = objrslttextbox.value; 
+		filteredValues = "<>"; 
+		var i; 
+		var returnString = ""; 
+		for (i = 0; i < s.length; i++) { 
+			var c = s.charAt(i); 
+			if (filteredValues.indexOf(c) == -1) { returnString += c; } 
+			else { returnString += " "; } 
+		} 
+		objrslttextbox.value = returnString; 
+	} 
+	if(!wtflag) { trackLSB("Site"); } 
+} 
+function addSubmitEvent() { 
+	defaultSearchLable=document.getElementById("ctl00_ctl15_msviLSBtbox").value;
+	var objrslttextbox = getObjectById(rsltextbox); 
+	if (objrslttextbox) 
+	{ 
+		var form = objrslttextbox.form; 
+		if (window.attachEvent) 
+		{ 
+			form.attachEvent("onsubmit",stripSymbols); 
+		} 
+		else 
+		{ 
+			form.addEventListener("submit",stripSymbols,false); 
+		} 
+	} 
+} 
+function getObjectById(elid) 
+{ 
+	if (document.getElementById) 
+	{ 
+		return document.getElementById(elid); 
+	} 
+	else if (document.all) 
+	{ 
+		return document.all[elid]; 
+	} 
+	else if (document.layers) 
+	{ 
+		return document.layers[elid]; 
+	} 
+} 
+
+if (window.attachEvent) 
+{ 
+	window.attachEvent("onload",addSubmitEvent); 
+} 
+else 
+{ 
+	window.addEventListener("load",addSubmitEvent,false); 
+} 
+
+function trackLSB(type) 
+{ 
+	clearDefaultSearchLable();
+	if (typeof dcsMultiTrack == "function") 
+	{ 
+		var qu = document.getElementById("ctl00_ctl15_msviLSBtbox").value; 
+		var dcsuri = "results.aspx"; 
+		var dcssip, ti; 
+		if (type == "Site") 
+		{ 
+			dcssip = "search.microsoft.com"; 
+			ti = "SearchButton: OnSite"; 
+		} 
+		else if (type == "Web") 
+		{ 
+			dcssip = "search.live.com"; 
+			ti = "SearchButton: Web"; 
+		} 
+		dcsMultiTrack("DCS.dcsuri", dcsuri, "DCS.dcssip", dcssip, "WT.ti", ti, "WT.dl", "2", "WT.z_srch_t", qu, "DCS.dcsqry", "", "WT.ad", "", "WT.mc_id", ""); 
+		wtflag = true; 
+		DCS.dcsuri=DCS.dcssip=DCS.dcsqry=WT.ti=WT.z_srch_t="";
+	} 
+}
+
+var isInputqu = false;
+function clearDefaultSearchLable()
+{var searchBox = document.getElementById("ctl00_ctl15_msviLSBtbox");
+if(!isInputqu){searchBox.value = "";}}
+var logoHeight = 22;
+function searchBoxFocused(defaultSearchLabel){
+var searchBoxInput = document.getElementById("ctl00_ctl15_msviLSBtbox");
+var kievImage = document.getElementById("ctl00_ctl15_msviLSBlogo");
+if(searchBoxInput.value == defaultSearchLabel)
+{
+searchBoxInput.value = '';
+if (logoHeight == 0)
+{
+	logoHeight = kievImage.clientHeight;    
+}
+
+
+searchBoxInput.style.fontStyle = '';
+searchBoxInput.style.color='#000000';
+kievImage.style.height = 0 + "px";
+
+}}
+function searchBoxBlur(defaultSearchLabel)
+{
+var searchBoxInput = document.getElementById("ctl00_ctl15_msviLSBtbox");
+var kievImage = document.getElementById("ctl00_ctl15_msviLSBlogo");
+if(searchBoxInput.value.replace(/(^\s*)|(\s*$)/g, '')=='') 
+{searchBoxInput.value=defaultSearchLabel;searchBoxInput.style.fontStyle ='Italic';
+searchBoxInput.style.color = "#a1a1a1";
+kievImage.style.height = logoHeight + "px";
+isInputqu = false;}else{isInputqu = true;}}
+
+
+function searchCtrl_KeyPress(e)
+{
+    var e = e || window.event;
+    var keyCode = e.which || e.keyCode;
+    if(keyCode == 13)
+    {
+        var x = document.getElementById(searchCtrlButtonId);
+        if(x)
+        {
+            x.click();
+            return false;
+        }
+     }
+    return true;
+}
+</script>
+
+</div>
+
+                    <div id="header_left">
+                        <div id="header_windows_logo">
+                            <a href="../default.aspx">
+                                <img src="../Framework/images/win_logo.png" id="ctl00_Img1" width="120" height="34" alt="Windows" />
+                            </a>
+                        </div>
+                    </div>
+                    <div style="clear: both;"> </div>
+                    <div id="wol_header_nav">
+                        
+
+<link rel="Stylesheet" href="../Framework/Controls/WindowsNavigation/MainNavigation/Styles/base.css" />
+<link rel="Stylesheet" href="../Framework/Controls/WindowsNavigation/MainNavigation/Styles/LeftToRight/firefox_override.css" />
+
+<div id="ctl00_ctl16_NavMenu" class="navMenu">
+	
+<ul class="navMenuList cf"><li><div class="menuTitle">
+    
+    <a href="http://www.microsoft.com/india/windows/" class="menuTitleLink">Home</a>
+  </div></li><li><div class="menuTitle">
+    <a href="http://go.microsoft.com/fwlink/?LinkID=150623" class="menuTitleLink">Discover Windows</a>
+  </div></li><li><div class="menuTitle menuDropdown">
+    <a href="http://go.microsoft.com/fwlink/?LinkID=151761" class="menuTitleLink">Products</a>
+  <div class="menuGroupWrapper"><ul>
+  <li>
+    <a href="http://windows.microsoft.com/en-in/windows7/products/windows-7?os=nonwin7">Windows 7</a>
+  </li>
+  <li>
+    <a href="http://www.microsoft.com/india/windows/windows-vista/">Windows Vista</a>
+  </li>
+  <li>
+    <a href="http://www.microsoft.com/india/windows/windows-xp/default.aspx">Windows XP</a>
+  </li>
+  <li>
+    <a href="http://www.microsoft.com/india/windows/internet-explorer/default.aspx">Internet Explorer</a>
+  </li>
+  <li>
+    <a href="http://go.microsoft.com/fwlink/?LinkID=133352">Windows Live</a>
+  </li>
+  <li>
+    <a href="http://go.microsoft.com/fwlink/?LinkID=132776">Windows phone</a>
+  </li>
+  <li class="menuGroupAdditional">
+    <a href="http://go.microsoft.com/fwlink/?LinkID=151761">All products</a>
+  </li>
+</ul><div class="menuGroupWrapperShadow"></div></div></div></li><li><div class="menuTitle">
+    
+    <a href="http://www.microsoft.com/india/fitbusiness/buy_now.aspx" class="menuTitleLink">Buy</a>
+  </div></li><li><div class="menuTitle">
+    
+    <a href="http://www.microsoft.com/india/windows/downloads/default.aspx" class="menuTitleLink">Downloads</a>
+  </div></li><li><div class="menuTitle menuDropdown">
+    <a href="http://go.microsoft.com/fwlink/?LinkID=154572" class="menuTitleLink">Help &amp; How-to</a>
+  <div class="menuGroupWrapper"><ul>
+  <li>
+    <a href="http://windows.microsoft.com/en-IN/windows7/help">Windows 7</a>
+  </li>
+  <li>
+    <a href="http://windowshelp.microsoft.com/Windows/en-in/default.mspx">Windows Vista</a>
+  </li>
+  <li>
+    <a href="http://windowshelp.microsoft.com/Windows/en-IN/default.mspx">Windows XP</a>
+  </li>
+  <li>
+    <a href="http://windowshelp.microsoft.com/windows/en-IN/internet-explorer.mspx">Internet Explorer</a>
+  </li>
+  <li>
+    <a href="http://go.microsoft.com/fwlink/?LinkID=150572">Windows Live</a>
+  </li>
+  <li>
+    <a href="http://go.microsoft.com/fwlink/?LinkID=150573">Windows phone</a>
+  </li>
+</ul><div class="menuGroupWrapperShadow"></div></div></div></li></ul>
+</div>
+                    </div>
+                </div>
+                
+                
+    
+
+<script type="text/javascript">     
+        // omniture       
+        var localizedPath = 'en-in';        
+</script>
+<script type="text/javascript" src="../Framework/js/library/jquery/1.3.1/plugins/hoverIntent.js"></script>
+<script type="text/javascript" src="../Framework/js/library/jquery/1.3.1/plugins/listDropdown.js"></script>
+<script type="text/javascript" src="../Framework/js/library/jquery/1.3.1/plugins/jquery.bgiframe.js"></script>
+
+<div id="ctl00_wecHeaderPlaceHolder_HomeHeader1_wecHeader" class="wecHeader cf homePage">
+	
+    <div class="wecHeader-content">
+        <div class="wecHeaderMain">
+            <div>
+                <div class="logoContent">
+                    <h1>
+                        <a href="http://www.microsoft.com/windows/compatibility/windows-7/en-in/default.aspx" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_logoLink">
+                            Windows 7 Compatibility Centre
+                        </a>
+                    </h1>    
+                     
+                    <span id="mpwrapper">
+                        <ul class="mpdropdown"><li><p class="list_after_para"><span class="dropdownArrow">India - English</span></p><ul><li><p><a href="en-au/Default.aspx" class="mktPicker">Australia - English</a></p></li><li><p><a href="pt-br/default.aspx" class="mktPicker">Brasil - Português</a></p></li><li><p><a href="en-ca/Default.aspx" class="mktPicker">Canada - English</a></p></li><li><p><a href="fr-ca/Default.aspx" class="mktPicker">Canada - Français</a></p></li><li><p><a href="de-de/default.aspx" class="mktPicker">Deutschland - Deutsch</a></p></li><li><p><a href="es-es/Default.aspx" class="mktPicker">España - Español</a></p></li><li><p><a href="fr-fr/Default.aspx" class="mktPicker">France - Français</a></p></li><li><p><a href="it-it/Default.aspx" class="mktPicker">Italia - Italiano</a></p></li><li><p><a href="nl-nl/default.aspx" class="mktPicker">Nederland - Nederlands</a></p></li><li><p><a href="en-gb/Default.aspx" class="mktPicker">United Kingdom - English</a></p></li><li><p><a href="en-us/Default.aspx" class="mktPicker">United States - English</a></p></li><li><p><a href="ru-ru/Default.aspx" class="mktPicker">Россия - Русский</a></p></li><li><p><a href="ko-kr/default.aspx" class="mktPicker">대한민국 - 한국어</a></p></li><li><p><a href="zh-cn/default.aspx" class="mktPicker">中国 - 中文 简体</a></p></li><li><p><a href="zh-tw/default.aspx" class="mktPicker">台灣 - 中文 繁體</a></p></li><li><p><a href="ja-jp/default.aspx" class="mktPicker">日本 - 日本語</a></p></li></ul></li></ul>
+                    </span>  
+                    
+                    <noscript>
+                      <span id="worldwide">
+                           <p><a href="http://microsoft.com/windows/compatibility/windows-7/en-in/worldwide.aspx">Other locales</a></p>
+                      </span>
+                    </noscript>
+                </div>
+           
+            </div>
+            <div id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Navigation1_WECSiteNavigation" class="horizontalList navigation">
+		
+	  <ul>
+        <li id="firstLink"><a href="http://www.microsoft.com/windows/compatibility/windows-7/en-in/Default.aspx" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Navigation1_homeLink" class="here">Home</a></li>
+        <li><a href="http://www.microsoft.com/windows/compatibility/windows-7/en-in/About.aspx" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Navigation1_aboutLink">About</a></li>
+        <li><a href="http://www.microsoft.com/windows/compatibility/windows-7/en-in/Feedback/" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Navigation1_feedbackLink">Feedback</a></li>
+        <li><a href="http://www.microsoft.com/windows/compatibility/windows-7/en-in/faq.aspx" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Navigation1_faqLink">FAQ</a></li>
+        <li><a href="https://www.microsoft.com/windows/compatibility/windows-7/en-in/partner/submission.aspx" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Navigation1_partnersLink">Partners</a></li>
+    </ul>
+
+	</div>
+
+        </div>
+        <h2>
+            See what works. Get Windows 7 compatible device drivers, software programs, updates, and downloads.
+        </h2>
+    </div>
+    
+
+<script type="text/javascript">
+$(document).ready(function() { 
+    BindSearchEvents("l=en-in&", "Enter product name...");
+});
+</script>
+<div id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Search1_SearchPanel" class="search cf">
+		
+     <select name="ctl00$wecHeaderPlaceHolder$HomeHeader1$Search1$ProductTypeDropDown" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Search1_ProductTypeDropDown">
+			<option selected="selected" value="Software">Software</option>
+			<option value="Hardware">Hardware</option>
+
+		</select>
+    
+    <input name="ctl00$wecHeaderPlaceHolder$HomeHeader1$Search1$SearchTextBox" type="text" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Search1_SearchTextBox" onkeydown="preventPostback(event);" class="searchBox" value="Enter product name..." onBlur="setBlurText(this, 'Enter product name...');" onFocus="setFocusText(this, 'Enter product name...');" /> 
+    <a href="Search.aspx" class="searchbutton"><span>
+        Search</span></a>
+
+	<span class="advancedSearch"><a href="http://www.microsoft.com/windows/compatibility/windows-7/en-in/AdvancedSearch.aspx" id="ctl00_wecHeaderPlaceHolder_HomeHeader1_Search1_A1">Advanced search</a></span>
+
+	</div>
+
+</div>
+
+
+                <div id="body_indented" class="cf">
+                    
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$BaseBodyFull$ScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+    
+    <div id="ctl00_BaseBodyFull_CategoryPanel" class="catTabs cf">
+	
+        <div id="tabs">
+            <p class="browseLabel">Browse for:</p>
+            <span id="ctl00_BaseBodyFull_Tabs1">
+                <div id="ctl00_BaseBodyFull_Tabs1_TabContainer0" class="tabActive">
+		<a id="ctl00_BaseBodyFull_Tabs1_Tab0" href="/windows/compatibility/windows-7/en-in/Default.aspx?type=Software" onclick="return switchSearchBar(this);">Software</a>
+	</div>
+                <div id="ctl00_BaseBodyFull_Tabs1_TabContainer1" class="tabInactive">
+		<a id="ctl00_BaseBodyFull_Tabs1_Tab1" href="/windows/compatibility/windows-7/en-in/Default.aspx?type=Hardware" onclick="return switchSearchBar(this);">Hardware</a>
+	</div>
+            </span>
+        </div>
+        <div id="categoryItemsBox" class="categoryItemsBox">
+            <div id="ctl00_BaseBodyFull_CategoryItemsParentPanel" class="categoryItemsParentPanel">
+		
+                <div id="ctl00_BaseBodyFull_CategoryItemsPanel" class="categoryItemsPanel">
+			 <ul class="categoryItems" id="SoftwareTab"><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_pcgaming.gif') top no-repeat; z-index: 10001"><div class="categoryLabel"><span>PC Gaming</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Action%20%26%20Adventure">Action & Adventure</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Arcade%20%26%20Classic">Arcade & Classic</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Board%20%26%20Puzzle">Board & Puzzle</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Card%20%26%20Casino">Card & Casino</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Role%20Playing">Role Playing</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Simulation%20%26%20Driving">Simulation & Driving</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Sports">Sports</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS04GamingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=PC%20Gaming&subcategory=Strategy">Strategy</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_communications.gif') top no-repeat; z-index: 10000"><div class="categoryLabel"><span>Communication & Internet</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS02CommunicationFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Communication%20%26%20Internet&subcategory=Email%20%26%20Messaging">Email & Messaging</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS02CommunicationFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Communication%20%26%20Internet&subcategory=Networking">Networking</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS02CommunicationFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Communication%20%26%20Internet&subcategory=Voice%20Recognition">Voice Recognition</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS02CommunicationFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Communication%20%26%20Internet&subcategory=Web%20Browsers%20%26%20Plug-ins">Web Browsers & Plug-ins</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_photo.gif') top no-repeat; z-index: 9999"><div class="categoryLabel"><span>Photo & Video</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS07PhotoFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Photo%20%26%20Video&subcategory=Camera%20Utilities">Camera Utilities</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS07PhotoFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Photo%20%26%20Video&subcategory=CD%2fDVD%20Utilities">CD/DVD Utilities</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS07PhotoFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Photo%20%26%20Video&subcategory=Other">Other Photo & Video</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_security.gif') top no-repeat; z-index: 9998"><div class="categoryLabel"><span>Security</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Security&subcategory=Antispyware">Anti-spyware</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Security&subcategory=Antivirus">Anti-virus</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Security&subcategory=Corporate%20Security">Corporate Security</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Security&subcategory=Firewall%20%26%20Internet%20Security">Firewall & Internet Security</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Security&subcategory=Parental%20Controls">Parental Controls</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_business.gif') top no-repeat; z-index: 9997"><div class="categoryLabel"><span>Business &<br/> Home Office</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS01BusinessFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Business%20%26%20Home%20Office&subcategory=Office%20Suites">Office Suites</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS01BusinessFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Business%20%26%20Home%20Office&subcategory=Reference">Reference</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS01BusinessFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Business%20%26%20Home%20Office&subcategory=Small%20Business">Small Business</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS01BusinessFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Business%20%26%20Home%20Office&subcategory=Tax%20%26%20Finance">Tax & Finance</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS01BusinessFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Business%20%26%20Home%20Office&subcategory=Word%20Processing">Word Processing</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_music.gif') top no-repeat; z-index: 9996"><div class="categoryLabel"><span>Music & MP3</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS08MusicFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Music%20%26%20MP3&subcategory=CD%2fDVD%20Utilities">CD/DVD Utilities</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS08MusicFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Music%20%26%20MP3&subcategory=Media%20Players">Media Players</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS08MusicFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Music%20%26%20MP3&subcategory=Other">Other Music & MP3</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_graphics.gif') top no-repeat; z-index: 9995"><div class="categoryLabel"><span>Graphics & Printing</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS03GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Graphics%20%26%20Printing&subcategory=Desktop%20Publishing">Desktop Publishing</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS03GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Graphics%20%26%20Printing&subcategory=Image%20Editing">Image Editing</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS03GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Graphics%20%26%20Printing&subcategory=Printer%20Utilities">Printer Utilities</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS03GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Graphics%20%26%20Printing&subcategory=Web%20Design">Web Design</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_utilities.gif') top no-repeat; z-index: 9994"><div class="categoryLabel"><span>Utilities</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS09UtilitiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Utilities&subcategory=Assistive%20Technology">Assistive Technology</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS09UtilitiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Utilities&subcategory=Backup%20%26%20Recovery">Backup & Recovery</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS09UtilitiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Utilities&subcategory=CD%2fDVD%20Utilities">CD/DVD Utilities</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS09UtilitiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Utilities&subcategory=File%20Conversion">File Conversion</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS09UtilitiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Utilities&subcategory=Networking">Networking</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS09UtilitiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Utilities&subcategory=PC%20Management">PC Management</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_enterprise.gif') top no-repeat; z-index: 9993"><div class="categoryLabelBig"><span>Enterprise Applications</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Application%20Deployment%20%26%20Integration">Application Deployment & Integration</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Application%20Development">Application Development</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Business%20Intelligence%20%26%20Data%20Management">Business Intelligence & Data Management</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Collaboration%20%26%20Content">Collaboration & Content</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Security">Corporate Security</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Customer%20Relationship%20Management%20%28CRM%29">Customer Relationship Management (CRM)</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Enterprise%20Resource%20Management%20%28ERM%29">Enterprise Resource Management (ERM)</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Industry-Specific%20Applications">Industry-Specific Applications</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Operations%20%26%20Supply%20Chain%20Management%20%28SCM%29">Operations & Supply Chain Management (SCM)</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Storage">Storage</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=System%20Software">System Software</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Enterprise%20Applications&subcategory=Systems%20%26%20Network%20Management">Systems & Network Management</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_development.gif') top no-repeat; z-index: 9992"><div class="categoryLabel"><span>Developer Tools</span><div class="subcategoryContainer"><ul><li style="border-bottom: solid 1px #65c5ff; background-image: none;"><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS10OtherFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Development%20Tools&subcategory=all">View All</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_hobbies.gif') top no-repeat; z-index: 9991"><div class="categoryLabel"><span>Hobbies & Personal Improvement</span><div class="subcategoryContainer"><ul><li style="border-bottom: solid 1px #65c5ff; background-image: none;"><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS06HobbiesFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Hobbies%20%26%20Personal%20Improvement&subcategory=all">View All</a></li></ul></div></div></li><li class="defaultLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_sw_kids.gif') top no-repeat; z-index: 9990"><div class="categoryLabel"><span>Kids & Educational</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS05KidsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Kids%27%20%26%20Educational&subcategory=Educational">Educational</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS05KidsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Kids%27%20%26%20Educational&subcategory=Kids%27">Kids</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClS05KidsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_software');" href="Browse.aspx?type=Software&category=Kids%27%20%26%20Educational&subcategory=Reference">Reference</a></li></ul></div></div></li></ul><ul class="categoryItems noDisplay" id="HardwareTab"><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_cameras.gif') top no-repeat; z-index: 10001"><div class="categoryLabel"><span>Cameras & Photo</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH01CameraFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Cameras%20%26%20Photo&subcategory=Camcorders">Camcorders</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH01CameraFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Cameras%20%26%20Photo&subcategory=Digital%20Cameras">Digital Cameras</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH01CameraFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Cameras%20%26%20Photo&subcategory=Digital%20Picture%20Frames">Digital Picture Frames</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH01CameraFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Cameras%20%26%20Photo&subcategory=Webcams">Webcams</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_printers.gif') top no-repeat; z-index: 10000"><div class="categoryLabel"><span>Printers & Scanners</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH02PrintersFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Printers%20%26%20Scanners&subcategory=Ink-Jet%20Printers">Ink-Jet Printers</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH02PrintersFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Printers%20%26%20Scanners&subcategory=Laser%20Printers">Laser Printers</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH02PrintersFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Printers%20%26%20Scanners&subcategory=Multifunction">Multifunction</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH02PrintersFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Printers%20%26%20Scanners&subcategory=Scanners">Scanners</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH02PrintersFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Printers%20%26%20Scanners&subcategory=Other%20Printers">Other Printers</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_mp3.gif') top no-repeat; z-index: 9999"><div class="categoryLabel"><span>MP3 & Media Players</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH03MP3Fnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=MP3%20%26%20Media%20Players&subcategory=Digital%20Media%20Receivers">Digital Media Receivers</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH03MP3Fnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=MP3%20%26%20Media%20Players&subcategory=iPod">iPod</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH03MP3Fnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=MP3%20%26%20Media%20Players&subcategory=Other%20Media%20Players">Other Media Players</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_tv.gif') top no-repeat; z-index: 9998"><div class="categoryLabel"><span>TV Devices</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH04TVFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=TV%20Devices&subcategory=Digital%20Media%20Receivers">Digital Media Receivers</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH04TVFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=TV%20Devices&subcategory=Extenders%20for%20Windows%20Media%20Center">Extenders for Windows Media Center</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH04TVFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=TV%20Devices&subcategory=Remote%20Controls">Remote Controls</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH04TVFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=TV%20Devices&subcategory=TV%20Tuners">TV Tuners</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_communications.gif') top no-repeat; z-index: 9997"><div class="categoryLabel"><span>Communications Devices</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH05CommunicationsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Communications%20Devices&subcategory=Cell%20Phones">Cell Phones</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH05CommunicationsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Communications%20Devices&subcategory=Headsets">Headsets</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH05CommunicationsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Communications%20Devices&subcategory=PDAs">PDAs</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH05CommunicationsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Communications%20Devices&subcategory=Smart%20Phones">Smart Phones</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH05CommunicationsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Communications%20Devices&subcategory=Webcams">Webcams</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_mice.gif') top no-repeat; z-index: 9996"><div class="categoryLabel"><span>Mice, Keyboards & Input Devices</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH06MiceFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Mice%2c%20Keyboards%20%26%20Input%20Devices&subcategory=Biometrics">Biometrics</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH06MiceFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Mice%2c%20Keyboards%20%26%20Input%20Devices&subcategory=Game%20Controllers">Game Controllers</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH06MiceFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Mice%2c%20Keyboards%20%26%20Input%20Devices&subcategory=Keyboards">Keyboards</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH06MiceFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Mice%2c%20Keyboards%20%26%20Input%20Devices&subcategory=Mice">Mice</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH06MiceFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Mice%2c%20Keyboards%20%26%20Input%20Devices&subcategory=Other%20Input%20Devices">Other Input Devices</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_displays.gif') top no-repeat; z-index: 9995"><div class="categoryLabel"><span>Displays</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH07DisplaysFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Displays&subcategory=Extenders%20for%20Windows%20Media%20Center">Extenders for Windows Media Center</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH07DisplaysFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Displays&subcategory=LCD">LCD</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH07DisplaysFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Displays&subcategory=Plasma">Plasma</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH07DisplaysFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Displays&subcategory=Projectors">Projectors</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH07DisplaysFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Displays&subcategory=Other%20Displays">Other Displays</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_networking.gif') top no-repeat; z-index: 9994"><div class="categoryLabel"><span>Networking</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Bluetooth%20Adapters">Bluetooth Adapters</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Ethernet%20Adapters">Ethernet Adapters</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Mobile%20Broadband">Mobile Broadband</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Modems">Modems</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Network%20Attached%20Storage">Network Attached Storage</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Wireless%20Network%20Cards">Wireless Network Cards</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH08NetworkingFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Networking&subcategory=Wireless%20Routers">Wireless Routers</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_components.gif') top no-repeat; z-index: 9993"><div class="categoryLabel"><span>Graphics Cards & Components</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH09GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Graphics%20Cards%20%26%20Components&subcategory=Biometrics">Biometrics</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH09GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Graphics%20Cards%20%26%20Components&subcategory=Bluetooth%20Adapters">Bluetooth Adapters</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH09GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Graphics%20Cards%20%26%20Components&subcategory=Graphics%20Cards">Graphics Cards</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH09GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Graphics%20Cards%20%26%20Components&subcategory=Smart%20Cards">Smart Cards</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH09GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Graphics%20Cards%20%26%20Components&subcategory=Sound%20Cards">Sound Cards</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH09GraphicsFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Graphics%20Cards%20%26%20Components&subcategory=Other%20Components">Other Components</a></li></ul></div></div></li><li class="marginedLI" style="background:url('http://www.microsoft.com/india/windows/content/en-IN/windows/images/compatibility/windows-7/p_default/home_hw_storage.gif') top no-repeat; z-index: 9992"><div class="categoryLabel"><span>Storage Devices</span><div class="subcategoryContainer"><ul><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH10StorageFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Storage%20Devices&subcategory=CD%2fRW%20%2f%20DVD%2fRW">CD/RW / DVD/RW</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH10StorageFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Storage%20Devices&subcategory=Flash%2fUSB">Flash/USB</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH10StorageFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Storage%20Devices&subcategory=Hard%20Drives%2c%20External">Hard Drives, External</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH10StorageFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Storage%20Devices&subcategory=Hard%20Drives%2c%20Internal">Hard Drives, Internal</a></li><li><a onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueMClH10StorageFnl_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_hardware');" href="Browse.aspx?type=Hardware&category=Storage%20Devices&subcategory=Network%20Attached%20Storage">Network Attached Storage</a></li></ul></div></div></li></ul>
+		</div>
+                <div class="tabboxBottom"> </div>
+            
+	</div>
+        </div>
+        <div id="infoContainer">
+            <div id="infoContainerRight">
+                <div id="ctl00_BaseBodyFull_CampaignArea_LeftPanel" class="infoPanel left" style="background:url('../assets/images/home/campaignarea/w7cc_promo_wua.jpg') no-repeat;;">
+		
+                    <div>
+                        <h3 id="ctl00_BaseBodyFull_CampaignArea_LeftHeadline">Scan your PC for compatibility</h3>
+                        <p>
+                            <a id="ctl00_BaseBodyFull_CampaignArea_LeftLink" onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10Win7VueEvlH11ScanPCforCompatibility_1'); globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_bottompane');" href="http://windows.microsoft.com/en-US/windows7/downloads/upgrade-advisor" target="_blank"><span>Download and run the Windows 7 Upgrade Advisor.</span><img src="../assets/images/btn_link_arrow.gif" id="ctl00_BaseBodyFull_CampaignArea_LeftLinkImage" /></a></p>
+                    </div>
+                
+	</div>
+                <div id="ctl00_BaseBodyFull_CampaignArea_RightPanel" class="infoPanel left" style="background:url('../assets/images/home/campaignarea/w7cc_promo_compare.jpg') no-repeat;;">
+		
+                    <div>
+                        <h3 id="ctl00_BaseBodyFull_CampaignArea_RightHeadline">Compare the editions</h3>
+                        <p>
+							<a id="ctl00_BaseBodyFull_CampaignArea_RightLink" onclick="globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/mrtwxp_FY10WinVueMClH12RightSide_1');globaltracking.trackatlasonclick('http://view.atdmt.com/jaction/asc_compatibility_bottompane');" href="http://windows.microsoft.com/en-US/windows7/products/compare-editions" target="_blank"><span>See what’s in each edition of Windows 7 and choose the one that’s best for you.</span><img src="../assets/images/btn_link_arrow.gif" id="ctl00_BaseBodyFull_CampaignArea_RightLinkImage" /></a></p>
+                    </div>
+                
+	</div>
+            </div>
+        </div>
+    
+</div>
+    
+
+                </div>
+                <div id="siteMapDiv" class="sitemap cf">
+                     
+												
+<div class="sitemap_nav">
+	<div class="sitemap_explore">
+		<div id="exploreGraphic">
+			<img id="ctl00_uxSitemap_ExploreImage_uxImage" src="http://www.microsoft.com/india/windows/content/en-IN/windows/images/hdr_explore_58x25.gif" alt="explore" style="border-width:0px;" />
+		</div>
+		<div id="exploreText">
+			<a id="ctl00_uxSitemap_exploreLink" class="exploreLink" href="/windows/compatibility/windows-7/en-in/default.aspx">Windows 7 Compatibility Centre</a>
+		</div>
+		<div id="siteIndexText">
+			
+		</div>
+	</div>
+</div>
+
+<div class="sitemap_columns">
+    <div id="siteColumn1">
+	    
+    <ul>
+      <li class="header">
+        <p>
+          Compatibility Center Sitemap
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/worldwide.aspx">Worldwide Compatibility Center sites</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/Default.aspx">Home</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/About.aspx">About</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/AdvancedSearch.aspx">Advanced search</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/Feedback/">Send feedback</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/faq.aspx">Frequently Asked Questions</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-7/en-us/partner/default.aspx">How partners can participate</a>
+        </p>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <p>
+          <a href="http://microsoft.com/windows/compatibility/windows-vista/">
+            Windows Vista Compatibility Center
+          </a>
+        </p>
+      </li>
+    </ul>
+  
+    </div>
+    <div id="siteColumn7">
+	    
+    <ul>
+      <li class="header">
+        <p>
+          More compatibility resources
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/products/upgrade">
+            How to upgrade to Windows 7
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-US/windows7/downloads/upgrade-advisor">
+            Windows 7 Upgrade Advisor
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/help/compatibility">
+            Compatibility troubleshooting tips
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://answers.microsoft.com/en-us/windows/default.aspx#tab=2">
+            Windows 7 Answers Forum
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://go.microsoft.com/fwlink/?LinkId=158362">
+            Windows Laptop Scout
+          </a>
+        </p>
+      </li>
+    </ul>
+  
+    </div>
+    <div id="siteColumn2">
+	    
+    <ul>
+      <li class="header">
+        <p>
+          Get to know Windows 7
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/products/why-choose">
+            Key benefits
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/products/features">
+            Explore the features
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/products/system-requirements">
+            System requirements
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/products/compare">
+            Compare editions
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/products/features/64-bit-support">
+            About 64-bit Windows
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://windows.microsoft.com/en-us/windows7/help/getting-started">
+            Getting started with Windows 7
+          </a>
+        </p>
+      </li>
+    </ul>
+  
+    </div>
+    <div id="siteColumn3">
+	    
+    <ul>
+      <li class="header">
+        <p>
+          For Developers &amp; Partners
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="/windows/compatibility/windows-7/en-us/partner/submission.aspx">
+            Submit products to the Compatibility Center
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://developforwindows.com/">Develop for Windows</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://www.microsoft.com/whdc/default.mspx">Windows Hardware Developer Central</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="https://partner.microsoft.com/">Microsoft Partner Program</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://msdn.microsoft.com/en-us/windows/dd203105.aspx">Windows Logo Program</a>
+        </p>
+      </li>
+      <li>
+        <p>
+        </p>
+      </li>
+    </ul>
+    <ul>
+      <li class="header">
+        <p>
+          For IT Pros
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=890e522e-e39e-4278-aebc-186f81e29173 ">
+            Downloadable application compatibility list
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://technet.microsoft.com/windows/dd361745.aspx">
+            TechNet for Windows 7
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://social.technet.microsoft.com/Forums/en/category/w7itpro">
+            TechNet compatibility forums
+          </a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="http://www.windowsservercatalog.com/">Windows Server Catalog </a>
+        </p>
+      </li>
+    </ul>
+  
+    </div>
+    <div id="siteColumn4">
+	    
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="footer_bkg">
+        <div id="base_page_footer">
+            <div id="footer_internal">
+                <div id="footer_windows">
+                    <img src="../Framework/images/win_logo.png" id="ctl00_Img2" align="bottom" alt="Microsoft Windows" />
+                </div>
+                <div id="footer_microsoft">
+                    <a href="/" id="ctl00_ctl00_msComLink">
+                        <img src="../Framework/images/ms_logo.png" id="ctl00_Img3" style="margin-top: 8px;" alt="Microsoft" border="0" /></a>
+                </div>
+                <div id="footer_links">
+					<p>
+						&#169; 2012 Microsoft&#160;&#160;&#160;&#160;
+						<a href="http://go.microsoft.com/fwlink/?linkid=123158">Terms of Use</a> | <a href="http://go.microsoft.com/fwlink/?LinkId=154262">Windows 7 Disclaimer</a> | <a href="http://go.microsoft.com/fwlink/?LinkID=123159">Trademarks</a> | <a href="http://go.microsoft.com/fwlink/?LinkID=123161">Privacy Statement</a><br />
+					</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Microsoft.Windows.WEC.Tabs, {"Tabs":[{"DisplayName":"Software","LinkName":"Software","Link":null,"Active":true,"ID":"ctl00_BaseBodyFull_Tabs1_Tab0","NavigateUrl":null,"DisableTabClick":false},{"DisplayName":"Hardware","LinkName":"Hardware","Link":null,"Active":false,"ID":"ctl00_BaseBodyFull_Tabs1_Tab1","NavigateUrl":null,"DisableTabClick":false}],"TargetControlID":"ctl00_BaseBodyFull_CategoryItemsParentPanel"}, null, null, $get("ctl00_BaseBodyFull_Tabs1"));
+});
+//]]>
+</script>
+</form>
+    <div style="display: none;">   
+		
+		    <script type="text/javascript" src="http://js.microsoft.com/library/svy/broker.js"></script>
+            <noscript>
+                <img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://m.webtrends.com/dcslhl3mk000004n8xmsx2dwm_6j4y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No"/>
+            </noscript>
+        
+        
+        <script type="text/javascript">
+        
+          
+            
+            // webtrends
+            var gDomain = "m.webtrends.com";
+            //var gDcsId="dcshgnood10000chp8tw1gfbg_2o4u"; // ppe
+            var gDcsId = "dcslhl3mk000004n8xmsx2dwm_6j4y"; // prod
+            var gTrackEvents = 1;
+            var gFpcDom = ".microsoft.com";
+            var gFpc = "WT_FPC";
+            if (document.cookie.indexOf(gFpc + "=") == -1) { document.write("<scr" + "ipt type='text/javascript' src='" + "http" + (window.location.protocol.indexOf('https:') == 0 ? 's' : '') + "://" + gDomain + "/" + gDcsId + "/wtid.js" + "'><\/scr" + "ipt>"); }
+        </script>
+
+        <script src="../Assets/js/webtrends/webtrends.js" type="text/javascript"></script>
+
+       
+                <script src="../Assets/js/omniture/s_code_w7cc_int.js" type="text/javascript"></script>
+	         
+   </div>
+</body>
+</html>

@@ -1,0 +1,419 @@
+/*ATTENTION TEXT "NEW"*/
+.fnNokiaAttentionNew { font-weight:bold; color:#00c060; }
+.fnNokiaJustifyText { text-align:justify }
+
+body#home a#homenav,
+body#location a#locnav {
+color: #fff;
+background: #930;
+}
+
+
+.ru { font-size:10px;}
+		
+		
+
+.current_nav {
+	color: #44a51c;
+}
+
+
+/*vertical text test*/
+.verticaltext {
+writing-mode: tb-rl;
+filter: flipv fliph;
+}
+
+.table th2{background-color:##0aadfe;font-size:12px;font-weight:normal;padding-right:25px;padding-left:10px;padding-top:5px;padding-bottom:5px;border-bottom:#fff 0 solid;height:20px;line-height:20px;margin-bottom:2px;text-align:left;background-image:url(https://www.developer.nokia.com/css/2011/images/l/table_line.png);background-repeat:repeat-x;background-position:bottom}
+
+
+/* Easy Slider */
+
+
+	#slider ul, #slider li{
+		left: 140;
+		height:242px;
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	#slider, #slider li{ 
+		/* 
+			define width and height of container element and list item (slide)
+			list items must be the same size as the slider area
+		*/ 
+		width:620px;
+		height:242px;
+		overflow:hidden; 
+		}
+
+	span#prevBtn {
+		display: inline-block;
+		left: -40px;
+		position: relative;
+		top: -150px;
+		width: 40px;
+		}
+
+	span#nextBtn {
+		display: inline-block;
+		position: relative;
+		right: -577px;
+		top: -150px;
+		width: 40px;
+		}
+
+
+
+
+/* Libraries page */
+
+.libra_box {
+position: relative;
+width: 950px;
+background-image: url(https://www.developer.nokia.com/pics/libra_mid.png);
+background-color: #f5f5f5;
+}
+
+.libra_top {
+background-image: url(https://www.developer.nokia.com/pics/libra_top.png); 
+background-repeat: no-repeat;
+width: 950px;
+height: 10px; 
+position: relative;
+background-color: #f5f5f5;
+}
+
+.libra_bottom {
+background-image: url(https://www.developer.nokia.com/pics/libra_bot.png); 
+background-repeat: no-repeat;
+width: 950px;
+height: 21px; 
+position: relative;
+background-color: #f5f5f5;
+}
+
+
+.libra_box table td {
+	
+padding:8px;
+
+	}  
+	
+	
+.signpost-banner-flat {
+background-color: #06C;
+border: #D6D6D6 1px solid;
+margin-top: 1px;
+-webkit-border-bottom-left-radius: 8px;
+-khtml-border-radius-bottomleft: 8px;
+-moz-border-radius-bottomleft: 8px;
+border-bottom-left-radius: 8px;
+height: 190px;
+}
+
+
+	
+
+
+/*PORTING; COMMUNITY */
+
+.port-community-box { margin-bottom:25px; padding:0; width:211px; float:left; margin-left:15px; margin-top:-10px;}
+.port-community-box-topic { width:161px; float:left; margin-left:10px; font-size:13px; }
+.port-community-box-icon { width:40px; float:left; margin-top:3px; }
+.port-community-box ul { list-style-type:none; margin:0; padding:0; font-size:11px; color:#707172; line-height:15px; font-family:Tahoma, Geneva, sans-serif; }
+.port-community-box ul li { padding-top:10px; padding-bottom:1px; margin-top:12px; border-top:#ebebeb 1px solid; font-size:11px; list-style-image: none;}
+.port-community-box ul li .dibo-author a { font-size:11px; text-decoration:none; width:151px; float:left; margin-left:10px; font-size:10px;color:#999; margin-top:2px;  }
+.port-community-box ul li .dibo-author a:hover{ color:#0066CC; text-decoration:underline;  }
+.port-community-box img { width:40px; height:40px; }
+.port-community-box a:link { color: #777777; text-decoration:none;}
+.port-community-box a:hover { color: #0066cb; text-decoration:underline; }
+.port-community-box ul li .dibo-desc a { font-size:11px; text-decoration:none; width:151px; float:left; margin-left:10px; font-size:10px;color:#999; margin-top:2px;  }
+
+/*PORTING; COMMUNITY */
+
+
+.spotlight-pane-port img {
+ width:205px;
+ height:116px;
+ padding-bottom: 0;
+}
+
+
+
+#global-reach-statistics .stats-content {
+	position: relative;
+	margin-bottom: 15px;
+}
+
+#global-reach-statistics .stats-highlight {
+	font-family: Nokia Pure Text;
+	position: absolute;
+	letter-spacing: -2px;
+}
+
+#global-reach-statistics .top-phone-title {
+	position: absolute;
+	float: left;
+	width: 99px;
+	text-align: center;
+	height: 20px;
+	top: 155px;
+	color: #0066cc;
+	font-size: 16px;
+	font-family: Nokia Pure Text;
+	letter-spacing: -1px;
+}
+
+#global-reach-statistics .top-phone-image {
+	position: absolute;
+	float: left;
+	width: 99px;
+	height: 130px;
+	top: 15px;
+}
+
+#global-reach-statistics .stats-content h1 {
+	font-size: 35px;
+	padding: 0px 0px;
+	position: relative;
+	font-family: Nokia Pure Text;
+	color: #0066cb;
+	letter-spacing: -0.07em;
+}
+
+#global-reach-statistics h2 {
+	margin: 25px 0 25px 0;
+	padding-top: 12px;
+	font-size: 22px;
+	font-family: Nokia Pure Text;
+	border-top: #0066cb 2px solid;
+	color: #0052a5;
+	letter-spacing: -0.05em;
+}
+
+
+
+/*support accordeon style starts... */
+#supportAccordeons div.accordeonContainer a.primaryButton {
+	margin-right: 10px;
+}
+
+#supportAccordeons div.accordeonContainer div.header_image img {
+	float: left;
+	margin: 15px 10px 0px 0px;
+}
+
+#supportAccordeons div.accordeonContainer div.content_image img {
+	float: right;
+	margin-top: -90px;
+}
+
+#supportAccordeons h2.accordeonTitle span {
+	display: inline !important;
+	padding-right: 30px !important;
+	color: #0052A5 !important;
+	font-family: NokiaPureTextLight !important;
+	font-size: 22px !important;
+	font-weight: normal !important;
+	letter-spacing: -0.07em !important;
+}
+
+#supportAccordeons .accordeonContainer h2.accordeonTitle span {
+	background: url("https://www.developer.nokia.com/pics/support_arrow_blue.png") no-repeat scroll right
+		center transparent !important;
+}
+
+#supportAccordeons .accordeonExpanded h2.accordeonTitle span {
+	background: url("https://www.developer.nokia.com/pics/support_arrow_blue_open.png") no-repeat
+		scroll right center transparent !important;
+}
+
+#supportAccordeons .end_user h2.accordeonTitle span {
+	background: url("https://www.developer.nokia.com/pics/support_arrow_lightblue.png") no-repeat scroll
+		right center transparent !important;
+	color: #0aadfe !important;
+}
+
+#supportAccordeons .end_user a.primaryButton {
+	background: url("https://www.developer.nokia.com/images/l/buttons.gif") no-repeat scroll left bottom transparent;
+}
+
+
+#supportAccordeons .accordeonExpanded  h2.end_user span {
+	background: url("https://www.developer.nokia.com/pics/support_arrow_lightblue_open.png") no-repeat
+		scroll right center transparent !important;
+	color: #0aadfe !important;
+}
+
+
+
+#supportAccordeons .accordeonContainer h2.accordeonTitle {
+	overflow: visible !important;
+	border-top: 2px solid #0066CB;
+	color: #0052A5;
+	font-family: NokiaPureTextLight;
+	font-size: 22px;
+	font-weight: normal;
+	letter-spacing: -0.07em;
+	margin: 0 0 25px;
+	padding-top: 12px;
+	border-top: 2px solid #0066CB;
+}
+
+#supportAccordeons h2.accordeonTitle,#supportAccordeons .accordeonContainer h2.title
+	{
+	font-size: 22px !important;
+	height: 30px !important;
+}
+
+#supportAccordeons .accordeonContainer p {
+	padding-left: 63px !important;
+}
+
+#supportAccordeons .accordeonContent {
+	padding: 0px !important;
+}
+
+#supportAccordeons .accordeonContainer ul {
+	margin-left: 58px !important;
+	padding-left: 16px !important;
+}
+
+#supportAccordeons h2.accordeonTitle,#supportAccordeons .accordeonContainer h2.title,#supportAccordeons .accordeonContainer h2
+	{
+	background: #ffffff !important;
+	height: 30px !important;
+}
+
+#supportAccordeons div.buttonGroup {
+	float: right;
+	margin-top: -35px;
+}
+
+/*... support accordeon style ends.*/
+
+/* success page style starts... */
+.success-summary-youtube-container { /*border: 1px solid #D3D3D3 !important;*/
+	padding: 6px !important;
+	/*width: 366px !important;*/
+	height: 356px !important;
+	overflow: hidden !important;
+	position: relative !important;
+	width: 600px !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	margin-top: 30px !important;
+	display: block !important;
+}
+
+.success-summary-youtube-video-container { /*border: 1px solid #D3D3D3 !important;*/
+	padding: 0px !important;
+	overflow: hidden !important;
+}
+
+.success-summary-youtube-title {
+	float: left;
+	font-size: 1.7em;
+	font-weight: bold;
+	padding-top: 10px;
+	width: 206px;
+}
+
+.success-summary-youtube-image {
+	float: left;
+	text-align: right;
+	width: 160px;
+}
+
+#success-summary-youtube-prev,#success-summary-youtube-next {
+	height: 32px;
+	position: absolute;
+	text-indent: -9999px;
+	top: 40%;
+	width: 63px;
+}
+
+#success-summary-youtube-prev {
+	background: url("https://www.developer.nokia.com/pics/lightbox-btn-prev.gif") no-repeat
+		scroll left top transparent;
+	left: 0;
+}
+
+#success-summary-youtube-next {
+	background: url("https://www.developer.nokia.com/pics/lightbox-btn-next.gif") no-repeat
+		scroll left top transparent;
+	right: 0;
+}
+
+#success-summary #deviceFilters #labelf3 {
+	color: #555555 !important;
+}
+
+#success-summary #deviceFilters {
+  border-bottom: none;	
+}
+
+#success-summary-comments {
+	padding: 14px 5px 0;
+	/*margin: 32px auto;*/
+}
+
+#success-summary-comments .title {
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.success-summary-comments-jcarousellite {
+	width: 300px;
+}
+
+.success-summary-comments-jcarousellite ul li {
+	list-style: none;
+	display: block;
+	padding-bottom: 1px;
+	margin-bottom: 5px;
+}
+
+.success-summary-comments-jcarousellite .info {
+	float: rightright;
+	width: 280px;
+}
+
+.success-summary-comments-jcarousellite .info span.cat {
+	display: block;
+	font-size: 10px;
+	color: #808080;
+	width: 280px;
+}
+
+#success-summary #success-filter-desc-wrapper {
+
+     margin-bottom: 20px;
+     padding-left: 105px;
+
+}
+
+#success-summary .success-filter-desc {
+
+     float: left;
+     color: #555555;
+     margin-top: 10px;
+
+}
+
+#success-summary .success-filter-desc-success {
+
+     margin-left: 232px;
+
+}
+
+#success-summary .success-filter-desc-technology {
+
+     margin-left: 179px;
+
+}
+
+/* pprusi success page style ends */

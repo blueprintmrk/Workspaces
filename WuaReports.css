@@ -1,0 +1,130 @@
+body, td, th, button
+{
+    font-family: Segoe UI, Tahoma, Arial, Sans-Serif;
+    font-size: 9pt;
+    line-height: normal;
+    letter-spacing: normal;
+}
+h1
+{
+    font-size: 12pt;
+    font-weight: normal;
+}
+h1#WuaReportTitle
+{
+    font-size: 20pt;
+}
+.ReportBitHeader
+{
+    font-size: 14pt;
+}
+.StatusIcon, #footer, #DefaultButtonContainer
+{
+    text-align: right;
+}
+.Button, #SystemTable th, .report th
+{
+    text-align: left;
+}
+#OverallMessage, #BackButton, #BackButton img, .ArchTab
+{
+    float: left;
+}
+#Toolbar
+{
+    float: right;
+}
+.ArchTab span
+{
+    margin-left: 0.8em;
+    margin-right: 0;
+    padding-right: 0.8em;
+    padding-left: 0;
+}
+.ArchTabSelected span
+{
+    background-position: right top;
+}
+.SectionHeader div, .SectionHeaderBig div, .DetailsHeader div
+{
+    background-position: left top;
+}
+#SaveLink, #PrintLink
+{
+    padding-left: 1.75em;
+    padding-right: 0.7em;
+    margin-right: 0.7em;
+    margin-left: 0;
+    background-position: left center;
+}
+.SectionHeader, .StatusHeader, .DetailsHeader
+{
+    line-height: normal;
+    letter-spacing: normal;
+}
+.ObjectDescTitle, .XPModeFooterTitle
+{
+    /* This is the first column for system/devices/programs items (e.g. the product name) */
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+}
+.CompatibleTotal .Container, .ScanErrorTitle
+{
+    /* This is for the compatible summary text like "Passed # other system requirements." */
+    line-height: normal;
+    letter-spacing: normal;
+}
+.CompatibleText
+{
+    font-weight: bold;
+}
+.SpecifyEditions
+{
+    font-weight: bold;
+}
+.ObjectMoreDetail .Container
+{
+    padding-right: 4em;
+    padding-left: 0.6em;
+}
+#Win7Message
+{
+    /* In Save/Print format, this is the Windows 7 compatibility message (e.g. You need to prepare your system before installing Windows 7.) */
+    font-size: 1.25em;
+    line-height: normal;
+    letter-spacing: normal;
+}
+#SystemTable th
+{
+    /* In Save/Print format, these are the headers (or titles) for the system components such as "CPU:" and "Computer Name:". */
+    font-weight: normal;
+    line-height: normal;
+    letter-spacing: normal;
+}
+#SystemTable td
+{
+    /* In Save/Print format, these are the values besides the headings. */
+    font-weight: bold;
+    line-height: normal;
+    letter-spacing: normal;
+}
+#Toolbar
+{
+    margin-right: 0.75em;
+    margin-left: 0;
+}
+#BackButton img
+{
+    margin-right: 0.6em;
+    margin-left: 0;
+}
+#Toolbar img
+{
+    margin-right: 0;
+    margin-left: 0.6em;
+}
+#XPModeFooterTitle
+{
+    font-weight: bold;
+}

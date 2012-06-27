@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10 ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+
+
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<head>
+<title>Nokia Developer SSO</title>
+<link rel="shortcut icon" href="NokiaDeveloperSSO_files/favicon0.ico" type="image/x-icon">
+
+      <meta http-equiv="X-UA-Compatible" content="IE=8">
+
+  <link rel="stylesheet" href="NokiaDeveloperSSO_files/global00.css" type="text/css">
+  <!--[if lt IE 8]>
+    <link rel="stylesheet" type="text/css" href="//www.developer.nokia.com/css/2011/ie6.css" />
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" media="print" href="NokiaDeveloperSSO_files/print000.css">
+
+  <script type="text/javascript" src="NokiaDeveloperSSO_files/jquery-1.js"></script>
+  <script type="text/javascript" src="NokiaDeveloperSSO_files/jquery-u.js"></script>
+  <script type="text/javascript" src="NokiaDeveloperSSO_files/jquery00.js"></script>
+
+<!--
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/common.js"></script>
+
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/jquery-1.4.1.min.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/fancybox/jquery.easing-1.3.pack.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/fancybox/jquery.fancybox-1.3.0.pack.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/jquery-ui-1.7.2.min.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/ui.selectmenu.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/ui.radiobutton.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/jquery.cookie.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/swfobject-2.2.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/jquery.tooltip.min.js"></script>  
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/jquery.roundabout.min.js"></script>
+  <script type="text/javascript" src="//www.developer.nokia.com/js/2011/jquery.roundabout-shapes.min.js"></script>
+-->
+
+
+<script type="text/javascript" src="NokiaDeveloperSSO_files/old00000.js"></script>
+
+<link type="text/css" rel="stylesheet" href="NokiaDeveloperSSO_files/sso00000.css">
+<style type="text/css">
+h2 {border-top:0;letter-spacing:inherit;padding-top:0;}
+#fncontent {
+    width: 960px; max-width: 960px; min-width: 960px;
+    padding-top: 4em;
+}
+#fncontent, p {
+    line-height: 24px;
+    font-family: "NokiaPureHWebLight", arial, sans-serif;
+    font-size: 14px;
+    color: #0d0d0d;
+}
+#fncontent input[type="text"], #fncontent input[type="password"], #fncontent input[type="file"] {
+    font-family: "NokiaPureHWebLight", arial, sans-serif;
+    font-size: 14px;
+    padding: 4px;
+}
+#fncontent strong {
+    color: inherit;
+}
+#tooltip { background: #ffa; border: 0; padding: 14px; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; }
+#tooltip h3 { color: #000; font-size: 14px; line-height: 14px; margin: 0; padding: 0; }
+</style>
+
+<style type="text/css">
+.nd-well{padding:35px;}
+div.icontweak {float:left;}
+div.icontweak td span.ie7fix {visibility:hidden;}
+div.icontweak td i.nd-icon {padding-right:20px;}
+div.floating-fieldsets fieldset {float:left;margin-right:1em;width:190px;}
+.required{color:red}
+.alert-error{background:#fff;border:2px solid #cc4820;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;font-family:NokiaPureTWebBold,NokiaPureTWebLight,sans-serif;}
+</style>
+
+<meta name="PATH.1.LABEL" content="signin">
+<meta name="DISABLENAV" content="FALSE">
+</head>
+<body>
+
+<div id="fncontainer">
+<?noindex-start??>
+<div id="fnheaderContainer">
+
+  <div id="fnheaderComponent">
+
+
+    <div id="nDevHeaderLogo"><a href="https://www.developer.nokia.com/"><img src="NokiaDeveloperSSO_files/logo0000.png" width="164" height="19" alt="Logo" title="Home"></a></div>
+
+    <div id="fnheader">
+
+	<div id="fnheadersearch">
+	  <form action="https://www.developer.nokia.com/basic-search/search.xhtml" method="get">
+	    <fieldset>
+                <div id="fnselectSearch" style="display:none">
+                <select name="s" class="searchMenu" id="fnHeaderSearchMenu">
+                  <option value="x">Search whole site</option>
+                  <!-- <option value="dp" id="searchscope.Resources.Library">Developer Library</option> -->
+                  <option value="dpport" id="searchscope.Resources.Library.Porting_to_Qt">Porting to Qt Library</option>
+                  <option value="dpdux" id="searchscope.Resources.Library.Design_and_UX">Design and UX Library</option>
+                  <option value="dpsdg" id="searchscope.Resources.Library.Symbian_Design_Guidelines">Symbian Design Guide</option>
+                  <option value="dpweb" id="searchscope.Resources.Library.Web">Web Developer's Library</option>
+                  <option value="dpqtmobi" id="searchscope.Resources.Library.Qt_for_Mobile">Qt Developer's Library</option>
+  		  <option value="dpflash" id="searchscope.Resources.Library.Flash_Lite">Flash Lite Developer's Library</option>
+                  <option value="d" id="searchscope.Devices">Devices</option>
+                  <option value="fw">Web Pages</option>
+                  <option value="ft" id="searchscope.Tools_Docs_and_Code">Tools &amp; SDKs</option>     
+                  <option value="fd" id="searchscope.Tools_Docs_and_Code.Documentation">Documents</option>
+                  <option value="fe" id="searchscope.Tools_Docs_and_Code.Code_Examples">Examples</option>
+                  <option value="fk" id="searchscope.wiki.forum.nokia.com.index.php.KnowledgeBase">Knowledge Base</option>
+                  <option value="cd" id="searchscope.discussion.forum.nokia.com.forum">Discussion Boards &nbsp;</option>
+                  <option value="cb" id="searchscope.blogs.forum.nokia.com.summary.php">Blogs</option>
+                  <option value="cw" id="searchscope.wiki.forum.nokia.com.index.php">Wiki</option>
+                  <option value="cp" id="searchscope.projects.forum.nokia.com">Projects</option>
+                  <!--option value="up" id="searchscope.General.User_Profile.xhtml">User Profiles</option-->
+                </select>
+                </div>
+
+		<input type="hidden" name="view" value="ebs">
+		<input type="hidden" name="box" value="1">
+		<div id="fnheadersearchArea"><input name="k" type="text" id="fnheadersearchInput" value="Search"><button type="submit" id="fnheadersubmitSearch" title="Search"></button></div>
+	    </fieldset>
+	  </form>
+	</div><!-- end of search -->
+
+	<div id="regional">
+          <div id="fnselectLanguage" style="cursor: pointer; height:16px; position:relative; margin:1px; text-align:left; padding:0px; float:right; width:80px; top:18px; border-bottom: 1px solid #0aadfe;">
+		    <ul class="clearfix">
+		      <li id="fnLanguages"><span>English</span>
+				<ul id="fnLanguagesNav" class="subNav">
+				    <li><a href="https://www.developer.nokia.com/">English</a></li>
+				    <li><a href="http://www.developer.nokia.com.cn/">中文</a></li>
+				    <li><a href="https://www.developer.nokia.com/ru/">Русский</a></li>
+				    <li><a href="https://www.developer.nokia.com/fr/">Français</a></li>	
+				    <li><a href="https://www.developer.nokia.com/es/">Español</a></li>
+				    <li><a href="https://www.developer.nokia.com/pt/">Português</a></li>
+                                    <li><a href="https://www.developer.nokia.com/tr/">Türkiye</a></li>
+				    <li class="last"></li>			
+				</ul>
+		      </li>
+		      <li class="ui-selectmenu-icon"></li>
+		    </ul>
+          </div>
+	</div><!-- end of regional -->
+
+	<div id="nDevHeaderLoginLogout"></div>
+
+    </div><!-- end of fnheader -->
+
+
+    <div id="fnmainNavigation">
+	<ul id="fnnav" class="clearfix">
+	  <li><a id="navFirst_link" href="https://www.developer.nokia.com/Design/">Design</a>
+	  	<div id="navFirst_underLine" class="underLine"></div>
+	    <ul class="subNav">
+		<li><a href="https://www.developer.nokia.com/Design/">Overview</a></li>
+		<li><a href="https://www.developer.nokia.com/Design/Design_process/">Design process</a></li>
+		<li><a href="https://www.developer.nokia.com/Design/Design_gallery/">Design gallery</a></li>
+		<li><a href="https://www.developer.nokia.com/Design/User_experience/">User experience</a></li>	
+		<li class="last"></li>	
+	    </ul>
+	  </li>
+
+	  <li><a id="navSecond_link" href="https://www.developer.nokia.com/Develop/">Develop</a>
+	  	<div id="navSecond_underLine" class="underLine"></div>
+	    <ul class="subNav">
+		<li><a href="https://www.developer.nokia.com/Develop/">Overview</a></li>
+		<li><a href="https://www.developer.nokia.com/Develop/Windows_Phone/">Windows Phone</a></li>
+		<li><a href="https://www.developer.nokia.com/Develop/Qt/">Qt</a></li>
+		<li><a href="https://www.developer.nokia.com/Develop/Series_40/">Series 40</a></li>
+		<li><a href="https://www.developer.nokia.com/Develop/Web/">Web</a></li>
+		<li><a href="https://www.developer.nokia.com/Develop/Porting/">Porting</a></li>
+		<li><a href="https://www.developer.nokia.com/Develop/Featured_Technologies/">Featured Technologies</a></li>
+	     <li class="last"></li>	
+	    </ul>
+	  </li>
+
+	  <li><a id="navThird_link" href="https://www.developer.nokia.com/Distribute/">Distribute</a>
+	  	<div id="navThird_underLine" class="underLine"></div>
+	    <ul class="subNav">
+		<li><a href="https://www.developer.nokia.com/Distribute/">Overview</a></li>
+		<li><a href="https://www.developer.nokia.com/Distribute/Statistics.xhtml">Nokia Store statistics</a></li>
+		<li><a href="https://www.developer.nokia.com/Distribute/Monetizing_your_app/">Monetizing your app</a></li>
+		<li><a href="https://www.developer.nokia.com/Distribute/Promoting_your_app.xhtml">Promoting your app</a></li>
+		<li><a href="https://www.developer.nokia.com/Distribute/Packaging_and_signing.xhtml">Packaging and signing</a></li>
+		<li><a href="https://www.developer.nokia.com/Distribute/Nokia_Store_guidelines.xhtml">Publishing your app</a></li>	
+	      <li class="last"></li>	
+	    </ul>
+	  </li>
+
+	  <li><a id="navFourth_link" href="https://www.developer.nokia.com/Devices/">Devices</a>
+	  	<div id="navFourth_underLine" class="underLine"></div>
+	    <ul class="subNav">
+		<li><a href="https://www.developer.nokia.com/Devices/">Overview</a></li>
+		<li><a href="https://www.developer.nokia.com/Devices/Device_specifications/">Device specifications</a></li>
+		<li><a href="https://www.developer.nokia.com/Devices/Remote_device_access/">Remote device access</a></li>
+	     <li class="last"></li>	
+	    </ul>
+	  </li>
+
+	  <li><a id="navFifth_link" href="https://www.developer.nokia.com/Resources/">Resources</a>
+	  	<div id="navFifth_underLine" class="underLine"></div>
+	    <ul class="subNav">
+		<li><a href="https://www.developer.nokia.com/Resources/">Overview</a></li>
+		<li><a href="https://www.developer.nokia.com/Resources/Library/">Documentation</a></li>
+		<li><a href="https://www.developer.nokia.com/Resources/Tools_and_downloads/">Tools and downloads</a></li>
+		<li><a href="https://www.developer.nokia.com/Resources/Code_examples/">Code examples</a></li>
+        <li><a href="https://www.developer.nokia.com/Resources/Learning/">Learning</a></li>
+		<li><a href="https://www.developer.nokia.com/gen/videos_all.xhtml">Videos</a></li>
+        <li><a href="https://www.developer.nokia.com/Resources/Multimedia/Webinars.xhtml">Webinars</a></li>
+		<li><a href="https://www.developer.nokia.com/Resources/Support/">Technical support</a></li>
+		<li><a href="https://www.developer.nokia.com/Resources/Support/Consultancy_and_training/">Consultancy Network</a></li>
+		<li><a href="https://www.developer.nokia.com/Developer_Programs/">Developer Programs</a></li>
+	    <li class="last"></li>	
+	    </ul>
+	  </li>
+
+	  <li><a id="navSixth_link" href="https://www.developer.nokia.com/Community/Discussion/content.php">Community</a>
+	  	<div id="navSixth_underLine" class="underLine"></div>
+	    <ul class="subNav">
+		<li><a href="https://www.developer.nokia.com/Community/Discussion/content.php">Overview</a></li>
+		<li><a href="https://www.developer.nokia.com/Community/Discussion/">Discussion Boards</a></li>
+		<li><a href="https://www.developer.nokia.com/Community/Wiki/">Wiki</a></li>
+		<li><a href="https://www.developer.nokia.com/Blogs/News/aggregated/">Blogs</a></li>
+		<li><a href="https://projects.developer.nokia.com/">Projects</a></li>
+		<li><a href="https://www.developer.nokia.com/Community/Discussion/group.php">Groups</a></li>
+		<li><a href="https://www.developer.nokia.com/Community/Champions/">Champions</a></li>
+	    <li class="last"></li>	
+	    </ul>
+	  </li>
+
+	</ul>
+    </div><!-- end of navigation -->
+
+  </div><!-- end of fnheaderComponent -->
+</div><!-- end of fnheaderContainer -->
+<?noindex-end??>
+
+
+<?noindex-start??>
+    <div id="tempElementForLoginLogout" style="display:none;">
+        <div id="fnlogin">
+            <p>
+                
+
+                <a id="signIn" href="https://sso.developer.nokia.com/login?locale=en">Log in</a> <span class="sep">|</span>
+                <a href="https://www.developer.nokia.com/Profile/Join.xhtml?locale=en">Join</a> <span class="sep">|</span>
+
+                
+            </p>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(function() {
+            $("#nDevHeaderLoginLogout").html($("#tempElementForLoginLogout").html());
+            $("#tempElementForLoginLogout").html("");
+        });
+    </script>
+<?noindex-end??>
+
+<div id="fncontent">
+<div id="fnNoBreadCrumbs"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="nd-well">
+    <h2 class="blue">Your Nokia account</h2>
+    <div class="icontweak"><table><tr>
+        <td><span class="ie7fix">&nbsp;</span><i class="nd-icon medium nokia"></i></td>
+        <td>
+            <strong>kcomkar</strong><br>
+            <a href="https://sso.developer.nokia.com/relogin?service=http%3A%2F%2Fwww.developer.nokia.com%2Fdynamic%2Fj_acegi_cas_security_check"><strong>Sign in with a different Nokia account</strong></a>
+            <p>Nokia is moving to single sign-on experience for Nokia Developer and Nokia Publish.</p>
+        </td>
+    </tr></table></div><div style="clear:left;"></div>
+</div>
+
+<style type="text/css">
+    table#custom { margin: 50px 0; }
+    table#custom td { padding: 0.5em 40px 0.5em 70px; }
+</style>
+<table id="custom">
+	<tr>
+        <td width="50%"><h2 class="blue">Already a Nokia Developer?</h2></td>
+        <td width="50%"><h2 class="blue">New to Nokia Developer?</h2></td>
+    </tr>
+    <tr>
+        <td style="border-right:1px solid #ccc;">You need to link your developer account with your Nokia account.</td>
+        <td>Fill in a few more details to access the Nokia developer portal.</td>
+    </tr>
+    <tr>
+        <td style="text-align:center; border-right:1px solid #ccc;"><a class="nd-btn" href="https://sso.developer.nokia.com/link?form=1&amp;service=http%3A%2F%2Fwww.developer.nokia.com%2Fdynamic%2Fj_acegi_cas_security_check">Link accounts</a></td>
+        <td style="text-align:center;"><a class="nd-btn" href="https://sso.developer.nokia.com/join?service=http%3A%2F%2Fwww.developer.nokia.com%2Fdynamic%2Fj_acegi_cas_security_check">Get started</a></td>
+    </tr>
+</table>
+
+</div>
+<?noindex-start??>
+<div id="fnfooter">
+  <div id="fnfooterComponent">
+
+    <div style="width:680px" class="left">
+
+      <div class="line">
+
+	<div class="row left">
+          <div class="item">
+  	    <img class="left" src="NokiaDeveloperSSO_files/featured.png" alt="">
+	    <div class="title">Featured links</div>
+	    <div><a href="https://www.developer.nokia.com/News_and_events/">Event calendar</a></div>
+	    <div><a href="https://www.developer.nokia.com/Contact_and_feedback/">Contact and feedback</a></div>
+	    <div><a href="https://www.developer.nokia.com/Resources/Support/">Support</a></div>
+	  </div>
+
+          <div class="item">
+            <img class="left" src="NokiaDeveloperSSO_files/develope.png" alt="">
+            <div class="title">Develop</div>
+            <div><a href="https://www.developer.nokia.com/Develop/Windows_Phone/">Windows Phone</a></div>
+            <div><a href="https://www.developer.nokia.com/Develop/Qt/">Qt</a></div>
+            <div><a href="https://www.developer.nokia.com/Develop/Series_40/">Series 40</a></div>
+          </div>
+        </div>
+
+        <div class="row left">
+	  <div class="item">
+	    <img class="left" src="NokiaDeveloperSSO_files/distribu.png" alt="">
+	    <div class="title">Distribution</div>
+	    <div><a href="https://www.developer.nokia.com/Distribute/Ovi_Store_statistics.xhtml">Store Statistics</a></div>
+	    <div><a href="https://www.developer.nokia.com/Distribute/Ovi_Store_guidelines.xhtml">Publisher Guide</a></div>
+	  </div>
+
+          <div class="item">
+            <img class="left" src="NokiaDeveloperSSO_files/blogs000.png" alt="">
+            <div class="title">Blogs</div>
+            <div><a href="https://www.developer.nokia.com/Community/Blogs/blog/nokia-developer-news">Nokia Developer Blog</a></div>
+            <div><a href="https://www.developer.nokia.com/Community/Blogs/blog/nokia-publisher-successes">Nokia Publisher Blog</a></div>
+            <div><a href="https://blog.qt.nokia.com/">Qt Blog</a></div>
+          </div>
+        </div>
+
+        <div class="row left">
+	  <div class="item">
+	    <img class="left" src="NokiaDeveloperSSO_files/communit.png" alt="">
+	    <div class="title">Community</div>
+	    <div><a href="https://www.developer.nokia.com/Community/Discussion/">Discussions</a></div>
+	    <div><a href="https://www.developer.nokia.com/Community/Wiki/">Wiki</a></div>
+	    <div><a href="https://www.developer.nokia.com/Community/Discussion/group.php">Groups</a></div>
+	    <div><a href="https://projects.developer.nokia.com/">Projects</a></div>
+	    <div><a href="https://www.developer.nokia.com/Community/Champions/">Champions</a></div>
+        <div><a href="https://www.developer.nokia.com/Community/Wiki/KnowledgeBase">Knowledge base</a></div>
+	  </div>
+        </div>
+
+        <div class="row left">
+	  <div class="item left">
+	    <img class="left" src="NokiaDeveloperSSO_files/resource.png" alt="">
+  	    <div class="title">Resources</div>
+	    <div><a href="https://www.developer.nokia.com/Resources/Library/">Documentation</a></div>
+	    <div><a href="https://www.developer.nokia.com/Resources/Tools_and_downloads/">Tools</a></div>
+	    <div><a href="https://www.developer.nokia.com/Resources/Code_examples/">Code examples</a></div>
+        <div><a href="https://www.developer.nokia.com/Developer_Programs/">Developer Programs</a></div>
+	  </div>
+        </div>
+
+      </div>
+
+      <div class="line">
+	<div class="siteMap left">
+	  <a href="https://www.developer.nokia.com/"><img class="left" src="NokiaDeveloperSSO_files/featured.png" alt=""></a>
+	</div>
+	<div class="siteMap left">
+	  <a href="https://www.developer.nokia.com/Sitemap/" id="nDevFooterSiteMap">Site Map</a>
+	</div>
+	<div class="siteMap left">
+	  <a href="https://www.developer.nokia.com/Terms_and_conditions/" id="fn_i18n_terms">Terms &amp; Conditions</a>
+	</div>
+	<div class="end siteMap left">
+	  <a href="https://www.nokia.com/about-nokia/privacy/privacy-policy" rel="external" id="fn_i18n_privacy">Privacy Policy</a>
+	</div>
+      </div>
+
+    </div>
+
+    <div id="mission" class="right">
+
+      <div class="item">
+	<!--<a class="right" href="#"><img alt="" title="LinkedIn" src="//www.developer.nokia.com/images/c/footer/linkedIn.png" /></a>-->
+	<a class="right" href="https://www.facebook.com/NokiaDevelopers"><img alt="" title="Facebook" src="NokiaDeveloperSSO_files/facebook.png"></a>
+	<a class="right" href="https://twitter.com/#!/nokiadeveloper"><img alt="" title="Twitter" src="NokiaDeveloperSSO_files/twitter0.png"></a>
+      </div>
+      <div class="item">
+	Nokia Developer aims to help you create apps and publish them so you can connect with users around the world.<br><br>
+	<!--<a href="//www.developer.nokia.com/">Find more about what we can do together</a>-->
+      </div>
+      <div class="item">
+	<span id="nDevFooterCustomContent"></span>
+	<span id="china_icp"><a href="http://www.miibeian.gov.cn/" rel="external">京ICP备05048969号&nbsp;</a></span>
+	<span id="fn_i18n_copyright">© Copyright Nokia 2012 All rights reserved</span>
+      </div>
+      
+
+    </div>
+
+  </div>
+                <!-- Piwik -->
+                <script type="text/javascript">
+                                var pkBaseURL = (("https:" == document.location.protocol) ? "https://analytics.developer.nokia.com/"
+                                                                : "http://analytics.developer.nokia.com/");
+                                document.write(unescape("%3Cscript src='" + pkBaseURL
+                                                                + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+                </script>
+                <script type="text/javascript">
+                                try {
+                                                var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
+                                                if (window.location.hostname != "sso.developer.nokia.com")
+                                                {
+                                                                piwikTracker.trackPageView();
+                                                                piwikTracker.enableLinkTracking();
+                                                }
+                                } catch (err) {
+                                }
+                </script>
+                <noscript>
+                                <p>
+                                                <img src="http://analytics.developer.nokia.com/piwik.php?idsite=2" style="border: 0" alt>
+                                </p>
+                </noscript>
+                <!-- End Piwik Tracking Code -->
+
+
+
+  
+</div>
+<?noindex-end??>
+
+</div>
+</body>
+</html>
+
+<!-- This document saved from https://sso.developer.nokia.com/link?service=http://www.developer.nokia.com/dynamic/j_acegi_cas_security_check& -->
